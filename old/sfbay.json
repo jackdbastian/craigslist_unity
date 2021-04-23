@@ -1,0 +1,414 @@
+{
+    "cars": {
+        "beaters": [
+            {
+                "id": "7309617654",
+                "name": "1950 Mercury",
+                "url": "https://sfbay.craigslist.org/sfc/cto/d/genoa-1950-mercury/7309617654.html",
+                "datetime": "2021-04-19 18:44",
+                "price": "$45",
+                "where": "Minden",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00v0v_6q7NuOyFuAhz_0CI0pK_600x450.jpg"
+            },
+            {
+                "id": "7309612616",
+                "name": "1968 Dodge Polara",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-1968-dodge-polara/7309612616.html",
+                "datetime": "2021-04-19 18:28",
+                "price": "$10",
+                "where": "willow glen / cambrian",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01212_afpkFlpwbHpz_0CI0t2_600x450.jpg"
+            },
+            {
+                "id": "7309547208",
+                "name": "87",
+                "url": "https://sfbay.craigslist.org/sfc/cto/d/bend-87/7309547208.html",
+                "datetime": "2021-04-19 15:56",
+                "price": "$1",
+                "where": "Bend, Oregon",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00G0G_6SPiGFgHulvz_0CI0lM_600x450.jpg"
+            },
+            {
+                "id": "7309520706",
+                "name": "1972 Chevy Malibu 17,000/ 2005 Chrysler 300 $4,500/ 1975 c10 14,000",
+                "url": "https://sfbay.craigslist.org/sfc/cto/d/san-francisco-1972-chevy-malibu/7309520706.html",
+                "datetime": "2021-04-19 15:03",
+                "price": "$1",
+                "where": "lower nob hill",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00q0q_cbx0rU3xge1z_0Cx0t2_600x450.jpg"
+            },
+            {
+                "id": "7309509683",
+                "name": "1979 Mercedes Benz - 450SL *Very clean Low miles",
+                "url": "https://sfbay.craigslist.org/nby/cto/d/larkspur-1979-mercedes-benz-450sl-very/7309509683.html",
+                "datetime": "2021-04-19 14:42",
+                "price": "$1",
+                "where": "corte madera",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00x0x_f5fkrFix0sSz_0CI0pp_600x450.jpg"
+            },
+            {
+                "id": "7309371923",
+                "name": "MGB GT Coupe Hatchback 1972 Sweet Little Car, Runs Good!",
+                "url": "https://sfbay.craigslist.org/sfc/cto/d/san-francisco-mgb-gt-coupe-hatchback/7309371923.html",
+                "datetime": "2021-04-19 11:10",
+                "price": "$1",
+                "where": "Outer Sunset, San Francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01414_aed4xiexSqWz_0CI0hP_600x450.jpg"
+            },
+            {
+                "id": "7309278192",
+                "name": "1980 cheyenne c20",
+                "url": "https://sfbay.craigslist.org/eby/cto/d/san-lorenzo-1980-cheyenne-c20/7309278192.html",
+                "datetime": "2021-04-19 09:01",
+                "price": "$10",
+                "where": "san leandro",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01717_7fd3SBXKymiz_0pO0jm_600x450.jpg"
+            },
+            {
+                "id": "7308848105",
+                "name": "1950 Pontiac Chieftain Deluxe Convertible",
+                "url": "https://sfbay.craigslist.org/eby/cto/d/lafayette-1950-pontiac-chieftain-deluxe/7308848105.html",
+                "datetime": "2021-04-18 11:20",
+                "price": "$1",
+                "where": "lafayette / orinda / moraga",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00606_1tIQMjfuIJzz_0CI0lM_600x450.jpg"
+            },
+            {
+                "id": "7308297783",
+                "name": "1967 Pontiac Catalina Convertible Classic",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-1967-pontiac-catalina/7308297783.html",
+                "datetime": "2021-04-17 09:34",
+                "price": "$1",
+                "where": "willow glen / cambrian",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00c0c_5bnX4jhhTIdz_0CI0t2_600x450.jpg"
+            },
+            {
+                "id": "7308033352",
+                "name": "Austin Healey Sprite/MG midget project or parts car",
+                "url": "https://sfbay.craigslist.org/nby/cto/d/mill-valley-austin-healey-sprite-mg/7308033352.html",
+                "datetime": "2021-04-16 17:14",
+                "price": "$650",
+                "where": "mill valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00P0P_8mB2gN86hqLz_0CI0t2_600x450.jpg"
+            }
+        ],
+        "hot rods": [
+            {
+                "id": "7309806559",
+                "name": "1998 BMW M3 Convertible (e36)",
+                "url": "https://sfbay.craigslist.org/eby/cto/d/emeryville-1998-bmw-m3-convertible-e36/7309806559.html",
+                "datetime": "2021-04-20 08:09",
+                "price": "$12,000",
+                "where": "oakland north / temescal",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00e0e_vsRJ9r5ntrz_0CI0i8_600x450.jpg"
+            },
+            {
+                "id": "7309653712",
+                "name": "1999 Mercedes-Benz E-Class ARMOURED VEHICLE 60k",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-1999-mercedes-benz-class/7309653712.html",
+                "datetime": "2021-04-19 21:06",
+                "price": "$9,850",
+                "where": null,
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00f0f_kWmwSkG9B31z_0cU08B_600x450.jpg"
+            },
+            {
+                "id": "7309652194",
+                "name": "1992 ford mustang lx",
+                "url": "https://sfbay.craigslist.org/eby/cto/d/san-leandro-1992-ford-mustang-lx/7309652194.html",
+                "datetime": "2021-04-19 20:59",
+                "price": "$15,500",
+                "where": "san leandro",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00f0f_iraUr6d36R6z_0CI0t2_600x450.jpg"
+            },
+            {
+                "id": "7309613776",
+                "name": "1997 Ford F-350",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/hollister-1997-ford-350/7309613776.html",
+                "datetime": "2021-04-19 18:32",
+                "price": "$18,000",
+                "where": "hollister",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00p0p_3MDUm7VZLvRz_0CI0t2_600x450.jpg"
+            },
+            {
+                "id": "7309585772",
+                "name": "1998 Jeep Cherokee Classic Sport 4WD Automatic Low 140k+ Miles",
+                "url": "https://sfbay.craigslist.org/pen/ctd/d/1998-jeep-cherokee-classic-sport-4wd/7309585772.html",
+                "datetime": "2021-04-19 17:18",
+                "price": "$9,999",
+                "where": "san mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00z0z_4aNWyPQ7Hfaz_0ww0oo_600x450.jpg"
+            },
+            {
+                "id": "7309578512",
+                "name": "1991 Jaguar XJ-Series XJS Coupe RWD",
+                "url": "https://sfbay.craigslist.org/sfc/cto/d/san-francisco-1991-jaguar-xj-series-xjs/7309578512.html",
+                "datetime": "2021-04-19 17:01",
+                "price": "$11,995",
+                "where": "San Francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00H0H_cVEN6E6glZ2z_0CI0iD_600x450.jpg"
+            },
+            {
+                "id": "7309567160",
+                "name": "1991 Cadillac Allante",
+                "url": "https://sfbay.craigslist.org/scz/cto/d/capitola-1991-cadillac-allante/7309567160.html",
+                "datetime": "2021-04-19 16:37",
+                "price": "$12,500",
+                "where": "aptos",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00A0A_lghjNY2Bm33z_0ak07K_600x450.jpg"
+            },
+            {
+                "id": "7309566416",
+                "name": "1999 Lexus LXLX 470 4WD",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-1999-lexus-lxlx-470-4wd/7309566416.html",
+                "datetime": "2021-04-19 16:35",
+                "price": "$8,499",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00W0W_30P1v8dStsLz_0CI0t2_600x450.jpg"
+            },
+            {
+                "id": "7309560405",
+                "name": "1996 Toyota Tacoma",
+                "url": "https://sfbay.craigslist.org/sfc/cto/d/san-francisco-1996-toyota-tacoma/7309560405.html",
+                "datetime": "2021-04-19 16:23",
+                "price": "$10,000",
+                "where": "sunset / parkside",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Q0Q_9TFohXpXh7hz_0t20CI_600x450.jpg"
+            },
+            {
+                "id": "7309558286",
+                "name": "1998 SL MERCEDES BENZ 67k",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-1998-sl-mercedes-benz-67k/7309558286.html",
+                "datetime": "2021-04-19 16:18",
+                "price": "$8,500",
+                "where": "san jose west",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00N0N_9vKStYvcCa3z_0gw07r_600x450.jpg"
+            }
+        ]
+    },
+    "toys": {
+        "cheap toys": [
+            {
+                "id": "7303616202",
+                "name": "Red Pail & Yellow Shovel Plastic NEW",
+                "url": "https://sfbay.craigslist.org/nby/tag/d/red-pail-yellow-shovel-plastic-new/7303616202.html",
+                "datetime": "2021-04-20 08:45",
+                "price": "$2",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01010_4QcVUFnKlzc_600x450.jpg"
+            },
+            {
+                "id": "7298593168",
+                "name": "Small STUFFED DOG  from Toys R Us",
+                "url": "https://sfbay.craigslist.org/nby/tag/d/santa-rosa-small-stuffed-dog-from-toys/7298593168.html",
+                "datetime": "2021-04-20 08:44",
+                "price": "$1",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00V0V_fAcDHuMLU2l_600x450.jpg"
+            },
+            {
+                "id": "7296759312",
+                "name": "Round Plastic Case with 2 POKEMON FIGURES",
+                "url": "https://sfbay.craigslist.org/nby/tag/d/santa-rosa-round-plastic-case-with/7296759312.html",
+                "datetime": "2021-04-20 08:43",
+                "price": "$5",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Z0Z_5QkuQKZI6ps_600x450.jpg"
+            },
+            {
+                "id": "7302467690",
+                "name": "Stuffed BIRD TOY Black and Gray",
+                "url": "https://sfbay.craigslist.org/nby/tag/d/santa-rosa-stuffed-bird-toy-black-and/7302467690.html",
+                "datetime": "2021-04-20 08:42",
+                "price": "$2",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Z0Z_8iSdt8jd1NX_600x450.jpg"
+            },
+            {
+                "id": "7304027858",
+                "name": "100 New POKER CHIPS",
+                "url": "https://sfbay.craigslist.org/nby/tag/d/santa-rosa-100-new-poker-chips/7304027858.html",
+                "datetime": "2021-04-20 08:40",
+                "price": "$4",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00x0x_kvCFxsLH196_600x450.jpg"
+            },
+            {
+                "id": "7300351125",
+                "name": "bulldozer us army 1:50",
+                "url": "https://sfbay.craigslist.org/eby/tag/d/antioch-bulldozer-us-army-150/7300351125.html",
+                "datetime": "2021-04-20 08:24",
+                "price": "$0",
+                "where": "pittsburg / antioch",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00D0D_hAIMJnxEdPb_0CI0pO_600x450.jpg"
+            },
+            {
+                "id": "7309803199",
+                "name": "16\" Inflatable Tropical Clown Fish Pink/Yellow Hawaiian Luau Decor New",
+                "url": "https://sfbay.craigslist.org/eby/tag/d/martinez-16-inflatable-tropical-clown/7309803199.html",
+                "datetime": "2021-04-20 08:07",
+                "price": "$3",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00g0g_U2VfcQx2NO_07K0ak_600x450.jpg"
+            },
+            {
+                "id": "7306702719",
+                "name": "REDUCED PRICE* Vintage Patty Play Pal Doll",
+                "url": "https://sfbay.craigslist.org/eby/tag/d/vallejo-reduced-price-vintage-patty/7306702719.html",
+                "datetime": "2021-04-20 07:48",
+                "price": "$2",
+                "where": "vallejo / benicia",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00606_lmXEAdWh9AU_600x450.jpg"
+            },
+            {
+                "id": "7306721762",
+                "name": "Various Board Games and promos",
+                "url": "https://sfbay.craigslist.org/sby/tag/d/sunnyvale-various-board-games-and-promos/7306721762.html",
+                "datetime": "2021-04-20 07:35",
+                "price": "$1",
+                "where": "sunnyvale",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01717_c6Y9dbV0wxW_0lM0t2_600x450.jpg"
+            },
+            {
+                "id": "7309771945",
+                "name": "Lego Sponge Bob Sets",
+                "url": "https://sfbay.craigslist.org/sby/tag/d/san-jose-lego-sponge-bob-sets/7309771945.html",
+                "datetime": "2021-04-20 07:15",
+                "price": "$1",
+                "where": "san jose east",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00h0h_8TM52VsAXvdz_0CI0m0_600x450.jpg"
+            }
+        ],
+        "expensive toys": [
+            {
+                "id": "7299737406",
+                "name": "E-flite Advance 25e RC Remote control Airplane",
+                "url": "https://sfbay.craigslist.org/sby/tag/d/san-jose-flite-advance-25e-rc-remote/7299737406.html",
+                "datetime": "2021-04-20 08:44",
+                "price": "$175",
+                "where": "willow glen / cambrian",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00e0e_c1EEqbLjnjxz_0CI0jm_600x450.jpg"
+            },
+            {
+                "id": "7298716382",
+                "name": "Vintage Fisher Price Airport & Little People",
+                "url": "https://sfbay.craigslist.org/sfc/tag/d/san-francisco-vintage-fisher-price/7298716382.html",
+                "datetime": "2021-04-20 08:44",
+                "price": "$75",
+                "where": "San Francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00r0r_laF2RxWfrHaz_0CI0t2_600x450.jpg"
+            },
+            {
+                "id": "7309823838",
+                "name": "Barbie Galore!",
+                "url": "https://sfbay.craigslist.org/pen/tag/d/burlingame-barbie-galore/7309823838.html",
+                "datetime": "2021-04-20 08:38",
+                "price": "$75",
+                "where": "Burlingame",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00I0I_jOTbcdLTAg6z_0t20CI_600x450.jpg"
+            },
+            {
+                "id": "7309799478",
+                "name": "Pokemon Cards Shining Fates Elite Trainer Box ETB",
+                "url": "https://sfbay.craigslist.org/scz/tag/d/capitola-pokemon-cards-shining-fates/7309799478.html",
+                "datetime": "2021-04-20 08:24",
+                "price": "$100",
+                "where": "Capitola",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00a0a_6XdixX5PZjJz_0t20CI_600x450.jpg"
+            },
+            {
+                "id": "7309800880",
+                "name": "Pokemon Cards Hidden Fates Elite Trainer Box ETB",
+                "url": "https://sfbay.craigslist.org/scz/tag/d/capitola-pokemon-cards-hidden-fates/7309800880.html",
+                "datetime": "2021-04-20 08:04",
+                "price": "$175",
+                "where": "Capitola",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00404_3WsJqcNweQZz_0CI0t2_600x450.jpg"
+            },
+            {
+                "id": "7309786280",
+                "name": "LEGO Mindstorms NXT 2.0 (8547)",
+                "url": "https://sfbay.craigslist.org/pen/tag/d/los-altos-lego-mindstorms-nxt/7309786280.html",
+                "datetime": "2021-04-20 07:40",
+                "price": "$75",
+                "where": "los altos",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00R0R_rxPEeQ39uI_0lM0t2_600x450.jpg"
+            },
+            {
+                "id": "7306669078",
+                "name": "2 American Girl Bitty Twin boy dolls blonde brown hair retired",
+                "url": "https://sfbay.craigslist.org/nby/tag/d/novato-american-girl-bitty-twin-boy/7306669078.html",
+                "datetime": "2021-04-20 07:36",
+                "price": "$95",
+                "where": "novato",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00x0x_hS44R22P6UU_0CI0t2_600x450.jpg"
+            },
+            {
+                "id": "7298282708",
+                "name": "American Girl Saige doll horse Picasso retired girl of the year 2013",
+                "url": "https://sfbay.craigslist.org/nby/tag/d/novato-american-girl-saige-doll-horse/7298282708.html",
+                "datetime": "2021-04-20 07:36",
+                "price": "$190",
+                "where": "novato",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00M0M_6bMA28kXr43_600x450.jpg"
+            },
+            {
+                "id": "7294760834",
+                "name": "Large play mat on sale like new 55 in W, 83 in L",
+                "url": "https://sfbay.craigslist.org/eby/tag/d/hayward-large-play-mat-on-sale-like-new/7294760834.html",
+                "datetime": "2021-04-20 07:36",
+                "price": "$70",
+                "where": "hayward / castro valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00O0O_cbt7clnuz6Kz_0ew0jm_600x450.jpg"
+            },
+            {
+                "id": "7305632912",
+                "name": "Hess Truck Lot",
+                "url": "https://sfbay.craigslist.org/eby/tag/d/hayward-hess-truck-lot/7305632912.html",
+                "datetime": "2021-04-20 07:34",
+                "price": "$150",
+                "where": "hayward / castro valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00L0L_6uIvmuvMCNDz_0uY0hq_600x450.jpg"
+            }
+        ]
+    }
+}

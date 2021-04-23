@@ -1,0 +1,260 @@
+{
+    "materials": {
+        "gravel": [
+            {
+                "id": "7296932046",
+                "name": "Gravel",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/los-altos-gravel/7296932046.html",
+                "datetime": "2021-04-23 03:21",
+                "price": "$0",
+                "where": "los altos",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
+            },
+            {
+                "id": "7309381210",
+                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
+                "datetime": "2021-04-19 11:22",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
+            }
+        ],
+        "wood": [
+            {
+                "id": "7309192339",
+                "name": "4\u201dx13\u201d Douglas Fir Wood boards - partial painted 11 ft lengths",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-4x13-douglas-fir-wood-boards/7309192339.html",
+                "datetime": "2021-04-23 07:24",
+                "price": "$75",
+                "where": "san carlos",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00u0u_biUNlz31PScz_0ak08g_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7310177296",
+                "name": "Solid wood Flooring Brand new by Virginia Mill Works",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-solid-wood-flooring-brand/7310177296.html",
+                "datetime": "2021-04-23 06:46",
+                "price": "$350",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00j0j_cAsrWKIF4Bwz_0ak07K_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7303294132",
+                "name": "Fencing Rod, wood shelves, wood pieces for free",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/hayward-fencing-rod-wood-shelves-wood/7303294132.html",
+                "datetime": "2021-04-22 19:24",
+                "price": "$0",
+                "where": "hayward / castro valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00R0R_j91mjB4MJw5z_0jm0ew_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            }
+        ]
+    },
+    "clothes": {
+        "vintage": [
+            {
+                "id": "7307050141",
+                "name": "Lv vintage wallet",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-lv-vintage-wallet/7307050141.html",
+                "datetime": "2021-04-23 09:04",
+                "price": "$95",
+                "where": "berkeley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00W0W_fSLgj5d41w3z_0lM0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7311381734",
+                "name": "Vintage Disney leather backpack",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-disney-leather-backpack/7311381734.html",
+                "datetime": "2021-04-23 09:04",
+                "price": "$75",
+                "where": "berkeley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00H0H_d5bbBXB7rZR_0CI0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7301574059",
+                "name": "Vintage Kids Patagonia jacket",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-kids-patagonia-jacket/7301574059.html",
+                "datetime": "2021-04-23 09:03",
+                "price": "$35",
+                "where": "berkeley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Z0Z_if2qSEFm7sk_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            }
+        ],
+        "beaded": [
+            {
+                "id": "7296611363",
+                "name": "\ud83d\udc07 Gorgeous Beaded 3-Piece Blue Outfit Pantsuit.",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-gorgeous-beaded-piece-blue/7296611363.html",
+                "datetime": "2021-04-22 18:08",
+                "price": "$25",
+                "where": "hayward / castro valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00b0b_korzmuoesXj_0l30t2_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
+            {
+                "id": "7309116098",
+                "name": "BEAUTIFUL BEADED PURSE! BIG SALE! $15 OFF  Perfect for holidays!",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/redwood-estates-beautiful-beaded-purse/7309116098.html",
+                "datetime": "2021-04-22 17:14",
+                "price": "$0",
+                "where": "los gatos",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00y0y_nQcu4GXGnQ_0t20CI_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
+            {
+                "id": "7301465182",
+                "name": "* Set of 10 Designer Beaded Bracelets (by Roxanne Assoulin) *",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-set-of-10-designer-beaded/7301465182.html",
+                "datetime": "2021-04-22 15:05",
+                "price": "$5",
+                "where": "emeryville",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            }
+        ],
+        "gloves": [
+            {
+                "id": "7310300300",
+                "name": "Vintage hats, purses, gloves, hankies",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/genoa-vintage-hats-purses-gloves-hankies/7310300300.html",
+                "datetime": "2021-04-23 07:29",
+                "price": "$0",
+                "where": "san mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00n0n_fGJ3RRxRvEBz_0CI0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
+                "id": "7301899432",
+                "name": "Ski & snowboard gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-ski-snowboard-gloves/7301899432.html",
+                "datetime": "2021-04-22 23:28",
+                "price": "$50",
+                "where": "san jose downtown",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00O0O_5VdsFCg7Vqxz_0lM0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
+                "id": "7303094639",
+                "name": "NEW Leki Griffin Pro S Speed gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-leandro-new-leki-griffin-pro-speed/7303094639.html",
+                "datetime": "2021-04-22 23:22",
+                "price": "$150",
+                "where": "oakland hills / mills",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00R0R_3XaC4R23Yqzz_0om0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            }
+        ],
+        "wedding dress": [
+            {
+                "id": "7309070506",
+                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Red",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7309070506.html",
+                "datetime": "2021-04-22 23:40",
+                "price": "$10",
+                "where": "San Mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00303_cpjLjb2HBL7z_0pO0CI_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
+                "id": "7309070561",
+                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Blac",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7309070561.html",
+                "datetime": "2021-04-22 23:40",
+                "price": "$10",
+                "where": "San Mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01010_8zVEcq23Z7Qz_0pO0CI_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
+                "id": "7309070626",
+                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Long Dress, Black",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7309070626.html",
+                "datetime": "2021-04-22 23:40",
+                "price": "$10",
+                "where": "San Mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            }
+        ],
+        "great condition": [
+            {
+                "id": "7300941257",
+                "name": "Coach Genuine Leather Handbag Red in Great Condition",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-coach-genuine-leather-handbag/7300941257.html",
+                "datetime": "2021-04-23 09:03",
+                "price": "$30",
+                "where": "milpitas",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00r0r_1UyNU1bhFz1_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
+                "id": "7308568150",
+                "name": "(50+) Plastic Clothes Hangers- Sturdy& Strong- Great Condition!",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-50-plastic-clothes-hangers/7308568150.html",
+                "datetime": "2021-04-21 21:30",
+                "price": "$5",
+                "where": "san jose south",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00101_1RGySdDP69Nz_0CI0t2_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
+                "id": "7308360411",
+                "name": "Lot of new and lightly used clothes...GREAT CONDITION!",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/middletown-lot-of-new-and-lightly-used/7308360411.html",
+                "datetime": "2021-04-21 18:22",
+                "price": "$15",
+                "where": "Middletown",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00p0p_7SyFKigfy5Gz_0yA0oA_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            }
+        ]
+    }
+}

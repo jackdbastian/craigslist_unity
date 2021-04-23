@@ -12,9 +12,33 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
+            },
+            {
+                "id": "7309381210",
+                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
+                "datetime": "2021-04-19 11:22",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
             }
         ],
         "wood": [
+            {
+                "id": "7311628711",
+                "name": "New Interior Primed One Panel Solid Wood Door",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-interior-primed-one-panel/7311628711.html",
+                "datetime": "2021-04-23 15:58",
+                "price": "$70",
+                "where": "berkeley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00b0b_bjlIZU5J2POz_0t20CI_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
             {
                 "id": "7311607469",
                 "name": "Old Rustic and Modern Reclaimed Barn Wood - Mantels - Walls - Beams",
@@ -38,56 +62,44 @@
                 "image_url": "https://images.craigslist.org/00d0d_ibKXmBHHQgZ_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7311602798",
-                "name": "Security screen doors and a wood door",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/lower-lake-security-screen-doors-and/7311602798.html",
-                "datetime": "2021-04-23 15:03",
-                "price": "$100",
-                "where": "lake county",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00z0z_iqINgOxiTVdz_0t20CI_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7300891205",
-                "name": "Nike Blazer Mid '77 Vintage - Lucid Green",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-nike-blazer-mid-77-vintage/7300891205.html",
-                "datetime": "2021-04-23 15:53",
-                "price": "$180",
-                "where": "oakland north / temescal",
+                "id": "7308189918",
+                "name": "Vintage Woman's Coat",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-womans-coat/7308189918.html",
+                "datetime": "2021-04-23 16:26",
+                "price": "$35",
+                "where": "San Jose",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00N0N_8l7H1KdDay0_0g80aM_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00t0t_hjYRNYHaiBYz_0jw0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7300327533",
-                "name": "Vintage authentic Swarovski crystal rhinestone drop dangle earrings",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-authentic-swarovski/7300327533.html",
-                "datetime": "2021-04-23 15:50",
-                "price": "$165",
-                "where": "san mateo foster city",
+                "id": "7299363016",
+                "name": "14 BOOTS MENS LEATHER black motorcycle steel toe vintage pull on ridin",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-14-boots-mens-leather-black/7299363016.html",
+                "datetime": "2021-04-23 16:23",
+                "price": "$140",
+                "where": "sunnyvale",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00f0f_fTs4mrEohtz_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7305150546",
-                "name": "Vintage italian boots",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/vintage-italian-boots/7305150546.html",
-                "datetime": "2021-04-23 15:42",
-                "price": "$60",
-                "where": "palo alto",
+                "id": "7296743054",
+                "name": "vintage LEATHER RIDING BOOTS black womans mid 60s",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-leather-riding-boots/7296743054.html",
+                "datetime": "2021-04-23 16:22",
+                "price": "$75",
+                "where": "sunnyvale",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00Y0Y_hNGzMOOh3NH_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00o0o_9X14CGXUhNv_0pO0jm_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -208,6 +220,30 @@
         ],
         "great condition": [
             {
+                "id": "7309218659",
+                "name": "(50+) Boys Clothes- Shirts, Shorts & More-Great Condition! (Size 8/10)",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-50-boys-clothes-shirts-shorts/7309218659.html",
+                "datetime": "2021-04-23 16:21",
+                "price": "$70",
+                "where": "san jose south",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00W0W_4NKumlYIp0jz_0CI0t2_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
+                "id": "7309098061",
+                "name": "Men's\\Women's Jackets- Great Condition- Lightweight & Comfy ($5-10 ea)",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-menswomens-jackets-great/7309098061.html",
+                "datetime": "2021-04-23 16:13",
+                "price": "$5",
+                "where": "san jose south",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00O0O_17JNxo0fRKIz_0t20CI_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
                 "id": "7304730917",
                 "name": "Great Condition Chelsea leather boots - 8.5M Ariat ($279 new)",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-great-condition-chelsea/7304730917.html",
@@ -216,30 +252,6 @@
                 "where": "lower pac hts",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00F0F_3ZOv46eqdmQz_0t20CI_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7297903612",
-                "name": "[GREAT CONDITION] Stussy Vintage SnapBack Hat",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-great-condition-stussy-vintage/7297903612.html",
-                "datetime": "2021-04-23 12:29",
-                "price": "$10",
-                "where": "san jose west",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_gYb3hnviW7Az_0jm0ew_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7298846672",
-                "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-authentic-coach-black-leather/7298846672.html",
-                "datetime": "2021-04-23 09:32",
-                "price": "$30",
-                "where": "san jose east",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

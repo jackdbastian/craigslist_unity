@@ -16,6 +16,30 @@
         ],
         "wood": [
             {
+                "id": "7311575752",
+                "name": "Wood- 2x4 16foot",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-wood-2x4-16foot/7311575752.html",
+                "datetime": "2021-04-23 14:12",
+                "price": "$60",
+                "where": "Oakland",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00o0o_77Qxk3N0j42z_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7311570784",
+                "name": "New Simpson #55 Interior Solid Wood Door",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-simpson-55-interior-solid/7311570784.html",
+                "datetime": "2021-04-23 14:03",
+                "price": "$150",
+                "where": "berkeley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00x0x_cpIiCTovywHz_0t20CI_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7311524361",
                 "name": "****2 BRAND NEW DOUGLAS FIR SOLID WOOD VIKING DOORS",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/tres-pinos-brand-new-douglas-fir-solid/7311524361.html",
@@ -26,35 +50,35 @@
                 "image_url": "https://images.craigslist.org/00v0v_gf09kdLRJP5z_0ve0ve_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7305451099",
-                "name": "****2 BRAND NEW DOUGLAS FIR SOLID WOOD VIKING DOORS",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/tres-pinos-brand-new-douglas-fir-solid/7305451099.html",
-                "datetime": "2021-04-23 12:38",
-                "price": "$100",
-                "where": "hollister",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00v0v_gf09kdLRJP5z_0ve0ve_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7311452037",
-                "name": "FREE! Aged wood from deck 2x6\u201d ~120sqft",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-free-aged-wood-from-deck-2x6/7311452037.html",
-                "datetime": "2021-04-23 10:49",
-                "price": "$0",
-                "where": "Livermore",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00505_8HOXM5jrSQjz_0t20CI_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7305324207",
+                "name": "Mens Luggage:   \u201c Vintage Ghurka 3 piece Luggage Collection \u201c",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-mens-luggage-vintage/7305324207.html",
+                "datetime": "2021-04-23 14:24",
+                "price": "$365",
+                "where": "marina / cow hollow",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00505_fMNpSSKbFTY_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7311565035",
+                "name": "Vintage style Brown leather Moto jacket",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-style-brown/7311565035.html",
+                "datetime": "2021-04-23 13:53",
+                "price": "$120",
+                "where": null,
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00N0N_2TjHwiSUM9Fz_07D0ak_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7308246516",
                 "name": "Vintage 1940's Silk Necktie",
@@ -64,30 +88,6 @@
                 "where": "marina / cow hollow",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00P0P_ehusrliI9uWz_0jm0pO_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7297903612",
-                "name": "[GREAT CONDITION] Stussy Vintage SnapBack Hat",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-great-condition-stussy-vintage/7297903612.html",
-                "datetime": "2021-04-23 12:29",
-                "price": "$10",
-                "where": "san jose west",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_gYb3hnviW7Az_0jm0ew_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7307581745",
-                "name": "Vintage Embroidered Wicker Weekender Bag | Woven Beach Bag",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-embroidered-wicker/7307581745.html",
-                "datetime": "2021-04-23 12:20",
-                "price": "$30",
-                "where": "oakland lake merritt / grand",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00202_9hH3RqznizUz_0cO09D_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7299624255",
+                "name": "Motorcycle Riding Gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-motorcycle-riding-gloves/7299624255.html",
+                "datetime": "2021-04-23 14:24",
+                "price": "$100",
+                "where": "san jose south",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Y0Y_98gaME4y7Fwz_0t20CI_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7301404722",
                 "name": "Scarves, bags, pashminas, leather gloves etc",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-scarves-bags-pashminas/7301404722.html",
@@ -154,21 +166,21 @@
                 "image_url": "https://images.craigslist.org/00202_c5WyHfrkd98z_0lM0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7307580758",
-                "name": "NEW classy ladies khaki / camel / tan gloves with gold chain / detail",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-new-classy-ladies-khaki/7307580758.html",
-                "datetime": "2021-04-23 11:36",
-                "price": "$5",
-                "where": "inner sunset / UCSF",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00D0D_cKgAw6RCZdRz_0CI0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7300329945",
+                "name": "WEDDING DRESS & an Eve. Dress!",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7300329945.html",
+                "datetime": "2021-04-23 13:43",
+                "price": "$65",
+                "where": "sunnyvale",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7311523796",
                 "name": "Lillian West Wedding Dress",
@@ -190,18 +202,6 @@
                 "where": "pittsburg / antioch",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00G0G_aetBnukpOkmz_0lM0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7311454476",
-                "name": "Anthropologie Iva Crepe Maxi Wedding Dress Size 2",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-anthropologie-iva-crepe-maxi/7311454476.html",
-                "datetime": "2021-04-23 10:53",
-                "price": "$190",
-                "where": "oakland east",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00K0K_luYYFauKh9Oz_0jl0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

@@ -12,54 +12,42 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
-            },
-            {
-                "id": "7309381210",
-                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
-                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
-                "datetime": "2021-04-19 11:22",
-                "price": "$0",
-                "where": "We Ship Nationwide",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
-                "query": "gravel",
-                "category": "maa"
             }
         ],
         "wood": [
             {
-                "id": "7309192339",
-                "name": "4\u201dx13\u201d Douglas Fir Wood boards - partial painted 11 ft lengths",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-4x13-douglas-fir-wood-boards/7309192339.html",
-                "datetime": "2021-04-23 07:24",
-                "price": "$75",
-                "where": "san carlos",
+                "id": "7303652308",
+                "name": "Claro Walnut Live Edge Slab Slabs Black Table Bar Top Reclaimed Wood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-claro-walnut-live-edge-slab/7303652308.html",
+                "datetime": "2021-04-23 09:41",
+                "price": "$15",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00u0u_biUNlz31PScz_0ak08g_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00b0b_jL6S7QjSGyR_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7310177296",
-                "name": "Solid wood Flooring Brand new by Virginia Mill Works",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-solid-wood-flooring-brand/7310177296.html",
-                "datetime": "2021-04-23 06:46",
-                "price": "$350",
-                "where": "santa rosa",
+                "id": "7303652450",
+                "name": "Reclaimed Old Growth White Oak Wood Beams for a Mantel or a Bench",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-reclaimed-old-growth-white-oak/7303652450.html",
+                "datetime": "2021-04-23 09:41",
+                "price": "$950",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00j0j_cAsrWKIF4Bwz_0ak07K_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00Q0Q_SxY2uylvEc_0CI0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7303294132",
-                "name": "Fencing Rod, wood shelves, wood pieces for free",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/hayward-fencing-rod-wood-shelves-wood/7303294132.html",
-                "datetime": "2021-04-22 19:24",
-                "price": "$0",
-                "where": "hayward / castro valley",
+                "id": "7303652609",
+                "name": "Live Edge Wood Slabs Straight Line Slab Walnut Redwood Maple Oak Ash",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-live-edge-wood-slabs-straight/7303652609.html",
+                "datetime": "2021-04-23 09:41",
+                "price": "$3",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00R0R_j91mjB4MJw5z_0jm0ew_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00I0I_ak5v0hAk7oG_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             }
@@ -67,6 +55,30 @@
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7300097535",
+                "name": "Vintage Black and White Dress With Rhinestone and Crocheted Trim",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-black-and-white-dress/7300097535.html",
+                "datetime": "2021-04-23 09:34",
+                "price": "$20",
+                "where": "san jose north",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7308532924",
+                "name": "Vintage Men\u2019s Clothing",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-mens-clothing/7308532924.html",
+                "datetime": "2021-04-23 09:32",
+                "price": "$1,200",
+                "where": "bayview",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00M0M_3fs46YDzZehz_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7307050141",
                 "name": "Lv vintage wallet",
@@ -78,33 +90,21 @@
                 "image_url": "https://images.craigslist.org/00W0W_fSLgj5d41w3z_0lM0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
-            },
-            {
-                "id": "7311381734",
-                "name": "Vintage Disney leather backpack",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-disney-leather-backpack/7311381734.html",
-                "datetime": "2021-04-23 09:04",
-                "price": "$75",
-                "where": "berkeley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00H0H_d5bbBXB7rZR_0CI0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7301574059",
-                "name": "Vintage Kids Patagonia jacket",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-kids-patagonia-jacket/7301574059.html",
-                "datetime": "2021-04-23 09:03",
-                "price": "$35",
-                "where": "berkeley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Z0Z_if2qSEFm7sk_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7304741535",
+                "name": "Very Nice Royal Blue Beaded Party Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-very-nice-royal-blue-beaded/7304741535.html",
+                "datetime": "2021-04-23 09:34",
+                "price": "$40",
+                "where": "san jose north",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7296611363",
                 "name": "\ud83d\udc07 Gorgeous Beaded 3-Piece Blue Outfit Pantsuit.",
@@ -126,18 +126,6 @@
                 "where": "los gatos",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00y0y_nQcu4GXGnQ_0t20CI_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
-            },
-            {
-                "id": "7301465182",
-                "name": "* Set of 10 Designer Beaded Bracelets (by Roxanne Assoulin) *",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-set-of-10-designer-beaded/7301465182.html",
-                "datetime": "2021-04-22 15:05",
-                "price": "$5",
-                "where": "emeryville",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
             }
@@ -220,6 +208,18 @@
         ],
         "great condition": [
             {
+                "id": "7298846672",
+                "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-authentic-coach-black-leather/7298846672.html",
+                "datetime": "2021-04-23 09:32",
+                "price": "$30",
+                "where": "san jose east",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
                 "id": "7300941257",
                 "name": "Coach Genuine Leather Handbag Red in Great Condition",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-coach-genuine-leather-handbag/7300941257.html",
@@ -240,18 +240,6 @@
                 "where": "san jose south",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00101_1RGySdDP69Nz_0CI0t2_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7308360411",
-                "name": "Lot of new and lightly used clothes...GREAT CONDITION!",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/middletown-lot-of-new-and-lightly-used/7308360411.html",
-                "datetime": "2021-04-21 18:22",
-                "price": "$15",
-                "where": "Middletown",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00p0p_7SyFKigfy5Gz_0yA0oA_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

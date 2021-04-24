@@ -144,6 +144,18 @@
         ],
         "gloves": [
             {
+                "id": "7309432495",
+                "name": "Merino Wool Gloves & Scarf",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-merino-wool-gloves-scarf/7309432495.html",
+                "datetime": "2021-04-23 16:53",
+                "price": "$40",
+                "where": "berkeley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00C0C_2Jd5vBLz2Bc_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7299624255",
                 "name": "Motorcycle Riding Gloves",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-motorcycle-riding-gloves/7299624255.html",
@@ -164,18 +176,6 @@
                 "where": "sf",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00Y0Y_f491W7iR6Fy_0pO0pO_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7307579614",
-                "name": "Ladies soft leather gloves (black, olive, purple) + long ones in black",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-ladies-soft-leather/7307579614.html",
-                "datetime": "2021-04-23 11:36",
-                "price": "$5",
-                "where": "inner sunset / UCSF",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00202_c5WyHfrkd98z_0lM0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

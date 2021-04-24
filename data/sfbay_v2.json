@@ -16,6 +16,30 @@
         ],
         "wood": [
             {
+                "id": "7305360688",
+                "name": "WOOD PIECES/PLYWOOD/PARTICLE BOARD/ TEAK/ WALNUT/ OAK",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-wood-pieces-plywood/7305360688.html",
+                "datetime": "2021-04-24 15:21",
+                "price": "$1",
+                "where": "walnut creek",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Z0Z_1snsU1Yu4gFz_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7305395293",
+                "name": "WOOD MOULDINGS",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-wood-mouldings/7305395293.html",
+                "datetime": "2021-04-24 15:16",
+                "price": "$1",
+                "where": "walnut creek",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00k0k_9kZHtrtcNXHz_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7312086623",
                 "name": "WOOD SEALANT-PRATT AND LAMBERT",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-wood-sealant-pratt-and-lambert/7312086623.html",
@@ -26,68 +50,44 @@
                 "image_url": "https://images.craigslist.org/01313_fU6repXCkaD_0CI0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7307325550",
-                "name": "Wood Chips / Mulch for Pickup or Delivery",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/wood-chips-mulch-for-pickup-or-delivery/7307325550.html",
-                "datetime": "2021-04-24 14:29",
-                "price": "$6",
-                "where": "petaluma",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00P0P_jCF6xMe1dcH_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7302951672",
-                "name": "BRAND NEW WOOD VENEER",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-wood-veneer/7302951672.html",
-                "datetime": "2021-04-24 13:50",
-                "price": "$1",
-                "where": "San Jose",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00O0O_1HQ9HOWPy0Cz_0lM0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7312088859",
-                "name": "Vintage Porsche Design By Carrera 5623 Silver Sunglasses",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-porsche-design-by/7312088859.html",
-                "datetime": "2021-04-24 14:36",
-                "price": "$195",
-                "where": "walnut creek",
+                "id": "7297545508",
+                "name": "Kimono Haori Silk Jacket - Vintage",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-kimono-haori-silk-jacket/7297545508.html",
+                "datetime": "2021-04-24 15:25",
+                "price": "$25",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00o0o_5JHT62MOo41z_0kE0fV_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00B0B_7zDPAFpZg7V_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7312079667",
-                "name": "Vintage Fur Coat",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-fur-coat/7312079667.html",
-                "datetime": "2021-04-24 14:17",
-                "price": "$100",
-                "where": "santa cruz",
+                "id": "7297545792",
+                "name": "Vintage Laurel Burch Mynah Bird Post Earrings",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-laurel-burch-mynah/7297545792.html",
+                "datetime": "2021-04-24 15:25",
+                "price": "$12",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00I0I_fo7TRPz4qLDz_07I0ak_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00O0O_fXLzeM4NoAh_0CI0q7_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7308925476",
-                "name": "Ariat Boots 7-1/2 Women's Brand New Brown",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/ariat-boots-womens-brand-new-brown/7308925476.html",
-                "datetime": "2021-04-24 13:51",
-                "price": "$150",
-                "where": "haight ashbury",
+                "id": "7298501952",
+                "name": "Vintage Jacket Original Hammerer Austria",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-jacket-original/7298501952.html",
+                "datetime": "2021-04-24 15:24",
+                "price": "$125",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00r0r_b2QqhqCuygb_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00o0o_awk098zIjmoz_0zA0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,30 @@
         ],
         "gloves": [
             {
+                "id": "7312105564",
+                "name": "Black Gloves",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-black-gloves/7312105564.html",
+                "datetime": "2021-04-24 15:11",
+                "price": "$4",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00y0y_eV6Ft475kROz_0CI0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
+                "id": "7312105576",
+                "name": "2 in 1 Gloves",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-in-gloves/7312105576.html",
+                "datetime": "2021-04-24 15:11",
+                "price": "$4",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00G0G_864sC5gqKp5z_0t20CI_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7312093378",
                 "name": "Women's Dainese Leather gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-womens-dainese-leather-gloves/7312093378.html",
@@ -142,33 +166,21 @@
                 "image_url": "https://images.craigslist.org/00u0u_knzOe1KMGVE_0CI0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7310195477",
-                "name": "Men's 3M Thinsulate Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-mens-3m-thinsulate-gloves/7310195477.html",
-                "datetime": "2021-04-24 14:06",
-                "price": "$20",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7311954911",
-                "name": "Wedding Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasant-hill-wedding-gloves/7311954911.html",
-                "datetime": "2021-04-24 10:45",
-                "price": "$5",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00t0t_fkjlVXcpomgz_0CI0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7312078127",
+                "name": "Ludlow Gown BHLDN Wedding Dress Anthropologie",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-ludlow-gown-bhldn-wedding-dress/7312078127.html",
+                "datetime": "2021-04-24 15:25",
+                "price": "$600",
+                "where": "oakland rockridge / claremont",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00V0V_fXpsK034FqCz_0aO0bC_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7312092404",
                 "name": "Beautiful SILK WEDDING DRESS - Marisa SIZE 6, Cream",
@@ -190,18 +202,6 @@
                 "where": "sunnyvale",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7310546180",
-                "name": "Paloma Blanca Lace Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/paloma-blanca-lace-wedding-dress/7310546180.html",
-                "datetime": "2021-04-24 10:53",
-                "price": "$999",
-                "where": "alameda",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

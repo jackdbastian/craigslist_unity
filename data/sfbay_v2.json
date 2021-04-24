@@ -12,21 +12,33 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
-            },
-            {
-                "id": "7309381210",
-                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
-                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
-                "datetime": "2021-04-19 11:22",
-                "price": "$0",
-                "where": "We Ship Nationwide",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
-                "query": "gravel",
-                "category": "maa"
             }
         ],
         "wood": [
+            {
+                "id": "7311660112",
+                "name": "Wood rods",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7311660112.html",
+                "datetime": "2021-04-23 17:14",
+                "price": "$5",
+                "where": "south san francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7309465312",
+                "name": "8 Large Wooden Shipping Boxes w/Lids * Metal Reinforced Edges",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/petaluma-large-wooden-shipping-boxes/7309465312.html",
+                "datetime": "2021-04-23 17:06",
+                "price": "$20",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_5DmTKqEsoEhz_0CI0pO_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
             {
                 "id": "7311628711",
                 "name": "New Interior Primed One Panel Solid Wood Door",
@@ -38,35 +50,23 @@
                 "image_url": "https://images.craigslist.org/00b0b_bjlIZU5J2POz_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7311607469",
-                "name": "Old Rustic and Modern Reclaimed Barn Wood - Mantels - Walls - Beams",
-                "url": "https://sfbay.craigslist.org/pen/mad/d/mountain-view-old-rustic-and-modern/7311607469.html",
-                "datetime": "2021-04-23 15:08",
-                "price": "$0",
-                "where": "mountain view",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00101_3tQylA5CF9Kz_0wN0oM_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7311606430",
-                "name": "Old Rustic and Modern Reclaimed Barn Wood - Mantels - Walls - Beams",
-                "url": "https://sfbay.craigslist.org/pen/mad/d/mountain-view-old-rustic-and-modern/7311606430.html",
-                "datetime": "2021-04-23 15:06",
-                "price": "$0",
-                "where": "mountain view",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_ibKXmBHHQgZ_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7306354959",
+                "name": "Vintage Avirex Leather variety  jacket Skull Wings Punisher 4XL",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-avirex-leather-variety/7306354959.html",
+                "datetime": "2021-04-23 17:15",
+                "price": "$250",
+                "where": "oakland lake merritt / grand",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00o0o_526Zd2ZBW96_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7308189918",
                 "name": "Vintage Woman's Coat",
@@ -88,18 +88,6 @@
                 "where": "sunnyvale",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7296743054",
-                "name": "vintage LEATHER RIDING BOOTS black womans mid 60s",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-leather-riding-boots/7296743054.html",
-                "datetime": "2021-04-23 16:22",
-                "price": "$75",
-                "where": "sunnyvale",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00o0o_9X14CGXUhNv_0pO0jm_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -144,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7307520705",
+                "name": "New Fishnet Gold GLoves Adult!",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-new-fishnet-gold-gloves-adult/7307520705.html",
+                "datetime": "2021-04-23 17:25",
+                "price": "$5",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01414_e2EspyvF1Dv_07K0ak_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7309432495",
                 "name": "Merino Wool Gloves & Scarf",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-merino-wool-gloves-scarf/7309432495.html",
@@ -164,18 +164,6 @@
                 "where": "san jose south",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00Y0Y_98gaME4y7Fwz_0t20CI_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7301404722",
-                "name": "Scarves, bags, pashminas, leather gloves etc",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-scarves-bags-pashminas/7301404722.html",
-                "datetime": "2021-04-23 12:18",
-                "price": "$0",
-                "where": "sf",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Y0Y_f491W7iR6Fy_0pO0pO_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

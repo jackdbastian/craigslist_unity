@@ -56,6 +56,30 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7312126734",
+                "name": "Vintage, beautiful leather coat by Deri Saray",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-beautiful-leather/7312126734.html",
+                "datetime": "2021-04-24 16:00",
+                "price": "$95",
+                "where": "Livermore",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00k0k_fJ6xiga5f1wz_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7312126978",
+                "name": "Vintage Python Snake Purse or Briefcase for Laptop",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-python-snake-purse/7312126978.html",
+                "datetime": "2021-04-24 16:00",
+                "price": "$75",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01010_197HDJADT2hz_0CI0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7312124056",
                 "name": "Vintage brown ladies hat (OBO)",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-brown-ladies-hat/7312124056.html",
@@ -64,30 +88,6 @@
                 "where": "north beach / telegraph hill",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00Q0Q_6VTo3k114lUz_0ew0jm_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7303872566",
-                "name": "Vintage Black Wool Asian Dress with Mandarin Collar - Size Small",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-black-wool-asian/7303872566.html",
-                "datetime": "2021-04-24 15:27",
-                "price": "$25",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Q0Q_9pgdNOhSnCez_0mj0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7305975499",
-                "name": "Vintage \u201cThe Sak\u201d Backpack Purse, Wallet, and Makeup Bag",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-the-sak-backpack/7305975499.html",
-                "datetime": "2021-04-24 15:28",
-                "price": "$30",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_jKXbOWLhkG9_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,30 @@
         ],
         "gloves": [
             {
+                "id": "7306040689",
+                "name": "Exceptional Leather Gloves and more",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/emeryville-exceptional-leather-gloves/7306040689.html",
+                "datetime": "2021-04-24 16:11",
+                "price": "$0",
+                "where": "cupertino",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00O0O_9QaPJDUUssl_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
+                "id": "7306542297",
+                "name": "Exceptional famous brand new leather gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/emeryville-exceptional-famous-brand-new/7306542297.html",
+                "datetime": "2021-04-24 16:08",
+                "price": "$0",
+                "where": "mountain view",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Y0Y_7rAi4doxnZz_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7306546767",
                 "name": "Exclusive Quality Brand for the best Leather Gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-exclusive-quality-brand-for/7306546767.html",
@@ -142,33 +166,21 @@
                 "image_url": "https://images.craigslist.org/00O0O_9QaPJDUUssl_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7306634694",
-                "name": "Excellent Fashion Real Leather gloves",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/emeryville-excellent-fashion-real/7306634694.html",
-                "datetime": "2021-04-24 15:42",
-                "price": "$0",
-                "where": "bernal heights",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00g0g_9M6EgEsnyBb_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7308591617",
-                "name": "Exceptional Leather Gloves and more",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/emeryville-exceptional-leather-gloves/7308591617.html",
-                "datetime": "2021-04-24 15:42",
-                "price": "$0",
-                "where": "cupertino",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00O0O_9QaPJDUUssl_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7307576738",
+                "name": "Larger Size Wedding Dress With Train",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-larger-size-wedding-dress-with/7307576738.html",
+                "datetime": "2021-04-24 16:26",
+                "price": "$65",
+                "where": "san jose north",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00c0c_iPp3LLxBnSUz_0t20CI_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7308089496",
                 "name": "NEW $1.2K Galina Wedding Dress (2)",
@@ -190,18 +202,6 @@
                 "where": "oakland rockridge / claremont",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00V0V_fXpsK034FqCz_0aO0bC_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7312092404",
-                "name": "Beautiful SILK WEDDING DRESS - Marisa SIZE 6, Cream",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/el-cerrito-beautiful-silk-wedding-dress/7312092404.html",
-                "datetime": "2021-04-24 14:43",
-                "price": "$95",
-                "where": "albany / el cerrito",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00w0w_2SSd3b1w4biz_0je0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

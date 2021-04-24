@@ -16,6 +16,30 @@
         ],
         "wood": [
             {
+                "id": "7299846069",
+                "name": "Miscellaneous barn wood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-miscellaneous-barn-wood/7299846069.html",
+                "datetime": "2021-04-23 20:43",
+                "price": "$150",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7301375645",
+                "name": "Old  wood framed windows 15.00 to 30.00",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-old-wood-framed-windows-1500/7301375645.html",
+                "datetime": "2021-04-23 20:43",
+                "price": "$30",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Z0Z_fSVeMGQdMBTz_0CI0pl_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7303609497",
                 "name": "48\" Bathroom vanity (solid wood)",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-48-bathroom-vanity-solid-wood/7303609497.html",
@@ -26,68 +50,44 @@
                 "image_url": "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7311682694",
-                "name": "decorative wood trim moulding",
-                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-decorative-wood-trim/7311682694.html",
-                "datetime": "2021-04-23 18:15",
-                "price": "$1,600",
-                "where": "west portal / forest hill",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00909_8w2MwPCwgkSz_0CI0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7311660112",
-                "name": "Wood rods",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7311660112.html",
-                "datetime": "2021-04-23 17:14",
-                "price": "$5",
-                "where": "south san francisco",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7300371385",
-                "name": "Vintage Leather Bag",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-leather-bag/7300371385.html",
-                "datetime": "2021-04-23 20:24",
-                "price": "$35",
-                "where": "san mateo",
+                "id": "7308236617",
+                "name": "Vintage Wool Pendleton- Size Medium",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-wool-pendleton/7308236617.html",
+                "datetime": "2021-04-23 20:50",
+                "price": "$50",
+                "where": "alamo square / nopa",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00i0i_9AELKF3s4e2z_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00K0K_cP52OyCpFK4z_0MM132_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7300373856",
-                "name": "Vintage Evening Bag",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-evening-bag/7300373856.html",
-                "datetime": "2021-04-23 20:24",
-                "price": "$20",
-                "where": "san mateo",
+                "id": "7311724401",
+                "name": "Vintage Red Plastic Necklace",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-red-plastic-necklace/7311724401.html",
+                "datetime": "2021-04-23 20:50",
+                "price": "$3",
+                "where": "santa rosa",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00i0i_ld1aloVt2kiz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00j0j_klkGuh5I3PQz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7300376746",
-                "name": "Vintage Small Evening Bag Black Beaded",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-small-evening-bag/7300376746.html",
-                "datetime": "2021-04-23 20:24",
-                "price": "$15",
-                "where": "san mateo",
+                "id": "7301360658",
+                "name": "Vintage purses/bags",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/livermore-vintage-purses-bags/7301360658.html",
+                "datetime": "2021-04-23 20:41",
+                "price": "$3",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_6yFgg5OmdC2z_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00M0M_jdT5bLRDPTG_0lM0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7302985305",
+                "name": "Storybook Wedding or Lace Dress Size 14",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/livermore-storybook-wedding-or-lace/7302985305.html",
+                "datetime": "2021-04-23 20:40",
+                "price": "$5",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00K0K_iVg3jiESW8Lz_0ej0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7300972908",
                 "name": "Elegant Wedding Dress - New with Tags",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/los-altos-elegant-wedding-dress-new/7300972908.html",
@@ -190,18 +202,6 @@
                 "where": "santa clara",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7311602895",
-                "name": "Gently used wedding dress under warranty",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/windsor-gently-used-wedding-dress-under/7311602895.html",
-                "datetime": "2021-04-23 15:09",
-                "price": "$400",
-                "where": "healdsburg / windsor",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_5Se4lMgBfVcz_0e80t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7303609497",
+                "name": "48\" Bathroom vanity (solid wood)",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-48-bathroom-vanity-solid-wood/7303609497.html",
+                "datetime": "2021-04-23 19:25",
+                "price": "$140",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7311682694",
                 "name": "decorative wood trim moulding",
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-decorative-wood-trim/7311682694.html",
@@ -38,23 +50,35 @@
                 "image_url": "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7309465312",
-                "name": "8 Large Wooden Shipping Boxes w/Lids * Metal Reinforced Edges",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/petaluma-large-wooden-shipping-boxes/7309465312.html",
-                "datetime": "2021-04-23 17:06",
-                "price": "$20",
-                "where": "santa rosa",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_5DmTKqEsoEhz_0CI0pO_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7307211115",
+                "name": "J Duseu vintage black shoulder bag",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-duseu-vintage-black-shoulder/7307211115.html",
+                "datetime": "2021-04-23 19:16",
+                "price": "$35",
+                "where": "san jose south",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01414_djARa3bzfsOz_0CI0sI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7302638420",
+                "name": "Pulicati Vintage Leather Bag",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-pulicati-vintage-leather-bag/7302638420.html",
+                "datetime": "2021-04-23 19:07",
+                "price": "$25",
+                "where": "san jose south",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00L0L_9dsH9yWm7D0z_0rT0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7311691890",
                 "name": "Vintage Porsche Design By Carrera 5623 Silver Sunglasses",
@@ -64,30 +88,6 @@
                 "where": "walnut creek",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00o0o_5JHT62MOo41z_0kE0fV_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7311689904",
-                "name": "Vintage Blue Bowling Bag",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-blue-bowling-bag/7311689904.html",
-                "datetime": "2021-04-23 18:38",
-                "price": "$7",
-                "where": "santa rosa",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Y0Y_com6CJHQf6Tz_0CI0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7311688582",
-                "name": "Vintage leather Banana Republic bomber jacket",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-banana/7311688582.html",
-                "datetime": "2021-04-23 18:34",
-                "price": "$50",
-                "where": "inner richmond",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_fFsoL6O1zvY_0hP0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7300972908",
+                "name": "Elegant Wedding Dress - New with Tags",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/los-altos-elegant-wedding-dress-new/7300972908.html",
+                "datetime": "2021-04-23 19:15",
+                "price": "$120",
+                "where": "los altos",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00u0u_f1mz7duj9E7z_0fh0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7304267952",
                 "name": "San Patrick 1964 Seymour Wedding Dress",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-san-patrick-1964-seymour/7304267952.html",
@@ -190,18 +202,6 @@
                 "where": "healdsburg / windsor",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00U0U_5Se4lMgBfVcz_0e80t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7300329945",
-                "name": "WEDDING DRESS & an Eve. Dress!",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7300329945.html",
-                "datetime": "2021-04-23 13:43",
-                "price": "$65",
-                "where": "sunnyvale",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

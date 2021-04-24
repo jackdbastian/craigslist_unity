@@ -16,6 +16,30 @@
         ],
         "wood": [
             {
+                "id": "7312086623",
+                "name": "WOOD SEALANT-PRATT AND LAMBERT",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-wood-sealant-pratt-and-lambert/7312086623.html",
+                "datetime": "2021-04-24 14:31",
+                "price": "$200",
+                "where": "san jose south",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01313_fU6repXCkaD_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7307325550",
+                "name": "Wood Chips / Mulch for Pickup or Delivery",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/wood-chips-mulch-for-pickup-or-delivery/7307325550.html",
+                "datetime": "2021-04-24 14:29",
+                "price": "$6",
+                "where": "petaluma",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00P0P_jCF6xMe1dcH_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7302951672",
                 "name": "BRAND NEW WOOD VENEER",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-wood-veneer/7302951672.html",
@@ -26,35 +50,23 @@
                 "image_url": "https://images.craigslist.org/00O0O_1HQ9HOWPy0Cz_0lM0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7312051263",
-                "name": "BRAND NEW SOLID WOOD KITCHEN CABINETS DOORS",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-solid-wood-kitchen/7312051263.html",
-                "datetime": "2021-04-24 13:23",
-                "price": "$0",
-                "where": "San Jose",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00v0v_7sKcqQkJ7Dgz_0t20CI_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7312051606",
-                "name": "BRAND NEW SOLID WOOD FOR CUTTING BOARDS",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-solid-wood-for/7312051606.html",
-                "datetime": "2021-04-24 13:24",
-                "price": "$0",
-                "where": "San Jose",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00505_cC7qGgbZDh0z_0jm0ew_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7312088859",
+                "name": "Vintage Porsche Design By Carrera 5623 Silver Sunglasses",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-porsche-design-by/7312088859.html",
+                "datetime": "2021-04-24 14:36",
+                "price": "$195",
+                "where": "walnut creek",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00o0o_5JHT62MOo41z_0kE0fV_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7312079667",
                 "name": "Vintage Fur Coat",
@@ -76,18 +88,6 @@
                 "where": "haight ashbury",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00r0r_b2QqhqCuygb_0CI0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7312066534",
-                "name": "Messenger Bag -Vintage Look Leather Messenger Bag",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-messenger-bag-vintage-look/7312066534.html",
-                "datetime": "2021-04-24 13:51",
-                "price": "$40",
-                "where": "emeryville",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00808_9HkCKU3hVyNz_08F06q_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7312093378",
+                "name": "Women's Dainese Leather gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-womens-dainese-leather-gloves/7312093378.html",
+                "datetime": "2021-04-24 14:46",
+                "price": "$25",
+                "where": "alameda",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00u0u_knzOe1KMGVE_0CI0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7310195477",
                 "name": "Men's 3M Thinsulate Gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-mens-3m-thinsulate-gloves/7310195477.html",
@@ -154,21 +166,21 @@
                 "image_url": "https://images.craigslist.org/00t0t_fkjlVXcpomgz_0CI0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7302908288",
-                "name": "Sensatec Women's wool/cashmere gloves w/ Sensatec Touchscreen, Size M",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-sensatec-womens-wool-cashmere/7302908288.html",
-                "datetime": "2021-04-24 10:14",
-                "price": "$10",
-                "where": "los gatos",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00k0k_87HitN67GNX_0CI0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7312092404",
+                "name": "Beautiful SILK WEDDING DRESS - Marisa SIZE 6, Cream",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/el-cerrito-beautiful-silk-wedding-dress/7312092404.html",
+                "datetime": "2021-04-24 14:43",
+                "price": "$95",
+                "where": "albany / el cerrito",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00w0w_2SSd3b1w4biz_0je0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7301762108",
                 "name": "WEDDING DRESS & an Eve. Dress!",
@@ -190,18 +202,6 @@
                 "where": "alameda",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7311952825",
-                "name": "Wedding Dress Size 16",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-wedding-dress-size-16/7311952825.html",
-                "datetime": "2021-04-24 10:42",
-                "price": "$20",
-                "where": "santa clara",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Q0Q_9Al9HeLD21ez_0CI0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

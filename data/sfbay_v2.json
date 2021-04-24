@@ -56,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7312079667",
+                "name": "Vintage Fur Coat",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-fur-coat/7312079667.html",
+                "datetime": "2021-04-24 14:17",
+                "price": "$100",
+                "where": "santa cruz",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00I0I_fo7TRPz4qLDz_07I0ak_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7308925476",
                 "name": "Ariat Boots 7-1/2 Women's Brand New Brown",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/ariat-boots-womens-brand-new-brown/7308925476.html",
@@ -76,18 +88,6 @@
                 "where": "emeryville",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00808_9HkCKU3hVyNz_08F06q_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7300096819",
-                "name": "Vintage Mid-Century SWANK \"Travel Shoe Polishing Kit\" 2 Brushes/Cloth",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-mid-century-swank/7300096819.html",
-                "datetime": "2021-04-24 13:27",
-                "price": "$30",
-                "where": "mission district",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01717_8ajAPDkUlRBz_0ne0gp_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7310195477",
+                "name": "Men's 3M Thinsulate Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-mens-3m-thinsulate-gloves/7310195477.html",
+                "datetime": "2021-04-24 14:06",
+                "price": "$20",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7311954911",
                 "name": "Wedding Gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/pleasant-hill-wedding-gloves/7311954911.html",
@@ -152,18 +164,6 @@
                 "where": "los gatos",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00k0k_87HitN67GNX_0CI0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7311832429",
-                "name": "NEW hat + scarf +  gloves set",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-new-hat-scarf-gloves-set/7311832429.html",
-                "datetime": "2021-04-24 07:24",
-                "price": "$9",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00W0W_i9bBnhEfkL_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

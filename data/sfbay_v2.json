@@ -56,38 +56,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7306354959",
-                "name": "Vintage Avirex Leather variety  jacket Skull Wings Punisher 4XL",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-avirex-leather-variety/7306354959.html",
-                "datetime": "2021-04-23 17:15",
-                "price": "$250",
-                "where": "oakland lake merritt / grand",
+                "id": "7308910957",
+                "name": "Vintage Levi's 501xx Mens Jeans",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-levis-501xx-mens-jeans/7308910957.html",
+                "datetime": "2021-04-23 17:56",
+                "price": "$85",
+                "where": "berkeley",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00o0o_526Zd2ZBW96_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00B0B_ca5YcyCju0Lz_0lM0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7308189918",
-                "name": "Vintage Woman's Coat",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-womans-coat/7308189918.html",
-                "datetime": "2021-04-23 16:26",
-                "price": "$35",
-                "where": "San Jose",
+                "id": "7303754104",
+                "name": "DCSF - ELGINI Vintage Suitcase Hand Shoulder Bag",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-dcsf-elgini-vintage/7303754104.html",
+                "datetime": "2021-04-23 17:53",
+                "price": "$400",
+                "where": "mission district",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00t0t_hjYRNYHaiBYz_0jw0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00707_ivzvDo4KNan_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7299363016",
-                "name": "14 BOOTS MENS LEATHER black motorcycle steel toe vintage pull on ridin",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-14-boots-mens-leather-black/7299363016.html",
-                "datetime": "2021-04-23 16:23",
-                "price": "$140",
-                "where": "sunnyvale",
+                "id": "7310169796",
+                "name": "vintage BUSHNELL aviator sunglasses",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-bushnell-aviator/7310169796.html",
+                "datetime": "2021-04-23 17:48",
+                "price": "$150",
+                "where": "alameda",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00Y0Y_gjLknqXoCyo_1320MM_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7307561944",
+                "name": "Fishnet 80's Wrist GLOVES White Rave School Spirit Cheerleader New!!!",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-fishnet-80s-wrist-gloves-white/7307561944.html",
+                "datetime": "2021-04-23 17:39",
+                "price": "$5",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Y0Y_ljaGfWceFIu_07K0ak_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7307520705",
                 "name": "New Fishnet Gold GLoves Adult!",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-new-fishnet-gold-gloves-adult/7307520705.html",
@@ -152,18 +164,6 @@
                 "where": "berkeley",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00C0C_2Jd5vBLz2Bc_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7299624255",
-                "name": "Motorcycle Riding Gloves",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-motorcycle-riding-gloves/7299624255.html",
-                "datetime": "2021-04-23 14:24",
-                "price": "$100",
-                "where": "san jose south",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Y0Y_98gaME4y7Fwz_0t20CI_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

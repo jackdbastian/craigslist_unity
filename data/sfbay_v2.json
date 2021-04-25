@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7312567117",
+                "name": "6ea wood billets for baseball bats",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-6ea-wood-billets-for-baseball/7312567117.html",
+                "datetime": "2021-04-25 15:52",
+                "price": "$75",
+                "where": "Livermore",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00N0N_dOQsIjpzg1Cz_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7302435517",
                 "name": "Brand new unpainted wood cabinet doors, approx 12\" x 16\"",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/mountain-view-brand-new-unpainted-wood/7302435517.html",
@@ -38,56 +50,44 @@
                 "image_url": "https://images.craigslist.org/00G0G_c6HHs7ojJFaz_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7303609854",
-                "name": "48\" Bathroom vanity (solid wood)",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-48-bathroom-vanity-solid-wood/7303609854.html",
-                "datetime": "2021-04-25 12:55",
-                "price": "$140",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7307237825",
-                "name": "Vintage 90s NFL, NBA, NHL snapbacks",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/el-sobrante-vintage-90s-nfl-nba-nhl/7307237825.html",
-                "datetime": "2021-04-25 15:11",
+                "id": "7312564602",
+                "name": "VINTAGE - XL - Pullover Jacket - Climate Control by Fashion Rite Corp",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/richmond-vintage-xl-pullover-jacket/7312564602.html",
+                "datetime": "2021-04-25 15:51",
+                "price": "$120",
+                "where": "richmond / point / annex",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00P0P_jrrhWRyhBHn_0CI0nK_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7312564684",
+                "name": "VINTAGE Golden State Warriors - NBA Starter Jacket - Large",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/richmond-vintage-golden-state-warriors/7312564684.html",
+                "datetime": "2021-04-25 15:46",
+                "price": "$245",
+                "where": "richmond / point / annex",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00h0h_evCtbm3oTx7_0tA0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7307483861",
+                "name": "Lowrider brims lowrider hats lowrider shirts 90s vintage homies",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-lowrider-brims-lowrider-hats/7307483861.html",
+                "datetime": "2021-04-25 15:38",
                 "price": "$1",
-                "where": "hercules, pinole, san pablo, el sob",
+                "where": "san jose north",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00H0H_dzpTxYitirw_0CI0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7297585776",
-                "name": "Vintage Stetson Hat",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-stetson-hat/7297585776.html",
-                "datetime": "2021-04-25 15:01",
-                "price": "$45",
-                "where": "San Francisco",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7308050558",
-                "name": "Vintage 1995 \"San Francisco 49'ers Short Sleeve T-Shirt NEW OLD STOCK",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1995-san/7308050558.html",
-                "datetime": "2021-04-25 14:17",
-                "price": "$30",
-                "where": "mission district",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_e4RdKHAFUWJ_0dW0c9_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00c0c_iV2UdkpXtuH_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7312567693",
+                "name": "Columbia Ski/Snowbard Gloves",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-columbia-ski-snowbard/7312567693.html",
+                "datetime": "2021-04-25 15:53",
+                "price": "$20",
+                "where": "San Francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00000_9eSiRuuR9L5z_0t20CI_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7298506351",
                 "name": "Ski gloves & mittens",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/ski-gloves-mittens/7298506351.html",
@@ -152,18 +164,6 @@
                 "where": "san jose west",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7307579614",
-                "name": "Ladies soft leather gloves (black, olive, purple) + long ones in black",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-ladies-soft-leather/7307579614.html",
-                "datetime": "2021-04-25 12:47",
-                "price": "$5",
-                "where": "inner sunset / UCSF",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00202_c5WyHfrkd98z_0lM0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

@@ -56,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7301395182",
+                "name": "The NORTH FACE Extreme Ski Jacket - Medium - Vintage - LikeNew!",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/mill-valley-the-north-face-extreme-ski/7301395182.html",
+                "datetime": "2021-04-24 19:13",
+                "price": "$50",
+                "where": "mill valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00606_5y9n3AgmCET_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7305792557",
                 "name": "Vintage 1930\u2019s Ladies Genuine Fox Fur Coat",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-1930s-ladies-genuine/7305792557.html",
@@ -76,18 +88,6 @@
                 "where": "sunnyvale",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00d0d_7Qy1lyhifoH_0Co0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7298172725",
-                "name": "Men, Women Vintage Clothing 1930s WWII 1940s to 60's Military",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-men-women-vintage-clothing/7298172725.html",
-                "datetime": "2021-04-24 18:41",
-                "price": "$20",
-                "where": "sunnyvale",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00M0M_5dWnb7cqJtS_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

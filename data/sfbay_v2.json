@@ -56,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7304450543",
+                "name": "KATE SPADE, VINTAGE, BLUE/WHITE LOGO PATTERN, Purse...",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/redwood-city-kate-spade-vintage-blue/7304450543.html",
+                "datetime": "2021-04-24 22:18",
+                "price": "$25",
+                "where": "redwood city",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00909_ilqgm8hWb8L_0CI0pV_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7306192501",
                 "name": "Vintage Clothes Steamer",
                 "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-clothes-steamer/7306192501.html",
@@ -76,18 +88,6 @@
                 "where": "walnut creek",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00p0p_6shkiJDccdB_0lG0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7310674698",
-                "name": "Authentic Vintage 1960's Paisley Print 100% Pure Silk Dble Layer Scarf",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-authentic-vintage-1960s/7310674698.html",
-                "datetime": "2021-04-24 20:36",
-                "price": "$20",
-                "where": "petaluma",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00L0L_2IpQ141sstZz_0co0gw_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

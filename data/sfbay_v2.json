@@ -56,6 +56,30 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7312380448",
+                "name": "Gorgeous, elegant vintage earrings-and-brooch set from France",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/mill-valley-gorgeous-elegant-vintage/7312380448.html",
+                "datetime": "2021-04-25 09:54",
+                "price": "$25",
+                "where": "Mill Valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00n0n_ajMmQCo7D0dz_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7312370442",
+                "name": "Vintage Porsche Design By Carrera 5623 Silver Sunglasses",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-porsche-design-by/7312370442.html",
+                "datetime": "2021-04-25 09:36",
+                "price": "$185",
+                "where": "walnut creek",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00o0o_5JHT62MOo41z_0kE0fV_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7312364579",
                 "name": "Vintage 1930's Dirndl dress/apron/sweater Oktoberfest blouse",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/cupertino-vintage-1930s-dirndl-dress/7312364579.html",
@@ -64,30 +88,6 @@
                 "where": "cupertino",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00m0m_iTa9Gr2DxvUz_0t20CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7303508798",
-                "name": "Vintage Moroccan leather travel bag",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-moroccan-leather/7303508798.html",
-                "datetime": "2021-04-25 09:16",
-                "price": "$100",
-                "where": "berkeley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_3L5S7tcdxaF_0CI0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7301574059",
-                "name": "Vintage Kids Patagonia jacket",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-kids-patagonia-jacket/7301574059.html",
-                "datetime": "2021-04-25 09:14",
-                "price": "$35",
-                "where": "berkeley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Z0Z_if2qSEFm7sk_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

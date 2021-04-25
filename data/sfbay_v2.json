@@ -56,6 +56,30 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7306192501",
+                "name": "Vintage Clothes Steamer",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-clothes-steamer/7306192501.html",
+                "datetime": "2021-04-24 21:20",
+                "price": "$25",
+                "where": "scotts valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7309480205",
+                "name": "\u201cGivenchy \u201cVintage active sport jacket, size L",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-givenchy-vintage-active/7309480205.html",
+                "datetime": "2021-04-24 21:06",
+                "price": "$35",
+                "where": "walnut creek",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00p0p_6shkiJDccdB_0lG0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7310674698",
                 "name": "Authentic Vintage 1960's Paisley Print 100% Pure Silk Dble Layer Scarf",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-authentic-vintage-1960s/7310674698.html",
@@ -64,30 +88,6 @@
                 "where": "petaluma",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00L0L_2IpQ141sstZz_0co0gw_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7310665951",
-                "name": "Authentic Vintage Banana Republic High-Waisted Blk Denim, Btn Fly SZ 6",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-authentic-vintage-banana/7310665951.html",
-                "datetime": "2021-04-24 20:36",
-                "price": "$30",
-                "where": "petaluma",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01414_lT9CQI5ZNHfz_0aX0iG_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7310666050",
-                "name": "Authentic vintage 80s-90s Willi Smith High-Waisted Trousers Green SZ 8",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-authentic-vintage-80s-90s/7310666050.html",
-                "datetime": "2021-04-24 20:36",
-                "price": "$25",
-                "where": "petaluma",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00X0X_fAOW3TDOiZez_0cM0gw_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,30 @@
         ],
         "wedding dress": [
             {
+                "id": "7303916211",
+                "name": "New Sophia Tolli Wedding Bridal Dress, Size 8",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-new-sophia-tolli-wedding-bridal/7303916211.html",
+                "datetime": "2021-04-24 21:03",
+                "price": "$365",
+                "where": "oakland east",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
+                "id": "7312213987",
+                "name": "Beautiful white wedding dress",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/sausalito-beautiful-white-wedding-dress/7312213987.html",
+                "datetime": "2021-04-24 20:58",
+                "price": "$1,800",
+                "where": "sausalito",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_940yyzkmBauz_0u50nv_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7312212775",
                 "name": "Anna Maier wedding dress",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/sausalito-anna-maier-wedding-dress/7312212775.html",
@@ -178,30 +202,6 @@
                 "where": "sausalito",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/01212_eMHjmYG1ZcXz_0eG0pW_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7309798293",
-                "name": "Lazaro couture wedding dress size 4",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/union-city-lazaro-couture-wedding-dress/7309798293.html",
-                "datetime": "2021-04-24 18:53",
-                "price": "$750",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00808_ddGkAEvr0W1z_0aE0fY_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7302205745",
-                "name": "Gorgeous custom made designer wedding dress sz 6/8",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-gorgeous-custom-made-designer/7302205745.html",
-                "datetime": "2021-04-24 16:49",
-                "price": "$950",
-                "where": "san mateo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00A0A_O2bpoN2EBF_0CI0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7302679853",
+                "name": "Blinds, 2\" white faux wood",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/hollister-blinds-white-faux-wood/7302679853.html",
+                "datetime": "2021-04-24 20:33",
+                "price": "$200",
+                "where": "hollister",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Y0Y_ItuLwGzIVn_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7309887256",
                 "name": "painted wood panel/shelving/decking",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/tracy-painted-wood-panel-shelving/7309887256.html",
@@ -38,56 +50,44 @@
                 "image_url": "https://images.craigslist.org/00M0M_bMOLGJOFHvo_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7307871430",
-                "name": "New Wood Molding 7' Long - 5 Pieces",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-new-wood-molding-long-pieces/7307871430.html",
-                "datetime": "2021-04-24 17:55",
-                "price": "$30",
-                "where": "San Jose",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7310922143",
-                "name": "vintage ski jacket -- size xs/s -- from the 1970s - brand: FUSALP",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-ski-jacket-size/7310922143.html",
-                "datetime": "2021-04-24 20:24",
-                "price": "$22",
-                "where": "nob hill",
+                "id": "7310674698",
+                "name": "Authentic Vintage 1960's Paisley Print 100% Pure Silk Dble Layer Scarf",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-authentic-vintage-1960s/7310674698.html",
+                "datetime": "2021-04-24 20:36",
+                "price": "$20",
+                "where": "petaluma",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00l0l_8Jc0DwGDqt_09b0ak_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00L0L_2IpQ141sstZz_0co0gw_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7312203984",
-                "name": "Women's 8.5N Vintage Leather Rockport Sneakers Washable",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-womens-85n-vintage/7312203984.html",
-                "datetime": "2021-04-24 20:06",
+                "id": "7310665951",
+                "name": "Authentic Vintage Banana Republic High-Waisted Blk Denim, Btn Fly SZ 6",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-authentic-vintage-banana/7310665951.html",
+                "datetime": "2021-04-24 20:36",
+                "price": "$30",
+                "where": "petaluma",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01414_lT9CQI5ZNHfz_0aX0iG_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7310666050",
+                "name": "Authentic vintage 80s-90s Willi Smith High-Waisted Trousers Green SZ 8",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-authentic-vintage-80s-90s/7310666050.html",
+                "datetime": "2021-04-24 20:36",
                 "price": "$25",
-                "where": "cole valley / ashbury hts",
+                "where": "petaluma",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00H0H_1YTqLTkJN5cz_0lA0pO_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7309637121",
-                "name": "(New) Vintage Leather Choker Necklaces w/Ceramic Pendants- Pretty!",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-new-vintage-leather-choker/7309637121.html",
-                "datetime": "2021-04-24 19:38",
-                "price": "$10",
-                "where": "san jose south",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00X0X_fAOW3TDOiZez_0cM0gw_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7312212775",
+                "name": "Anna Maier wedding dress",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/sausalito-anna-maier-wedding-dress/7312212775.html",
+                "datetime": "2021-04-24 20:52",
+                "price": "$2,000",
+                "where": "sausalito",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01212_eMHjmYG1ZcXz_0eG0pW_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7309798293",
                 "name": "Lazaro couture wedding dress size 4",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/union-city-lazaro-couture-wedding-dress/7309798293.html",
@@ -190,18 +202,6 @@
                 "where": "san mateo",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00A0A_O2bpoN2EBF_0CI0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7312141393",
-                "name": "Wedding Dress Sale",
-                "url": "https://sfbay.craigslist.org/eby/cld/d/hayward-wedding-dress-sale/7312141393.html",
-                "datetime": "2021-04-24 16:30",
-                "price": "$799",
-                "where": "hayward / castro valley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00T0T_9PducC3AIaSz_0jm0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

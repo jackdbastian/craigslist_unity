@@ -56,38 +56,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7306092560",
-                "name": "Vintage 1880-1980's Men's Clothing, Frock Coats Tux Tails, 49ers, WWII",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-mens-clothing-frock/7306092560.html",
-                "datetime": "2021-04-24 18:24",
-                "price": "$50",
-                "where": "sunnyvale",
+                "id": "7305792557",
+                "name": "Vintage 1930\u2019s Ladies Genuine Fox Fur Coat",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-1930s-ladies-genuine/7305792557.html",
+                "datetime": "2021-04-24 18:55",
+                "price": "$85",
+                "where": "willow glen / cambrian",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00e0e_fSICxGj6gUI_0CI0om_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00B0B_8y91yKqnhRLz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7299770150",
-                "name": "VINTAGE BOOTS LEATHER 9 E go",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-boots-leather-e-go/7299770150.html",
-                "datetime": "2021-04-24 18:20",
-                "price": "$200",
+                "id": "7298172639",
+                "name": "Like new unworn Vintage 80's Jackets.",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-like-new-unworn-vintage-80s/7298172639.html",
+                "datetime": "2021-04-24 18:42",
+                "price": "$45",
                 "where": "sunnyvale",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00P0P_a8c7R8gCsTF_0fe0bq_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00d0d_7Qy1lyhifoH_0Co0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7310503481",
-                "name": "vintage mens Adidas ATP tennis jacket mens's Large",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-mens-adidas-atp-tennis/7310503481.html",
-                "datetime": "2021-04-24 18:14",
-                "price": "$99",
-                "where": "berkeley",
+                "id": "7298172725",
+                "name": "Men, Women Vintage Clothing 1930s WWII 1940s to 60's Military",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-men-women-vintage-clothing/7298172725.html",
+                "datetime": "2021-04-24 18:41",
+                "price": "$20",
+                "where": "sunnyvale",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00909_2mqTM6qIIOj_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00M0M_5dWnb7cqJtS_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7309798293",
+                "name": "Lazaro couture wedding dress size 4",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/union-city-lazaro-couture-wedding-dress/7309798293.html",
+                "datetime": "2021-04-24 18:53",
+                "price": "$750",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00808_ddGkAEvr0W1z_0aE0fY_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7302205745",
                 "name": "Gorgeous custom made designer wedding dress sz 6/8",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-gorgeous-custom-made-designer/7302205745.html",
@@ -190,18 +202,6 @@
                 "where": "hayward / castro valley",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00T0T_9PducC3AIaSz_0jm0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7307576738",
-                "name": "Larger Size Wedding Dress With Train",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-larger-size-wedding-dress-with/7307576738.html",
-                "datetime": "2021-04-24 16:26",
-                "price": "$65",
-                "where": "san jose north",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_iPp3LLxBnSUz_0t20CI_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

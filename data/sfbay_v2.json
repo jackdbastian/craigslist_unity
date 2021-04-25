@@ -56,38 +56,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7312126734",
-                "name": "Vintage, beautiful leather coat by Deri Saray",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-beautiful-leather/7312126734.html",
-                "datetime": "2021-04-24 16:00",
-                "price": "$95",
-                "where": "Livermore",
+                "id": "7301528175",
+                "name": "Vintage Heritage Soft Brown Leather Briefcase/Computer Bag",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-heritage-soft-brown/7301528175.html",
+                "datetime": "2021-04-24 16:55",
+                "price": "$35",
+                "where": "Santa Cruz",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00k0k_fJ6xiga5f1wz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00y0y_3ABqAOo22E7_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7312126978",
-                "name": "Vintage Python Snake Purse or Briefcase for Laptop",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-python-snake-purse/7312126978.html",
-                "datetime": "2021-04-24 16:00",
-                "price": "$75",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7305291415",
+                "name": "Vintage Hand-Sewn, Embroidered Fabric Purse, price firm",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-hand-sewn/7305291415.html",
+                "datetime": "2021-04-24 16:48",
+                "price": "$50",
+                "where": "Santa Cruz",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01010_197HDJADT2hz_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00p0p_8LzoTO1yrM8_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7312124056",
-                "name": "Vintage brown ladies hat (OBO)",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-brown-ladies-hat/7312124056.html",
-                "datetime": "2021-04-24 15:53",
-                "price": "$5",
-                "where": "north beach / telegraph hill",
+                "id": "7312147146",
+                "name": "Vintage Pendleton Western Wool Coat Jacket Large",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-pendleton-western/7312147146.html",
+                "datetime": "2021-04-24 16:49",
+                "price": "$150",
+                "where": "palo alto",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00Q0Q_6VTo3k114lUz_0ew0jm_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00L0L_hBoeBXhlipNz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,30 @@
         ],
         "wedding dress": [
             {
+                "id": "7302205745",
+                "name": "Gorgeous custom made designer wedding dress sz 6/8",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-gorgeous-custom-made-designer/7302205745.html",
+                "datetime": "2021-04-24 16:49",
+                "price": "$950",
+                "where": "san mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00A0A_O2bpoN2EBF_0CI0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
+                "id": "7312141393",
+                "name": "Wedding Dress Sale",
+                "url": "https://sfbay.craigslist.org/eby/cld/d/hayward-wedding-dress-sale/7312141393.html",
+                "datetime": "2021-04-24 16:30",
+                "price": "$799",
+                "where": "hayward / castro valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00T0T_9PducC3AIaSz_0jm0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7307576738",
                 "name": "Larger Size Wedding Dress With Train",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-larger-size-wedding-dress-with/7307576738.html",
@@ -178,30 +202,6 @@
                 "where": "san jose north",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00c0c_iPp3LLxBnSUz_0t20CI_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7308089496",
-                "name": "NEW $1.2K Galina Wedding Dress (2)",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-new-12k-galina-wedding/7308089496.html",
-                "datetime": "2021-04-24 15:49",
-                "price": "$499",
-                "where": null,
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00F0F_f0sMNnHMZLZ_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7312078127",
-                "name": "Ludlow Gown BHLDN Wedding Dress Anthropologie",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-ludlow-gown-bhldn-wedding-dress/7312078127.html",
-                "datetime": "2021-04-24 15:25",
-                "price": "$600",
-                "where": "oakland rockridge / claremont",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00V0V_fXpsK034FqCz_0aO0bC_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

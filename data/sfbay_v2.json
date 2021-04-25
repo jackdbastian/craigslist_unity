@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7312577420",
+                "name": "Misc Wood materials for Sale",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-misc-wood-materials-for-sale/7312577420.html",
+                "datetime": "2021-04-25 16:15",
+                "price": "$200",
+                "where": "richmond / point / annex",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00303_6WEKPRPndfGz_07g09G_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7312567117",
                 "name": "6ea wood billets for baseball bats",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-6ea-wood-billets-for-baseball/7312567117.html",
@@ -38,56 +50,44 @@
                 "image_url": "https://images.craigslist.org/00P0P_hptPoZGnt7J_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7312515940",
-                "name": "Unused unpainted wood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/el-sobrante-unused-unpainted-wood/7312515940.html",
-                "datetime": "2021-04-25 13:59",
-                "price": "$100",
-                "where": "richmond / point / annex",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00G0G_c6HHs7ojJFaz_0t20CI_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7312564602",
-                "name": "VINTAGE - XL - Pullover Jacket - Climate Control by Fashion Rite Corp",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/richmond-vintage-xl-pullover-jacket/7312564602.html",
-                "datetime": "2021-04-25 15:51",
-                "price": "$120",
-                "where": "richmond / point / annex",
+                "id": "7312576929",
+                "name": "vintage snapon belt buckles",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/windsor-vintage-snapon-belt-buckles/7312576929.html",
+                "datetime": "2021-04-25 16:14",
+                "price": "$50",
+                "where": "healdsburg / windsor",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00P0P_jrrhWRyhBHn_0CI0nK_600x450.jpg",
+                "image_url": "https://images.craigslist.org/01010_b3IUT9ra1Ciz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7312564684",
-                "name": "VINTAGE Golden State Warriors - NBA Starter Jacket - Large",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/richmond-vintage-golden-state-warriors/7312564684.html",
-                "datetime": "2021-04-25 15:46",
-                "price": "$245",
-                "where": "richmond / point / annex",
+                "id": "7312577494",
+                "name": "Vintage Real Gold Anniversary Pacific Bell Tie Clips",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-real-gold/7312577494.html",
+                "datetime": "2021-04-25 16:15",
+                "price": "$15",
+                "where": "santa rosa",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_evCtbm3oTx7_0tA0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00c0c_jUp5cKBCopgz_0jm0ew_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7307483861",
-                "name": "Lowrider brims lowrider hats lowrider shirts 90s vintage homies",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-lowrider-brims-lowrider-hats/7307483861.html",
-                "datetime": "2021-04-25 15:38",
-                "price": "$1",
-                "where": "san jose north",
+                "id": "7312576372",
+                "name": "Rare vintage Mac tools belt buckle",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/windsor-rare-vintage-mac-tools-belt/7312576372.html",
+                "datetime": "2021-04-25 16:13",
+                "price": "$50",
+                "where": "healdsburg / windsor",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_iV2UdkpXtuH_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00J0J_kMugZa3z1P2z_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7312574991",
+                "name": "Vintage 1969 Venetian Lace Wedding Dress, size 2",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/el-cerrito-vintage-1969-venetian-lace/7312574991.html",
+                "datetime": "2021-04-25 16:10",
+                "price": "$110",
+                "where": "albany / el cerrito",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Y0Y_l5gSaMtkrkfz_0lM0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7312529678",
                 "name": "Designer wedding dress and veil",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-designer-wedding-dress-and/7312529678.html",
@@ -192,21 +204,33 @@
                 "image_url": "https://images.craigslist.org/00i0i_hyCLcITbbF4z_0c60qc_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
-            },
-            {
-                "id": "7307553628",
-                "name": "Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/newark-wedding-dress/7307553628.html",
-                "datetime": "2021-04-25 12:56",
-                "price": "$750",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00T0T_fkXiyBW0mJKz_0t20CI_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
             }
         ],
         "great condition": [
+            {
+                "id": "7312581760",
+                "name": "Oakley Backpack Computer Bag Streetman Pack 2.0 Great Condition",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-oakley-backpack-computer-bag/7312581760.html",
+                "datetime": "2021-04-25 16:25",
+                "price": "$10",
+                "where": null,
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00G0G_4Peugspu1S0_1320MM_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
+                "id": "7312569295",
+                "name": "Marc Jacobs Leather Handbag Tote - Great Condition Clean",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-marc-jacobs-leather-handbag/7312569295.html",
+                "datetime": "2021-04-25 15:57",
+                "price": "$50",
+                "where": "milpitas",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00000_S08RfCpqwW_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
             {
                 "id": "7300941257",
                 "name": "Coach Genuine Leather Handbag Red in Great Condition",
@@ -216,30 +240,6 @@
                 "where": "milpitas",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00r0r_1UyNU1bhFz1_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7308774839",
-                "name": "TEN Long/Mid Sleeve Women's Shirts, GREAT Condition! Size LRG/MED",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-ten-long-mid-sleeve/7308774839.html",
-                "datetime": "2021-04-24 09:34",
-                "price": "$25",
-                "where": "half moon bay",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00G0G_3VamjCbYfUR_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7306205012",
-                "name": "Really Cute Red GUESS 4 1/2\" Platform Shoes, Size 8, Great Condition!",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-really-cute-red-guess/7306205012.html",
-                "datetime": "2021-04-24 09:28",
-                "price": "$35",
-                "where": "half moon bay",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

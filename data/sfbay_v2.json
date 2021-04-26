@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7312655108",
+                "name": "Wood Ceiling Beams",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-wood-ceiling-beams/7312655108.html",
+                "datetime": "2021-04-25 20:15",
+                "price": "$275",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01111_1oafc5Z3D0Wz_07K0ak_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7311154083",
                 "name": "BRAND NEW PVC AND WOOD EDGES BAND FOR CABINETS MAKERS",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-pvc-and-wood-edges/7311154083.html",
@@ -38,61 +50,61 @@
                 "image_url": "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7312577420",
-                "name": "Misc Wood materials for Sale",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-misc-wood-materials-for-sale/7312577420.html",
-                "datetime": "2021-04-25 16:15",
-                "price": "$200",
-                "where": "richmond / point / annex",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00303_6WEKPRPndfGz_07g09G_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7308074643",
-                "name": "Vintage OTC Sterling Silver Charm Bracelet W/ Telephone Theme Charms",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-otc-sterling/7308074643.html",
-                "datetime": "2021-04-25 18:46",
-                "price": "$49",
-                "where": "mission district",
+                "id": "7309262604",
+                "name": "Adult's Sexy Vintage Gothic 80s Black Lace Hair Headband Scarf Costume",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-adults-sexy-vintage-gothic-80s/7309262604.html",
+                "datetime": "2021-04-25 20:26",
+                "price": "$5",
+                "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_bta5EI425fK_0dW09y_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00r0r_fD9Y1JnXaRp_07K0ak_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7300899717",
-                "name": "Beautiful Vintage Sterling Silver 2 Ball Dangle Earrings",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-beautiful-vintage/7300899717.html",
-                "datetime": "2021-04-25 18:44",
-                "price": "$55",
-                "where": "mission district",
+                "id": "7309097103",
+                "name": "(9) Vintage Women's Scarves, Antique Hat & More! Good Condition",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-womens-scarves-antique/7309097103.html",
+                "datetime": "2021-04-25 19:53",
+                "price": "$15",
+                "where": "san jose south",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00S0S_kWzJecjhzzN_0jb0ne_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00101_cfM2CHJUVXlz_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7300900235",
-                "name": "Vintage TOPAZIO Portugal Sterling Silver Vermeil Butterfly Pin Brooch",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-topazio-portugal/7300900235.html",
-                "datetime": "2021-04-25 18:43",
-                "price": "$45",
-                "where": "mission district",
+                "id": "7301492216",
+                "name": "Vintage Frye Cowboy Boots",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-frye-cowboy-boots/7301492216.html",
+                "datetime": "2021-04-25 19:46",
+                "price": "$50",
+                "where": "oakland downtown",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00n0n_fOpJN2f3Tns_0dP0hq_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00o0o_eOlhjf4D5GB_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7312636058",
+                "name": "Beaded Drama Sleeveless Dress",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/napa-beaded-drama-sleeveless-dress/7312636058.html",
+                "datetime": "2021-04-25 18:59",
+                "price": "$10",
+                "where": "napa county",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7309116098",
                 "name": "BEAUTIFUL BEADED PURSE! BIG SALE! $15 OFF  Perfect for holidays!",
@@ -116,59 +128,71 @@
                 "image_url": "https://images.craigslist.org/01616_8L6Q24znaWZz_0pO0jm_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
-            },
-            {
-                "id": "7307019615",
-                "name": "Vintage Beaded Gold Leather Clutch Purse",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-beaded-gold-leather/7307019615.html",
-                "datetime": "2021-04-25 10:36",
-                "price": "$20",
-                "where": "Santa Cruz",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01515_f2TGDDxNS8Kz_0t20CI_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
             }
         ],
         "gloves": [
             {
-                "id": "7312628774",
-                "name": "Bluetooth black gloves",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/pacifica-bluetooth-black-gloves/7312628774.html",
-                "datetime": "2021-04-25 18:35",
-                "price": "$10",
-                "where": "pacifica",
+                "id": "7304251715",
+                "name": "Deadpool Adult Gloves Costume Accessory One Size New!!!",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-deadpool-adult-gloves-costume/7304251715.html",
+                "datetime": "2021-04-25 20:24",
+                "price": "$5",
+                "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_lJJdf6a7I3Hz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/01111_jNj0Z8lFdql_0ak07K_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             },
             {
-                "id": "7312608061",
-                "name": "Women\u2019s Seirus Extreme Weather Black Waterproof Gloves",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/pacifica-womens-seirus-extreme-weather/7312608061.html",
-                "datetime": "2021-04-25 17:32",
-                "price": "$25",
-                "where": "pacifica",
+                "id": "7306000103",
+                "name": "Fishnet 80's Wrist GLOVES GREEN Rave School Spirit Cheerleader New!!!",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-fishnet-80s-wrist-gloves-green/7306000103.html",
+                "datetime": "2021-04-25 20:02",
+                "price": "$5",
+                "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00M0M_ak2hHSQVdAWz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00Y0Y_kZoesVG6WK7_07K0ak_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             },
             {
-                "id": "7312593956",
-                "name": "Demon Electronic Touch Snow Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-demon-electronic-touch-snow/7312593956.html",
-                "datetime": "2021-04-25 16:55",
-                "price": "$20",
-                "where": "Dublin",
+                "id": "7307561944",
+                "name": "Fishnet 80's Wrist GLOVES White Rave School Spirit Cheerleader New!!!",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-fishnet-80s-wrist-gloves-white/7307561944.html",
+                "datetime": "2021-04-25 19:32",
+                "price": "$5",
+                "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00I0I_kcyOHYzRsdiz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00Y0Y_ljaGfWceFIu_07K0ak_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7300329945",
+                "name": "WEDDING DRESS & an Eve. Dress!",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7300329945.html",
+                "datetime": "2021-04-25 19:28",
+                "price": "$65",
+                "where": "sunnyvale",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
+                "id": "7304267952",
+                "name": "San Patrick 1964 Seymour Wedding Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-san-patrick-1964-seymour/7304267952.html",
+                "datetime": "2021-04-25 18:57",
+                "price": "$1",
+                "where": "santa clara",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7312574991",
                 "name": "Vintage 1969 Venetian Lace Wedding Dress, size 2",
@@ -180,33 +204,21 @@
                 "image_url": "https://images.craigslist.org/00Y0Y_l5gSaMtkrkfz_0lM0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
-            },
-            {
-                "id": "7312529678",
-                "name": "Designer wedding dress and veil",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-designer-wedding-dress-and/7312529678.html",
-                "datetime": "2021-04-25 14:27",
-                "price": "$350",
-                "where": "lafayette / orinda / moraga",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00q0q_6kVvPQMuT1jz_0MM132_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7312513446",
-                "name": "Maggie Sottero Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-maggie-sottero-wedding-dress/7312513446.html",
-                "datetime": "2021-04-25 13:54",
-                "price": "$295",
-                "where": "san jose south",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00i0i_hyCLcITbbF4z_0c60qc_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
             }
         ],
         "great condition": [
+            {
+                "id": "7309098061",
+                "name": "Men's\\Women's Jackets- Great Condition- Lightweight & Comfy ($5-10 ea)",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-menswomens-jackets-great/7309098061.html",
+                "datetime": "2021-04-25 19:37",
+                "price": "$5",
+                "where": "san jose south",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00O0O_17JNxo0fRKIz_0t20CI_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
             {
                 "id": "7312581760",
                 "name": "Oakley Backpack Computer Bag Streetman Pack 2.0 Great Condition",
@@ -228,18 +240,6 @@
                 "where": "milpitas",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00000_S08RfCpqwW_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7300941257",
-                "name": "Coach Genuine Leather Handbag Red in Great Condition",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-coach-genuine-leather-handbag/7300941257.html",
-                "datetime": "2021-04-25 12:05",
-                "price": "$30",
-                "where": "milpitas",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00r0r_1UyNU1bhFz1_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

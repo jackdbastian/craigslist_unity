@@ -12,18 +12,6 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
-            },
-            {
-                "id": "7309381210",
-                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
-                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
-                "datetime": "2021-04-19 11:22",
-                "price": "$0",
-                "where": "We Ship Nationwide",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
-                "query": "gravel",
-                "category": "maa"
             }
         ],
         "wood": [
@@ -68,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7313053064",
+                "name": "6 VINTAGE WALL MOUNTED CLOTHING HANGERS",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-wall-mounted-clothing/7313053064.html",
+                "datetime": "2021-04-26 14:47",
+                "price": "$15",
+                "where": "san jose south",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00e0e_hjdxEad9Bq7_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7300718417",
                 "name": "Vintage Clothing - Silver-Grey Fur Stole 1910-1940",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/san-anselmo-vintage-clothing-silver/7300718417.html",
@@ -90,21 +90,33 @@
                 "image_url": "https://images.craigslist.org/00909_6120stMHsOj_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
-            },
-            {
-                "id": "7301360658",
-                "name": "Vintage purses/bags",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/livermore-vintage-purses-bags/7301360658.html",
-                "datetime": "2021-04-26 14:10",
-                "price": "$3",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00M0M_jdT5bLRDPTG_0lM0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7301465182",
+                "name": "* Set of 10 Designer Beaded Bracelets (by Roxanne Assoulin) *",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-set-of-10-designer-beaded/7301465182.html",
+                "datetime": "2021-04-26 14:51",
+                "price": "$5",
+                "where": "emeryville",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
+            {
+                "id": "7313053689",
+                "name": "Gorgeous, beaded La Sposa wedding dress",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-gorgeous-beaded-la-sposa/7313053689.html",
+                "datetime": "2021-04-26 14:48",
+                "price": "$500",
+                "where": "San Francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00O0O_7DCxxRB4pPSz_0cz0t2_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7304497407",
                 "name": "Vintage Blue Sequins Beaded Flowered Clutch Purse",
@@ -114,30 +126,6 @@
                 "where": "san jose east",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
-            },
-            {
-                "id": "7312784288",
-                "name": "Nina beaded sandals",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/capitola-nina-beaded-sandals/7312784288.html",
-                "datetime": "2021-04-26 07:40",
-                "price": "$20",
-                "where": "santa cruz",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Q0Q_1nf3QkCKwrzz_0lM0t2_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
-            },
-            {
-                "id": "7312636058",
-                "name": "Beaded Drama Sleeveless Dress",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/napa-beaded-drama-sleeveless-dress/7312636058.html",
-                "datetime": "2021-04-25 18:59",
-                "price": "$10",
-                "where": "napa county",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
             }
@@ -182,38 +170,38 @@
         ],
         "wedding dress": [
             {
-                "id": "7302985305",
-                "name": "Storybook Wedding or Lace Dress Size 14",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/livermore-storybook-wedding-or-lace/7302985305.html",
-                "datetime": "2021-04-26 14:10",
-                "price": "$5",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7313053689",
+                "name": "Gorgeous, beaded La Sposa wedding dress",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-gorgeous-beaded-la-sposa/7313053689.html",
+                "datetime": "2021-04-26 14:48",
+                "price": "$500",
+                "where": "San Francisco",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00K0K_iVg3jiESW8Lz_0ej0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00O0O_7DCxxRB4pPSz_0cz0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             },
             {
-                "id": "7312936370",
-                "name": "Larger Size Wedding Dress With Train",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-larger-size-wedding-dress-with/7312936370.html",
-                "datetime": "2021-04-26 11:31",
-                "price": "$65",
-                "where": "san jose north",
+                "id": "7312989816",
+                "name": "Maggie Sottero Wedding Dress",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/redwood-city-maggie-sottero-wedding/7312989816.html",
+                "datetime": "2021-04-26 14:41",
+                "price": "$300",
+                "where": "redwood city",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_iPp3LLxBnSUz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/01313_7wOX2srPjMez_0lM0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             },
             {
-                "id": "7307394646",
-                "name": "Wedding Dress - Brand New-never used",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/wedding-dress-brand-new-never-used/7307394646.html",
-                "datetime": "2021-04-26 11:14",
-                "price": "$75",
-                "where": "healdsburg / windsor",
+                "id": "7312989997",
+                "name": "Maggie Sottero Wedding Dress",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/redwood-city-maggie-sottero-wedding/7312989997.html",
+                "datetime": "2021-04-26 14:27",
+                "price": "$300",
+                "where": "redwood city",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00202_eK953Y8BUdDz_0da0h2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/01313_7wOX2srPjMez_0lM0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

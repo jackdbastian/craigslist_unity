@@ -56,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7302424220",
+                "name": "Vintage Wilson\u2019s Women\u2019s Fur Coat",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-wilsons-womens-fur-coat/7302424220.html",
+                "datetime": "2021-04-26 13:56",
+                "price": "$60",
+                "where": "oakland lake merritt / grand",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00T0T_aaafxeoN0c8z_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7311604725",
                 "name": "Vintage Patagonia Women\u2019s Fleece Jacket size XL",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-patagonia-womens/7311604725.html",
@@ -76,18 +88,6 @@
                 "where": "sunset / parkside",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00n0n_ajmPFsNmTJEz_0jm0jm_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7310048112",
-                "name": "Vintage mink & fox fur stoles, shawls, & jackets for weddings, events",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/oakland-vintage-mink-fox-fur-stoles/7310048112.html",
-                "datetime": "2021-04-26 12:12",
-                "price": "$175",
-                "where": "haight ashbury",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01717_61ZMClj4mBX_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

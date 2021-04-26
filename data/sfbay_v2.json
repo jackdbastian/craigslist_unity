@@ -12,42 +12,54 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
+            },
+            {
+                "id": "7309381210",
+                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
+                "datetime": "2021-04-19 11:22",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
             }
         ],
         "wood": [
             {
-                "id": "7305395293",
-                "name": "WOOD MOULDINGS",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-wood-mouldings/7305395293.html",
-                "datetime": "2021-04-26 15:27",
+                "id": "7309629590",
+                "name": "Lumber Shelving Lumber, 18\u201d X 48\u201d x 5/8\u201d + partial supports",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-lumber-shelving-lumber-18/7309629590.html",
+                "datetime": "2021-04-26 15:51",
+                "price": "$16",
+                "where": "Want Creek",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00k0k_eBideSp7FWqz_0lM0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7310177125",
+                "name": "WOOD CHIPS 3YRD $150 DELIVERED",
+                "url": "https://sfbay.craigslist.org/scz/mat/d/santa-cruz-wood-chips-3yrd-150-delivered/7310177125.html",
+                "datetime": "2021-04-26 15:44",
+                "price": "$150",
+                "where": "SANTA CRUZ COUNTY",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01414_hdanYSoMNYKz_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7305360688",
+                "name": "WOOD PIECES/PLYWOOD/PARTICLE BOARD/ TEAK/ WALNUT/ OAK",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-wood-pieces-plywood/7305360688.html",
+                "datetime": "2021-04-26 15:28",
                 "price": "$1",
                 "where": "walnut creek",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00k0k_9kZHtrtcNXHz_0CI0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7308493306",
-                "name": "32x80\u201d wood screen door",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/atherton-32x80-wood-screen-door/7308493306.html",
-                "datetime": "2021-04-26 14:17",
-                "price": "$30",
-                "where": "atherton",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00C0C_fbuqFtAfiswz_0fw0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7299846069",
-                "name": "Miscellaneous barn wood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-miscellaneous-barn-wood/7299846069.html",
-                "datetime": "2021-04-26 14:08",
-                "price": "$150",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00Z0Z_1snsU1Yu4gFz_0CI0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             }
@@ -56,38 +68,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7309850100",
-                "name": "Ladies Vintage Snow Boots - Size 8 - New",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-ladies-vintage-snow-boots/7309850100.html",
-                "datetime": "2021-04-26 15:07",
+                "id": "7300280536",
+                "name": "Vintage Ladies San Jose State University Vest (Size Large)",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-ladies-san-jose/7300280536.html",
+                "datetime": "2021-04-26 15:49",
                 "price": "$20",
-                "where": "santa clara",
+                "where": "scotts valley",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00x0x_dERQUZ9FIvG_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00p0p_im2Qfdw9ivbz_0AU0rC_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7310107734",
-                "name": "vintage satin & lace wedding dress and veil Victorian style",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-vintage-satin-lace-wedding-dress/7310107734.html",
-                "datetime": "2021-04-26 15:00",
-                "price": "$65",
-                "where": "novato",
+                "id": "7300280731",
+                "name": "Vintage Bay to Breakers T Shirt (Size XL)",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-bay-to-breakers/7300280731.html",
+                "datetime": "2021-04-26 15:49",
+                "price": "$40",
+                "where": "scotts valley",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00r0r_82icY1ZETGNz_0eC0pO_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00V0V_9ZUYqg3DcWjz_0jm0pO_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7313053064",
-                "name": "6 VINTAGE WALL MOUNTED CLOTHING HANGERS",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-wall-mounted-clothing/7313053064.html",
-                "datetime": "2021-04-26 14:47",
-                "price": "$15",
-                "where": "san jose south",
+                "id": "7298924744",
+                "name": "1930s Vintage Women's Hats",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-1930s-vintage-womens-hats/7298924744.html",
+                "datetime": "2021-04-26 15:48",
+                "price": "$12",
+                "where": "mission district",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00e0e_hjdxEad9Bq7_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00N0N_j4NCd7DDMzl_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +182,30 @@
         ],
         "wedding dress": [
             {
+                "id": "7311858438",
+                "name": "NEW La Sposa Wedding Dress - Never Worn",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-new-la-sposa-wedding-dress/7311858438.html",
+                "datetime": "2021-04-26 15:38",
+                "price": "$200",
+                "where": "san jose west",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
+                "id": "7301762108",
+                "name": "WEDDING DRESS & an Eve. Dress!",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7301762108.html",
+                "datetime": "2021-04-26 15:35",
+                "price": "$65",
+                "where": "sunnyvale",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7311952825",
                 "name": "Wedding Dress Size 16",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-wedding-dress-size-16/7311952825.html",
@@ -178,30 +214,6 @@
                 "where": "santa clara",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00Q0Q_9Al9HeLD21ez_0CI0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7300972908",
-                "name": "Elegant Wedding Dress - New with Tags",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/los-altos-elegant-wedding-dress-new/7300972908.html",
-                "datetime": "2021-04-26 15:08",
-                "price": "$120",
-                "where": "los altos",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00u0u_f1mz7duj9E7z_0fh0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7310107734",
-                "name": "vintage satin & lace wedding dress and veil Victorian style",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-vintage-satin-lace-wedding-dress/7310107734.html",
-                "datetime": "2021-04-26 15:00",
-                "price": "$65",
-                "where": "novato",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00r0r_82icY1ZETGNz_0eC0pO_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

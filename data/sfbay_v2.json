@@ -56,6 +56,30 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7312667634",
+                "name": "LEABAGS Acapulco Vintage Buffalo Leather Messenger",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-leabags-acapulco-vintage/7312667634.html",
+                "datetime": "2021-04-25 21:18",
+                "price": "$70",
+                "where": "santa clara",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00P0P_exRulTCZXJGz_0bC0ft_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7312666475",
+                "name": "Vintage Clothing Throwback Gear 24hrs a Day",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/burlingame-vintage-clothing-throwback/7312666475.html",
+                "datetime": "2021-04-25 21:11",
+                "price": "$1",
+                "where": "Burlingame",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00C0C_gzF22Pht9o7z_0CI0CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7307045087",
                 "name": "NEW Men's Vintage Shoe Company Boots, Black Size 11.5",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/saratoga-new-mens-vintage-shoe-company/7307045087.html",
@@ -64,30 +88,6 @@
                 "where": "saratoga",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00d0d_csLjAEiOpmzz_0t20CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7309262604",
-                "name": "Adult's Sexy Vintage Gothic 80s Black Lace Hair Headband Scarf Costume",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-adults-sexy-vintage-gothic-80s/7309262604.html",
-                "datetime": "2021-04-25 20:26",
-                "price": "$5",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00r0r_fD9Y1JnXaRp_07K0ak_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7309097103",
-                "name": "(9) Vintage Women's Scarves, Antique Hat & More! Good Condition",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-womens-scarves-antique/7309097103.html",
-                "datetime": "2021-04-25 19:53",
-                "price": "$15",
-                "where": "san jose south",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00101_cfM2CHJUVXlz_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

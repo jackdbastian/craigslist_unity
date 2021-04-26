@@ -12,9 +12,45 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
+            },
+            {
+                "id": "7309381210",
+                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
+                "datetime": "2021-04-19 11:22",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
             }
         ],
         "wood": [
+            {
+                "id": "7310017861",
+                "name": "RED OAK Lumber wood  Furniture Grade Never Used  Seasoned",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-red-oak-lumber-wood-furniture/7310017861.html",
+                "datetime": "2021-04-26 10:08",
+                "price": "$15",
+                "where": "san mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00A0A_5Wt0BivewTnz_0pO0jm_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7312880354",
+                "name": "NEW WOOD SIGN / MAILBOX POST/BIRD FEEDER",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/daly-city-new-wood-sign-mailbox-post/7312880354.html",
+                "datetime": "2021-04-26 10:07",
+                "price": "$20",
+                "where": "daly city",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00K0K_8dmBrN8fl9Y_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
             {
                 "id": "7303755567",
                 "name": "75x52\u201d wood window",
@@ -24,30 +60,6 @@
                 "where": "Presidio Heights",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7298865207",
-                "name": "steel and wood Coffee table / side table tops",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/petaluma-steel-and-wood-coffee-table/7298865207.html",
-                "datetime": "2021-04-26 09:12",
-                "price": "$20",
-                "where": "petaluma",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00e0e_gm9qaMa0maT_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7309627713",
-                "name": "Garage door section, wood, 92 x 11.5 inch",
-                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-garage-door-section-wood/7309627713.html",
-                "datetime": "2021-04-26 08:42",
-                "price": "$25",
-                "where": "castro / upper market",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00r0r_eUxUlHICldG_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             }
@@ -132,6 +144,18 @@
         ],
         "gloves": [
             {
+                "id": "7309432495",
+                "name": "Merino Wool Gloves & Scarf",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-merino-wool-gloves-scarf/7309432495.html",
+                "datetime": "2021-04-26 09:58",
+                "price": "$40",
+                "where": "berkeley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00C0C_2Jd5vBLz2Bc_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7312803481",
                 "name": "Vintage White Gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7312803481.html",
@@ -152,18 +176,6 @@
                 "where": "san jose west",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00y0y_buNbEI0lQvHz_0A10t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7307128189",
-                "name": "Shawl and Dress Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-shawl-and-dress-gloves/7307128189.html",
-                "datetime": "2021-04-26 07:21",
-                "price": "$10",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00k0k_36eyVomHXLQ_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

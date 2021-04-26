@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7305395293",
+                "name": "WOOD MOULDINGS",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-wood-mouldings/7305395293.html",
+                "datetime": "2021-04-26 15:27",
+                "price": "$1",
+                "where": "walnut creek",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00k0k_9kZHtrtcNXHz_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7308493306",
                 "name": "32x80\u201d wood screen door",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/atherton-32x80-wood-screen-door/7308493306.html",
@@ -38,23 +50,35 @@
                 "image_url": "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7301375645",
-                "name": "Old  wood framed windows 15.00 to 30.00",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-old-wood-framed-windows-1500/7301375645.html",
-                "datetime": "2021-04-26 14:08",
-                "price": "$30",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Z0Z_fSVeMGQdMBTz_0CI0pl_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7309850100",
+                "name": "Ladies Vintage Snow Boots - Size 8 - New",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-ladies-vintage-snow-boots/7309850100.html",
+                "datetime": "2021-04-26 15:07",
+                "price": "$20",
+                "where": "santa clara",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00x0x_dERQUZ9FIvG_0CI0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7310107734",
+                "name": "vintage satin & lace wedding dress and veil Victorian style",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-vintage-satin-lace-wedding-dress/7310107734.html",
+                "datetime": "2021-04-26 15:00",
+                "price": "$65",
+                "where": "novato",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00r0r_82icY1ZETGNz_0eC0pO_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7313053064",
                 "name": "6 VINTAGE WALL MOUNTED CLOTHING HANGERS",
@@ -64,30 +88,6 @@
                 "where": "san jose south",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00e0e_hjdxEad9Bq7_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7300718417",
-                "name": "Vintage Clothing - Silver-Grey Fur Stole 1910-1940",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/san-anselmo-vintage-clothing-silver/7300718417.html",
-                "datetime": "2021-04-26 14:26",
-                "price": "$20",
-                "where": "san anselmo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_c2lYIFCEuJg_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7300718622",
-                "name": "Vintage Clothing - Natural Mink Fur Stole, 6-pelt, 1910-1940",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/san-anselmo-vintage-clothing-natural/7300718622.html",
-                "datetime": "2021-04-26 14:26",
-                "price": "$35",
-                "where": "san anselmo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00909_6120stMHsOj_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7313065124",
+                "name": "Kids ski mittens / gloves (2 pairs)",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/south-san-francisco-kids-ski-mittens/7313065124.html",
+                "datetime": "2021-04-26 15:11",
+                "price": "$10",
+                "where": "south san francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00n0n_jEJiCqKnMcbz_0CI0iP_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7311832429",
                 "name": "NEW hat + scarf +  gloves set",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-new-hat-scarf-gloves-set/7311832429.html",
@@ -154,54 +166,42 @@
                 "image_url": "https://images.craigslist.org/00m0m_3SqIDRXHll3z_0hq0n8_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7300952258",
-                "name": "Vintage Fownes Brothers Black Gloves Fur Lining Nylon Fourchette",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-fownes-brothers/7300952258.html",
-                "datetime": "2021-04-26 12:00",
-                "price": "$30",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00G0G_7gsoSRYHaO2z_0t20t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
             {
-                "id": "7313053689",
-                "name": "Gorgeous, beaded La Sposa wedding dress",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-gorgeous-beaded-la-sposa/7313053689.html",
-                "datetime": "2021-04-26 14:48",
-                "price": "$500",
-                "where": "San Francisco",
+                "id": "7311952825",
+                "name": "Wedding Dress Size 16",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-wedding-dress-size-16/7311952825.html",
+                "datetime": "2021-04-26 15:17",
+                "price": "$20",
+                "where": "santa clara",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00O0O_7DCxxRB4pPSz_0cz0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00Q0Q_9Al9HeLD21ez_0CI0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             },
             {
-                "id": "7312989816",
-                "name": "Maggie Sottero Wedding Dress",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/redwood-city-maggie-sottero-wedding/7312989816.html",
-                "datetime": "2021-04-26 14:41",
-                "price": "$300",
-                "where": "redwood city",
+                "id": "7300972908",
+                "name": "Elegant Wedding Dress - New with Tags",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/los-altos-elegant-wedding-dress-new/7300972908.html",
+                "datetime": "2021-04-26 15:08",
+                "price": "$120",
+                "where": "los altos",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01313_7wOX2srPjMez_0lM0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00u0u_f1mz7duj9E7z_0fh0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             },
             {
-                "id": "7312989997",
-                "name": "Maggie Sottero Wedding Dress",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/redwood-city-maggie-sottero-wedding/7312989997.html",
-                "datetime": "2021-04-26 14:27",
-                "price": "$300",
-                "where": "redwood city",
+                "id": "7310107734",
+                "name": "vintage satin & lace wedding dress and veil Victorian style",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-vintage-satin-lace-wedding-dress/7310107734.html",
+                "datetime": "2021-04-26 15:00",
+                "price": "$65",
+                "where": "novato",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01313_7wOX2srPjMez_0lM0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00r0r_82icY1ZETGNz_0eC0pO_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

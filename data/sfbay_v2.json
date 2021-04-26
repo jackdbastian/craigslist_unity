@@ -56,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7301449849",
+                "name": "Vintage classic style dark blue purse",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/south-san-francisco-vintage-classic/7301449849.html",
+                "datetime": "2021-04-26 09:47",
+                "price": "$25",
+                "where": "south san francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00202_aEKW2g6GneTz_0lL0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7304497407",
                 "name": "Vintage Blue Sequins Beaded Flowered Clutch Purse",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-blue-sequins-beaded/7304497407.html",
@@ -76,18 +88,6 @@
                 "where": "nob hill",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00e0e_hbVkUlSA36dz_07K0ak_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7305509038",
-                "name": "vintage leather caramel color boots 6 - 6.5 women - a bargain!",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-caramel/7305509038.html",
-                "datetime": "2021-04-26 08:57",
-                "price": "$8",
-                "where": "nob hill",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00X0X_93C2hIwpQ0Wz_03003r_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

@@ -16,6 +16,30 @@
         ],
         "wood": [
             {
+                "id": "7311154083",
+                "name": "BRAND NEW PVC AND WOOD EDGES BAND FOR CABINETS MAKERS",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-pvc-and-wood-edges/7311154083.html",
+                "datetime": "2021-04-25 18:31",
+                "price": "$0",
+                "where": "San Jose",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00N0N_ejRg85sYQ31z_0x20oM_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7311135947",
+                "name": "BRAND NEW MAHOGANY SOLID WOOD",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-mahogany-solid-wood/7311135947.html",
+                "datetime": "2021-04-25 18:30",
+                "price": "$0",
+                "where": "San Jose",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7312577420",
                 "name": "Misc Wood materials for Sale",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-misc-wood-materials-for-sale/7312577420.html",
@@ -26,73 +50,61 @@
                 "image_url": "https://images.craigslist.org/00303_6WEKPRPndfGz_07g09G_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7312567117",
-                "name": "6ea wood billets for baseball bats",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-6ea-wood-billets-for-baseball/7312567117.html",
-                "datetime": "2021-04-25 15:52",
-                "price": "$75",
-                "where": "Livermore",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00N0N_dOQsIjpzg1Cz_0CI0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7302435517",
-                "name": "Brand new unpainted wood cabinet doors, approx 12\" x 16\"",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/mountain-view-brand-new-unpainted-wood/7302435517.html",
-                "datetime": "2021-04-25 15:00",
-                "price": "$15",
-                "where": "mountain view",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00P0P_hptPoZGnt7J_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7312576929",
-                "name": "vintage snapon belt buckles",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/windsor-vintage-snapon-belt-buckles/7312576929.html",
-                "datetime": "2021-04-25 16:14",
-                "price": "$50",
-                "where": "healdsburg / windsor",
+                "id": "7308074643",
+                "name": "Vintage OTC Sterling Silver Charm Bracelet W/ Telephone Theme Charms",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-otc-sterling/7308074643.html",
+                "datetime": "2021-04-25 18:46",
+                "price": "$49",
+                "where": "mission district",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01010_b3IUT9ra1Ciz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00b0b_bta5EI425fK_0dW09y_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7312577494",
-                "name": "Vintage Real Gold Anniversary Pacific Bell Tie Clips",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-real-gold/7312577494.html",
-                "datetime": "2021-04-25 16:15",
-                "price": "$15",
-                "where": "santa rosa",
+                "id": "7300899717",
+                "name": "Beautiful Vintage Sterling Silver 2 Ball Dangle Earrings",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-beautiful-vintage/7300899717.html",
+                "datetime": "2021-04-25 18:44",
+                "price": "$55",
+                "where": "mission district",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_jUp5cKBCopgz_0jm0ew_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00S0S_kWzJecjhzzN_0jb0ne_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7312576372",
-                "name": "Rare vintage Mac tools belt buckle",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/windsor-rare-vintage-mac-tools-belt/7312576372.html",
-                "datetime": "2021-04-25 16:13",
-                "price": "$50",
-                "where": "healdsburg / windsor",
+                "id": "7300900235",
+                "name": "Vintage TOPAZIO Portugal Sterling Silver Vermeil Butterfly Pin Brooch",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-topazio-portugal/7300900235.html",
+                "datetime": "2021-04-25 18:43",
+                "price": "$45",
+                "where": "mission district",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00J0J_kMugZa3z1P2z_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00n0n_fOpJN2f3Tns_0dP0hq_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7309116098",
+                "name": "BEAUTIFUL BEADED PURSE! BIG SALE! $15 OFF  Perfect for holidays!",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/redwood-estates-beautiful-beaded-purse/7309116098.html",
+                "datetime": "2021-04-25 18:17",
+                "price": "$0",
+                "where": "los gatos",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00y0y_nQcu4GXGnQ_0t20CI_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7312429655",
                 "name": "Vintage Josef Beaded Evening Bag",
@@ -116,54 +128,42 @@
                 "image_url": "https://images.craigslist.org/01515_f2TGDDxNS8Kz_0t20CI_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
-            },
-            {
-                "id": "7304741535",
-                "name": "Very Nice Royal Blue Beaded Party Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-very-nice-royal-blue-beaded/7304741535.html",
-                "datetime": "2021-04-25 10:04",
-                "price": "$40",
-                "where": "san jose north",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
             }
         ],
         "gloves": [
             {
-                "id": "7312567693",
-                "name": "Columbia Ski/Snowbard Gloves",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-columbia-ski-snowbard/7312567693.html",
-                "datetime": "2021-04-25 15:53",
-                "price": "$20",
-                "where": "San Francisco",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00000_9eSiRuuR9L5z_0t20CI_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7298506351",
-                "name": "Ski gloves & mittens",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/ski-gloves-mittens/7298506351.html",
-                "datetime": "2021-04-25 15:07",
+                "id": "7312628774",
+                "name": "Bluetooth black gloves",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/pacifica-bluetooth-black-gloves/7312628774.html",
+                "datetime": "2021-04-25 18:35",
                 "price": "$10",
-                "where": "walnut creek",
+                "where": "pacifica",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_3hghEXe8Qk4_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00h0h_lJJdf6a7I3Hz_0t20CI_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             },
             {
-                "id": "7310729033",
-                "name": "Wells Lamont Leather Work Gloves 3 pk 40% off",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wells-lamont-leather-work/7310729033.html",
-                "datetime": "2021-04-25 14:59",
-                "price": "$30",
-                "where": "san jose west",
+                "id": "7312608061",
+                "name": "Women\u2019s Seirus Extreme Weather Black Waterproof Gloves",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/pacifica-womens-seirus-extreme-weather/7312608061.html",
+                "datetime": "2021-04-25 17:32",
+                "price": "$25",
+                "where": "pacifica",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00M0M_ak2hHSQVdAWz_0t20CI_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
+                "id": "7312593956",
+                "name": "Demon Electronic Touch Snow Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-demon-electronic-touch-snow/7312593956.html",
+                "datetime": "2021-04-25 16:55",
+                "price": "$20",
+                "where": "Dublin",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00I0I_kcyOHYzRsdiz_0t20CI_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

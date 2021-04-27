@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7304721018",
+                "name": "TWO SOLID WOOD DOORS 3' x 8'",
+                "url": "https://sfbay.craigslist.org/sfc/mat/d/fresno-two-solid-wood-doors-x/7304721018.html",
+                "datetime": "2021-04-27 10:24",
+                "price": "$4,995",
+                "where": "Fresno",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00c0c_kZIWe3hHbmC_0t20CI_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7307820809",
                 "name": "BEHR 5 Gallon Paint Interior Exterior Elastomeric Water Proofing Wood",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-behr-gallon-paint-interior/7307820809.html",
@@ -38,61 +50,61 @@
                 "image_url": "https://images.craigslist.org/00I0I_9fAjL0znxMTz_0600af_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7300502002",
-                "name": "New Simpson #82 Interior Solid Wood Door",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-simpson-82-interior-solid/7300502002.html",
-                "datetime": "2021-04-27 07:42",
-                "price": "$150",
-                "where": "berkeley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00I0I_kXH9L8SNIpPz_0t20CI_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7313384801",
-                "name": "Vintage Porsche Design By Carrera 5623 Silver Sunglasses",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-porsche-design-by/7313384801.html",
-                "datetime": "2021-04-27 09:50",
-                "price": "$200",
-                "where": "walnut creek",
+                "id": "7300097535",
+                "name": "Vintage Black and White Dress With Rhinestone and Crocheted Trim",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-black-and-white-dress/7300097535.html",
+                "datetime": "2021-04-27 10:40",
+                "price": "$20",
+                "where": "san jose north",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00o0o_5JHT62MOo41z_0kE0fV_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7302142260",
-                "name": "Coach Vintage Authentic Black  Briefcase",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-coach-vintage-authentic/7302142260.html",
-                "datetime": "2021-04-27 09:22",
-                "price": "$110",
-                "where": "pacific heights",
+                "id": "7303508798",
+                "name": "Vintage Moroccan leather travel bag",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-moroccan-leather/7303508798.html",
+                "datetime": "2021-04-27 10:37",
+                "price": "$100",
+                "where": "berkeley",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00P0P_a3nfc0IPfS1z_0ak07K_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00c0c_3L5S7tcdxaF_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7313364894",
-                "name": "Vintage Hawaiian shirt",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-hawaiian-shirt/7313364894.html",
-                "datetime": "2021-04-27 09:19",
-                "price": "$25",
-                "where": "hayward / castro valley",
+                "id": "7300256882",
+                "name": "Vintage Purses",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-bruno-vintage-purses/7300256882.html",
+                "datetime": "2021-04-27 10:29",
+                "price": "$10",
+                "where": "san bruno",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00q0q_ece4gRfTkJ8z_0hq0ne_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00T0T_idrdis4xIEc_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7304741535",
+                "name": "Very Nice Royal Blue Beaded Party Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-very-nice-royal-blue-beaded/7304741535.html",
+                "datetime": "2021-04-27 10:41",
+                "price": "$40",
+                "where": "san jose north",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7302791832",
                 "name": "Versace Beaded Shirt Women's Large",
@@ -116,59 +128,59 @@
                 "image_url": "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
-            },
-            {
-                "id": "7300376746",
-                "name": "Vintage Small Evening Bag Black Beaded",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-small-evening-bag/7300376746.html",
-                "datetime": "2021-04-26 16:57",
-                "price": "$10",
-                "where": "san mateo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_6yFgg5OmdC2z_0t20CI_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
             }
         ],
         "gloves": [
             {
-                "id": "7313216718",
-                "name": "COACH Gloves-Never Worn",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-coach-gloves-never-worn/7313216718.html",
-                "datetime": "2021-04-27 00:44",
-                "price": "$30",
-                "where": "san jose east",
+                "id": "7313422429",
+                "name": "2 pairs, Unisex fleece gloves, Size Medium",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-pairs-unisex-fleece-gloves/7313422429.html",
+                "datetime": "2021-04-27 10:48",
+                "price": "$5",
+                "where": "los gatos",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00808_dgE6TJnUmuV_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00e0e_lFXWEZREC8z_0CI0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             },
             {
-                "id": "7305332146",
-                "name": "Brown Gloves",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-brown-gloves/7305332146.html",
-                "datetime": "2021-04-26 21:08",
-                "price": "$2",
-                "where": "santa rosa",
+                "id": "7313422569",
+                "name": "2 pairs, Unisex fleece gloves, Size Small",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-pairs-unisex-fleece-gloves/7313422569.html",
+                "datetime": "2021-04-27 10:49",
+                "price": "$5",
+                "where": "los gatos",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00T0T_gxnCi51PjMkz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00w0w_jOh2WNYbfft_0CI0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             },
             {
-                "id": "7312105564",
-                "name": "Black Gloves",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-black-gloves/7312105564.html",
-                "datetime": "2021-04-26 21:07",
-                "price": "$4",
-                "where": "santa rosa",
+                "id": "7313414831",
+                "name": "Chenille hat and gloves, New",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-chenille-hat-and-gloves-new/7313414831.html",
+                "datetime": "2021-04-27 10:36",
+                "price": "$10",
+                "where": "los gatos",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00y0y_eV6Ft475kROz_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00101_4eV5L4zEvdL_0CI0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7308218354",
+                "name": "JESSICA McCLINTOCK SIZE 4 STRAPLESS WEDDING DRESS BRAND NEW W/TAGS",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/jessica-mcclintock-size-strapless/7308218354.html",
+                "datetime": "2021-04-27 10:28",
+                "price": "$30",
+                "where": "SAN JOSE",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00505_h3AU6dsSrj0_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7313380761",
                 "name": "Casablanca Bridal Wedding Gown / Dress",
@@ -190,18 +202,6 @@
                 "where": "alameda",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7298858085",
-                "name": "Wedding Dress Modern 2020 - Justin Alexander - Excellent Condition",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/danville-wedding-dress-modern-justin/7298858085.html",
-                "datetime": "2021-04-26 21:40",
-                "price": "$950",
-                "where": "danville / san ramon",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00a0a_2OkKZnE60Goz_0jz0jb_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

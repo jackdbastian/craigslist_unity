@@ -12,18 +12,6 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
-            },
-            {
-                "id": "7309381210",
-                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
-                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
-                "datetime": "2021-04-19 11:22",
-                "price": "$0",
-                "where": "We Ship Nationwide",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
-                "query": "gravel",
-                "category": "maa"
             }
         ],
         "wood": [
@@ -68,43 +56,55 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7308911633",
-                "name": "OAKLAND A'S VINTAGE STARTER JACKET 1980'S  XL",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/el-dorado-hills-oakland-as-vintage/7308911633.html",
-                "datetime": "2021-04-27 15:21",
-                "price": "$59",
-                "where": "EL DORADO HILLS",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Y0Y_eR6sPE9X0Wpz_0t20CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7313567301",
-                "name": "Vintage Hand Tooled Genuine Leather Clutch Handbag Naitan Made Mexico",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-hand-tooled-genuine/7313567301.html",
-                "datetime": "2021-04-27 15:01",
-                "price": "$45",
+                "id": "7313604678",
+                "name": "Vintage Leather Wallet MTC 1992 w Elephant Red Tan Tooled Design India",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-leather-wallet-mtc-1992/7313604678.html",
+                "datetime": "2021-04-27 16:23",
+                "price": "$40",
                 "where": "alameda",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00707_eJkzpMB4iif_0CI0rZ_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00505_izyBAv9PIoZ_0sy0pb_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7306955230",
-                "name": "****Authentic Swiss Lederhosen with Suspenders, Vintage.",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-authentic-swiss-lederhosen/7306955230.html",
-                "datetime": "2021-04-27 14:46",
-                "price": "$85",
-                "where": "santa rosa",
+                "id": "7313604727",
+                "name": "1990s Vintage Reyn Spooner Women's XS Pink Corduroy Cropped Jacket",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-1990s-vintage-reyn-spooner/7313604727.html",
+                "datetime": "2021-04-27 16:23",
+                "price": "$80",
+                "where": "rohnert pk / cotati",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00U0U_kfI9eycnZCPz_0t20t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7313604843",
+                "name": "Vintage Leather Wallet MTC 1992 w Elephant Red Tan Tooled Design India",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-leather-wallet-mtc-1992/7313604843.html",
+                "datetime": "2021-04-27 16:23",
+                "price": "$40",
+                "where": "alameda",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00505_izyBAv9PIoZ_0sy0pb_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7313603800",
+                "name": "Beautiful Brilliant Turquoise Blue Beaded Stringed Chunky Bracelet",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-beautiful-brilliant-turquoise/7313603800.html",
+                "datetime": "2021-04-27 16:21",
+                "price": "$30",
+                "where": "alameda",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00T0T_9qWub8Ru9Hr_0qu0t2_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7313587136",
                 "name": "S.L. Fashions Dress Size 12 Black Chiffon Green Liner Jewel Beaded LNC",
@@ -126,18 +126,6 @@
                 "where": "rohnert pk / cotati",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
-            },
-            {
-                "id": "7304741535",
-                "name": "Very Nice Royal Blue Beaded Party Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-very-nice-royal-blue-beaded/7304741535.html",
-                "datetime": "2021-04-27 10:41",
-                "price": "$40",
-                "where": "san jose north",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
             }

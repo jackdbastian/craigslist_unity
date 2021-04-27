@@ -56,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7313199758",
+                "name": "Vintage Mervy's High Sierra 32x30 Jeans",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-mervys-high-sierra/7313199758.html",
+                "datetime": "2021-04-26 21:55",
+                "price": "$50",
+                "where": "san jose south",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00G0G_eJ5AnP5Q347z_0he0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7301528175",
                 "name": "Vintage Heritage Soft Brown Leather Briefcase/Computer Bag",
                 "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-heritage-soft-brown/7301528175.html",
@@ -76,18 +88,6 @@
                 "where": "santa rosa",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00C0C_ftSbSMxrPdEz_0t20CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7311689904",
-                "name": "Vintage Blue Bowling Bag",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-blue-bowling-bag/7311689904.html",
-                "datetime": "2021-04-26 21:06",
-                "price": "$7",
-                "where": "santa rosa",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Y0Y_com6CJHQf6Tz_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7298858085",
+                "name": "Wedding Dress Modern 2020 - Justin Alexander - Excellent Condition",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/danville-wedding-dress-modern-justin/7298858085.html",
+                "datetime": "2021-04-26 21:40",
+                "price": "$950",
+                "where": "danville / san ramon",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00a0a_2OkKZnE60Goz_0jz0jb_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7305445539",
                 "name": "Sofia Tolli Wedding Dress",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-sofia-tolli-wedding-dress/7305445539.html",
@@ -190,18 +202,6 @@
                 "where": "san jose west",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7301762108",
-                "name": "WEDDING DRESS & an Eve. Dress!",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7301762108.html",
-                "datetime": "2021-04-26 15:35",
-                "price": "$65",
-                "where": "sunnyvale",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

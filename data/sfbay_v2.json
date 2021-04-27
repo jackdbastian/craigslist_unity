@@ -16,38 +16,38 @@
         ],
         "wood": [
             {
-                "id": "7313541889",
-                "name": "Laminated pressed wood counter top",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-laminated-pressed-wood/7313541889.html",
-                "datetime": "2021-04-27 14:10",
-                "price": "$50",
-                "where": "san mateo",
+                "id": "7300875010",
+                "name": "10' Live Edge Redwood Slabs Bar Table Indoor Outdoor Wood Slabs Slab",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-10-live-edge-redwood-slabs-bar/7300875010.html",
+                "datetime": "2021-04-27 14:38",
+                "price": "$500",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00w0w_kXd1Ix4xnZVz_0lM0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00B0B_6dDYXmSfoT7_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7313465367",
-                "name": "RED OAK 2 x 6 Stock Lumber Wood",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-red-oak-x-stock-lumber-wood/7313465367.html",
-                "datetime": "2021-04-27 11:59",
-                "price": "$1",
-                "where": "san mateo",
+                "id": "7300875183",
+                "name": "Redwood Live Edge Slab Wood Slabs Sale",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-redwood-live-edge-slab-wood/7300875183.html",
+                "datetime": "2021-04-27 14:38",
+                "price": "$4",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00s0s_gW6MOftDDJyz_0pO0jm_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00z0z_gxC41prQNix_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7307325550",
-                "name": "Wood Chips / Mulch for Pickup or Delivery",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/wood-chips-mulch-for-pickup-or-delivery/7307325550.html",
-                "datetime": "2021-04-27 11:38",
-                "price": "$6",
-                "where": "petaluma",
+                "id": "7300875357",
+                "name": "Kiln Dried Black Acacia, Black Walnut, Elm Live Edge Wood Slab Slabs",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-kiln-dried-black-acacia-black/7300875357.html",
+                "datetime": "2021-04-27 14:38",
+                "price": "$15",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00P0P_jCF6xMe1dcH_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00m0m_29xCfJmSieR_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             }
@@ -55,6 +55,30 @@
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7306955230",
+                "name": "****Authentic Swiss Lederhosen with Suspenders, Vintage.",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-authentic-swiss-lederhosen/7306955230.html",
+                "datetime": "2021-04-27 14:46",
+                "price": "$85",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7311207941",
+                "name": "Vintage Levi's 501 100% cotton excellent condition",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-levis-cotton-excellent/7311207941.html",
+                "datetime": "2021-04-27 14:35",
+                "price": "$55",
+                "where": "berkeley north / hills",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00v0v_1Skb2uieIW8z_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7306326120",
                 "name": "Vintage Women\u2019s Lacoste Fleece Jacket Size S Small",
@@ -64,30 +88,6 @@
                 "where": "sunset / parkside",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00c0c_9YWxVoEPQbhz_0jm0jm_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7311215172",
-                "name": "Vintage Patagonia women\u2019s Fleece Jacket Blue Size Small S",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-patagonia-womens/7311215172.html",
-                "datetime": "2021-04-27 14:15",
-                "price": "$40",
-                "where": "sunset / parkside",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00H0H_6zkCsQnJ9ACz_0jm0jm_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7298544836",
-                "name": "3 Vintage Patagonia Women\u2019s fleece jacket size L Large - 40 each",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-patagonia-womens/7298544836.html",
-                "datetime": "2021-04-27 14:14",
-                "price": "$40",
-                "where": "sunset / parkside",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00M0M_kGuhkdkApDvz_0jm0jm_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

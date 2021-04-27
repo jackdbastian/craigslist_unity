@@ -56,6 +56,30 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7308911633",
+                "name": "OAKLAND A'S VINTAGE STARTER JACKET 1980'S  XL",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/el-dorado-hills-oakland-as-vintage/7308911633.html",
+                "datetime": "2021-04-27 15:21",
+                "price": "$59",
+                "where": "EL DORADO HILLS",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Y0Y_eR6sPE9X0Wpz_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7313567301",
+                "name": "Vintage Hand Tooled Genuine Leather Clutch Handbag Naitan Made Mexico",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-hand-tooled-genuine/7313567301.html",
+                "datetime": "2021-04-27 15:01",
+                "price": "$45",
+                "where": "alameda",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00707_eJkzpMB4iif_0CI0rZ_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7306955230",
                 "name": "****Authentic Swiss Lederhosen with Suspenders, Vintage.",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-authentic-swiss-lederhosen/7306955230.html",
@@ -64,30 +88,6 @@
                 "where": "santa rosa",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7311207941",
-                "name": "Vintage Levi's 501 100% cotton excellent condition",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-levis-cotton-excellent/7311207941.html",
-                "datetime": "2021-04-27 14:35",
-                "price": "$55",
-                "where": "berkeley north / hills",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00v0v_1Skb2uieIW8z_0t20CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7306326120",
-                "name": "Vintage Women\u2019s Lacoste Fleece Jacket Size S Small",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-womens-lacoste/7306326120.html",
-                "datetime": "2021-04-27 14:14",
-                "price": "$40",
-                "where": "sunset / parkside",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_9YWxVoEPQbhz_0jm0jm_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7313566894",
+                "name": "Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-gloves/7313566894.html",
+                "datetime": "2021-04-27 15:00",
+                "price": "$10",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00202_hLppj7XHX32z_0CI0pE_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7312327073",
                 "name": "Vintage hats, purses, gloves, hankies",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/genoa-vintage-hats-purses-gloves-hankies/7312327073.html",
@@ -154,21 +166,21 @@
                 "image_url": "https://images.craigslist.org/00O0O_5VdsFCg7Vqxz_0lM0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7305987955",
-                "name": "Circus Sweetie Pink Ruffled Adult Costume Gloves One Size New!!!",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-circus-sweetie-pink-ruffled/7305987955.html",
-                "datetime": "2021-04-27 11:29",
-                "price": "$6",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_7YgJ56N1hxz_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7313578668",
+                "name": "Wedding Dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-wedding-dress/7313578668.html",
+                "datetime": "2021-04-27 15:24",
+                "price": "$250",
+                "where": "oakland downtown",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Z0Z_27XIZrxJCKGz_0gD0kY_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7311454476",
                 "name": "Anthropologie Iva Crepe Maxi Wedding Dress Size 2",
@@ -190,18 +202,6 @@
                 "where": "albany / el cerrito",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00w0w_2SSd3b1w4biz_0je0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7308218354",
-                "name": "JESSICA McCLINTOCK SIZE 4 STRAPLESS WEDDING DRESS BRAND NEW W/TAGS",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/jessica-mcclintock-size-strapless/7308218354.html",
-                "datetime": "2021-04-27 10:28",
-                "price": "$30",
-                "where": "SAN JOSE",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00505_h3AU6dsSrj0_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

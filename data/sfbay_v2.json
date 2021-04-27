@@ -12,9 +12,45 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
+            },
+            {
+                "id": "7309381210",
+                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
+                "datetime": "2021-04-19 11:22",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
             }
         ],
         "wood": [
+            {
+                "id": "7313423388",
+                "name": "2 New Two new Rogue Valley Wood Door Shaker Hemlock  doors",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-two-new-rogue-valley-wood/7313423388.html",
+                "datetime": "2021-04-27 11:01",
+                "price": "$1,000",
+                "where": "berkeley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00J0J_zOU00IyTXSz_07K0ak_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7313429970",
+                "name": "8 Large Wooden Shipping Boxes w/Lids * Metal Reinforced Edges",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/petaluma-large-wooden-shipping-boxes/7313429970.html",
+                "datetime": "2021-04-27 11:01",
+                "price": "$20",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_5DmTKqEsoEhz_0CI0pO_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
             {
                 "id": "7304721018",
                 "name": "TWO SOLID WOOD DOORS 3' x 8'",
@@ -26,35 +62,35 @@
                 "image_url": "https://images.craigslist.org/00c0c_kZIWe3hHbmC_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7307820809",
-                "name": "BEHR 5 Gallon Paint Interior Exterior Elastomeric Water Proofing Wood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-behr-gallon-paint-interior/7307820809.html",
-                "datetime": "2021-04-27 09:17",
-                "price": "$80",
-                "where": "alameda",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00303_kM7BjyBU3hp_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7313335924",
-                "name": "Beautiful Mid Century interior wood door, Special",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/mountain-view-beautiful-mid-century/7313335924.html",
-                "datetime": "2021-04-27 08:33",
-                "price": "$20",
-                "where": "los altos",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00I0I_9fAjL0znxMTz_0600af_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7313439818",
+                "name": "Vintage Western Leather Belt w/ Buckle",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-western-leather/7313439818.html",
+                "datetime": "2021-04-27 11:16",
+                "price": "$25",
+                "where": "San Francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01212_7psO5vX0rg9z_0pO0jm_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7313432448",
+                "name": "Vintage cross body COACH Bag Purse",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-vintage-cross-body-coach-bag/7313432448.html",
+                "datetime": "2021-04-27 11:05",
+                "price": "$40",
+                "where": "saratoga",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Y0Y_8E9QButHKXq_0h50jm_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7300097535",
                 "name": "Vintage Black and White Dress With Rhinestone and Crocheted Trim",
@@ -64,30 +100,6 @@
                 "where": "san jose north",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7303508798",
-                "name": "Vintage Moroccan leather travel bag",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-moroccan-leather/7303508798.html",
-                "datetime": "2021-04-27 10:37",
-                "price": "$100",
-                "where": "berkeley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_3L5S7tcdxaF_0CI0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7300256882",
-                "name": "Vintage Purses",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-bruno-vintage-purses/7300256882.html",
-                "datetime": "2021-04-27 10:29",
-                "price": "$10",
-                "where": "san bruno",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00T0T_idrdis4xIEc_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +144,30 @@
         ],
         "gloves": [
             {
+                "id": "7304621779",
+                "name": "Child Spider-Man Gloves Rubie's Marvel, Ultimate Spider-Man Child Glov",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-child-spider-man-gloves-rubies/7304621779.html",
+                "datetime": "2021-04-27 11:18",
+                "price": "$5",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00m0m_e08NDsbbm3b_0ak07K_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
+                "id": "7313437088",
+                "name": "Brand New Ozero Winter Gloves Large",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-brand-new-ozero-winter-gloves/7313437088.html",
+                "datetime": "2021-04-27 11:12",
+                "price": "$10",
+                "where": "Sunnyvale",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00z0z_2nxHkQTbxdcz_0CI0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7313422429",
                 "name": "2 pairs, Unisex fleece gloves, Size Medium",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-pairs-unisex-fleece-gloves/7313422429.html",
@@ -140,30 +176,6 @@
                 "where": "los gatos",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00e0e_lFXWEZREC8z_0CI0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7313422569",
-                "name": "2 pairs, Unisex fleece gloves, Size Small",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-pairs-unisex-fleece-gloves/7313422569.html",
-                "datetime": "2021-04-27 10:49",
-                "price": "$5",
-                "where": "los gatos",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00w0w_jOh2WNYbfft_0CI0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7313414831",
-                "name": "Chenille hat and gloves, New",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-chenille-hat-and-gloves-new/7313414831.html",
-                "datetime": "2021-04-27 10:36",
-                "price": "$10",
-                "where": "los gatos",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00101_4eV5L4zEvdL_0CI0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

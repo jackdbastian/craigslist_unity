@@ -16,6 +16,30 @@
         ],
         "wood": [
             {
+                "id": "7307820809",
+                "name": "BEHR 5 Gallon Paint Interior Exterior Elastomeric Water Proofing Wood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-behr-gallon-paint-interior/7307820809.html",
+                "datetime": "2021-04-27 09:17",
+                "price": "$80",
+                "where": "alameda",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00303_kM7BjyBU3hp_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7313335924",
+                "name": "Beautiful Mid Century interior wood door, Special",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/mountain-view-beautiful-mid-century/7313335924.html",
+                "datetime": "2021-04-27 08:33",
+                "price": "$20",
+                "where": "los altos",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00I0I_9fAjL0znxMTz_0600af_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7300502002",
                 "name": "New Simpson #82 Interior Solid Wood Door",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-simpson-82-interior-solid/7300502002.html",
@@ -26,68 +50,44 @@
                 "image_url": "https://images.craigslist.org/00I0I_kXH9L8SNIpPz_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7311570784",
-                "name": "New Simpson #55 Interior Solid Wood Door",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-simpson-55-interior-solid/7311570784.html",
-                "datetime": "2021-04-27 07:42",
-                "price": "$150",
-                "where": "berkeley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00x0x_cpIiCTovywHz_0t20CI_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7311628711",
-                "name": "New Interior Primed One Panel Solid Wood Door",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-interior-primed-one-panel/7311628711.html",
-                "datetime": "2021-04-27 07:41",
-                "price": "$70",
-                "where": "berkeley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_bjlIZU5J2POz_0t20CI_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7308189918",
-                "name": "Vintage Woman's Coat",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-womans-coat/7308189918.html",
-                "datetime": "2021-04-27 08:19",
-                "price": "$35",
-                "where": "San Jose",
+                "id": "7302142260",
+                "name": "Coach Vintage Authentic Black  Briefcase",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-coach-vintage-authentic/7302142260.html",
+                "datetime": "2021-04-27 09:22",
+                "price": "$110",
+                "where": "pacific heights",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00t0t_hjYRNYHaiBYz_0jw0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00P0P_a3nfc0IPfS1z_0ak07K_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7304450543",
-                "name": "KATE SPADE, VINTAGE, BLUE/WHITE LOGO PATTERN, Purse...",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/redwood-city-kate-spade-vintage-blue/7304450543.html",
-                "datetime": "2021-04-27 08:16",
+                "id": "7313364894",
+                "name": "Vintage Hawaiian shirt",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-hawaiian-shirt/7313364894.html",
+                "datetime": "2021-04-27 09:19",
                 "price": "$25",
-                "where": "redwood city",
+                "where": "hayward / castro valley",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00909_ilqgm8hWb8L_0CI0pV_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00q0q_ece4gRfTkJ8z_0hq0ne_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7313326940",
-                "name": "Vintage Faux Fur unique coat / Burning Man",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-faux-fur-unique/7313326940.html",
-                "datetime": "2021-04-27 08:18",
-                "price": "$85",
-                "where": "north beach / telegraph hill",
+                "id": "7304960763",
+                "name": "Vintage 60\u2019s Clothing",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-vintage-60s-clothing/7304960763.html",
+                "datetime": "2021-04-27 09:14",
+                "price": "$40",
+                "where": "half moon bay",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01111_1cGwuPvz6oy_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -208,6 +208,18 @@
         ],
         "great condition": [
             {
+                "id": "7311901137",
+                "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-authentic-coach-black-leather/7311901137.html",
+                "datetime": "2021-04-27 08:57",
+                "price": "$30",
+                "where": "san jose east",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
                 "id": "7306775479",
                 "name": "Great condition jackets sweaters outerwear",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/ramona-great-condition-jackets-sweaters/7306775479.html",
@@ -228,18 +240,6 @@
                 "where": "lower pac hts",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00F0F_3ZOv46eqdmQz_0t20CI_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7309098061",
-                "name": "Men's\\Women's Jackets- Great Condition- Lightweight & Comfy ($5-10 ea)",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-menswomens-jackets-great/7309098061.html",
-                "datetime": "2021-04-25 19:37",
-                "price": "$5",
-                "where": "san jose south",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00O0O_17JNxo0fRKIz_0t20CI_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

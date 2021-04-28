@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7311929079",
+                "name": "WOOD MOULDINGS",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-wood-mouldings/7311929079.html",
+                "datetime": "2021-04-28 13:41",
+                "price": "$1",
+                "where": "walnut creek",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00U0U_39Zm7y2ttzDz_0p10t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7309413959",
                 "name": "Unique Leaded Glass & Wood Doors",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/sebastopol-unique-leaded-glass-wood/7309413959.html",
@@ -38,56 +50,44 @@
                 "image_url": "https://images.craigslist.org/00J0J_g9tTG8w81zf_0CI0lH_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7313907906",
-                "name": "Wood Boards",
-                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-wood-boards/7313907906.html",
-                "datetime": "2021-04-28 10:22",
-                "price": "$50",
-                "where": "lower haight",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01717_cPk0ECoqRVez_0CI0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7307237825",
-                "name": "Vintage 90s NFL, NBA, NHL snapbacks",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/el-sobrante-vintage-90s-nfl-nba-nhl/7307237825.html",
-                "datetime": "2021-04-28 13:09",
-                "price": "$1",
-                "where": "hercules, pinole, san pablo, el sob",
+                "id": "7303005101",
+                "name": "vintage Boy Scout Jacket: OFFICIAL Boy Scout of America",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-boy-scout-jacket/7303005101.html",
+                "datetime": "2021-04-28 13:35",
+                "price": "$79",
+                "where": "santa clara",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00H0H_dzpTxYitirw_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00707_bYqSGrK4UAN_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7302800532",
-                "name": "Vintage Furthur Grateful Dead Men's 2X Long Sleeve Shirt Thermal Navy",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-furthur-grateful/7302800532.html",
-                "datetime": "2021-04-28 12:53",
-                "price": "$40",
-                "where": "rohnert pk / cotati",
+                "id": "7306267444",
+                "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7306267444.html",
+                "datetime": "2021-04-28 13:30",
+                "price": "$200",
+                "where": "sf",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00j0j_7PspBmsjAz9z_0t20t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7312817218",
-                "name": "Vintage STROH\u2019S BEER Jacket XXL but more like L-XL",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-strohs-beer/7312817218.html",
-                "datetime": "2021-04-28 12:51",
-                "price": "$35",
-                "where": "cole valley / ashbury hts",
+                "id": "7311777747",
+                "name": "vintage Tie: Buck Wheat Little Rascals",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/cupertino-vintage-tie-buck-wheat-little/7311777747.html",
+                "datetime": "2021-04-28 13:31",
+                "price": "$350",
+                "where": null,
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00r0r_hBXtJj8SKYWz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7302205745",
+                "name": "Gorgeous custom made designer wedding dress sz 6/8",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-gorgeous-custom-made-designer/7302205745.html",
+                "datetime": "2021-04-28 13:38",
+                "price": "$950",
+                "where": "san mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00A0A_O2bpoN2EBF_0CI0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7314003544",
                 "name": "White formal dress, wedding dress, size 4",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/white-formal-dress-wedding-dress-size/7314003544.html",
@@ -190,18 +202,6 @@
                 "where": "sunnyvale",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7304267952",
-                "name": "San Patrick 1964 Seymour Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-san-patrick-1964-seymour/7304267952.html",
-                "datetime": "2021-04-28 09:25",
-                "price": "$1",
-                "where": "santa clara",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

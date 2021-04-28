@@ -16,38 +16,38 @@
         ],
         "wood": [
             {
-                "id": "7313834735",
-                "name": "REDWOOD & DOUG FIR 3x10\" LONG LENGTHS WOOD",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-redwood-doug-fir-3x10-long/7313834735.html",
-                "datetime": "2021-04-28 08:27",
-                "price": "$7",
-                "where": "san carlos",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_aGQRntL72hvz_0ak07K_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7309192339",
-                "name": "4\u201dx13\u201d Douglas Fir Wood boards - partial painted 11 ft lengths",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-4x13-douglas-fir-wood-boards/7309192339.html",
-                "datetime": "2021-04-28 08:09",
+                "id": "7303755567",
+                "name": "75x52\u201d wood window",
+                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7303755567.html",
+                "datetime": "2021-04-28 09:55",
                 "price": "$75",
-                "where": "san carlos",
+                "where": "Presidio Heights",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00u0u_biUNlz31PScz_0ak08g_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7313820714",
-                "name": "Vintage Wood Window screens",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-vintage-wood-window-screens/7313820714.html",
-                "datetime": "2021-04-28 08:04",
-                "price": "$125",
-                "where": "san carlos",
+                "id": "7303609497",
+                "name": "48\" Bathroom vanity (solid wood)",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-48-bathroom-vanity-solid-wood/7303609497.html",
+                "datetime": "2021-04-28 09:45",
+                "price": "$140",
+                "where": "fremont / union city / newark",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00R0R_5O2tHbCcA4S_0gw0kE_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7303609854",
+                "name": "48\" Bathroom vanity (solid wood)",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-48-bathroom-vanity-solid-wood/7303609854.html",
+                "datetime": "2021-04-28 09:45",
+                "price": "$160",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             }
@@ -55,6 +55,18 @@
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7310528143",
+                "name": "Vintage embroidered jacket",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-embroidered-jacket/7310528143.html",
+                "datetime": "2021-04-28 09:48",
+                "price": "$25",
+                "where": "oakland rockridge / claremont",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00H0H_aMKo6WMf0V9z_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7300327533",
                 "name": "Vintage authentic Swarovski crystal rhinestone drop dangle earrings",
@@ -76,18 +88,6 @@
                 "where": "san mateo foster city",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00b0b_gV0KxQxqrYo_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7300889681",
-                "name": "vintage little black purse / clutch - excellent condition -- SAVE $15",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/vintage-little-black-purse-clutch/7300889681.html",
-                "datetime": "2021-04-28 09:23",
-                "price": "$10",
-                "where": "san mateo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00N0N_jqoT4sruj9B_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

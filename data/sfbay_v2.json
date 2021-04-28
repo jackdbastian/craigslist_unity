@@ -12,9 +12,33 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
+            },
+            {
+                "id": "7309381210",
+                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
+                "datetime": "2021-04-19 11:22",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
             }
         ],
         "wood": [
+            {
+                "id": "7313634443",
+                "name": "Ceiling fluorescent oak wood  light fixture 4 foot",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-ceiling-fluorescent-oak-wood/7313634443.html",
+                "datetime": "2021-04-27 17:37",
+                "price": "$15",
+                "where": "San Mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00q0q_BfZhUWJoK5z_0t20CI_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
             {
                 "id": "7313630004",
                 "name": "Concrete or Foundation wood forms",
@@ -38,56 +62,44 @@
                 "image_url": "https://images.craigslist.org/00w0w_88XTTnSCZnNz_0CI0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7306003477",
-                "name": "Wood Pieces from Rainbow Play Systems",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/milpitas-wood-pieces-from-rainbow-play/7306003477.html",
-                "datetime": "2021-04-27 15:47",
-                "price": "$100",
-                "where": "milpitas",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00101_6S2sM9nY5YFz_0CI0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7307505587",
-                "name": "Vintage Silk Dress & Jacket embroidery & jewels haute couture - exquis",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-vintage-silk-dress-jacket/7307505587.html",
-                "datetime": "2021-04-27 16:52",
-                "price": "$39",
-                "where": "lafayette / orinda / moraga",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01616_bWM2S01B9EYz_07K0ak_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7306192501",
-                "name": "Vintage Clothes Steamer",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-clothes-steamer/7306192501.html",
-                "datetime": "2021-04-27 16:30",
+                "id": "7302638420",
+                "name": "Pulicati Vintage Leather Bag",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-pulicati-vintage-leather-bag/7302638420.html",
+                "datetime": "2021-04-27 17:56",
                 "price": "$25",
-                "where": "scotts valley",
+                "where": "san jose south",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00L0L_9dsH9yWm7D0z_0rT0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7313604678",
-                "name": "Vintage Leather Wallet MTC 1992 w Elephant Red Tan Tooled Design India",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-leather-wallet-mtc-1992/7313604678.html",
-                "datetime": "2021-04-27 16:23",
-                "price": "$40",
-                "where": "alameda",
+                "id": "7313641196",
+                "name": "Men's Suit Vintage & Custom Made",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-mens-suit-vintage-custom-made/7313641196.html",
+                "datetime": "2021-04-27 17:55",
+                "price": "$750",
+                "where": "willow glen / cambrian",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00505_izyBAv9PIoZ_0sy0pb_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00g0g_1BGvugQ47Muz_0oo0ww_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7307211115",
+                "name": "J Duseu vintage black shoulder bag",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-duseu-vintage-black-shoulder/7307211115.html",
+                "datetime": "2021-04-27 17:53",
+                "price": "$35",
+                "where": "san jose south",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01414_djARa3bzfsOz_0CI0sI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -208,6 +220,18 @@
         ],
         "great condition": [
             {
+                "id": "7313632891",
+                "name": "vintage full length mink coat great condition",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-full-length-mink-coat/7313632891.html",
+                "datetime": "2021-04-27 17:33",
+                "price": "$300",
+                "where": "Berkeley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00k0k_tRulhNUuVqz_0CI0t2_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
                 "id": "7311901137",
                 "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-authentic-coach-black-leather/7311901137.html",
@@ -228,18 +252,6 @@
                 "where": "dublin / pleasanton / livermore",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00s0s_fYMvZpc8Yv8_0ew0jm_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7304730917",
-                "name": "Great Condition Chelsea leather boots - 8.5M Ariat ($279 new)",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-great-condition-chelsea/7304730917.html",
-                "datetime": "2021-04-26 18:40",
-                "price": "$69",
-                "where": "lower pac hts",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00F0F_3ZOv46eqdmQz_0t20CI_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

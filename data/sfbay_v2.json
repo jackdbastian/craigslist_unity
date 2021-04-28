@@ -56,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7304034319",
+                "name": "2 Vintage Purses and Burn Out Velvet Shawl",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-purses-and-burn-out/7304034319.html",
+                "datetime": "2021-04-27 19:39",
+                "price": "$10",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00G0G_10xgUh06HYY_0oG0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7310186839",
                 "name": "13 vintage-y embroidered Denim ladies shirts and jackets",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-13-vintage-embroidered-denim/7310186839.html",
@@ -76,18 +88,6 @@
                 "where": "palo alto",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7310186679",
-                "name": "7 vintage aprons, 1952 astrology hankie",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-aprons-1952-astrology/7310186679.html",
-                "datetime": "2021-04-27 19:11",
-                "price": "$0",
-                "where": "palo alto",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00505_3qnzqQQw1aV_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7310164202",
+                "name": "Women's Leather Gloves, size 6.5",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/redwood-city-womens-leather-gloves-size/7310164202.html",
+                "datetime": "2021-04-27 19:27",
+                "price": "$0",
+                "where": "redwood city",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00I0I_3XJ8FfC4E4n_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7310186402",
                 "name": "vintage gloves",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-gloves/7310186402.html",
@@ -152,18 +164,6 @@
                 "where": "inner sunset / UCSF",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00202_c5WyHfrkd98z_0lM0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7307580758",
-                "name": "NEW classy ladies khaki / camel / tan gloves with gold chain / detail",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-new-classy-ladies-khaki/7307580758.html",
-                "datetime": "2021-04-27 16:48",
-                "price": "$5",
-                "where": "inner sunset / UCSF",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00D0D_cKgAw6RCZdRz_0CI0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

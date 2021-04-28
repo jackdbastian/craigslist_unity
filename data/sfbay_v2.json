@@ -56,38 +56,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7313834418",
-                "name": "Vintage Made In Italy Leather Striped Top Handle Bag / Brown Orange",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-made-in-italy-leather/7313834418.html",
-                "datetime": "2021-04-28 08:26",
-                "price": "$70",
-                "where": "oakland lake merritt / grand",
+                "id": "7313851979",
+                "name": "Vintage 1940's Silk Necktie",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1940s-silk-necktie/7313851979.html",
+                "datetime": "2021-04-28 08:55",
+                "price": "$25",
+                "where": "marina / cow hollow",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00f0f_233IwewtqTSz_0lM0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00n0n_eNugqTBzgim_0jm0pO_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7310346291",
-                "name": "Vintage Mark Cross Ostrich Leather Handbag with Original Coin Purse",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-mark-cross-ostrich-leather/7310346291.html",
-                "datetime": "2021-04-28 08:12",
-                "price": "$4,500",
-                "where": "nob hill",
+                "id": "7313852504",
+                "name": "Vintage Mid-Century Silk Necktie",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-mid-century-silk/7313852504.html",
+                "datetime": "2021-04-28 08:56",
+                "price": "$30",
+                "where": "marina / cow hollow",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00F0F_kLw2JFvfeFFz_0jm0pO_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7311779594",
-                "name": "VINTAGE LOOK RED PURSE WITH RHINESTONE X BY SASHA",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/vintage-look-red-purse-with-rhinestone/7311779594.html",
-                "datetime": "2021-04-28 08:14",
-                "price": "$20",
-                "where": "san jose south",
+                "id": "7313850962",
+                "name": "Vintage 1940s Necktie",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1940s-necktie/7313850962.html",
+                "datetime": "2021-04-28 08:53",
+                "price": "$25",
+                "where": "marina / cow hollow",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00V0V_4joQaBsnr8Z_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00d0d_d9jK3CKVjw4z_0bZ0pO_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7312803481",
+                "name": "Vintage White Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7312803481.html",
+                "datetime": "2021-04-28 08:27",
+                "price": "$25",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7307561944",
                 "name": "Fishnet 80's Wrist GLOVES White Rave School Spirit Cheerleader New!!!",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-fishnet-80s-wrist-gloves-white/7307561944.html",
@@ -154,21 +166,33 @@
                 "image_url": "https://images.craigslist.org/01414_e2EspyvF1Dv_07K0ak_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7313779994",
-                "name": "Neon Pink Lace Gloves 80's Retro Fancy Dress Up Halloween Costume Acce",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-neon-pink-lace-gloves-80s/7313779994.html",
-                "datetime": "2021-04-28 06:44",
-                "price": "$5",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00u0u_huQqoS16tYYz_07K0ak_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7309773830",
+                "name": "Maggie Sottero Wedding Dress. Afton-7MW349 Sz 4 + free gift",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-maggie-sottero-wedding-dress/7309773830.html",
+                "datetime": "2021-04-28 08:55",
+                "price": "$500",
+                "where": "oakland hills / mills",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00Q0Q_8W9i7l4v6kC_09m09m_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
+                "id": "7309561248",
+                "name": "NEW La Sposa Wedding Dress - Never Worn",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-new-la-sposa-wedding-dress/7309561248.html",
+                "datetime": "2021-04-28 08:47",
+                "price": "$200",
+                "where": "san jose west",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7309762081",
                 "name": "JESSICA McCLINTOCK SIZE 4 STRAPLESS WEDDING DRESS BRAND NEW W/TAGS",
@@ -178,30 +202,6 @@
                 "where": "SAN JOSE",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00505_h3AU6dsSrj0_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7309070506",
-                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Red",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7309070506.html",
-                "datetime": "2021-04-27 23:33",
-                "price": "$10",
-                "where": "San Mateo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00303_cpjLjb2HBL7z_0pO0CI_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7309070561",
-                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Blac",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7309070561.html",
-                "datetime": "2021-04-27 23:33",
-                "price": "$10",
-                "where": "San Mateo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01010_8zVEcq23Z7Qz_0pO0CI_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

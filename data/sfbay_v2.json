@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7313610594",
+                "name": "free wood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-free-wood/7313610594.html",
+                "datetime": "2021-04-27 16:37",
+                "price": "$0",
+                "where": "Fremont",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00w0w_88XTTnSCZnNz_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7306003477",
                 "name": "Wood Pieces from Rainbow Play Systems",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/milpitas-wood-pieces-from-rainbow-play/7306003477.html",
@@ -38,51 +50,39 @@
                 "image_url": "https://images.craigslist.org/00B0B_6dDYXmSfoT7_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7300875183",
-                "name": "Redwood Live Edge Slab Wood Slabs Sale",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-redwood-live-edge-slab-wood/7300875183.html",
-                "datetime": "2021-04-27 14:38",
-                "price": "$4",
-                "where": "richmond / point / annex",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00z0z_gxC41prQNix_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
+                "id": "7307505587",
+                "name": "Vintage Silk Dress & Jacket embroidery & jewels haute couture - exquis",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-vintage-silk-dress-jacket/7307505587.html",
+                "datetime": "2021-04-27 16:52",
+                "price": "$39",
+                "where": "lafayette / orinda / moraga",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01616_bWM2S01B9EYz_07K0ak_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7306192501",
+                "name": "Vintage Clothes Steamer",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-clothes-steamer/7306192501.html",
+                "datetime": "2021-04-27 16:30",
+                "price": "$25",
+                "where": "scotts valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7313604678",
                 "name": "Vintage Leather Wallet MTC 1992 w Elephant Red Tan Tooled Design India",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-leather-wallet-mtc-1992/7313604678.html",
-                "datetime": "2021-04-27 16:23",
-                "price": "$40",
-                "where": "alameda",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00505_izyBAv9PIoZ_0sy0pb_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7313604727",
-                "name": "1990s Vintage Reyn Spooner Women's XS Pink Corduroy Cropped Jacket",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-1990s-vintage-reyn-spooner/7313604727.html",
-                "datetime": "2021-04-27 16:23",
-                "price": "$80",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_kfI9eycnZCPz_0t20t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7313604843",
-                "name": "Vintage Leather Wallet MTC 1992 w Elephant Red Tan Tooled Design India",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-leather-wallet-mtc-1992/7313604843.html",
                 "datetime": "2021-04-27 16:23",
                 "price": "$40",
                 "where": "alameda",
@@ -132,6 +132,30 @@
         ],
         "gloves": [
             {
+                "id": "7307579614",
+                "name": "Ladies soft leather gloves (black, olive, purple) + long ones in black",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-ladies-soft-leather/7307579614.html",
+                "datetime": "2021-04-27 16:48",
+                "price": "$5",
+                "where": "inner sunset / UCSF",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00202_c5WyHfrkd98z_0lM0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
+                "id": "7307580758",
+                "name": "NEW classy ladies khaki / camel / tan gloves with gold chain / detail",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-new-classy-ladies-khaki/7307580758.html",
+                "datetime": "2021-04-27 16:48",
+                "price": "$5",
+                "where": "inner sunset / UCSF",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00D0D_cKgAw6RCZdRz_0CI0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7313566894",
                 "name": "Gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-gloves/7313566894.html",
@@ -140,30 +164,6 @@
                 "where": "fremont / union city / newark",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00202_hLppj7XHX32z_0CI0pE_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7312327073",
-                "name": "Vintage hats, purses, gloves, hankies",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/genoa-vintage-hats-purses-gloves-hankies/7312327073.html",
-                "datetime": "2021-04-27 12:50",
-                "price": "$0",
-                "where": "san mateo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00n0n_fGJ3RRxRvEBz_0CI0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7301899432",
-                "name": "Ski & snowboard gloves",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-ski-snowboard-gloves/7301899432.html",
-                "datetime": "2021-04-27 12:10",
-                "price": "$50",
-                "where": "san jose downtown",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00O0O_5VdsFCg7Vqxz_0lM0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

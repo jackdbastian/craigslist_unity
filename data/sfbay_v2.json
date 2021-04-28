@@ -56,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7314096109",
+                "name": "Vintage Frye Boots, Size 7",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-frye-boots-size/7314096109.html",
+                "datetime": "2021-04-28 16:06",
+                "price": "$140",
+                "where": "Oakland",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00a0a_jr8RS7rz4z3z_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7314090451",
                 "name": "Vintage Authentic Burberry Nova Check Mini Tote Bag",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-vintage-authentic-burberry/7314090451.html",
@@ -76,18 +88,6 @@
                 "where": "santa clara",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00707_bYqSGrK4UAN_0CI0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7306267444",
-                "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7306267444.html",
-                "datetime": "2021-04-28 13:30",
-                "price": "$200",
-                "where": "sf",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7314098055",
+                "name": "New, Girl Gloves size S",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pittsburg-new-girl-gloves-size/7314098055.html",
+                "datetime": "2021-04-28 16:10",
+                "price": "$3",
+                "where": "pittsburg / antioch",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00b0b_5jjyBAbSCapz_0t20CI_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7310195477",
                 "name": "Men's 3M Thinsulate Gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-mens-3m-thinsulate-gloves/7310195477.html",
@@ -154,21 +166,21 @@
                 "image_url": "https://images.craigslist.org/00G0G_7gsoSRYHaO2z_0t20t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7300981366",
-                "name": "Vintage Van Raalte Size 7\u00bd Long Off-White Opera Gloves Silk Lining",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-van-raalte-size/7300981366.html",
-                "datetime": "2021-04-28 12:48",
-                "price": "$30",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00m0m_jrsfysLPQ7Bz_0t20t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7314100160",
+                "name": "Maggie Sottero Wedding dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-leandro-maggie-sottero-wedding-dress/7314100160.html",
+                "datetime": "2021-04-28 16:15",
+                "price": "$350",
+                "where": "San Leandro",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00606_hV8eg2dslmc_0kd0CI_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7303916211",
                 "name": "New Sophia Tolli Wedding Bridal Dress, Size 8",
@@ -190,18 +202,6 @@
                 "where": "san mateo",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00A0A_O2bpoN2EBF_0CI0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7314003544",
-                "name": "White formal dress, wedding dress, size 4",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/white-formal-dress-wedding-dress-size/7314003544.html",
-                "datetime": "2021-04-28 13:02",
-                "price": "$85",
-                "where": "campbell",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00g0g_dpDjY96QAt0_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7310195477",
+                "name": "Men's 3M Thinsulate Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-mens-3m-thinsulate-gloves/7310195477.html",
+                "datetime": "2021-04-28 14:23",
+                "price": "$20",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7300952258",
                 "name": "Vintage Fownes Brothers Black Gloves Fur Lining Nylon Fourchette",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-fownes-brothers/7300952258.html",
@@ -152,18 +164,6 @@
                 "where": "rohnert pk / cotati",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00m0m_jrsfysLPQ7Bz_0t20t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7303792292",
-                "name": "Child Spider-Man Gloves Rubie's Marvel, Ultimate Spider-Man Child Glov",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-child-spider-man-gloves-rubies/7303792292.html",
-                "datetime": "2021-04-28 11:27",
-                "price": "$5",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00m0m_e08NDsbbm3b_0ak07K_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }
@@ -208,6 +208,18 @@
         ],
         "great condition": [
             {
+                "id": "7314041562",
+                "name": "Levi's Mens 541 blue jeans, 38 x 32, great condition",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-levis-mens-541-blue-jeans-38/7314041562.html",
+                "datetime": "2021-04-28 14:10",
+                "price": "$15",
+                "where": "palo alto",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00L0L_gBG0wG5IAwz_0lM0t2_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
                 "id": "7309098061",
                 "name": "Men's\\Women's Jackets- Great Condition- Lightweight & Comfy ($5-10 ea)",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-menswomens-jackets-great/7309098061.html",
@@ -228,18 +240,6 @@
                 "where": "Berkeley",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00k0k_tRulhNUuVqz_0CI0t2_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7311901137",
-                "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-authentic-coach-black-leather/7311901137.html",
-                "datetime": "2021-04-27 08:57",
-                "price": "$30",
-                "where": "san jose east",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

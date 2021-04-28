@@ -16,6 +16,30 @@
         ],
         "wood": [
             {
+                "id": "7309413959",
+                "name": "Unique Leaded Glass & Wood Doors",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/sebastopol-unique-leaded-glass-wood/7309413959.html",
+                "datetime": "2021-04-28 13:08",
+                "price": "$300",
+                "where": "sebastopol",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00T0T_22sf6UK1EQCz_07K0ak_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7314006942",
+                "name": "Wood Post Spindles",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/lafayette-wood-post-spindles/7314006942.html",
+                "datetime": "2021-04-28 13:07",
+                "price": "$39",
+                "where": "lafayette / orinda / moraga",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00J0J_g9tTG8w81zf_0CI0lH_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7313907906",
                 "name": "Wood Boards",
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-wood-boards/7313907906.html",
@@ -26,35 +50,23 @@
                 "image_url": "https://images.craigslist.org/01717_cPk0ECoqRVez_0CI0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7303755567",
-                "name": "75x52\u201d wood window",
-                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7303755567.html",
-                "datetime": "2021-04-28 09:55",
-                "price": "$75",
-                "where": "Presidio Heights",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7303609497",
-                "name": "48\" Bathroom vanity (solid wood)",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-48-bathroom-vanity-solid-wood/7303609497.html",
-                "datetime": "2021-04-28 09:45",
-                "price": "$140",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7307237825",
+                "name": "Vintage 90s NFL, NBA, NHL snapbacks",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/el-sobrante-vintage-90s-nfl-nba-nhl/7307237825.html",
+                "datetime": "2021-04-28 13:09",
+                "price": "$1",
+                "where": "hercules, pinole, san pablo, el sob",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00H0H_dzpTxYitirw_0CI0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7302800532",
                 "name": "Vintage Furthur Grateful Dead Men's 2X Long Sleeve Shirt Thermal Navy",
@@ -76,18 +88,6 @@
                 "where": "cole valley / ashbury hts",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00r0r_hBXtJj8SKYWz_0t20CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7298988284",
-                "name": "Vintage? Womens Reflections Wool? Trench Coat No Size Tag 38\" Chest",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-womens-reflections/7298988284.html",
-                "datetime": "2021-04-28 12:47",
-                "price": "$80",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00707_haSYZE4b0jlz_0t20t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7314003544",
+                "name": "White formal dress, wedding dress, size 4",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/white-formal-dress-wedding-dress-size/7314003544.html",
+                "datetime": "2021-04-28 13:02",
+                "price": "$85",
+                "where": "campbell",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00g0g_dpDjY96QAt0_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7300329945",
                 "name": "WEDDING DRESS & an Eve. Dress!",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7300329945.html",
@@ -190,18 +202,6 @@
                 "where": "santa clara",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7309773830",
-                "name": "Maggie Sottero Wedding Dress. Afton-7MW349 Sz 4 + free gift",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-maggie-sottero-wedding-dress/7309773830.html",
-                "datetime": "2021-04-28 08:55",
-                "price": "$500",
-                "where": "oakland hills / mills",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Q0Q_8W9i7l4v6kC_09m09m_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

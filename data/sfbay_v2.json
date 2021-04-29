@@ -12,21 +12,21 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
-            },
-            {
-                "id": "7309381210",
-                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
-                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
-                "datetime": "2021-04-19 11:22",
-                "price": "$0",
-                "where": "We Ship Nationwide",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
-                "query": "gravel",
-                "category": "maa"
             }
         ],
         "wood": [
+            {
+                "id": "7314134386",
+                "name": "Exterior Wood Door with Half Lite and Doggie Door",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-exterior-wood-door-with-half/7314134386.html",
+                "datetime": "2021-04-28 17:41",
+                "price": "$175",
+                "where": "alameda",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00x0x_9G0MBUFxMYFz_0fu0kE_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
             {
                 "id": "7314130211",
                 "name": "Old Rustic and Modern Reclaimed Barn Wood - Mantels - Walls - Beams",
@@ -50,56 +50,44 @@
                 "image_url": "https://images.craigslist.org/00t0t_egtmLIJcKvRz_0x20ok_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7314129440",
-                "name": "Old Rustic and Modern Reclaimed Barn Wood - Mantels - Walls - Beams",
-                "url": "https://sfbay.craigslist.org/pen/mad/d/mountain-view-old-rustic-and-modern/7314129440.html",
-                "datetime": "2021-04-28 17:23",
-                "price": "$0",
-                "where": "mountain view",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_gw9sZXCec1Tz_0t20CI_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7311604725",
-                "name": "Vintage Patagonia Women\u2019s Fleece Jacket size XL",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-patagonia-womens/7311604725.html",
-                "datetime": "2021-04-28 17:22",
-                "price": "$40",
-                "where": "sunset / parkside",
+                "id": "7304326826",
+                "name": "Vintage clothing",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/campbell-vintage-clothing/7304326826.html",
+                "datetime": "2021-04-28 17:48",
+                "price": "$12,345",
+                "where": "Campbell",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00D0D_awKEKbPFoqsz_0jm0jm_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00000_gPP4zSezSXJ_0CI0iO_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7311604848",
-                "name": "Vintage Patagonia Women\u2019s Nylon Fleece Lined Jacket Size M Medium",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-patagonia-womens/7311604848.html",
-                "datetime": "2021-04-28 17:22",
-                "price": "$40",
-                "where": "sunset / parkside",
+                "id": "7300891205",
+                "name": "Nike Blazer Mid '77 Vintage - Lucid Green",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-nike-blazer-mid-77-vintage/7300891205.html",
+                "datetime": "2021-04-28 17:47",
+                "price": "$180",
+                "where": "oakland north / temescal",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00n0n_ajmPFsNmTJEz_0jm0jm_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00N0N_8l7H1KdDay0_0g80aM_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7314096109",
-                "name": "Vintage Frye Boots, Size 7",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-frye-boots-size/7314096109.html",
-                "datetime": "2021-04-28 16:06",
-                "price": "$140",
-                "where": "Oakland",
+                "id": "7309351621",
+                "name": "Vintage Original Doc Marten'sShoes",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-bruno-vintage-original-doc/7309351621.html",
+                "datetime": "2021-04-28 17:38",
+                "price": "$45",
+                "where": "san bruno",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00a0a_jr8RS7rz4z3z_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -182,6 +170,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7301762108",
+                "name": "WEDDING DRESS & an Eve. Dress!",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7301762108.html",
+                "datetime": "2021-04-28 17:28",
+                "price": "$65",
+                "where": "sunnyvale",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7311858438",
                 "name": "NEW La Sposa Wedding Dress - Never Worn",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-new-la-sposa-wedding-dress/7311858438.html",
@@ -202,18 +202,6 @@
                 "where": "San Leandro",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00606_hV8eg2dslmc_0kd0CI_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7303916211",
-                "name": "New Sophia Tolli Wedding Bridal Dress, Size 8",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-new-sophia-tolli-wedding-bridal/7303916211.html",
-                "datetime": "2021-04-28 15:23",
-                "price": "$365",
-                "where": "oakland east",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

@@ -94,6 +94,18 @@
         ],
         "beaded": [
             {
+                "id": "7314087704",
+                "name": "* Designer Beaded Bracelets by Roxanne Assoulin *",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-designer-beaded-bracelets-by/7314087704.html",
+                "datetime": "2021-04-28 16:40",
+                "price": "$20",
+                "where": "emeryville",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00202_bfLQfy8yksSz_0ak07K_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
+            {
                 "id": "7313715581",
                 "name": "* Set of 10 Designer Beaded Bracelets (by Roxanne Assoulin) *",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-set-of-10-designer-beaded/7313715581.html",
@@ -116,59 +128,59 @@
                 "image_url": "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
-            },
-            {
-                "id": "7313603800",
-                "name": "Beautiful Brilliant Turquoise Blue Beaded Stringed Chunky Bracelet",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-beautiful-brilliant-turquoise/7313603800.html",
-                "datetime": "2021-04-27 16:21",
-                "price": "$30",
-                "where": "alameda",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00T0T_9qWub8Ru9Hr_0qu0t2_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
             }
         ],
         "gloves": [
             {
-                "id": "7314098055",
-                "name": "New, Girl Gloves size S",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pittsburg-new-girl-gloves-size/7314098055.html",
-                "datetime": "2021-04-28 16:10",
-                "price": "$3",
-                "where": "pittsburg / antioch",
+                "id": "7306542297",
+                "name": "Exceptional famous brand new leather gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/emeryville-exceptional-famous-brand-new/7306542297.html",
+                "datetime": "2021-04-28 16:53",
+                "price": "$0",
+                "where": "mountain view",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_5jjyBAbSCapz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00Y0Y_7rAi4doxnZz_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             },
             {
-                "id": "7310195477",
-                "name": "Men's 3M Thinsulate Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-mens-3m-thinsulate-gloves/7310195477.html",
-                "datetime": "2021-04-28 14:23",
-                "price": "$20",
-                "where": "concord / pleasant hill / martinez",
+                "id": "7306546767",
+                "name": "Exclusive Quality Brand for the best Leather Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-exclusive-quality-brand-for/7306546767.html",
+                "datetime": "2021-04-28 16:50",
+                "price": "$0",
+                "where": "emeryville",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00O0O_9QaPJDUUssl_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             },
             {
-                "id": "7300952258",
-                "name": "Vintage Fownes Brothers Black Gloves Fur Lining Nylon Fourchette",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-fownes-brothers/7300952258.html",
-                "datetime": "2021-04-28 12:48",
-                "price": "$30",
-                "where": "rohnert pk / cotati",
+                "id": "7306634694",
+                "name": "Excellent Fashion Real Leather gloves",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/emeryville-excellent-fashion-real/7306634694.html",
+                "datetime": "2021-04-28 16:48",
+                "price": "$0",
+                "where": "bernal heights",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00G0G_7gsoSRYHaO2z_0t20t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00g0g_9M6EgEsnyBb_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7311858438",
+                "name": "NEW La Sposa Wedding Dress - Never Worn",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-new-la-sposa-wedding-dress/7311858438.html",
+                "datetime": "2021-04-28 16:28",
+                "price": "$200",
+                "where": "san jose west",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7314100160",
                 "name": "Maggie Sottero Wedding dress",
@@ -190,18 +202,6 @@
                 "where": "oakland east",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7302205745",
-                "name": "Gorgeous custom made designer wedding dress sz 6/8",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-gorgeous-custom-made-designer/7302205745.html",
-                "datetime": "2021-04-28 13:38",
-                "price": "$950",
-                "where": "san mateo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00A0A_O2bpoN2EBF_0CI0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

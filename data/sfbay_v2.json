@@ -16,6 +16,30 @@
         ],
         "wood": [
             {
+                "id": "7314418165",
+                "name": "LIVE EDGE WOOD SLABS, ROUNDS, OVALS FOR SALE",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/brisbane-live-edge-wood-slabs-rounds/7314418165.html",
+                "datetime": "2021-04-29 11:21",
+                "price": "$0",
+                "where": null,
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00909_gTJ1w0rOu2lz_0ew09G_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7314418065",
+                "name": "LIVE EDGE WOOD SLABS, ROUNDS, OVALS FOR SALE",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/brisbane-live-edge-wood-slabs-rounds/7314418065.html",
+                "datetime": "2021-04-29 11:11",
+                "price": "$0",
+                "where": null,
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00U0U_i7niTLAXpRqz_0om0fC_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7304625951",
                 "name": "Barnwood Reclaimed Wood Hardwood Beam Mantel Boards Siding Lumber",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-barnwood-reclaimed-wood/7304625951.html",
@@ -26,35 +50,23 @@
                 "image_url": "https://images.craigslist.org/00e0e_4b95z4CpzpT_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7306730391",
-                "name": "Douglas Doug Fir Live Edge Wood Slab Slabs Reclaimed",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-douglas-doug-fir-live-edge/7306730391.html",
-                "datetime": "2021-04-29 10:30",
-                "price": "$8",
-                "where": "richmond / point / annex",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_84fLSxRb3Xy_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7309529883",
-                "name": "Dry Black Walnut and Claro Walnut Live Edge Wood Slabs",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-dry-black-walnut-and-claro/7309529883.html",
-                "datetime": "2021-04-29 10:30",
-                "price": "$15",
-                "where": "richmond / point / annex",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00a0a_1p750yrelan_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7304960763",
+                "name": "Vintage 60\u2019s Clothing",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-vintage-60s-clothing/7304960763.html",
+                "datetime": "2021-04-29 11:23",
+                "price": "$40",
+                "where": "half moon bay",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7314400672",
                 "name": "Dooney and Bourke Vintage Satchel",
@@ -76,18 +88,6 @@
                 "where": "sf",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7314393194",
-                "name": "Vintage Turkish caftan",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/atascadero-vintage-turkish-caftan/7314393194.html",
-                "datetime": "2021-04-29 10:20",
-                "price": "$100",
-                "where": "ATASCADERO",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01515_7C97loyi2wdz_05a09x_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7302908288",
+                "name": "Sensatec Women's wool/cashmere gloves w/ Sensatec Touchscreen, Size M",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-sensatec-womens-wool-cashmere/7302908288.html",
+                "datetime": "2021-04-29 11:00",
+                "price": "$10",
+                "where": "los gatos",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00k0k_87HitN67GNX_0CI0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7303094639",
                 "name": "NEW Leki Griffin Pro S Speed gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-leandro-new-leki-griffin-pro-speed/7303094639.html",
@@ -154,21 +166,21 @@
                 "image_url": "https://images.craigslist.org/00R0R_3XaC4R23Yqzz_0om0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7307128189",
-                "name": "Shawl and Dress Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-shawl-and-dress-gloves/7307128189.html",
-                "datetime": "2021-04-28 20:58",
-                "price": "$10",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00k0k_36eyVomHXLQ_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7314429325",
+                "name": "Wedding Dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-wedding-dress/7314429325.html",
+                "datetime": "2021-04-29 11:20",
+                "price": "$900",
+                "where": "oakland north / temescal",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01717_3jtm6plFgmn_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7311858972",
                 "name": "Wedding Dress",
@@ -190,18 +202,6 @@
                 "where": "south san francisco",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00F0F_4sHah1Sx28rz_0ib0An_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7314284166",
-                "name": "Monique Lou Wedding Dress",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-monique-lou-wedding-dress/7314284166.html",
-                "datetime": "2021-04-29 07:09",
-                "price": "$250",
-                "where": "santa cruz",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01010_f88B1hKXbZTz_0d40hq_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

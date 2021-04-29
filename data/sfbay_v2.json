@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7307128189",
+                "name": "Shawl and Dress Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-shawl-and-dress-gloves/7307128189.html",
+                "datetime": "2021-04-28 20:58",
+                "price": "$10",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00k0k_36eyVomHXLQ_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7306542297",
                 "name": "Exceptional famous brand new leather gloves",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/emeryville-exceptional-famous-brand-new/7306542297.html",
@@ -152,18 +164,6 @@
                 "where": "emeryville",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00O0O_9QaPJDUUssl_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7306634694",
-                "name": "Excellent Fashion Real Leather gloves",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/emeryville-excellent-fashion-real/7306634694.html",
-                "datetime": "2021-04-28 16:48",
-                "price": "$0",
-                "where": "bernal heights",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00g0g_9M6EgEsnyBb_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

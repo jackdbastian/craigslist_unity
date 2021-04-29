@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7313541889",
+                "name": "Laminated pressed wood counter top",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-laminated-pressed-wood/7313541889.html",
+                "datetime": "2021-04-29 14:56",
+                "price": "$50",
+                "where": "san mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00w0w_kXd1Ix4xnZVz_0lM0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7314486926",
                 "name": "Misc Wood Beams",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/vineburg-misc-wood-beams/7314486926.html",
@@ -38,61 +50,61 @@
                 "image_url": "https://images.craigslist.org/01111_5lTuTcNmY0Nz_0gl0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7314485472",
-                "name": "GLUELESS LAMINATED WOOD FLOORING",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-glueless-laminated-wood/7314485472.html",
-                "datetime": "2021-04-29 12:59",
-                "price": "$10",
-                "where": "walnut creek",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00V0V_ffyuO09enesz_0CI0g1_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7307961886",
-                "name": "Vintage Lingerie",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-vintage-lingerie/7307961886.html",
-                "datetime": "2021-04-29 13:26",
-                "price": "$50",
-                "where": "santa clara",
+                "id": "7314572005",
+                "name": "Gucci Money Clip Brass Mint - Vintage - New",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/spreckels-gucci-money-clip-brass-mint/7314572005.html",
+                "datetime": "2021-04-29 15:47",
+                "price": "$200",
+                "where": "san jose north",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00404_hhGGGLB9uXmz_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00T0T_hAmxBOIB1UX_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7309009207",
-                "name": "Vintage overcoat. Air Force",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-overcoat-air-force/7309009207.html",
-                "datetime": "2021-04-29 13:09",
-                "price": "$50",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7309480205",
+                "name": "\u201cGivenchy \u201cVintage active sport jacket, size L",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-givenchy-vintage-active/7309480205.html",
+                "datetime": "2021-04-29 15:13",
+                "price": "$35",
+                "where": "walnut creek",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00z0z_1m90Rv8NRHMz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00p0p_6shkiJDccdB_0lG0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7314475686",
-                "name": "Vintage Pendleton Board Shirt Made in USA",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-pendleton-board-shirt/7314475686.html",
-                "datetime": "2021-04-29 12:41",
-                "price": "$25",
-                "where": "Hayward",
+                "id": "7304536650",
+                "name": "Vest of Vintage Silk Ties and Gemstones",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/greenbrae-vest-of-vintage-silk-ties-and/7304536650.html",
+                "datetime": "2021-04-29 14:51",
+                "price": "$160",
+                "where": "Greenbrae",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00u0u_7p5Vzwfq5zc_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00v0v_gNB1VEc17jh_0b20er_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7314514908",
+                "name": "SALE! Set of 10 Designer Beaded Bracelets (by Roxanne Assoulin)",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-sale-set-of-10-designer/7314514908.html",
+                "datetime": "2021-04-29 14:00",
+                "price": "$20",
+                "where": "emeryville",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7314212581",
                 "name": "Wedding Gown: Exquisitely Embroidered and Beaded Bridal",
@@ -116,21 +128,21 @@
                 "image_url": "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
-            },
-            {
-                "id": "7314087704",
-                "name": "* Designer Beaded Bracelets by Roxanne Assoulin *",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-designer-beaded-bracelets-by/7314087704.html",
-                "datetime": "2021-04-28 16:40",
-                "price": "$20",
-                "where": "emeryville",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00202_bfLQfy8yksSz_0ak07K_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
             }
         ],
         "gloves": [
+            {
+                "id": "7303486688",
+                "name": "Brand New Uniqlo Gloves x 4",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-brand-new-uniqlo-gloves-4/7303486688.html",
+                "datetime": "2021-04-29 13:28",
+                "price": "$50",
+                "where": "lafayette / orinda / moraga",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00000_3YLD4P9KOg9_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
             {
                 "id": "7311738080",
                 "name": "Motorcycle gloves Kevlar Olympia",
@@ -154,54 +166,42 @@
                 "image_url": "https://images.craigslist.org/01414_eMvizpGHFVm_07K0ak_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7305987955",
-                "name": "Circus Sweetie Pink Ruffled Adult Costume Gloves One Size New!!!",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-circus-sweetie-pink-ruffled/7305987955.html",
-                "datetime": "2021-04-29 12:53",
-                "price": "$6",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_7YgJ56N1hxz_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
             {
-                "id": "7314476067",
-                "name": "BRAND NEW, NEVER WORN Lillian West Wedding Dress",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/sausalito-brand-new-never-worn-lillian/7314476067.html",
-                "datetime": "2021-04-29 12:42",
-                "price": "$780",
-                "where": "sausalito",
+                "id": "7314572250",
+                "name": "Wedding Dress (size 6-8)",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-wedding-dress-size-8/7314572250.html",
+                "datetime": "2021-04-29 15:48",
+                "price": "$100",
+                "where": "oakland hills / mills",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00606_l2rScNQk837z_0d60jC_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00y0y_96NEcswf0Eaz_0bq0n2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             },
             {
-                "id": "7308218354",
-                "name": "JESSICA McCLINTOCK SIZE 4 STRAPLESS WEDDING DRESS BRAND NEW W/TAGS",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/jessica-mcclintock-size-strapless/7308218354.html",
-                "datetime": "2021-04-29 12:29",
-                "price": "$30",
-                "where": "SAN JOSE",
+                "id": "7314569666",
+                "name": "Oscar de la Renta Hazel Applique Wedding Dress Size 2 4 6 8",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-oscar-de-la-renta-hazel/7314569666.html",
+                "datetime": "2021-04-29 15:42",
+                "price": "$1,800",
+                "where": "palo alto",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00505_h3AU6dsSrj0_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00j0j_kbIr2T1XGut_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             },
             {
-                "id": "7314429325",
-                "name": "Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-wedding-dress/7314429325.html",
-                "datetime": "2021-04-29 11:20",
-                "price": "$900",
-                "where": "oakland north / temescal",
+                "id": "7314531470",
+                "name": "Custom Made White Wedding Dress by San Francisco Designer Monique Lhui",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/san-rafael-custom-made-white-wedding/7314531470.html",
+                "datetime": "2021-04-29 14:23",
+                "price": "$1,999",
+                "where": "san rafael",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01717_3jtm6plFgmn_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00A0A_2gCo7AaCOOVz_0t20t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

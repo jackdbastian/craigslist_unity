@@ -56,38 +56,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7302424220",
-                "name": "Vintage Wilson\u2019s Women\u2019s Fur Coat",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-wilsons-womens-fur-coat/7302424220.html",
-                "datetime": "2021-04-28 18:17",
-                "price": "$60",
-                "where": "oakland lake merritt / grand",
+                "id": "7300059616",
+                "name": "Vintage Women's Red Cowboy Boots",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-womens-red-cowboy/7300059616.html",
+                "datetime": "2021-04-28 19:57",
+                "price": "$20",
+                "where": "santa rosa",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00T0T_aaafxeoN0c8z_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7314144835",
-                "name": "Buco J-27M Horsehide Black Crosszip Motorcycle Vintage Jacket",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-buco-27m-horsehide-black/7314144835.html",
-                "datetime": "2021-04-28 18:09",
-                "price": "$775",
-                "where": "glen park",
+                "id": "7314174371",
+                "name": "Vintage Motor-Cycle Style Leather Jacket size 6- 8 ladies",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-motor-cycle-style/7314174371.html",
+                "datetime": "2021-04-28 19:52",
+                "price": "$150",
+                "where": "marina / cow hollow",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00j0j_a1WdrlXenG3_09P07b_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00G0G_5oN7MA1YcjR_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7312147146",
-                "name": "Vintage Pendleton Western Wool Coat Jacket Large",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-pendleton-western/7312147146.html",
-                "datetime": "2021-04-28 18:07",
-                "price": "$100",
-                "where": "palo alto",
+                "id": "7314170607",
+                "name": "Vintage Bush Long Sleeve Shirt",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-bush-long-sleeve/7314170607.html",
+                "datetime": "2021-04-28 19:38",
+                "price": "$12",
+                "where": "lower pac hts",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00L0L_hBoeBXhlipNz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00Y0Y_915IVCTAguSz_0dr0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -208,6 +208,18 @@
         ],
         "great condition": [
             {
+                "id": "7304730917",
+                "name": "Great Condition Chelsea leather boots - 8.5M Ariat ($279 new)",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-great-condition-chelsea/7304730917.html",
+                "datetime": "2021-04-28 19:39",
+                "price": "$69",
+                "where": "lower pac hts",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00F0F_3ZOv46eqdmQz_0t20CI_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
                 "id": "7314041562",
                 "name": "Levi's Mens 541 blue jeans, 38 x 32, great condition",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-levis-mens-541-blue-jeans-38/7314041562.html",
@@ -228,18 +240,6 @@
                 "where": "san jose south",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00O0O_17JNxo0fRKIz_0t20CI_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7313632891",
-                "name": "vintage full length mink coat great condition",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-full-length-mink-coat/7313632891.html",
-                "datetime": "2021-04-27 17:33",
-                "price": "$300",
-                "where": "Berkeley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00k0k_tRulhNUuVqz_0CI0t2_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

@@ -16,38 +16,38 @@
         ],
         "wood": [
             {
-                "id": "7314394115",
-                "name": "Solid Wood Door with Glass Panels | French Door | Patio Door",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-solid-wood-door-with-glass/7314394115.html",
-                "datetime": "2021-04-29 10:21",
-                "price": "$60",
-                "where": "santa rosa",
+                "id": "7304625951",
+                "name": "Barnwood Reclaimed Wood Hardwood Beam Mantel Boards Siding Lumber",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-barnwood-reclaimed-wood/7304625951.html",
+                "datetime": "2021-04-29 10:30",
+                "price": "$6",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00W0W_5UWghgL8ybQz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00e0e_4b95z4CpzpT_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7311895951",
-                "name": "Wood Beam Lumber",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/redwood-estates-wood-beam-lumber/7311895951.html",
-                "datetime": "2021-04-29 10:13",
-                "price": "$0",
-                "where": "los gatos",
+                "id": "7306730391",
+                "name": "Douglas Doug Fir Live Edge Wood Slab Slabs Reclaimed",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-douglas-doug-fir-live-edge/7306730391.html",
+                "datetime": "2021-04-29 10:30",
+                "price": "$8",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00o0o_a9jsGs1gaeL_0jm0pO_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00h0h_84fLSxRb3Xy_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7314389117",
-                "name": "Solid Wood Door | Front Door",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-solid-wood-door-front-door/7314389117.html",
-                "datetime": "2021-04-29 10:13",
-                "price": "$40",
-                "where": "santa rosa",
+                "id": "7309529883",
+                "name": "Dry Black Walnut and Claro Walnut Live Edge Wood Slabs",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-dry-black-walnut-and-claro/7309529883.html",
+                "datetime": "2021-04-29 10:30",
+                "price": "$15",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01212_ibnD7znJ5Q9z_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00a0a_1p750yrelan_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             }
@@ -55,6 +55,30 @@
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7314400672",
+                "name": "Dooney and Bourke Vintage Satchel",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/gilroy-dooney-and-bourke-vintage-satchel/7314400672.html",
+                "datetime": "2021-04-29 10:32",
+                "price": "$185",
+                "where": "gilroy",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00D0D_9jJGiuy9HUnz_06Q05O_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7302972184",
+                "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7302972184.html",
+                "datetime": "2021-04-29 10:30",
+                "price": "$200",
+                "where": "sf",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7314393194",
                 "name": "Vintage Turkish caftan",
@@ -64,30 +88,6 @@
                 "where": "ATASCADERO",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/01515_7C97loyi2wdz_05a09x_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7304726525",
-                "name": "Vintage Western Boots",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/healdsburg-vintage-western-boots/7304726525.html",
-                "datetime": "2021-04-29 10:00",
-                "price": "$150",
-                "where": "healdsburg / windsor",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00H0H_cquXjQ3Esjq_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7310922143",
-                "name": "vintage ski jacket -- size xs/s -- from the 1970s - brand: FUSALP",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-ski-jacket-size/7310922143.html",
-                "datetime": "2021-04-29 09:59",
-                "price": "$22",
-                "where": "nob hill",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00l0l_8Jc0DwGDqt_09b0ak_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

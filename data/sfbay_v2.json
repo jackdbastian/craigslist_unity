@@ -12,42 +12,54 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
+            },
+            {
+                "id": "7309381210",
+                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
+                "datetime": "2021-04-19 11:22",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
             }
         ],
         "wood": [
             {
-                "id": "7308020016",
-                "name": "Wood slabs",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/pacifica-wood-slabs/7308020016.html",
-                "datetime": "2021-04-28 15:04",
-                "price": "$1",
-                "where": "Pacifica",
+                "id": "7314130211",
+                "name": "Old Rustic and Modern Reclaimed Barn Wood - Mantels - Walls - Beams",
+                "url": "https://sfbay.craigslist.org/pen/mad/d/mountain-view-old-rustic-and-modern/7314130211.html",
+                "datetime": "2021-04-28 17:25",
+                "price": "$0",
+                "where": "mountain view",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_5TCerfMr3SIz_0hS0CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00d0d_ibKXmBHHQgZ_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7314067317",
-                "name": "Solid Core Wood Door with Security Glass and Jambs",
-                "url": "https://sfbay.craigslist.org/scz/mat/d/santa-cruz-solid-core-wood-door-with/7314067317.html",
-                "datetime": "2021-04-28 15:02",
-                "price": "$110",
-                "where": "santa cruz",
+                "id": "7314130602",
+                "name": "Old Rustic and Modern Reclaimed Barn Wood - Mantels - Walls - Beams",
+                "url": "https://sfbay.craigslist.org/pen/mad/d/mountain-view-old-rustic-and-modern/7314130602.html",
+                "datetime": "2021-04-28 17:26",
+                "price": "$0",
+                "where": "mountain view",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01313_c3yY3pyWyx6z_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00t0t_egtmLIJcKvRz_0x20ok_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7311929079",
-                "name": "WOOD MOULDINGS",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-wood-mouldings/7311929079.html",
-                "datetime": "2021-04-28 13:41",
-                "price": "$1",
-                "where": "walnut creek",
+                "id": "7314129440",
+                "name": "Old Rustic and Modern Reclaimed Barn Wood - Mantels - Walls - Beams",
+                "url": "https://sfbay.craigslist.org/pen/mad/d/mountain-view-old-rustic-and-modern/7314129440.html",
+                "datetime": "2021-04-28 17:23",
+                "price": "$0",
+                "where": "mountain view",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_39Zm7y2ttzDz_0p10t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00h0h_gw9sZXCec1Tz_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             }
@@ -55,6 +67,30 @@
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7311604725",
+                "name": "Vintage Patagonia Women\u2019s Fleece Jacket size XL",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-patagonia-womens/7311604725.html",
+                "datetime": "2021-04-28 17:22",
+                "price": "$40",
+                "where": "sunset / parkside",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00D0D_awKEKbPFoqsz_0jm0jm_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7311604848",
+                "name": "Vintage Patagonia Women\u2019s Nylon Fleece Lined Jacket Size M Medium",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-patagonia-womens/7311604848.html",
+                "datetime": "2021-04-28 17:22",
+                "price": "$40",
+                "where": "sunset / parkside",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00n0n_ajmPFsNmTJEz_0jm0jm_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7314096109",
                 "name": "Vintage Frye Boots, Size 7",
@@ -64,30 +100,6 @@
                 "where": "Oakland",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00a0a_jr8RS7rz4z3z_0t20CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7314090451",
-                "name": "Vintage Authentic Burberry Nova Check Mini Tote Bag",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-vintage-authentic-burberry/7314090451.html",
-                "datetime": "2021-04-28 15:53",
-                "price": "$150",
-                "where": "emeryville",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00f0f_3JSFogOiZwo_0ak07K_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7303005101",
-                "name": "vintage Boy Scout Jacket: OFFICIAL Boy Scout of America",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-boy-scout-jacket/7303005101.html",
-                "datetime": "2021-04-28 13:35",
-                "price": "$79",
-                "where": "santa clara",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00707_bYqSGrK4UAN_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -221,10 +233,10 @@
             },
             {
                 "id": "7309098061",
-                "name": "Men's\\Women's Jackets- Great Condition- Lightweight & Comfy ($5-10 ea)",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-menswomens-jackets-great/7309098061.html",
+                "name": "Men's/Women's Jackets- Great Condition- Lightweight & Comfy ($5-10 ea)",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-mens-womens-jackets-great/7309098061.html",
                 "datetime": "2021-04-27 20:03",
-                "price": "$5",
+                "price": "$0",
                 "where": "san jose south",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00O0O_17JNxo0fRKIz_0t20CI_600x450.jpg",

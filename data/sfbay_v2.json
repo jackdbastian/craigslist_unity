@@ -16,6 +16,30 @@
         ],
         "wood": [
             {
+                "id": "7314665894",
+                "name": "Premium Select Engineered White Oak Wood 130 sq/ft DuChateau Vernal Ba",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/saratoga-premium-select-engineered/7314665894.html",
+                "datetime": "2021-04-29 20:21",
+                "price": "$650",
+                "where": "saratoga",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00909_95NaTSp1F8zz_0dq0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7314653820",
+                "name": "1 Fiberglass door wood grain",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-fiberglass-door-wood-grain/7314653820.html",
+                "datetime": "2021-04-29 19:31",
+                "price": "$350",
+                "where": "oakland hills / mills",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00U0U_asn1HjfWzUrz_0lM0CI_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7311584143",
                 "name": "Marvin window new wood & fiberglass",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/glen-ellen-marvin-window-new-wood/7311584143.html",
@@ -26,73 +50,73 @@
                 "image_url": "https://images.craigslist.org/00P0P_4pELcjWTGqfz_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7303083306",
-                "name": "Pine Decking 3\u201dx8\u201d Wood Tongue and Groove",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-pine-decking-3x8-wood-tongue/7303083306.html",
-                "datetime": "2021-04-29 17:32",
-                "price": "$2",
-                "where": "san carlos",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00A0A_i3oMOUgSS3lz_08g0ak_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7314603681",
-                "name": "Wood beams S4S Redwood, Douglas Fir, structural",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/san-rafael-wood-beams-s4s-redwood/7314603681.html",
-                "datetime": "2021-04-29 17:00",
-                "price": "$500",
-                "where": "san rafael",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01212_9sHtU16a03Iz_0lM0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7303833496",
-                "name": "Vintage Ornate Sterling Silver Filagree Vermeil Flower Pin Brooch",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-ornate-sterling/7303833496.html",
-                "datetime": "2021-04-29 18:26",
-                "price": "$55",
-                "where": "mission district",
+                "id": "7313382176",
+                "name": "Vintage 90s NFL, NBA, NHL snapbacks",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/el-sobrante-vintage-90s-nfl-nba-nhl/7313382176.html",
+                "datetime": "2021-04-29 21:52",
+                "price": "$1",
+                "where": "hercules, pinole, san pablo, el sob",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_iJRfN1taFd7_0iv0ne_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00H0H_dzpTxYitirw_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7308050558",
-                "name": "Vintage 1995 \"San Francisco 49'ers Short Sleeve T-Shirt NEW OLD STOCK",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1995-san/7308050558.html",
-                "datetime": "2021-04-29 18:25",
-                "price": "$30",
-                "where": "mission district",
+                "id": "7300097535",
+                "name": "Vintage Black and White Dress With Rhinestone and Crocheted Trim",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-black-and-white-dress/7300097535.html",
+                "datetime": "2021-04-29 21:28",
+                "price": "$20",
+                "where": "san jose north",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_e4RdKHAFUWJ_0dW0c9_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7308085818",
-                "name": "Vintage 950 Sterling Silver Pendant W/ Onyx & Sterling Necklace",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-950-sterling/7308085818.html",
-                "datetime": "2021-04-29 18:24",
-                "price": "$95",
-                "where": "mission district",
+                "id": "7303435506",
+                "name": "Vintage Hand Bags - Multiple",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-hand-bags-multiple/7303435506.html",
+                "datetime": "2021-04-29 20:07",
+                "price": "$10",
+                "where": "san jose south",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00a0a_dilqYoE42p2z_09T0dW_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00j0j_gtuSlSJJM0Wz_0MM132_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7304741535",
+                "name": "Very Nice Royal Blue Beaded Party Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-very-nice-royal-blue-beaded/7304741535.html",
+                "datetime": "2021-04-29 21:28",
+                "price": "$40",
+                "where": "san jose north",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
+            {
+                "id": "7314672298",
+                "name": "Frankie and Johnnie Small BEADED ZIPPERED BAG",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-frankie-and-johnnie-small/7314672298.html",
+                "datetime": "2021-04-29 20:49",
+                "price": "$10",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7309116098",
                 "name": "BEAUTIFUL BEADED PURSE! BIG SALE! $15 OFF  Perfect for holidays!",
@@ -104,71 +128,59 @@
                 "image_url": "https://images.craigslist.org/00y0y_nQcu4GXGnQ_0t20CI_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
-            },
-            {
-                "id": "7314514908",
-                "name": "SALE! Set of 10 Designer Beaded Bracelets (by Roxanne Assoulin)",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-sale-set-of-10-designer/7314514908.html",
-                "datetime": "2021-04-29 14:00",
-                "price": "$20",
-                "where": "emeryville",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
-            },
-            {
-                "id": "7314212581",
-                "name": "Wedding Gown: Exquisitely Embroidered and Beaded Bridal",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-gown-exquisitely-embroidered/7314212581.html",
-                "datetime": "2021-04-29 00:15",
-                "price": "$300",
-                "where": "san jose west",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00F0F_b6LhF1KQ9TV_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
             }
         ],
         "gloves": [
             {
-                "id": "7304932643",
-                "name": "Men's Gloves (L) - Pearl Izumi Cyclone Gel Glove",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-mens-gloves-pearl-izumi-cyclone/7304932643.html",
-                "datetime": "2021-04-29 16:48",
-                "price": "$20",
-                "where": "oakland west",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00303_ii1SjNMfjOBz_0t20CI_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7303486688",
-                "name": "Brand New Uniqlo Gloves x 4",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-brand-new-uniqlo-gloves-4/7303486688.html",
-                "datetime": "2021-04-29 13:28",
+                "id": "7301899432",
+                "name": "Ski & snowboard gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-ski-snowboard-gloves/7301899432.html",
+                "datetime": "2021-04-29 21:21",
                 "price": "$50",
-                "where": "lafayette / orinda / moraga",
+                "where": "san jose downtown",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00000_3YLD4P9KOg9_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00O0O_5VdsFCg7Vqxz_0lM0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             },
             {
-                "id": "7311738080",
-                "name": "Motorcycle gloves Kevlar Olympia",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-carlos-motorcycle-gloves-kevlar/7311738080.html",
-                "datetime": "2021-04-29 13:13",
-                "price": "$35",
-                "where": "San Carlos",
+                "id": "7307579614",
+                "name": "Ladies soft leather gloves (black, olive, purple) + long ones in black",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-ladies-soft-leather/7307579614.html",
+                "datetime": "2021-04-29 21:17",
+                "price": "$5",
+                "where": "inner sunset / UCSF",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00I0I_en1i3b1ixXmz_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00202_c5WyHfrkd98z_0lM0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
+                "id": "7307580758",
+                "name": "NEW classy ladies khaki / camel / tan gloves with gold chain / detail",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-new-classy-ladies-khaki/7307580758.html",
+                "datetime": "2021-04-29 21:17",
+                "price": "$5",
+                "where": "inner sunset / UCSF",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00D0D_cKgAw6RCZdRz_0CI0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7314676422",
+                "name": "Wedding dress",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-wedding-dress/7314676422.html",
+                "datetime": "2021-04-29 21:09",
+                "price": "$145",
+                "where": "bayview",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01212_fRPG1J27P3lz_0co0gw_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7310546180",
                 "name": "Paloma Blanca Lace Wedding Dress",
@@ -192,21 +204,21 @@
                 "image_url": "https://images.craigslist.org/00N0N_j1caZHp5phvz_0eE0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
-            },
-            {
-                "id": "7314598750",
-                "name": "WEDDING DRESS ON SALE",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wedding-dress-on-sale/7314598750.html",
-                "datetime": "2021-04-29 16:48",
-                "price": "$300",
-                "where": "willow glen / cambrian",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00K0K_kq6RFU9HApHz_0aq0fD_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
             }
         ],
         "great condition": [
+            {
+                "id": "7306775479",
+                "name": "Great condition jackets sweaters outerwear",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/ramona-great-condition-jackets-sweaters/7306775479.html",
+                "datetime": "2021-04-29 20:30",
+                "price": "$2",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00s0s_fYMvZpc8Yv8_0ew0jm_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
             {
                 "id": "7311901137",
                 "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
@@ -228,18 +240,6 @@
                 "where": "lower pac hts",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00F0F_3ZOv46eqdmQz_0t20CI_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7314041562",
-                "name": "Levi's Mens 541 blue jeans, 38 x 32, great condition",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-levis-mens-541-blue-jeans-38/7314041562.html",
-                "datetime": "2021-04-28 14:10",
-                "price": "$15",
-                "where": "palo alto",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00L0L_gBG0wG5IAwz_0lM0t2_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

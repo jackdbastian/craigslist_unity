@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7303083306",
+                "name": "Pine Decking 3\u201dx8\u201d Wood Tongue and Groove",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-pine-decking-3x8-wood-tongue/7303083306.html",
+                "datetime": "2021-04-29 17:32",
+                "price": "$2",
+                "where": "san carlos",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00A0A_i3oMOUgSS3lz_08g0ak_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7314603681",
                 "name": "Wood beams S4S Redwood, Douglas Fir, structural",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/san-rafael-wood-beams-s4s-redwood/7314603681.html",
@@ -38,23 +50,35 @@
                 "image_url": "https://images.craigslist.org/00w0w_kXd1Ix4xnZVz_0lM0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7314486926",
-                "name": "Misc Wood Beams",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/vineburg-misc-wood-beams/7314486926.html",
-                "datetime": "2021-04-29 13:11",
-                "price": "$0",
-                "where": "sonoma",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00707_5xeC4Zurxegz_0CI0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7314619252",
+                "name": "Sewing and Dress Patterns - Vintage",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/saratoga-sewing-and-dress-patterns/7314619252.html",
+                "datetime": "2021-04-29 17:44",
+                "price": "$50",
+                "where": "saratoga",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00A0A_diKWwcDampwz_0CI0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7306955230",
+                "name": "****Authentic Swiss Lederhosen with Suspenders, Vintage.",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-authentic-swiss-lederhosen/7306955230.html",
+                "datetime": "2021-04-29 17:29",
+                "price": "$85",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7314613657",
                 "name": "Vintage Leather Vest The Tannery Montgomery Ward Deep Cranberry Sz S",
@@ -64,30 +88,6 @@
                 "where": "alameda",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00F0F_9yo0NIxWlqn_0hq0ne_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7314610281",
-                "name": "Women\u2019s Resume for MODE Vintage Black Leather Jacket Moto Style",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-womens-resume-for-mode-vintage/7314610281.html",
-                "datetime": "2021-04-29 17:16",
-                "price": "$100",
-                "where": "alameda",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00Z0Z_eMsdOmcRg7gz_0sE0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7314607845",
-                "name": "The Leather Shop Sears 70s Vintage Classic Dark Brown Leather Jacket",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-the-leather-shop-sears-70s/7314607845.html",
-                "datetime": "2021-04-29 17:15",
-                "price": "$200",
-                "where": "alameda",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00707_5CSv4KW8hBe_0sm0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7310546180",
+                "name": "Paloma Blanca Lace Wedding Dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/paloma-blanca-lace-wedding-dress/7310546180.html",
+                "datetime": "2021-04-29 17:51",
+                "price": "$999",
+                "where": "alameda",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7314603705",
                 "name": "Tadashi Shoji wedding dress - unworn and with tag attached",
                 "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-tadashi-shoji-wedding/7314603705.html",
@@ -190,18 +202,6 @@
                 "where": "willow glen / cambrian",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00K0K_kq6RFU9HApHz_0aq0fD_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7314572250",
-                "name": "Wedding Dress (size 6-8)",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-wedding-dress-size-8/7314572250.html",
-                "datetime": "2021-04-29 15:48",
-                "price": "$100",
-                "where": "oakland hills / mills",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00y0y_96NEcswf0Eaz_0bq0n2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

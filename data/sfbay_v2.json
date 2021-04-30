@@ -56,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7309647486",
+                "name": "Vintage American Hat Company 7 1/2  Gray Felt Cowboy Hat.",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/livermore-vintage-american-hat-company/7309647486.html",
+                "datetime": "2021-04-29 22:28",
+                "price": "$40",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00202_gl2JBc9GaPJz_0v10t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7313382176",
                 "name": "Vintage 90s NFL, NBA, NHL snapbacks",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/el-sobrante-vintage-90s-nfl-nba-nhl/7313382176.html",
@@ -78,21 +90,21 @@
                 "image_url": "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
-            },
-            {
-                "id": "7303435506",
-                "name": "Vintage Hand Bags - Multiple",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-hand-bags-multiple/7303435506.html",
-                "datetime": "2021-04-29 20:07",
-                "price": "$10",
-                "where": "san jose south",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00j0j_gtuSlSJJM0Wz_0MM132_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7314686887",
+                "name": "Jovani beaded ivory/nude gown",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-jovani-beaded-ivory-nude-gown/7314686887.html",
+                "datetime": "2021-04-29 22:13",
+                "price": "$400",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01111_inLVuesQseuz_0he0t2_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7304741535",
                 "name": "Very Nice Royal Blue Beaded Party Dress",
@@ -114,18 +126,6 @@
                 "where": "santa rosa",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
-            },
-            {
-                "id": "7309116098",
-                "name": "BEAUTIFUL BEADED PURSE! BIG SALE! $15 OFF  Perfect for holidays!",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/redwood-estates-beautiful-beaded-purse/7309116098.html",
-                "datetime": "2021-04-29 17:07",
-                "price": "$0",
-                "where": "los gatos",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00y0y_nQcu4GXGnQ_0t20CI_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
             }
@@ -170,6 +170,30 @@
         ],
         "wedding dress": [
             {
+                "id": "7311523796",
+                "name": "Lillian West Wedding Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-lillian-west-wedding-dress/7311523796.html",
+                "datetime": "2021-04-29 22:20",
+                "price": "$500",
+                "where": "San Jose",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00i0i_iNVzQBjJgjE_0jm0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
+                "id": "7314686455",
+                "name": "RANDY FENOLI $3000 Wedding Gown Baroque Victorian Corset Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/mountain-view-randy-fenoli-3000-wedding/7314686455.html",
+                "datetime": "2021-04-29 22:10",
+                "price": "$380",
+                "where": "mountain view",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00u0u_lQxJ7AQNTbV_0bC0fu_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7314676422",
                 "name": "Wedding dress",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-wedding-dress/7314676422.html",
@@ -178,30 +202,6 @@
                 "where": "bayview",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/01212_fRPG1J27P3lz_0co0gw_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7310546180",
-                "name": "Paloma Blanca Lace Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/paloma-blanca-lace-wedding-dress/7310546180.html",
-                "datetime": "2021-04-29 17:51",
-                "price": "$999",
-                "where": "alameda",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7314603705",
-                "name": "Tadashi Shoji wedding dress - unworn and with tag attached",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-tadashi-shoji-wedding/7314603705.html",
-                "datetime": "2021-04-29 17:02",
-                "price": "$475",
-                "where": "scotts valley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00N0N_j1caZHp5phvz_0eE0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

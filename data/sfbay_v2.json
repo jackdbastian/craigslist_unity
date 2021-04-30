@@ -56,38 +56,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7303508798",
-                "name": "Vintage Moroccan leather travel bag",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-moroccan-leather/7303508798.html",
-                "datetime": "2021-04-30 08:38",
+                "id": "7314892429",
+                "name": "Vintage Bergamot I\u2019d Rather Be Fishing Color Belt Buckle P-256 Wisc",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-bergamot-id-rather-be/7314892429.html",
+                "datetime": "2021-04-30 10:26",
+                "price": "$20",
+                "where": "alameda",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01010_hGkClRQulUs_0pH0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7313709546",
+                "name": "Vintage Douglas Aircraft Workman's Jacket",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-douglas-aircraft/7313709546.html",
+                "datetime": "2021-04-30 10:01",
                 "price": "$100",
-                "where": "berkeley",
+                "where": "laurel hts / presidio",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_3L5S7tcdxaF_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00e0e_3n5CqBzuT7O_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7312803481",
-                "name": "Vintage White Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7312803481.html",
-                "datetime": "2021-04-30 08:35",
-                "price": "$25",
-                "where": "concord / pleasant hill / martinez",
+                "id": "7303754104",
+                "name": "DCSF - ELGINI Vintage Suitcase Hand Shoulder Bag",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-dcsf-elgini-vintage/7303754104.html",
+                "datetime": "2021-04-30 09:56",
+                "price": "$400",
+                "where": "mission district",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7313816644",
-                "name": "Vintage 1950's Kitchen Apron",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-1950s-kitchen-apron/7313816644.html",
-                "datetime": "2021-04-30 08:25",
-                "price": "$5",
-                "where": "santa rosa",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00707_ivzvDo4KNan_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7314850820",
+                "name": "Vintage Lederer of Paris Long Gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/vintage-lederer-of-paris-long-gloves/7314850820.html",
+                "datetime": "2021-04-30 09:19",
+                "price": "$22",
+                "where": "saratoga",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00p0p_jwJS4cYlGqs_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7312803481",
                 "name": "Vintage White Gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7312803481.html",
@@ -152,18 +164,6 @@
                 "where": "petaluma",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00U0U_3D5sYC4Weg5z_0t20CI_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7301899432",
-                "name": "Ski & snowboard gloves",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-ski-snowboard-gloves/7301899432.html",
-                "datetime": "2021-04-29 21:21",
-                "price": "$50",
-                "where": "san jose downtown",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00O0O_5VdsFCg7Vqxz_0lM0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

@@ -28,6 +28,18 @@
         ],
         "wood": [
             {
+                "id": "7315103732",
+                "name": "Wideplank wood flooring",
+                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-wideplank-wood-flooring/7315103732.html",
+                "datetime": "2021-04-30 17:00",
+                "price": "$4",
+                "where": "sunset / parkside",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00q0q_1WUCiXMTPGuz_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7309413959",
                 "name": "Unique Leaded Glass & Wood Doors",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/sebastopol-unique-leaded-glass-wood/7309413959.html",
@@ -50,23 +62,23 @@
                 "image_url": "https://images.craigslist.org/00j0j_jVAjtLYbOGiz_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7315069718",
-                "name": "8'x12' x8' ft tall wood shed",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/atherton-8x12-x8-ft-tall-wood-shed/7315069718.html",
-                "datetime": "2021-04-30 15:41",
-                "price": "$200",
-                "where": "atherton",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01414_iPUB4Kl3yvbz_0ne0ne_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7306354959",
+                "name": "Vintage Avirex Leather variety  jacket Skull Wings Punisher 4XL",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-avirex-leather-variety/7306354959.html",
+                "datetime": "2021-04-30 17:16",
+                "price": "$250",
+                "where": "oakland lake merritt / grand",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00o0o_526Zd2ZBW96_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7315089629",
                 "name": "Vanson Leather jacket vintage",
@@ -88,18 +100,6 @@
                 "where": "san mateo",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00i0i_9AELKF3s4e2z_0t20CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7300373856",
-                "name": "Vintage Evening Bag",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-evening-bag/7300373856.html",
-                "datetime": "2021-04-30 16:02",
-                "price": "$15",
-                "where": "san mateo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00i0i_ld1aloVt2kiz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -220,6 +220,18 @@
         ],
         "great condition": [
             {
+                "id": "7300941257",
+                "name": "Coach Genuine Leather Handbag Red in Great Condition",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-coach-genuine-leather-handbag/7300941257.html",
+                "datetime": "2021-04-30 17:13",
+                "price": "$30",
+                "where": "milpitas",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00r0r_1UyNU1bhFz1_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
                 "id": "7314041562",
                 "name": "Levi's Mens 541 blue jeans, 38 x 32, great condition",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-levis-mens-541-blue-jeans-38/7314041562.html",
@@ -240,18 +252,6 @@
                 "where": "half moon bay",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00G0G_3VamjCbYfUR_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7306205012",
-                "name": "Really Cute Red GUESS 4 1/2\" Platform Shoes, Size 8, Great Condition!",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-really-cute-red-guess/7306205012.html",
-                "datetime": "2021-04-30 13:04",
-                "price": "$35",
-                "where": "half moon bay",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

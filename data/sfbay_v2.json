@@ -16,6 +16,18 @@
         ],
         "wood": [
             {
+                "id": "7304287065",
+                "name": "**BRAND NEW WINDOWS worth +$3.2k-  MILGARD White Fiberglass/Wood",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/mill-valley-brand-new-windows-worth-32k/7304287065.html",
+                "datetime": "2021-04-30 20:15",
+                "price": "$1",
+                "where": "mill valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00n0n_g6X0DdXAKKO_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7315131390",
                 "name": "Wood fireplace mantel",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/atherton-wood-fireplace-mantel/7315131390.html",
@@ -38,56 +50,44 @@
                 "image_url": "https://images.craigslist.org/00I0I_kXH9L8SNIpPz_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7311570784",
-                "name": "New Simpson #55 Interior Solid Wood Door",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-simpson-55-interior-solid/7311570784.html",
-                "datetime": "2021-04-30 17:27",
-                "price": "$150",
-                "where": "berkeley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00x0x_cpIiCTovywHz_0t20CI_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7315152639",
-                "name": "Vintage Motorcycle Jacket",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/sebastopol-vintage-motorcycle-jacket/7315152639.html",
-                "datetime": "2021-04-30 19:34",
-                "price": "$65",
-                "where": "sebastopol",
+                "id": "7315159020",
+                "name": "\ud83d\udc07 Vintage silver & white sandals. Size 7",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-silver-white-sandals/7315159020.html",
+                "datetime": "2021-04-30 20:08",
+                "price": "$10",
+                "where": "hayward / castro valley",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_lNklWse3Mx1_0gl0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/01515_lws8MkbtQsl_0vF0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7312147146",
-                "name": "Vintage Pendleton Western Wool Coat Jacket Large",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-pendleton-western/7312147146.html",
-                "datetime": "2021-04-30 19:27",
-                "price": "$100",
-                "where": "palo alto",
+                "id": "7300096819",
+                "name": "Vintage Mid-Century SWANK \"Travel Shoe Polishing Kit\" 2 Brushes/Cloth",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-mid-century-swank/7300096819.html",
+                "datetime": "2021-04-30 20:00",
+                "price": "$30",
+                "where": "mission district",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00L0L_hBoeBXhlipNz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/01717_8ajAPDkUlRBz_0ne0gp_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7310346291",
-                "name": "Vintage Mark Cross Ostrich Leather Handbag with Original Coin Purse",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-mark-cross-ostrich-leather/7310346291.html",
-                "datetime": "2021-04-30 19:06",
-                "price": "$4,500",
-                "where": "nob hill",
+                "id": "7315159272",
+                "name": "\ud83d\udc07 Vintage 3X Plus Size Original Crochet Lace Top & Skirt with Lining",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-3x-plus-size-original/7315159272.html",
+                "datetime": "2021-04-30 20:01",
+                "price": "$25",
+                "where": "hayward / castro valley",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00r0r_5A7goVNIYsz_0g50t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

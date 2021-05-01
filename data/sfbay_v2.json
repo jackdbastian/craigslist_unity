@@ -1,6 +1,19 @@
 {
     "materials": {
-        "gravel": [],
+        "gravel": [
+            {
+                "id": "7309381210",
+                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
+                "datetime": "2021-04-19 11:22",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
+            }
+        ],
         "wood": [
             {
                 "id": "7309887256",
@@ -43,43 +56,55 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7305975499",
-                "name": "Vintage \u201cThe Sak\u201d Backpack Purse, Wallet, and Makeup Bag",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-the-sak-backpack/7305975499.html",
-                "datetime": "2021-05-01 08:48",
-                "price": "$30",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7301395182",
+                "name": "The NORTH FACE Extreme Ski Jacket - Medium - Vintage - LikeNew!",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/mill-valley-the-north-face-extreme-ski/7301395182.html",
+                "datetime": "2021-05-01 09:27",
+                "price": "$50",
+                "where": "mill valley",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_jKXbOWLhkG9_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00606_5y9n3AgmCET_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7313123405",
-                "name": "Kimono Haori Silk Jacket - Vintage",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-kimono-haori-silk-jacket/7313123405.html",
-                "datetime": "2021-05-01 08:42",
-                "price": "$25",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7305440896",
+                "name": "LADIES VINTAGE SHOE STAYS",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/ladies-vintage-shoe-stays/7305440896.html",
+                "datetime": "2021-05-01 09:25",
+                "price": "$4",
+                "where": "corte madera",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00B0B_7zDPAFpZg7V_600x450.jpg",
+                "image_url": "https://images.craigslist.org/01313_8KDUBpwCQ8c_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7313123857",
-                "name": "Vintage Laurel Burch Mynah Bird Post Earrings",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-laurel-burch-mynah/7313123857.html",
-                "datetime": "2021-05-01 08:42",
-                "price": "$12",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7300327533",
+                "name": "Vintage authentic Swarovski crystal rhinestone drop dangle earrings",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-authentic-swarovski/7300327533.html",
+                "datetime": "2021-05-01 09:23",
+                "price": "$165",
+                "where": "san mateo foster city",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00O0O_fXLzeM4NoAh_0CI0q7_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00f0f_fTs4mrEohtz_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7314212581",
+                "name": "Wedding Gown: Exquisitely Embroidered and Beaded Bridal",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-gown-exquisitely-embroidered/7314212581.html",
+                "datetime": "2021-05-01 09:16",
+                "price": "$300",
+                "where": "san jose west",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00F0F_b6LhF1KQ9TV_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7307558105",
                 "name": "Nice Tea Length Beaded Ivory Ladies Size XL Dress",
@@ -103,21 +128,21 @@
                 "image_url": "https://images.craigslist.org/00b0b_korzmuoesXj_0l30t2_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
-            },
-            {
-                "id": "7313715581",
-                "name": "* Set of 10 Designer Beaded Bracelets (by Roxanne Assoulin) *",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-set-of-10-designer-beaded/7313715581.html",
-                "datetime": "2021-04-30 16:33",
-                "price": "$20",
-                "where": "emeryville",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
             }
         ],
         "gloves": [
+            {
+                "id": "7311832429",
+                "name": "NEW hat + scarf +  gloves set",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-new-hat-scarf-gloves-set/7311832429.html",
+                "datetime": "2021-05-01 09:11",
+                "price": "$9",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00W0W_i9bBnhEfkL_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
             {
                 "id": "7315242539",
                 "name": "Almost New Onefit Leather and Spandex Beautiful pair of Gloves",
@@ -139,18 +164,6 @@
                 "where": "san mateo",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00606_h3DOlGWVeKHz_0sc0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7303792292",
-                "name": "Child Spider-Man Gloves Rubie's Marvel, Ultimate Spider-Man Child Glov",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-child-spider-man-gloves-rubies/7303792292.html",
-                "datetime": "2021-04-30 12:36",
-                "price": "$5",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00m0m_e08NDsbbm3b_0ak07K_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

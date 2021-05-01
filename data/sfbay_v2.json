@@ -12,21 +12,21 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
-            },
-            {
-                "id": "7309381210",
-                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
-                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
-                "datetime": "2021-04-19 11:22",
-                "price": "$0",
-                "where": "We Ship Nationwide",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
-                "query": "gravel",
-                "category": "maa"
             }
         ],
         "wood": [
+            {
+                "id": "7315131390",
+                "name": "Wood fireplace mantel",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/atherton-wood-fireplace-mantel/7315131390.html",
+                "datetime": "2021-04-30 18:18",
+                "price": "$135",
+                "where": "atherton",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00B0B_6jvFccgsCgEz_0uY0ne_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
             {
                 "id": "7300502002",
                 "name": "New Simpson #82 Interior Solid Wood Door",
@@ -50,56 +50,44 @@
                 "image_url": "https://images.craigslist.org/00x0x_cpIiCTovywHz_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7311628711",
-                "name": "New Interior Primed One Panel Solid Wood Door",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-interior-primed-one-panel/7311628711.html",
-                "datetime": "2021-04-30 17:27",
-                "price": "$70",
-                "where": "berkeley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_bjlIZU5J2POz_0t20CI_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7311207941",
-                "name": "Vintage Levi's 501 100% cotton excellent condition",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-levis-cotton-excellent/7311207941.html",
-                "datetime": "2021-04-30 17:52",
-                "price": "$55",
-                "where": "berkeley north / hills",
+                "id": "7315152639",
+                "name": "Vintage Motorcycle Jacket",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/sebastopol-vintage-motorcycle-jacket/7315152639.html",
+                "datetime": "2021-04-30 19:34",
+                "price": "$65",
+                "where": "sebastopol",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00v0v_1Skb2uieIW8z_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00b0b_lNklWse3Mx1_0gl0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7306267444",
-                "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7306267444.html",
-                "datetime": "2021-04-30 17:40",
-                "price": "$200",
-                "where": "sf",
+                "id": "7312147146",
+                "name": "Vintage Pendleton Western Wool Coat Jacket Large",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-pendleton-western/7312147146.html",
+                "datetime": "2021-04-30 19:27",
+                "price": "$100",
+                "where": "palo alto",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00L0L_hBoeBXhlipNz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7306354959",
-                "name": "Vintage Avirex Leather variety  jacket Skull Wings Punisher 4XL",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-avirex-leather-variety/7306354959.html",
-                "datetime": "2021-04-30 17:16",
-                "price": "$250",
-                "where": "oakland lake merritt / grand",
+                "id": "7310346291",
+                "name": "Vintage Mark Cross Ostrich Leather Handbag with Original Coin Purse",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-mark-cross-ostrich-leather/7310346291.html",
+                "datetime": "2021-04-30 19:06",
+                "price": "$4,500",
+                "where": "nob hill",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00o0o_526Zd2ZBW96_600x450.jpg",
+                "image_url": "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

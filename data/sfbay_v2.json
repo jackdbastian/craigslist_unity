@@ -43,38 +43,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7315660359",
-                "name": "Vintage leather Banana Republic bomber jacket",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-banana/7315660359.html",
-                "datetime": "2021-05-01 23:50",
-                "price": "$50",
-                "where": "inner richmond",
+                "id": "7310052333",
+                "name": "Donna Karan vintage belts",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-donna-karan-vintage-belts/7310052333.html",
+                "datetime": "2021-05-02 05:18",
+                "price": "$55",
+                "where": "san jose west",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_fFsoL6O1zvY_0hP0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00V0V_4Lnby9RtUhoz_0Bt0jF_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7315660333",
-                "name": "Vintage S.F. Giants Reversible Jacket",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-sf-giants/7315660333.html",
-                "datetime": "2021-05-01 23:50",
-                "price": "$120",
-                "where": "inner richmond",
+                "id": "7310720970",
+                "name": "Mid Miu Vintage Sandals",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-mid-miu-vintage-sandals/7310720970.html",
+                "datetime": "2021-05-02 05:00",
+                "price": "$60",
+                "where": "sonoma",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00R0R_lhyQXBIgBqY_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00l0l_2RpjTThE53X_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7308113392",
-                "name": "Tiki time Hawaiian shirts dresses Muu Muus Caftans vintage clothing",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-tiki-time-hawaiian-shirts/7308113392.html",
-                "datetime": "2021-05-01 23:41",
-                "price": "$0",
-                "where": "Alameda",
+                "id": "7310721001",
+                "name": "Vintage Molly Black Harness",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/napa-vintage-molly-black-harness/7310721001.html",
+                "datetime": "2021-05-02 04:59",
+                "price": "$100",
+                "where": "sonoma",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00S0S_9stAFDd0Ac0z_0CI0CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/01717_fGEOtYHUJf1_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -119,6 +119,18 @@
         ],
         "gloves": [
             {
+                "id": "7300682247",
+                "name": "women\u2019s soft leather gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-womens-soft-leather-gloves/7300682247.html",
+                "datetime": "2021-05-02 05:17",
+                "price": "$17",
+                "where": "san jose west",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00y0y_buNbEI0lQvHz_0A10t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7308855333",
                 "name": "Head Junior Ski Gloves Size Large *** BRAND NEW ***",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/head-junior-ski-gloves-size-large-brand/7308855333.html",
@@ -139,18 +151,6 @@
                 "where": "santa rosa",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00y0y_eV6Ft475kROz_0CI0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7312105576",
-                "name": "2 in 1 Gloves",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-in-gloves/7312105576.html",
-                "datetime": "2021-05-01 22:42",
-                "price": "$4",
-                "where": "santa rosa",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00G0G_864sC5gqKp5z_0t20CI_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

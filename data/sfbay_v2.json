@@ -43,38 +43,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7304960763",
-                "name": "Vintage 60\u2019s Clothing",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-vintage-60s-clothing/7304960763.html",
-                "datetime": "2021-05-01 23:10",
-                "price": "$40",
-                "where": "half moon bay",
+                "id": "7315660359",
+                "name": "Vintage leather Banana Republic bomber jacket",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-banana/7315660359.html",
+                "datetime": "2021-05-01 23:50",
+                "price": "$50",
+                "where": "inner richmond",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00h0h_fFsoL6O1zvY_0hP0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7315656292",
-                "name": "FREE vintage 2008 Gap low rise jeans used size 4",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-free-vintage-2008-gap-low/7315656292.html",
-                "datetime": "2021-05-01 23:04",
+                "id": "7315660333",
+                "name": "Vintage S.F. Giants Reversible Jacket",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-sf-giants/7315660333.html",
+                "datetime": "2021-05-01 23:50",
+                "price": "$120",
+                "where": "inner richmond",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00R0R_lhyQXBIgBqY_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7308113392",
+                "name": "Tiki time Hawaiian shirts dresses Muu Muus Caftans vintage clothing",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-tiki-time-hawaiian-shirts/7308113392.html",
+                "datetime": "2021-05-01 23:41",
                 "price": "$0",
-                "where": "sunset / parkside",
+                "where": "Alameda",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_lXu54bSNQL8z_0t20CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7311724401",
-                "name": "Vintage Red Plastic Necklace",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-red-plastic-necklace/7311724401.html",
-                "datetime": "2021-05-01 22:55",
-                "price": "$3",
-                "where": "santa rosa",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00j0j_klkGuh5I3PQz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00S0S_9stAFDd0Ac0z_0CI0CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

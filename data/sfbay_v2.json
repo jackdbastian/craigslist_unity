@@ -56,38 +56,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7314176160",
-                "name": "Vintage 1950's Kitchen Apron",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-1950s-kitchen-apron/7314176160.html",
-                "datetime": "2021-05-01 20:56",
-                "price": "$5",
-                "where": "santa rosa",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7315632753",
-                "name": "Vintage Dubrowsky & Perlbinder Faux Mink Coat",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/union-city-vintage-dubrowsky-perlbinder/7315632753.html",
-                "datetime": "2021-05-01 20:22",
-                "price": "$85",
-                "where": "hayward / castro valley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00P0P_2KUOhS1fSDTz_0c60bT_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7315621494",
-                "name": "Vintage suits, shoes and hats!",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-suits-shoes-and-hats/7315621494.html",
-                "datetime": "2021-05-01 19:38",
+                "id": "7305432764",
+                "name": "Vintage 2000 Shirts Sean Jean FUBU Tommy Hilfiger Koman MLB XL 2XL XXL",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-2000-shirts-sean/7305432764.html",
+                "datetime": "2021-05-01 21:18",
                 "price": "$1",
-                "where": "berkeley",
+                "where": "glen park",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00G0G_cILOpzrlxol_0fA0kM_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00w0w_7pSkBEIlul9z_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7302210810",
+                "name": "Volatile wedge vintage Flame shoes, women's Sz. 7",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-volatile-wedge-vintage/7302210810.html",
+                "datetime": "2021-05-01 21:11",
+                "price": "$35",
+                "where": "San Francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01010_iMaDFTQGix6_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7302242919",
+                "name": "Vintage burgundy suede 7 women's shoes Joan&David",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-burgundy-suede/7302242919.html",
+                "datetime": "2021-05-01 21:10",
+                "price": "$40",
+                "where": "San Francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00f0f_44q6QKvj3J4_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

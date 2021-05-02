@@ -1,19 +1,6 @@
 {
     "materials": {
-        "gravel": [
-            {
-                "id": "7309381210",
-                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
-                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
-                "datetime": "2021-04-19 11:22",
-                "price": "$0",
-                "where": "We Ship Nationwide",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
-                "query": "gravel",
-                "category": "maa"
-            }
-        ],
+        "gravel": [],
         "wood": [
             {
                 "id": "7311660112",
@@ -56,6 +43,30 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7304450543",
+                "name": "KATE SPADE, VINTAGE, BLUE/WHITE LOGO PATTERN, Purse...",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/redwood-city-kate-spade-vintage-blue/7304450543.html",
+                "datetime": "2021-05-01 18:18",
+                "price": "$25",
+                "where": "redwood city",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00909_ilqgm8hWb8L_0CI0pV_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7303049685",
+                "name": "Gucci Vintage 1980s Tiger Enamel Face Clasp Leather Bag Stunning",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-gucci-vintage-1980s-tiger/7303049685.html",
+                "datetime": "2021-05-01 18:09",
+                "price": "$875",
+                "where": "San Jose",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00v0v_LUp05ZJo7rz_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7304536650",
                 "name": "Vest of Vintage Silk Ties and Gemstones",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/greenbrae-vest-of-vintage-silk-ties-and/7304536650.html",
@@ -64,30 +75,6 @@
                 "where": "Greenbrae",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00v0v_gNB1VEc17jh_0b20er_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7304538273",
-                "name": "Vintage Velvet Elephant Vest",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/greenbrae-vintage-velvet-elephant-vest/7304538273.html",
-                "datetime": "2021-05-01 17:55",
-                "price": "$70",
-                "where": "Greenbrae",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00w0w_78y1uTtplOl_0t20t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7310614896",
-                "name": "Vintage Shoe Stool/Chair - Made by American Chair Company - USA",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-vintage-shoe-stool-chair-made/7310614896.html",
-                "datetime": "2021-05-01 17:53",
-                "price": "$99",
-                "where": "lafayette / orinda / moraga",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00J0J_kDcjKJr6Wgu_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

@@ -43,6 +43,30 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7313382176",
+                "name": "Vintage 90s NFL, NBA, NHL snapbacks",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/el-sobrante-vintage-90s-nfl-nba-nhl/7313382176.html",
+                "datetime": "2021-05-02 08:22",
+                "price": "$1",
+                "where": "hercules, pinole, san pablo, el sob",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00H0H_dzpTxYitirw_0CI0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7314735595",
+                "name": "VINTAGE/ANTIQUE KIMONO",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-antique-kimono/7314735595.html",
+                "datetime": "2021-05-02 08:02",
+                "price": "$200",
+                "where": "Burlingame",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00p0p_3sWLCyp9aDG_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7305507345",
                 "name": "Disneyana; Vintage Donald Duck silk scarf",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-disneyana-vintage-donald-duck/7305507345.html",
@@ -53,33 +77,21 @@
                 "image_url": "https://images.craigslist.org/00c0c_hU16ZfhlV9E_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
-            },
-            {
-                "id": "7301935089",
-                "name": "vintage pastel sequined hat from the 50's",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-pastel-sequined-hat/7301935089.html",
-                "datetime": "2021-05-02 07:50",
-                "price": "$35",
-                "where": "palo alto",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00z0z_7OP2xE150KH_07f0ak_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7314174371",
-                "name": "Vintage Motor-Cycle Style Leather Jacket size 6- 8 ladies",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-motor-cycle-style/7314174371.html",
-                "datetime": "2021-05-02 07:45",
-                "price": "$150",
-                "where": "marina / cow hollow",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00G0G_5oN7MA1YcjR_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7312636058",
+                "name": "Beaded Drama Sleeveless Dress",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/napa-beaded-drama-sleeveless-dress/7312636058.html",
+                "datetime": "2021-05-02 07:57",
+                "price": "$10",
+                "where": "napa county",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7314672298",
                 "name": "Frankie and Johnnie Small BEADED ZIPPERED BAG",
@@ -101,18 +113,6 @@
                 "where": "santa rosa",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00i0i_eTuaP8SIHoz_0lM0t2_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
-            },
-            {
-                "id": "7309116098",
-                "name": "BEAUTIFUL BEADED PURSE! BIG SALE! $15 OFF  Perfect for holidays!",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/redwood-estates-beautiful-beaded-purse/7309116098.html",
-                "datetime": "2021-05-01 17:46",
-                "price": "$0",
-                "where": "los gatos",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00y0y_nQcu4GXGnQ_0t20CI_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
             }

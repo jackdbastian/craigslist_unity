@@ -3,38 +3,38 @@
         "gravel": [],
         "wood": [
             {
-                "id": "7311929079",
-                "name": "WOOD MOULDINGS",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-wood-mouldings/7311929079.html",
-                "datetime": "2021-05-01 13:40",
-                "price": "$1",
-                "where": "walnut creek",
+                "id": "7313541889",
+                "name": "Laminated pressed wood counter top",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-laminated-pressed-wood/7313541889.html",
+                "datetime": "2021-05-01 16:43",
+                "price": "$50",
+                "where": "san mateo",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_39Zm7y2ttzDz_0p10t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00w0w_kXd1Ix4xnZVz_0lM0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7314485472",
-                "name": "GLUELESS LAMINATED WOOD FLOORING",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-glueless-laminated-wood/7314485472.html",
-                "datetime": "2021-05-01 13:39",
-                "price": "$10",
-                "where": "walnut creek",
+                "id": "7315551889",
+                "name": "WALNUT WOOD SLAB",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-walnut-wood-slab/7315551889.html",
+                "datetime": "2021-05-01 15:53",
+                "price": "$100",
+                "where": "san jose north",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00V0V_ffyuO09enesz_0CI0g1_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00i0i_57uhhEQ6Zmiz_0t20CI_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7311922165",
-                "name": "High Desert Barn Wood Siding",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/san-anselmo-high-desert-barn-wood-siding/7311922165.html",
-                "datetime": "2021-05-01 13:36",
-                "price": "$6",
-                "where": "san anselmo",
+                "id": "7315518718",
+                "name": "Solid wood door",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-solid-wood-door/7315518718.html",
+                "datetime": "2021-05-01 14:35",
+                "price": "$50",
+                "where": "oakland hills / mills",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00A0A_bfjBcb1e5k0z_0lM0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00707_hEG3Q9P0d3Ez_1320MM_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             }
@@ -43,43 +43,67 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7315512085",
-                "name": "Vintage BCBG-Tinas Platform Pump, Black Patent, Size 8m",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-bcbg-tinas-platform/7315512085.html",
-                "datetime": "2021-05-01 14:21",
-                "price": "$30",
-                "where": "hayward / castro valley",
+                "id": "7315563662",
+                "name": "Forty niners vintage  jacket",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/morgan-hill-forty-niners-vintage-jacket/7315563662.html",
+                "datetime": "2021-05-01 16:22",
+                "price": "$20",
+                "where": "morgan hill",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00R0R_ivUmriWtMKj_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00I0I_2890FsY6qrlz_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7314176803",
-                "name": "Vintage Jacket Original Hammerer Austria",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-jacket-original/7314176803.html",
-                "datetime": "2021-05-01 13:51",
-                "price": "$125",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7303522869",
+                "name": "vintage leather bag / tote from the 1970's",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-bag-tote/7303522869.html",
+                "datetime": "2021-05-01 16:20",
+                "price": "$25",
+                "where": "nob hill",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00o0o_awk098zIjmoz_0zA0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7309654637",
-                "name": "Vintage Lizard Skin Purse / Handbag with Head",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-lizard-skin-purse/7309654637.html",
-                "datetime": "2021-05-01 13:50",
-                "price": "$85",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7315562295",
+                "name": "Forty niners vintage starter jacket",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/morgan-hill-forty-niners-vintage/7315562295.html",
+                "datetime": "2021-05-01 16:18",
+                "price": "$49",
+                "where": "morgan hill",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00V0V_cmjdzn4i2Ev_0yj0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00s0s_d7ihI4ERveDz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7314087704",
+                "name": "* Designer Beaded Bracelets by Roxanne Assoulin *",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-designer-beaded-bracelets-by/7314087704.html",
+                "datetime": "2021-05-01 14:45",
+                "price": "$20",
+                "where": "emeryville",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00202_bfLQfy8yksSz_0ak07K_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
+            {
+                "id": "7314514908",
+                "name": "SALE! Set of 10 Designer Beaded Bracelets (by Roxanne Assoulin)",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-sale-set-of-10-designer/7314514908.html",
+                "datetime": "2021-05-01 14:45",
+                "price": "$20",
+                "where": "emeryville",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7304497407",
                 "name": "Vintage Blue Sequins Beaded Flowered Clutch Purse",
@@ -91,33 +115,21 @@
                 "image_url": "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
-            },
-            {
-                "id": "7314212581",
-                "name": "Wedding Gown: Exquisitely Embroidered and Beaded Bridal",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-gown-exquisitely-embroidered/7314212581.html",
-                "datetime": "2021-05-01 09:16",
-                "price": "$250",
-                "where": "san jose west",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00F0F_b6LhF1KQ9TV_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
-            },
-            {
-                "id": "7307558105",
-                "name": "Nice Tea Length Beaded Ivory Ladies Size XL Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-nice-tea-length-beaded-ivory/7307558105.html",
-                "datetime": "2021-05-01 08:16",
-                "price": "$20",
-                "where": "san jose north",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
             }
         ],
         "gloves": [
+            {
+                "id": "7312093378",
+                "name": "Women's Dainese Leather gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-womens-dainese-leather-gloves/7312093378.html",
+                "datetime": "2021-05-01 15:40",
+                "price": "$25",
+                "where": "alameda",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00u0u_knzOe1KMGVE_0CI0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
             {
                 "id": "7315451271",
                 "name": "COACH - gloves w buckle",
@@ -141,21 +153,21 @@
                 "image_url": "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7311954911",
-                "name": "Wedding Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasant-hill-wedding-gloves/7311954911.html",
-                "datetime": "2021-05-01 11:24",
-                "price": "$5",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00t0t_fkjlVXcpomgz_0CI0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7311454476",
+                "name": "Anthropologie Iva Crepe Maxi Wedding Dress Size 2",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-anthropologie-iva-crepe-maxi/7311454476.html",
+                "datetime": "2021-05-01 14:52",
+                "price": "$190",
+                "where": "oakland east",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00K0K_luYYFauKh9Oz_0jl0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7308218354",
                 "name": "JESSICA McCLINTOCK SIZE 4 STRAPLESS WEDDING DRESS BRAND NEW W/TAGS",
@@ -177,18 +189,6 @@
                 "where": "danville / san ramon",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00C0C_l1sn8Zx6ahz_0fu0kE_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7312936370",
-                "name": "Larger Size Wedding Dress With Train",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-larger-size-wedding-dress-with/7312936370.html",
-                "datetime": "2021-05-01 08:08",
-                "price": "$65",
-                "where": "san jose north",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_iPp3LLxBnSUz_0t20CI_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

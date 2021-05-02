@@ -1,7 +1,44 @@
 {
     "materials": {
-        "gravel": [],
+        "gravel": [
+            {
+                "id": "7309381210",
+                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
+                "datetime": "2021-04-19 11:22",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
+            }
+        ],
         "wood": [
+            {
+                "id": "7315636770",
+                "name": "White Oak Wood Floor (real wood)",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-white-oak-wood-floor-real/7315636770.html",
+                "datetime": "2021-05-01 20:42",
+                "price": "$100",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00M0M_h6Y7uKy7zdKz_07K0ak_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7310177125",
+                "name": "WOOD CHIPS 3YRD $150 DELIVERED",
+                "url": "https://sfbay.craigslist.org/scz/mat/d/santa-cruz-wood-chips-3yrd-150-delivered/7310177125.html",
+                "datetime": "2021-05-01 19:50",
+                "price": "$150",
+                "where": "SANTA CRUZ COUNTY",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01414_hdanYSoMNYKz_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
             {
                 "id": "7315605376",
                 "name": "Oak wood Ceiling Light Frame",
@@ -13,68 +50,44 @@
                 "image_url": "https://images.craigslist.org/00707_31UZ5phckH9z_0eO0eZ_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7311660112",
-                "name": "Wood rods",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7311660112.html",
-                "datetime": "2021-05-01 17:50",
-                "price": "$5",
-                "where": "south san francisco",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7313541889",
-                "name": "Laminated pressed wood counter top",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-laminated-pressed-wood/7313541889.html",
-                "datetime": "2021-05-01 16:43",
-                "price": "$50",
-                "where": "san mateo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00w0w_kXd1Ix4xnZVz_0lM0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7305324207",
-                "name": "Mens Luggage:   \u201c Vintage Ghurka 3 piece Luggage Collection \u201c",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-mens-luggage-vintage/7305324207.html",
-                "datetime": "2021-05-01 19:24",
-                "price": "$365",
-                "where": "marina / cow hollow",
+                "id": "7314176160",
+                "name": "Vintage 1950's Kitchen Apron",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-1950s-kitchen-apron/7314176160.html",
+                "datetime": "2021-05-01 20:56",
+                "price": "$5",
+                "where": "santa rosa",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00505_fMNpSSKbFTY_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7315620379",
-                "name": "[New] Weatherproof Vintage Ladies' Comfy Vest",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-new-weatherproof-vintage/7315620379.html",
-                "datetime": "2021-05-01 19:26",
-                "price": "$7",
+                "id": "7315632753",
+                "name": "Vintage Dubrowsky & Perlbinder Faux Mink Coat",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/union-city-vintage-dubrowsky-perlbinder/7315632753.html",
+                "datetime": "2021-05-01 20:22",
+                "price": "$85",
+                "where": "hayward / castro valley",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00P0P_2KUOhS1fSDTz_0c60bT_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7315621494",
+                "name": "Vintage suits, shoes and hats!",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-suits-shoes-and-hats/7315621494.html",
+                "datetime": "2021-05-01 19:38",
+                "price": "$1",
                 "where": "berkeley",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00N0N_7L9EyBq8Ujq_0aY0aY_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7302384458",
-                "name": "Men, Women Vintage Clothing 1930s WWII 1940s to 60's Military",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-men-women-vintage-clothing/7302384458.html",
-                "datetime": "2021-05-01 19:15",
-                "price": "$20",
-                "where": "sunnyvale",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00X0X_2798Ka9uQAL_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00G0G_cILOpzrlxol_0fA0kM_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -157,6 +170,30 @@
         ],
         "wedding dress": [
             {
+                "id": "7310546180",
+                "name": "Paloma Blanca Lace Wedding Dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/paloma-blanca-lace-wedding-dress/7310546180.html",
+                "datetime": "2021-05-01 19:53",
+                "price": "$999",
+                "where": "alameda",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
+                "id": "7315623654",
+                "name": "Glamorous Wedding and Matching Daughter's Dress Combined Deal",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-glamorous-wedding-and/7315623654.html",
+                "datetime": "2021-05-01 19:39",
+                "price": "$3,200",
+                "where": "sunnyvale",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00r0r_2mD2HcucxhPz_08V0gw_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7310715654",
                 "name": "####Beautiful wedding dress  XL ####",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-beautiful-wedding-dress-xl/7310715654.html",
@@ -165,30 +202,6 @@
                 "where": "santa rosa",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00d0d_jzPEdx4Yost_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7311454476",
-                "name": "Anthropologie Iva Crepe Maxi Wedding Dress Size 2",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-anthropologie-iva-crepe-maxi/7311454476.html",
-                "datetime": "2021-05-01 14:52",
-                "price": "$190",
-                "where": "oakland east",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00K0K_luYYFauKh9Oz_0jl0t2_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7308218354",
-                "name": "JESSICA McCLINTOCK SIZE 4 STRAPLESS WEDDING DRESS BRAND NEW W/TAGS",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/jessica-mcclintock-size-strapless/7308218354.html",
-                "datetime": "2021-05-01 14:15",
-                "price": "$30",
-                "where": "SAN JOSE",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00505_h3AU6dsSrj0_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

@@ -43,43 +43,55 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7305432764",
-                "name": "Vintage 2000 Shirts Sean Jean FUBU Tommy Hilfiger Koman MLB XL 2XL XXL",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-2000-shirts-sean/7305432764.html",
-                "datetime": "2021-05-01 21:18",
-                "price": "$1",
-                "where": "glen park",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00w0w_7pSkBEIlul9z_0t20CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7302210810",
-                "name": "Volatile wedge vintage Flame shoes, women's Sz. 7",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-volatile-wedge-vintage/7302210810.html",
-                "datetime": "2021-05-01 21:11",
-                "price": "$35",
-                "where": "San Francisco",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01010_iMaDFTQGix6_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7302242919",
-                "name": "Vintage burgundy suede 7 women's shoes Joan&David",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-burgundy-suede/7302242919.html",
-                "datetime": "2021-05-01 21:10",
+                "id": "7304960763",
+                "name": "Vintage 60\u2019s Clothing",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-vintage-60s-clothing/7304960763.html",
+                "datetime": "2021-05-01 23:10",
                 "price": "$40",
-                "where": "San Francisco",
+                "where": "half moon bay",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00f0f_44q6QKvj3J4_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7315656292",
+                "name": "FREE vintage 2008 Gap low rise jeans used size 4",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-free-vintage-2008-gap-low/7315656292.html",
+                "datetime": "2021-05-01 23:04",
+                "price": "$0",
+                "where": "sunset / parkside",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00h0h_lXu54bSNQL8z_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7311724401",
+                "name": "Vintage Red Plastic Necklace",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-red-plastic-necklace/7311724401.html",
+                "datetime": "2021-05-01 22:55",
+                "price": "$3",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00j0j_klkGuh5I3PQz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7302791832",
+                "name": "Versace Beaded Shirt Women's Large",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-versace-beaded-shirt-womens/7302791832.html",
+                "datetime": "2021-05-01 22:48",
+                "price": "$55",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00i0i_eTuaP8SIHoz_0lM0t2_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7309116098",
                 "name": "BEAUTIFUL BEADED PURSE! BIG SALE! $15 OFF  Perfect for holidays!",
@@ -103,59 +115,59 @@
                 "image_url": "https://images.craigslist.org/01515_f2TGDDxNS8Kz_0t20CI_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
-            },
-            {
-                "id": "7314087704",
-                "name": "* Designer Beaded Bracelets by Roxanne Assoulin *",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-designer-beaded-bracelets-by/7314087704.html",
-                "datetime": "2021-05-01 14:45",
-                "price": "$20",
-                "where": "emeryville",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00202_bfLQfy8yksSz_0ak07K_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
             }
         ],
         "gloves": [
             {
-                "id": "7313414831",
-                "name": "Chenille hat and gloves, New",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-chenille-hat-and-gloves-new/7313414831.html",
-                "datetime": "2021-05-01 18:50",
-                "price": "$10",
-                "where": "los gatos",
+                "id": "7312105564",
+                "name": "Black Gloves",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-black-gloves/7312105564.html",
+                "datetime": "2021-05-01 22:42",
+                "price": "$4",
+                "where": "santa rosa",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00101_4eV5L4zEvdL_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00y0y_eV6Ft475kROz_0CI0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             },
             {
-                "id": "7312093378",
-                "name": "Women's Dainese Leather gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-womens-dainese-leather-gloves/7312093378.html",
-                "datetime": "2021-05-01 15:40",
-                "price": "$25",
-                "where": "alameda",
+                "id": "7312105576",
+                "name": "2 in 1 Gloves",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-in-gloves/7312105576.html",
+                "datetime": "2021-05-01 22:42",
+                "price": "$4",
+                "where": "santa rosa",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00u0u_knzOe1KMGVE_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00G0G_864sC5gqKp5z_0t20CI_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             },
             {
-                "id": "7315451271",
-                "name": "COACH - gloves w buckle",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-coach-gloves-buckle/7315451271.html",
-                "datetime": "2021-05-01 12:26",
-                "price": "$85",
-                "where": "santa cruz",
+                "id": "7305332146",
+                "name": "Brown Gloves",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-brown-gloves/7305332146.html",
+                "datetime": "2021-05-01 22:41",
+                "price": "$2",
+                "where": "santa rosa",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_iDk89DBY7mVz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00T0T_gxnCi51PjMkz_0t20CI_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7305445539",
+                "name": "Sofia Tolli Wedding Dress",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-sofia-tolli-wedding-dress/7305445539.html",
+                "datetime": "2021-05-01 22:47",
+                "price": "$1,050",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00505_8efyTeqGhpOz_0bc0eM_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7310546180",
                 "name": "Paloma Blanca Lace Wedding Dress",
@@ -177,18 +189,6 @@
                 "where": "sunnyvale",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00r0r_2mD2HcucxhPz_08V0gw_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7310715654",
-                "name": "####Beautiful wedding dress  XL ####",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-beautiful-wedding-dress-xl/7310715654.html",
-                "datetime": "2021-05-01 17:47",
-                "price": "$99",
-                "where": "santa rosa",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_jzPEdx4Yost_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

@@ -43,6 +43,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7315698668",
+                "name": "Vintage Johnny Carson tweed jacket",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-johnny-carson/7315698668.html",
+                "datetime": "2021-05-02 05:55",
+                "price": "$55",
+                "where": "lower pac hts",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00v0v_d5EZ4x7pZjPz_0t20CI_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7310052333",
                 "name": "Donna Karan vintage belts",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-donna-karan-vintage-belts/7310052333.html",
@@ -63,18 +75,6 @@
                 "where": "sonoma",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00l0l_2RpjTThE53X_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7310721001",
-                "name": "Vintage Molly Black Harness",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/napa-vintage-molly-black-harness/7310721001.html",
-                "datetime": "2021-05-02 04:59",
-                "price": "$100",
-                "where": "sonoma",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01717_fGEOtYHUJf1_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

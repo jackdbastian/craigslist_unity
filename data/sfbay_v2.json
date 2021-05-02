@@ -1,20 +1,19 @@
 {
     "materials": {
-        "gravel": [
-            {
-                "id": "7309381210",
-                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
-                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
-                "datetime": "2021-04-19 11:22",
-                "price": "$0",
-                "where": "We Ship Nationwide",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
-                "query": "gravel",
-                "category": "maa"
-            }
-        ],
+        "gravel": [],
         "wood": [
+            {
+                "id": "7307325550",
+                "name": "Wood Chips / Mulch for Pickup or Delivery",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/wood-chips-mulch-for-pickup-or-delivery/7307325550.html",
+                "datetime": "2021-05-01 21:46",
+                "price": "$6",
+                "where": "petaluma",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00P0P_jCF6xMe1dcH_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
             {
                 "id": "7315636770",
                 "name": "White Oak Wood Floor (real wood)",
@@ -36,18 +35,6 @@
                 "where": "SANTA CRUZ COUNTY",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/01414_hdanYSoMNYKz_0CI0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7315605376",
-                "name": "Oak wood Ceiling Light Frame",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-oak-wood-ceiling-light-frame/7315605376.html",
-                "datetime": "2021-05-01 18:27",
-                "price": "$10",
-                "where": "willow glen / cambrian",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00707_31UZ5phckH9z_0eO0eZ_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             }

@@ -3,6 +3,18 @@
         "gravel": [],
         "wood": [
             {
+                "id": "7303755567",
+                "name": "75x52\u201d wood window",
+                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7303755567.html",
+                "datetime": "2021-05-02 08:59",
+                "price": "$75",
+                "where": "Presidio Heights",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7307720617",
                 "name": "1930-40s San Mateo Barn wood. Own a piece of history",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-san-mateo-barn-wood-own-piece/7307720617.html",
@@ -25,23 +37,23 @@
                 "image_url": "https://images.craigslist.org/00I0I_9fAjL0znxMTz_0600af_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7315727292",
-                "name": "Wood Beams! Mantels! Reclaimed w/Character!!",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-wood-beams-mantels-reclaimed/7315727292.html",
-                "datetime": "2021-05-02 07:16",
-                "price": "$0",
-                "where": "san carlos",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00L0L_baAJRN8nUQn_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7315774012",
+                "name": "Vintage Black and White Dress With Rhinestone and Crocheted Trim",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-black-and-white-dress/7315774012.html",
+                "datetime": "2021-05-02 09:02",
+                "price": "$20",
+                "where": "san jose north",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7315771316",
                 "name": "Mardane USA Vintage Evening Purse Light Beige",
@@ -65,21 +77,21 @@
                 "image_url": "https://images.craigslist.org/00y0y_3ABqAOo22E7_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
-            },
-            {
-                "id": "7315770846",
-                "name": "Genuine Vintage Coach Leather Purse Zipper Strap",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-genuine-vintage-coach/7315770846.html",
-                "datetime": "2021-05-02 08:55",
-                "price": "$20",
-                "where": "walnut creek",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00V0V_T0OVCRAC0hz_0d40hq_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7304741535",
+                "name": "Very Nice Royal Blue Beaded Party Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-very-nice-royal-blue-beaded/7304741535.html",
+                "datetime": "2021-05-02 09:03",
+                "price": "$40",
+                "where": "san jose north",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7312429655",
                 "name": "Vintage Josef Beaded Evening Bag",
@@ -103,21 +115,21 @@
                 "image_url": "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
-            },
-            {
-                "id": "7314672298",
-                "name": "Frankie and Johnnie Small BEADED ZIPPERED BAG",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-frankie-and-johnnie-small/7314672298.html",
-                "datetime": "2021-05-02 03:12",
-                "price": "$10",
-                "where": "santa rosa",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
             }
         ],
         "gloves": [
+            {
+                "id": "7310195477",
+                "name": "Men's 3M Thinsulate Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-mens-3m-thinsulate-gloves/7310195477.html",
+                "datetime": "2021-05-02 09:18",
+                "price": "$20",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
             {
                 "id": "7300682247",
                 "name": "women\u2019s soft leather gloves",
@@ -141,21 +153,21 @@
                 "image_url": "https://images.craigslist.org/00h0h_79qkZtMgUIb_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7312105564",
-                "name": "Black Gloves",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-black-gloves/7312105564.html",
-                "datetime": "2021-05-01 22:42",
-                "price": "$4",
-                "where": "santa rosa",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00y0y_eV6Ft475kROz_0CI0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7302205745",
+                "name": "Gorgeous custom made designer wedding dress sz 6/8",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-gorgeous-custom-made-designer/7302205745.html",
+                "datetime": "2021-05-02 09:02",
+                "price": "$950",
+                "where": "san mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00A0A_O2bpoN2EBF_0CI0t2_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7314284166",
                 "name": "Monique Lou Wedding Dress",
@@ -177,18 +189,6 @@
                 "where": "santa rosa",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00505_8efyTeqGhpOz_0bc0eM_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7310546180",
-                "name": "Paloma Blanca Lace Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/paloma-blanca-lace-wedding-dress/7310546180.html",
-                "datetime": "2021-05-01 19:53",
-                "price": "$999",
-                "where": "alameda",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

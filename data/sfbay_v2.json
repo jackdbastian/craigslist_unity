@@ -3,6 +3,18 @@
         "gravel": [],
         "wood": [
             {
+                "id": "7307720617",
+                "name": "1930-40s San Mateo Barn wood. Own a piece of history",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-san-mateo-barn-wood-own-piece/7307720617.html",
+                "datetime": "2021-05-02 08:43",
+                "price": "$300",
+                "where": "san mateo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00707_4fI6CDGKtVp_0CI0t2_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7315729936",
                 "name": "Beautiful Mid Century interior wood door, Special",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/mountain-view-beautiful-mid-century/7315729936.html",
@@ -25,61 +37,61 @@
                 "image_url": "https://images.craigslist.org/00L0L_baAJRN8nUQn_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7315712973",
-                "name": "WOOD SEALANT-PRATT AND LAMBERT",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-wood-sealant-pratt-and-lambert/7315712973.html",
-                "datetime": "2021-05-02 06:39",
-                "price": "$200",
-                "where": "san jose south",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01313_fU6repXCkaD_0CI0t2_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7313382176",
-                "name": "Vintage 90s NFL, NBA, NHL snapbacks",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/el-sobrante-vintage-90s-nfl-nba-nhl/7313382176.html",
-                "datetime": "2021-05-02 08:22",
-                "price": "$1",
-                "where": "hercules, pinole, san pablo, el sob",
+                "id": "7315771316",
+                "name": "Mardane USA Vintage Evening Purse Light Beige",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-mardane-usa-vintage/7315771316.html",
+                "datetime": "2021-05-02 08:56",
+                "price": "$15",
+                "where": "walnut creek",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00H0H_dzpTxYitirw_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/01010_f6fkjqOBkBxz_0d40hq_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7314735595",
-                "name": "VINTAGE/ANTIQUE KIMONO",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-antique-kimono/7314735595.html",
-                "datetime": "2021-05-02 08:02",
-                "price": "$200",
-                "where": "Burlingame",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00p0p_3sWLCyp9aDG_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7305507345",
-                "name": "Disneyana; Vintage Donald Duck silk scarf",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-disneyana-vintage-donald-duck/7305507345.html",
-                "datetime": "2021-05-02 07:52",
+                "id": "7301528175",
+                "name": "Vintage Heritage Soft Brown Leather Briefcase/Computer Bag",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-heritage-soft-brown/7301528175.html",
+                "datetime": "2021-05-02 08:55",
                 "price": "$25",
-                "where": "palo alto",
+                "where": "Santa Cruz",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00c0c_hU16ZfhlV9E_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00y0y_3ABqAOo22E7_0CI0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7315770846",
+                "name": "Genuine Vintage Coach Leather Purse Zipper Strap",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-genuine-vintage-coach/7315770846.html",
+                "datetime": "2021-05-02 08:55",
+                "price": "$20",
+                "where": "walnut creek",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00V0V_T0OVCRAC0hz_0d40hq_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
         ],
         "beaded": [
+            {
+                "id": "7312429655",
+                "name": "Vintage Josef Beaded Evening Bag",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-josef-beaded/7312429655.html",
+                "datetime": "2021-05-02 08:41",
+                "price": "$20",
+                "where": "San Francisco",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01616_8L6Q24znaWZz_0pO0jm_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
             {
                 "id": "7312636058",
                 "name": "Beaded Drama Sleeveless Dress",
@@ -101,18 +113,6 @@
                 "where": "santa rosa",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
-            },
-            {
-                "id": "7302791832",
-                "name": "Versace Beaded Shirt Women's Large",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-versace-beaded-shirt-womens/7302791832.html",
-                "datetime": "2021-05-01 22:48",
-                "price": "$55",
-                "where": "santa rosa",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00i0i_eTuaP8SIHoz_0lM0t2_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
             }

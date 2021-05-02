@@ -1,6 +1,19 @@
 {
     "materials": {
-        "gravel": [],
+        "gravel": [
+            {
+                "id": "7309381210",
+                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
+                "datetime": "2021-04-19 11:22",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
+            }
+        ],
         "wood": [
             {
                 "id": "7307325550",
@@ -81,6 +94,18 @@
         ],
         "beaded": [
             {
+                "id": "7314672298",
+                "name": "Frankie and Johnnie Small BEADED ZIPPERED BAG",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-frankie-and-johnnie-small/7314672298.html",
+                "datetime": "2021-05-02 03:12",
+                "price": "$10",
+                "where": "santa rosa",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
+                "query": "beaded",
+                "category": "cla"
+            },
+            {
                 "id": "7302791832",
                 "name": "Versace Beaded Shirt Women's Large",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-versace-beaded-shirt-womens/7302791832.html",
@@ -101,18 +126,6 @@
                 "where": "los gatos",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00y0y_nQcu4GXGnQ_0t20CI_600x450.jpg",
-                "query": "beaded",
-                "category": "cla"
-            },
-            {
-                "id": "7307019615",
-                "name": "Vintage Beaded Gold Leather Clutch Purse",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-beaded-gold-leather/7307019615.html",
-                "datetime": "2021-05-01 17:36",
-                "price": "$20",
-                "where": "Santa Cruz",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01515_f2TGDDxNS8Kz_0t20CI_600x450.jpg",
                 "query": "beaded",
                 "category": "cla"
             }

@@ -43,38 +43,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7315563662",
-                "name": "Forty niners vintage  jacket",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/morgan-hill-forty-niners-vintage-jacket/7315563662.html",
-                "datetime": "2021-05-01 16:22",
-                "price": "$20",
-                "where": "morgan hill",
+                "id": "7309351621",
+                "name": "Vintage Original Doc Marten'sShoes",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-bruno-vintage-original-doc/7309351621.html",
+                "datetime": "2021-05-01 17:15",
+                "price": "$45",
+                "where": "san bruno",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00I0I_2890FsY6qrlz_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7303522869",
-                "name": "vintage leather bag / tote from the 1970's",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-bag-tote/7303522869.html",
-                "datetime": "2021-05-01 16:20",
-                "price": "$25",
-                "where": "nob hill",
+                "id": "7307961886",
+                "name": "Vintage Lingerie",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-vintage-lingerie/7307961886.html",
+                "datetime": "2021-05-01 17:12",
+                "price": "$50",
+                "where": "santa clara",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00404_hhGGGLB9uXmz_0CI0t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7315562295",
-                "name": "Forty niners vintage starter jacket",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/morgan-hill-forty-niners-vintage/7315562295.html",
-                "datetime": "2021-05-01 16:18",
-                "price": "$49",
-                "where": "morgan hill",
+                "id": "7307581745",
+                "name": "Vintage Embroidered Wicker Weekender Bag | Woven Beach Bag",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-embroidered-wicker/7307581745.html",
+                "datetime": "2021-05-01 17:10",
+                "price": "$30",
+                "where": "oakland lake merritt / grand",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00s0s_d7ihI4ERveDz_0t20CI_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00202_9hH3RqznizUz_0cO09D_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -195,6 +195,18 @@
         ],
         "great condition": [
             {
+                "id": "7315584657",
+                "name": "Designer Purses in great condition",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/napa-designer-purses-in-great-condition/7315584657.html",
+                "datetime": "2021-05-01 17:20",
+                "price": "$1",
+                "where": "napa county",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00h0h_2jo05CVFZziz_07K0ak_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
                 "id": "7315405215",
                 "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-authentic-coach-black-leather/7315405215.html",
@@ -215,18 +227,6 @@
                 "where": "milpitas",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00r0r_1UyNU1bhFz1_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7314041562",
-                "name": "Levi's Mens 541 blue jeans, 38 x 32, great condition",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-levis-mens-541-blue-jeans-38/7314041562.html",
-                "datetime": "2021-04-30 15:12",
-                "price": "$15",
-                "where": "palo alto",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00L0L_gBG0wG5IAwz_0lM0t2_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

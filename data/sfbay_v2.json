@@ -3,6 +3,18 @@
         "gravel": [],
         "wood": [
             {
+                "id": "7315605376",
+                "name": "Oak wood Ceiling Light Frame",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-oak-wood-ceiling-light-frame/7315605376.html",
+                "datetime": "2021-05-01 18:27",
+                "price": "$10",
+                "where": "willow glen / cambrian",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00707_31UZ5phckH9z_0eO0eZ_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7311660112",
                 "name": "Wood rods",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7311660112.html",
@@ -25,23 +37,23 @@
                 "image_url": "https://images.craigslist.org/00w0w_kXd1Ix4xnZVz_0lM0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7315551889",
-                "name": "WALNUT WOOD SLAB",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-walnut-wood-slab/7315551889.html",
-                "datetime": "2021-05-01 15:53",
-                "price": "$100",
-                "where": "san jose north",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00i0i_57uhhEQ6Zmiz_0t20CI_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7312474746",
+                "name": "100% Merino Wool Vintage Unisex Large",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-100-merino-wool-vintage/7312474746.html",
+                "datetime": "2021-05-01 18:30",
+                "price": "$70",
+                "where": "bernal heights",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00P0P_8ICemhMjxfO_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7304450543",
                 "name": "KATE SPADE, VINTAGE, BLUE/WHITE LOGO PATTERN, Purse...",
@@ -63,18 +75,6 @@
                 "where": "San Jose",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00v0v_LUp05ZJo7rz_0t20CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7304536650",
-                "name": "Vest of Vintage Silk Ties and Gemstones",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/greenbrae-vest-of-vintage-silk-ties-and/7304536650.html",
-                "datetime": "2021-05-01 17:55",
-                "price": "$160",
-                "where": "Greenbrae",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00v0v_gNB1VEc17jh_0b20er_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -119,6 +119,18 @@
         ],
         "gloves": [
             {
+                "id": "7313414831",
+                "name": "Chenille hat and gloves, New",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-chenille-hat-and-gloves-new/7313414831.html",
+                "datetime": "2021-05-01 18:50",
+                "price": "$10",
+                "where": "los gatos",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00101_4eV5L4zEvdL_0CI0t2_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7312093378",
                 "name": "Women's Dainese Leather gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-womens-dainese-leather-gloves/7312093378.html",
@@ -139,18 +151,6 @@
                 "where": "santa cruz",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00U0U_iDk89DBY7mVz_0t20CI_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7310729033",
-                "name": "Wells Lamont Leather Work Gloves 3 pk 40% off",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wells-lamont-leather-work/7310729033.html",
-                "datetime": "2021-05-01 11:31",
-                "price": "$30",
-                "where": "san jose west",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
             }

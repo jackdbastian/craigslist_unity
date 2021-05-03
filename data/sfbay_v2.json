@@ -56,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7316394029",
+                "name": "Vintage Snap-on jacket men's large from the 90s Eagle on back",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/san-anselmo-vintage-snap-on-jacket-mens/7316394029.html",
+                "datetime": "2021-05-03 13:07",
+                "price": "$30",
+                "where": "san anselmo",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00z0z_b527i5d2k3p_0ne0uN_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7315424081",
                 "name": "vintage LEATHER RIDING BOOTS black womans mid 60s",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-leather-riding-boots/7315424081.html",
@@ -76,18 +88,6 @@
                 "where": "San Mateo",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7316380049",
-                "name": "[GREAT CONDITION] Stussy Vintage SnapBack Hat",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-great-condition-stussy-vintage/7316380049.html",
-                "datetime": "2021-05-03 12:44",
-                "price": "$10",
-                "where": "san jose west",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_gYb3hnviW7Az_0jm0ew_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,30 @@
         ],
         "gloves": [
             {
+                "id": "7314704967",
+                "name": "Jessica McClintock Wedding Dress with Gloves and Bolero",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-jessica-mcclintock-wedding/7314704967.html",
+                "datetime": "2021-05-03 12:59",
+                "price": "$90",
+                "where": "petaluma",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00U0U_3D5sYC4Weg5z_0t20CI_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
+                "id": "7316387710",
+                "name": "rain jacket, rain suits, gloves. northface, oaki, polarn o pyret",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/redwood-estates-rain-jacket-rain-suits/7316387710.html",
+                "datetime": "2021-05-03 12:59",
+                "price": "$30",
+                "where": "summit area",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00n0n_50WWkBYKnsJz_0t20CI_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7311832429",
                 "name": "NEW hat + scarf +  gloves set",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-new-hat-scarf-gloves-set/7311832429.html",
@@ -142,33 +166,21 @@
                 "image_url": "https://images.craigslist.org/00W0W_i9bBnhEfkL_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7312803481",
-                "name": "Vintage White Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7312803481.html",
-                "datetime": "2021-05-03 08:32",
-                "price": "$25",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
-            },
-            {
-                "id": "7309100470",
-                "name": "Bilt Motorcycle Leather Gloves Mens XL",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-bilt-motorcycle-leather-gloves/7309100470.html",
-                "datetime": "2021-05-02 22:06",
-                "price": "$59",
-                "where": "oakland north / temescal",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/01414_dBVhbQqGaWv_0CI0t2_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7314704967",
+                "name": "Jessica McClintock Wedding Dress with Gloves and Bolero",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-jessica-mcclintock-wedding/7314704967.html",
+                "datetime": "2021-05-03 12:59",
+                "price": "$90",
+                "where": "petaluma",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00U0U_3D5sYC4Weg5z_0t20CI_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7309070506",
                 "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Red",
@@ -192,21 +204,21 @@
                 "image_url": "https://images.craigslist.org/01010_8zVEcq23Z7Qz_0pO0CI_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
-            },
-            {
-                "id": "7309070626",
-                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Long Dress, Black",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7309070626.html",
-                "datetime": "2021-05-03 12:43",
-                "price": "$10",
-                "where": "San Mateo",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
             }
         ],
         "great condition": [
+            {
+                "id": "7315405215",
+                "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-authentic-coach-black-leather/7315405215.html",
+                "datetime": "2021-05-03 13:16",
+                "price": "$30",
+                "where": "san jose east",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
             {
                 "id": "7316380049",
                 "name": "[GREAT CONDITION] Stussy Vintage SnapBack Hat",
@@ -228,18 +240,6 @@
                 "where": "milpitas",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00000_S08RfCpqwW_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7312581760",
-                "name": "Oakley Backpack Computer Bag Streetman Pack 2.0 Great Condition",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-oakley-backpack-computer-bag/7312581760.html",
-                "datetime": "2021-05-02 22:17",
-                "price": "$10",
-                "where": null,
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00G0G_4Peugspu1S0_1320MM_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

@@ -12,6 +12,18 @@
                 "image_url": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
                 "query": "gravel",
                 "category": "maa"
+            },
+            {
+                "id": "7309381210",
+                "name": "Concrete Blocks | Bin Block | Various Types | 12 Minimum",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/concrete-blocks-bin-block-various-types/7309381210.html",
+                "datetime": "2021-04-19 11:22",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00d0d_ccRYiVYaorFz_0jm0ew_600x450.jpg",
+                "query": "gravel",
+                "category": "maa"
             }
         ],
         "wood": [
@@ -170,6 +182,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7316574599",
+                "name": "Beautiful sleeveless wedding dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/campbell-beautiful-sleeveless-wedding/7316574599.html",
+                "datetime": "2021-05-03 19:59",
+                "price": "$100",
+                "where": "campbell",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00F0F_39Hcoykmv4Bz_0t20CI_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7316557150",
                 "name": "Wedding dress",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-leandro-wedding-dress/7316557150.html",
@@ -190,18 +214,6 @@
                 "where": "fremont / union city / newark",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00T0T_fkXiyBW0mJKz_0t20CI_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7316519090",
-                "name": "Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wedding-dress/7316519090.html",
-                "datetime": "2021-05-03 17:13",
-                "price": "$100",
-                "where": "san jose west",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00m0m_4sHWe2FAjzc_0aT0ew_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

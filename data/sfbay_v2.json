@@ -16,38 +16,38 @@
         ],
         "wood": [
             {
-                "id": "7311660112",
-                "name": "Wood rods",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7311660112.html",
-                "datetime": "2021-05-03 18:24",
-                "price": "$5",
-                "where": "south san francisco",
+                "id": "7309193411",
+                "name": "Slabs Slabs Slabs!!! - Live Edge Wood Slabs",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/graton-slabs-slabs-slabs-live-edge-wood/7309193411.html",
+                "datetime": "2021-05-03 19:10",
+                "price": "$65",
+                "where": "sebastopol",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00R0R_lvJdrYbuQCUz_0CI0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7315518718",
-                "name": "Solid wood door",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-solid-wood-door/7315518718.html",
-                "datetime": "2021-05-03 18:18",
-                "price": "$40",
-                "where": "oakland hills / mills",
+                "id": "7313281513",
+                "name": "Redwood Slabs - Live Edge Wood Slabs",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/graton-redwood-slabs-live-edge-wood/7313281513.html",
+                "datetime": "2021-05-03 19:10",
+                "price": "$100",
+                "where": "sebastopol",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00707_hEG3Q9P0d3Ez_1320MM_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00Q0Q_f75HNth8jmo_0CI0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7313541889",
-                "name": "Laminated pressed wood counter top",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-laminated-pressed-wood/7313541889.html",
-                "datetime": "2021-05-03 18:07",
-                "price": "$50",
-                "where": "san mateo",
+                "id": "7313281666",
+                "name": "SLABS SLABS SLABS!!! WOOD SLABS",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/graton-slabs-slabs-slabs-wood-slabs/7313281666.html",
+                "datetime": "2021-05-03 19:10",
+                "price": "$150",
+                "where": "sebastopol",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00w0w_kXd1Ix4xnZVz_0lM0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00505_1Im6NZlYsKa_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             }
@@ -56,38 +56,38 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7314572005",
-                "name": "Gucci Money Clip Brass Mint - Vintage - New",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/spreckels-gucci-money-clip-brass-mint/7314572005.html",
-                "datetime": "2021-05-03 18:09",
-                "price": "$200",
-                "where": "san jose north",
+                "id": "7305515856",
+                "name": "2 vintage ring bearer's pillows",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/vintage-ring-bearers-pillows/7305515856.html",
+                "datetime": "2021-05-03 19:17",
+                "price": "$0",
+                "where": "palo alto",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00T0T_hAmxBOIB1UX_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00g0g_3U8s4snh8vq_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7307961886",
-                "name": "Vintage Lingerie",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-vintage-lingerie/7307961886.html",
-                "datetime": "2021-05-03 18:07",
-                "price": "$50",
-                "where": "santa clara",
+                "id": "7316555882",
+                "name": "Stay warm with Vintage Vinyl Gloves from 1960\u2019s",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-stay-warm-with-vintage/7316555882.html",
+                "datetime": "2021-05-03 18:53",
+                "price": "$2",
+                "where": null,
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00404_hhGGGLB9uXmz_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/01313_2UevFryWUFZz_07K0ak_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7316526413",
-                "name": "1930s Vintage Women's Hats",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-1930s-vintage-womens-hats/7316526413.html",
-                "datetime": "2021-05-03 17:31",
-                "price": "$12",
-                "where": "mission district",
+                "id": "7315209310",
+                "name": "ben davis vintage mens shirts 1980",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-pablo-ben-davis-vintage-mens-shirts/7315209310.html",
+                "datetime": "2021-05-03 18:49",
+                "price": "$40",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00N0N_j4NCd7DDMzl_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00h0h_9NPpsrxGUFFz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -132,6 +132,18 @@
         ],
         "gloves": [
             {
+                "id": "7316555882",
+                "name": "Stay warm with Vintage Vinyl Gloves from 1960\u2019s",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-stay-warm-with-vintage/7316555882.html",
+                "datetime": "2021-05-03 18:53",
+                "price": "$2",
+                "where": null,
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/01313_2UevFryWUFZz_07K0ak_600x450.jpg",
+                "query": "gloves",
+                "category": "cla"
+            },
+            {
                 "id": "7303486688",
                 "name": "Brand New Uniqlo Gloves x 4",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-brand-new-uniqlo-gloves-4/7303486688.html",
@@ -154,21 +166,21 @@
                 "image_url": "https://images.craigslist.org/00O0O_5VdsFCg7Vqxz_0lM0t2_600x450.jpg",
                 "query": "gloves",
                 "category": "cla"
-            },
-            {
-                "id": "7314704967",
-                "name": "Jessica McClintock Wedding Dress with Gloves and Bolero",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-jessica-mcclintock-wedding/7314704967.html",
-                "datetime": "2021-05-03 12:59",
-                "price": "$90",
-                "where": "petaluma",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_3D5sYC4Weg5z_0t20CI_600x450.jpg",
-                "query": "gloves",
-                "category": "cla"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7316557150",
+                "name": "Wedding dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-leandro-wedding-dress/7316557150.html",
+                "datetime": "2021-05-03 18:57",
+                "price": "$50",
+                "where": "san leandro",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00g0g_e2EBrmvnvROz_1320MM_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
             {
                 "id": "7316541346",
                 "name": "Wedding Dress",
@@ -190,18 +202,6 @@
                 "where": "san jose west",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00m0m_4sHWe2FAjzc_0aT0ew_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7316492104",
-                "name": "Wedding Dress Sample Sale",
-                "url": "https://sfbay.craigslist.org/eby/cld/d/hayward-wedding-dress-sample-sale/7316492104.html",
-                "datetime": "2021-05-03 16:09",
-                "price": "$799",
-                "where": "hayward / castro valley",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00o0o_fN5dQHpE5shz_0kE0ef_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

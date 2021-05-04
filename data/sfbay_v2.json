@@ -79,84 +79,73 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7310186402",
-                "name": "vintage gloves",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-gloves/7310186402.html",
+                "id": "7308205265",
+                "name": "Liz Claiborne, Charter Club, Brighton and Vintage Dress Purse",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-liz-claiborne-charter-club/7308205265.html",
+                "datetime": "2021-05-04 06:18",
+                "price": "$10",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01212_eQNDNQf9QYW_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01212_eQNDNQf9QYW_600x450.jpg",
+                    "https://images.craigslist.org/01212_eQNDNQf9QYW_50x50c.jpg",
+                    "https://images.craigslist.org/00101_a2D7hTpS2FW_50x50c.jpg",
+                    "https://images.craigslist.org/01212_8MSzHsqo9ae_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_4kE4ORScBe2_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_NQ4XQnqp1k_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_fVzXguT9kW9_50x50c.jpg",
+                    "https://images.craigslist.org/00404_eSiv2XOloby_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_bjsajKKECSh_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Liz Claiborne purse - $10Charter Club purse - $8Vintage Dress purse - $10Liz Claiborne Navy Evening Purse with Gold Strap (brand new) - $10Brighton Leather Purse - $25Cash only and please arrange for pickup in Dublin."
+            },
+            {
+                "id": "7309725938",
+                "name": "VINTAGE HAT",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-hat/7309725938.html",
                 "datetime": "2021-05-04 05:57",
+                "price": "$13",
+                "where": "inner richmond",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_1Hw7mmLSQDV_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_iwixXoVxJtY_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "100% wool. Made in USA by Lancaster, Sonni of San Francisco.Dark beige veiled wool felt broad brimmed with tule"
+            },
+            {
+                "id": "7310186679",
+                "name": "7 vintage aprons, 1952 astrology hankie",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-aprons-1952-astrology/7310186679.html",
+                "datetime": "2021-05-04 05:58",
                 "price": "$0",
                 "where": "palo alto",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00505_3qnzqQQw1aV_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_rZ60BZ30zE_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_bpljapqIRA_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_7hfj1x1MIER_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_79v9XCekQJD_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_faeQc6paKf2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_4rHSfvitWJ7_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_a1RJoRwIzMY_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_1f6yfn3xGRT_50x50c.jpg",
-                    "https://images.craigslist.org/00808_ap8KMoH5soh_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_ab4oiepMJiD_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_jXLGes6b1WS_50x50c.jpg"
+                    "https://images.craigslist.org/00505_3qnzqQQw1aV_600x450.jpg",
+                    "https://images.craigslist.org/00505_3qnzqQQw1aV_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_dTkHq5SX2Ao_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_1GyyoE8Ptye_50x50c.jpg",
+                    "https://images.craigslist.org/01111_56WKdGtGgzV_50x50c.jpg",
+                    "https://images.craigslist.org/01414_3WH43B4d435_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_6jN7h35mYWY_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_1bB7NlfCOVu_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_a31OyZnu7Pt_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_7IrhPc3tL33_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_7rpA4K51nEC_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "These vintage gloves are all small sizes, perfect for small hands or kid's dress-up.pair of black suede gloves with gold lame trim, 10 1/4 long........................................................$10.00pair of black cotton gloves with tiny design, 13 long.....................................................................$5.00pair of size 6, dark brown suede made in France by Saranti Chevreau for I. Magnim, 12 long..$10.00pair of pink cotton gloves with cut design on the edge, 9 long......................................................$4.00pair of size 7, pink cotton gloves with seed pearls, 8 1/4 long.......................................................$4.00pair of pink cotton gloves made in Germany, 7 1/2 long................................................................$4.00pair of cream colored long, leather gloves with three pearl buttons, 22 1/4 long.........................$10.00pair of cream colored long, leather gloves, 22 long......................................................................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 1/2 long...............................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 long.....................................$10.00pair of cream colored long, leather gloves with two pearl buttons, 14 long.................................$10.00pair of size 6 1/2, NEW, short ivory leather gloves, 8 1/2 long....................................................$10.00pair of, short ivory leather gloves, 7 1/2 long...............................................................................$10.00pair of NEW, short ivory leather gloves with open design, 7 1/2 long.........................................$10.00pair of NEW, short white stretchy fabric gloves with beads, 9 long...............................................$5.00 (can ship)"
-            },
-            {
-                "id": "7303049685",
-                "name": "Gucci Vintage 1980s Tiger Enamel Face Clasp Leather Bag Stunning",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-gucci-vintage-1980s-tiger/7303049685.html",
-                "datetime": "2021-05-04 04:45",
-                "price": "$875",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00v0v_LUp05ZJo7rz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00v0v_LUp05ZJo7rz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00v0v_LUp05ZJo7rz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00606_cg96Wef6bAwz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00505_awd22rrTUMjz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_d5xE7UKzuOxz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_31T6Mq5dChMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00707_6b9hkvW5Mmz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_7oPAjgQj7Awz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_17WgF273ckcz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_k3AFEUULkk8z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_huDNgkPI10Vz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_kkfaTUFQRt6z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_69FLCmCmHTYz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_2PHddYrkR9zz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_4EJ5MfqAVayz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_bkXM9Nc8fmSz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_cU8JdWdPWHEz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Gucci authentic vintage leather bag with an enamel tiger face closure. Gorgeous leather bag in excellent vintage condition very rare probably from the 1980s. The only issue is on one of the metal zipper pieces has some darkening and spots on the back of it I have pictured it in the last picture. Exceptionally beautiful vintage authentic Gucci\ufffc"
-            },
-            {
-                "id": "7316636961",
-                "name": "Gucci vintage travel bag suitcase authentic beautiful",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-gucci-vintage-travel-bag/7316636961.html",
-                "datetime": "2021-05-04 04:44",
-                "price": "$510",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00E0E_ap1gWxWFtzk_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00E0E_ap1gWxWFtzk_600x450.jpg",
-                    "https://images.craigslist.org/00E0E_ap1gWxWFtzk_50x50c.jpg",
-                    "https://images.craigslist.org/00707_aFuviRphWEC_50x50c.jpg",
-                    "https://images.craigslist.org/01414_i3Iha790Lal_50x50c.jpg",
-                    "https://images.craigslist.org/00101_b60taNl8fq1_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Gucci vintage travel bag suitcase authentic. Gorgeous bag in very good vintage condition. Perfect for the stylish person on the go show your classic style."
+                "description": "These vintage aprons are all hand-made and have been stored in a pet-free, non-smoking household.....decorative apron, hand-crafted from 5 hankies with two little triangular pockets on top..$15.00sheer, pale pink hostess apron w/pink print pocket, 20 long.............................................$10.002-tone pink cotton kitchen apron, 18 1/2 long....................................................................$5.007-gore satin cocktail apron, 18 long..................................................................................$10.00blue cotton print, reversible kitchen apron, 19 1/2 long....................................................$10.00black and white gingham kitchen apron w/pocket, 17 1/2 long..........................................$5.00sheer black and olive cocktail apron, 18 long....................................................................$10.00UNIQUE vintage 1952 calendar hankie with an astrology theme. Great birthday gift for someone born in 1952. The days of the week are written in English and French. This all-cotton hankie measures 12 1/2 x 13 and is in near mint condition except for two tiny pin holes (August 22 and December 16).....$15.00....."
             }
         ],
         "beaded": [
@@ -234,6 +223,24 @@
         ],
         "gloves": [
             {
+                "id": "7307128189",
+                "name": "Shawl and Dress Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-shawl-and-dress-gloves/7307128189.html",
+                "datetime": "2021-05-04 06:21",
+                "price": "$10",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00k0k_36eyVomHXLQ_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00k0k_36eyVomHXLQ_600x450.jpg",
+                    "https://images.craigslist.org/00k0k_36eyVomHXLQ_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_8L3AQKpi0ci_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Beautiful shawl - $10Dress gloves (two pair ) - $10Cash only and please arrange for pickup in Dublin."
+            },
+            {
                 "id": "7310186402",
                 "name": "vintage gloves",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-gloves/7310186402.html",
@@ -265,28 +272,6 @@
                 "id": "7303094639",
                 "name": "NEW Leki Griffin Pro S Speed gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-leandro-new-leki-griffin-pro-speed/7303094639.html",
-                "datetime": "2021-05-03 22:22",
-                "price": "$150",
-                "where": "oakland hills / mills",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_3XaC4R23Yqzz_0om0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00R0R_3XaC4R23Yqzz_0om0t2_600x450.jpg",
-                    "https://images.craigslist.org/00R0R_3XaC4R23Yqzz_0om0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_67HFfqfU1kwz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_di8efYw96qDz_0s20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_cbYIG3g7hChz_0fG0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_cKjnIZrShprz_0CI0iI_50x50c.jpg",
-                    "https://images.craigslist.org/00909_8QRqF1RwdNXz_0i80bK_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "NEW Leki Griffin Pro S Speed gloves- bought couple years ago- Black-chrome- Size 7.5- switched to snowboarding due to knee pain- forgot to ship back to Leki - BRAND NEW with tags- MSRP $199- Asking $150*Paypal or Venmo preferred*Please mask (covering nose and mouth) for pickup*Local pickup only, will not ship"
-            },
-            {
-                "id": "7306016283",
-                "name": "NEW Leki Griffin Pro S Speed gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/san-leandro-new-leki-griffin-pro-speed/7306016283.html",
                 "datetime": "2021-05-03 22:22",
                 "price": "$150",
                 "where": "oakland hills / mills",

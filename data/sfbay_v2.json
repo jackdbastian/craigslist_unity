@@ -79,6 +79,34 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7310186402",
+                "name": "vintage gloves",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-gloves/7310186402.html",
+                "datetime": "2021-05-04 05:57",
+                "price": "$0",
+                "where": "palo alto",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
+                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_rZ60BZ30zE_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_bpljapqIRA_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_7hfj1x1MIER_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_79v9XCekQJD_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_faeQc6paKf2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_4rHSfvitWJ7_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_a1RJoRwIzMY_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_1f6yfn3xGRT_50x50c.jpg",
+                    "https://images.craigslist.org/00808_ap8KMoH5soh_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_ab4oiepMJiD_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_jXLGes6b1WS_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "These vintage gloves are all small sizes, perfect for small hands or kid's dress-up.pair of black suede gloves with gold lame trim, 10 1/4 long........................................................$10.00pair of black cotton gloves with tiny design, 13 long.....................................................................$5.00pair of size 6, dark brown suede made in France by Saranti Chevreau for I. Magnim, 12 long..$10.00pair of pink cotton gloves with cut design on the edge, 9 long......................................................$4.00pair of size 7, pink cotton gloves with seed pearls, 8 1/4 long.......................................................$4.00pair of pink cotton gloves made in Germany, 7 1/2 long................................................................$4.00pair of cream colored long, leather gloves with three pearl buttons, 22 1/4 long.........................$10.00pair of cream colored long, leather gloves, 22 long......................................................................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 1/2 long...............................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 long.....................................$10.00pair of cream colored long, leather gloves with two pearl buttons, 14 long.................................$10.00pair of size 6 1/2, NEW, short ivory leather gloves, 8 1/2 long....................................................$10.00pair of, short ivory leather gloves, 7 1/2 long...............................................................................$10.00pair of NEW, short ivory leather gloves with open design, 7 1/2 long.........................................$10.00pair of NEW, short white stretchy fabric gloves with beads, 9 long...............................................$5.00 (can ship)"
+            },
+            {
                 "id": "7303049685",
                 "name": "Gucci Vintage 1980s Tiger Enamel Face Clasp Leather Bag Stunning",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-gucci-vintage-1980s-tiger/7303049685.html",
@@ -129,27 +157,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Gucci vintage travel bag suitcase authentic. Gorgeous bag in very good vintage condition. Perfect for the stylish person on the go show your classic style."
-            },
-            {
-                "id": "7303005101",
-                "name": "vintage Boy Scout Jacket: OFFICIAL Boy Scout of America",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-boy-scout-jacket/7303005101.html",
-                "datetime": "2021-05-04 02:20",
-                "price": "$79",
-                "where": "santa clara",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00707_bYqSGrK4UAN_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00707_bYqSGrK4UAN_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00707_bYqSGrK4UAN_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_ZwrlcGc7Jc_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_isqqf90XJPk_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_bPt4nhXftoGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_3zqgldoFNcFz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Official Boy Scout of America Red Jacket - Be PreparedNo longer called Boy Scouts, just Scouts.Vibrant Red Color with Official Boy Scouts Of America Patchcirca 1970's or earlierMay be worth a whole lot more when their bankruptcy goes through!Fond memories of the scouts? Jacket is warm and reliableBad memories of the scouts? Buy it and Burn it in an effort to gain some sort of closureHeavy Duty Red Men's Jacket with two front pockets and button sleevesComes with original B S A patch on front left pocketExcellent conditionUber Warm85 Wool / 15% Nylon WPL 6635Cash and CarryPick up in Santa Clara"
             }
         ],
         "beaded": [
@@ -227,6 +234,34 @@
         ],
         "gloves": [
             {
+                "id": "7310186402",
+                "name": "vintage gloves",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-gloves/7310186402.html",
+                "datetime": "2021-05-04 05:57",
+                "price": "$0",
+                "where": "palo alto",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
+                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_rZ60BZ30zE_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_bpljapqIRA_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_7hfj1x1MIER_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_79v9XCekQJD_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_faeQc6paKf2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_4rHSfvitWJ7_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_a1RJoRwIzMY_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_1f6yfn3xGRT_50x50c.jpg",
+                    "https://images.craigslist.org/00808_ap8KMoH5soh_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_ab4oiepMJiD_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_jXLGes6b1WS_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "These vintage gloves are all small sizes, perfect for small hands or kid's dress-up.pair of black suede gloves with gold lame trim, 10 1/4 long........................................................$10.00pair of black cotton gloves with tiny design, 13 long.....................................................................$5.00pair of size 6, dark brown suede made in France by Saranti Chevreau for I. Magnim, 12 long..$10.00pair of pink cotton gloves with cut design on the edge, 9 long......................................................$4.00pair of size 7, pink cotton gloves with seed pearls, 8 1/4 long.......................................................$4.00pair of pink cotton gloves made in Germany, 7 1/2 long................................................................$4.00pair of cream colored long, leather gloves with three pearl buttons, 22 1/4 long.........................$10.00pair of cream colored long, leather gloves, 22 long......................................................................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 1/2 long...............................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 long.....................................$10.00pair of cream colored long, leather gloves with two pearl buttons, 14 long.................................$10.00pair of size 6 1/2, NEW, short ivory leather gloves, 8 1/2 long....................................................$10.00pair of, short ivory leather gloves, 7 1/2 long...............................................................................$10.00pair of NEW, short ivory leather gloves with open design, 7 1/2 long.........................................$10.00pair of NEW, short white stretchy fabric gloves with beads, 9 long...............................................$5.00 (can ship)"
+            },
+            {
                 "id": "7303094639",
                 "name": "NEW Leki Griffin Pro S Speed gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-leandro-new-leki-griffin-pro-speed/7303094639.html",
@@ -269,28 +304,30 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "NEW Leki Griffin Pro S Speed gloves- bought couple years ago- Black-chrome- Size 7.5- switched to snowboarding due to knee pain- forgot to ship back to Leki - BRAND NEW with tags- MSRP $199- Asking $150*Paypal or Venmo preferred*Please mask (covering nose and mouth) for pickup*Local pickup only, will not ship"
-            },
-            {
-                "id": "7316555882",
-                "name": "Stay warm with Vintage Vinyl Gloves from 1960\u2019s",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-stay-warm-with-vintage/7316555882.html",
-                "datetime": "2021-05-03 18:53",
-                "price": "$2",
-                "where": null,
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01313_2UevFryWUFZz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01313_2UevFryWUFZz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/01313_2UevFryWUFZz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01010_izgrAqOPJkRz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00404_6xXYL0wR3MVz_07K0ak_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "This beautiful pair of gloves is chocolate brown and size 6-7 (small). It is lined to keep you warm\u2026especially during summers in San Francisco!"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7310183966",
+                "name": "Melissa Sweet wedding dress, Lia, size 8-10",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-melissa-sweet-wedding-dress/7310183966.html",
+                "datetime": "2021-05-04 05:55",
+                "price": "$395",
+                "where": "palo alto",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00606_ldEl7M2qfiJ_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00606_ldEl7M2qfiJ_600x450.jpg",
+                    "https://images.craigslist.org/00606_ldEl7M2qfiJ_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_8CTwkwxEYQ3_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_4mzUrujp6iG_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_dzjVggsq6mP_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_7k2LHfEwTNu_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Beautiful Melissa Sweet wedding dress, packed professional and stored since 2008. It's the Lia style (8-10) and originally cost $3,500.00. asking $380.00"
+            },
             {
                 "id": "7316605666",
                 "name": "Alfred Angelo Wedding Dress",
@@ -333,31 +370,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Hello! I have this beautiful BHLDN wedding dress that I bought in 2017.  It was unfortunately never worn and not even altered yet. New with tags. It has just been hanging up in the garmet bag in my closet. I spent $1,600 on it. I would like to receive around $1,000 for it. But I am ready to get rid of this, so I will consider all reasonable offers.  Thanks so much!"
-            },
-            {
-                "id": "7315113522",
-                "name": "Pronovias Wedding Dress Gown",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-carlos-pronovias-wedding-dress-gown/7315113522.html",
-                "datetime": "2021-05-03 21:59",
-                "price": "$280",
-                "where": "san carlos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_feAzyVK6d0nz_06L06v_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00W0W_feAzyVK6d0nz_06L06v_600x450.jpg",
-                    "https://images.craigslist.org/00W0W_feAzyVK6d0nz_06L06v_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_b5ThjRIGlA3z_07I08g_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_cqW6TTCqhgHz_08D07y_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_ev43ZyRIp3wz_08308r_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_eKM1itUNIdOz_06J08W_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_cA6z4JG3DOsz_07J0bC_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_fafVTRw8QMsz_0CI0ik_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_aC9oq83S2Siz_0CI0ik_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_962rgvBaxGUz_0ik0CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "**IF THIS AD IS STILL UP, THE ITEM IS STILL AVAILABLE**Original Pronovias brand wedding dress- trumpet-style  (or fit-and-flare) silhouette that gives you a nice hourglass shape -fitted on the bust & waist and flares at the hips-altered into a halter style (the original was spaghetti-style straps) -gorgeous lace and pearl & crystal detailing, all hand-sewn -built-in bra cups for maximum comfort on your wedding day (but can be easily removed) -the back has a hidden zipper (what people see is button and loop fastening) -dramatic cathedral-length train Details:  *Will fit someone who normally wears a size 6-8 dress size* Style: Trumpet or fit-and-flare Fabric: Organza Color: Light gold (in photos, it can look ivory or white depending on the lighting)  ~photo of dress on the model is exact color of the wedding dress~  Condition: Gently Used/Excellent Condition The length of this dress was altered and should work for anyone who is 5'6 or shorter.  Please see photos of the dress (full length) to get an idea if this'll work for your height.  No tears, stains or damage anywhere. Fantastic condition!  The dress has been professionally cleaned, preserved and boxed (from the Wedding Gown Preservation Co). Comes from a pet-free and smoke-free home.  Cash or Venmo Only.  I live in the flatlands of San Carlos, easy access from 101.  We are moving! spanish trumpet fit flare organza tulle light elegant classic formal la sposa maggie sottero pure fiji enzoani san patrick rosa clara monique lhuillier"
             }
         ],
         "great condition": [
@@ -854,31 +866,24 @@
                 "description": "MACKIE ONYX 1220 12-channel (4 mic input) Premium Analog Mixer w/Perkins EQ and Firewire Option.  (NOTE: this is NOT the later 1220i)Excellent condition.  Purchased used, in new condition, in 2012.  Was in home studio (no smokin) service until 2016.  In storage since.A scan from the owners manual, displayed here, shows how Mackie defines it as a 12 channel mixer.Includes padded Gig Skinz carry bag and Mackie dust cover.Includes optional 96kHz FireWire card that was originally available for streaming 14 independent channels of audio to computer.  Since Mackie stopped supporting drivers, it may or may NOT have that functionality on a Mac.  Definitely not on a Windows platform as of the last time I contacted Mackie in 2016.From Mackie: The Mackie Onyx 1220 12-Channel Mixer is a small-format analog mixer. Includes 4 boutique-class Onyx mic preamps with 3-band Perkins EQ plus sweepable mids on mic/line channels. . . .Includes aux sends with pre/post switches, 4 stereo line-level inputs, a talkback section for use with internal or external mics, true hardware EQ bypass, and a Planet-Earth switching power supply for worldwide use. Other features include individual 48V phantom power switches on all mic inputs; 60mm logarithmic taper faders for smooth, linear fades; and balanced direct outs for every channel via DB-25 connections. Selectable instrument inputs on the first 2 channels means no DI boxes are needed.Features    4 mic inputs    4 stereo line-level inputs    2 aux sends    Built-in Talkback section for use with internal or external mic    True hardware EQ bypass    Planet-Earth switching power supply for worldwide use    Individual 48V phantom power switches on all mic inputs    60mm Logarithmic Taper faders for smooth, linear fades    Balanced direct outs for every channel via DB-25 connections    Selectable Instrument inputs on first 2 channels - no DI box needed    17.3in/439mm H x 13.9in/353mm W x 5.9in/150mm DManual and schematics are posted on the Mackie site.  https://loudaudio.netx.net/portals/loud-public/#search/exact/onyx%201220 .Email correspondence through Craigslist Relay ONLY. -- REPEAT Craigslist Relay ONLY! Thank you kindly."
             },
             {
-                "id": "7316593610",
-                "name": "Eastman PCH1-OM Acoustic guitar NEW",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/mountain-view-eastman-pch1-om-acoustic/7316593610.html",
-                "datetime": "2021-05-03 21:27",
-                "price": "$320",
-                "where": "mountain view",
+                "id": "7310292024",
+                "name": "Line 6 Spider Valve 112 40w tube amp",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/fairfield-line-spider-valve-tube-amp/7310292024.html",
+                "datetime": "2021-05-04 05:28",
+                "price": "$250",
+                "where": "napa county",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00P0P_hTFAplP4beMz_0ww0ii_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00l0l_46nBijMY77vz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00P0P_hTFAplP4beMz_0ww0ii_600x450.jpg",
-                    "https://images.craigslist.org/00P0P_hTFAplP4beMz_0ww0ii_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_71R3Bqs2ZKVz_0ww0ii_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_fNeuqrfA9LXz_0ww0ii_50x50c.jpg",
-                    "https://images.craigslist.org/01212_ktKaJuYmroQz_0ww0ii_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_fCiDYi8O0CNz_0ww0ii_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_7gLhlq24qxYz_0ww0ii_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_i3cmtNi3I1Wz_0ww0ii_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_h1dA148yqQSz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_ldOhIi1ta36z_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_9ZZStDCfmdsz_0ww0ii_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_gDpWTC8YfMBz_0ww0ii_50x50c.jpg"
+                    "https://images.craigslist.org/00l0l_46nBijMY77vz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00l0l_46nBijMY77vz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_ayuBVGlNwkbz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_jK89lRvYG7Ez_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_cYFLcV0NJw2z_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Selling NEW Eastman PCH1-OM. Solid top, open pore finish, 1 3/4 nut and comfortable C shape neck, amazing craftmanship, perfect intonation, loud and vibrant instrument, soft case included. The guitar sounds and plays better than guitars twice the price!Asking $320, cash."
+                "description": "Line 6 tube amp in good condition, I am getting rid of it because it is too big and too loud. I replaced the tubes a while ago and never really played the amp much after that so they are still in good condition. The speaker is not the original speaker but it still sounds good. Comes with a built in tuner, over 400 preset effects, and 36 programmable channels for custom effects. No switch pedal included.Bring your own electric guitar if you want to test it out in the garage before you buy."
             }
         ],
         "famous": [

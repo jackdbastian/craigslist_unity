@@ -28,6 +28,18 @@
         ],
         "wood": [
             {
+                "id": "7316584899",
+                "name": "pressure treated wood",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-pressure-treated-wood/7316584899.html",
+                "datetime": "2021-05-03 20:42",
+                "price": "$20",
+                "where": "san jose downtown",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00o0o_3hMQOk6CGSRz_0t20CI_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
                 "id": "7309193411",
                 "name": "Slabs Slabs Slabs!!! - Live Edge Wood Slabs",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/graton-slabs-slabs-slabs-live-edge-wood/7309193411.html",
@@ -50,56 +62,44 @@
                 "image_url": "https://images.craigslist.org/00Q0Q_f75HNth8jmo_0CI0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
-            },
-            {
-                "id": "7313281666",
-                "name": "SLABS SLABS SLABS!!! WOOD SLABS",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/graton-slabs-slabs-slabs-wood-slabs/7313281666.html",
-                "datetime": "2021-05-03 19:10",
-                "price": "$150",
-                "where": "sebastopol",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00505_1Im6NZlYsKa_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7309351621",
-                "name": "Vintage Original Doc Marten'sShoes",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-bruno-vintage-original-doc/7309351621.html",
-                "datetime": "2021-05-03 19:33",
-                "price": "$45",
-                "where": "san bruno",
+                "id": "7316586444",
+                "name": "Abrocromie Rich red vintage zipper hoodie ladies M",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-abrocromie-rich-red/7316586444.html",
+                "datetime": "2021-05-03 20:50",
+                "price": "$10",
+                "where": "San Francisco",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00U0U_2Fsqs2yc5hPz_0bC0pa_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7305515856",
-                "name": "2 vintage ring bearer's pillows",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/vintage-ring-bearers-pillows/7305515856.html",
-                "datetime": "2021-05-03 19:17",
-                "price": "$0",
-                "where": "palo alto",
+                "id": "7304536650",
+                "name": "Vest of Vintage Silk Ties and Gemstones",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/greenbrae-vest-of-vintage-silk-ties-and/7304536650.html",
+                "datetime": "2021-05-03 20:39",
+                "price": "$160",
+                "where": "Greenbrae",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00g0g_3U8s4snh8vq_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00v0v_gNB1VEc17jh_0b20er_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             },
             {
-                "id": "7316555882",
-                "name": "Stay warm with Vintage Vinyl Gloves from 1960\u2019s",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-stay-warm-with-vintage/7316555882.html",
-                "datetime": "2021-05-03 18:53",
-                "price": "$2",
-                "where": null,
+                "id": "7304538273",
+                "name": "Vintage Velvet Elephant Vest",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/greenbrae-vintage-velvet-elephant-vest/7304538273.html",
+                "datetime": "2021-05-03 20:40",
+                "price": "$70",
+                "where": "Greenbrae",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01313_2UevFryWUFZz_07K0ak_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00w0w_78y1uTtplOl_0t20t2_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -220,6 +220,18 @@
         ],
         "great condition": [
             {
+                "id": "7314041562",
+                "name": "Levi's Mens 541 blue jeans, 38 x 32, great condition",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-levis-mens-541-blue-jeans-38/7314041562.html",
+                "datetime": "2021-05-03 20:44",
+                "price": "$15",
+                "where": "palo alto",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00L0L_gBG0wG5IAwz_0lM0t2_600x450.jpg",
+                "query": "great condition",
+                "category": "cla"
+            },
+            {
                 "id": "7306775479",
                 "name": "Great condition jackets sweaters outerwear",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/ramona-great-condition-jackets-sweaters/7306775479.html",
@@ -240,18 +252,6 @@
                 "where": "san jose east",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
-                "query": "great condition",
-                "category": "cla"
-            },
-            {
-                "id": "7316380049",
-                "name": "[GREAT CONDITION] Stussy Vintage SnapBack Hat",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-great-condition-stussy-vintage/7316380049.html",
-                "datetime": "2021-05-03 12:44",
-                "price": "$10",
-                "where": "san jose west",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_gYb3hnviW7Az_0jm0ew_600x450.jpg",
                 "query": "great condition",
                 "category": "cla"
             }

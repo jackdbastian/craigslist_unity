@@ -56,6 +56,18 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7309351621",
+                "name": "Vintage Original Doc Marten'sShoes",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-bruno-vintage-original-doc/7309351621.html",
+                "datetime": "2021-05-03 19:33",
+                "price": "$45",
+                "where": "san bruno",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
                 "id": "7305515856",
                 "name": "2 vintage ring bearer's pillows",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/vintage-ring-bearers-pillows/7305515856.html",
@@ -76,18 +88,6 @@
                 "where": null,
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/01313_2UevFryWUFZz_07K0ak_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7315209310",
-                "name": "ben davis vintage mens shirts 1980",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/san-pablo-ben-davis-vintage-mens-shirts/7315209310.html",
-                "datetime": "2021-05-03 18:49",
-                "price": "$40",
-                "where": "richmond / point / annex",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_9NPpsrxGUFFz_0t20CI_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }

@@ -45,7 +45,16 @@ wedding_dress = get_posts(cat='cla', query='wedding dress')
 great_condition = get_posts(cat='cla', query='great condition')
 
 # Sporting
-#autograph = get_posts(cat='')
+autograph = get_posts(cat='sga', query='autograph*')
+
+# Cars
+drives_great = get_posts(cat='cta', query='drives great')
+fix_up = get_posts(cat='cta', query='fix* up*')
+fast = get_posts(cat='cta', query='fast')
+
+# Musical Instruments
+loud = get_posts(cat='msa', query='loud')
+famous = get_posts(cat='msa', query='famous')
 
 # Assembiling JSON
 craig_dict = {
@@ -59,7 +68,19 @@ craig_dict = {
         "gloves": gloves,
         "wedding dress": wedding_dress,
         "great condition": great_condition
-    }
+    },
+    "sports": {
+        "autograph": autograph
+    },
+    "cars": {
+        "drives great": drives_great,
+        "fix up": fix_up,
+        "fast":fast
+    },
+    "musical instruments": {
+        "loud": loud,
+        "famous": famous
+    },
 }
 
 # Exporting JSON

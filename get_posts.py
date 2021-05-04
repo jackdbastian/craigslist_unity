@@ -25,7 +25,8 @@ def get_posts(cat, query):
         del i['has_image']
         del i['last_updated']
         del i['geotag']
-        i['image_url'] = BeautifulSoup(requests.get(i['url']).text, features="html.parser").select("img")[0]['src']
+        i['main_image'] = BeautifulSoup(requests.get(i['url']).text, features="html.parser").select("img")[0]['src']
+        i['all_images'] = [i['src'] for i in BeautifulSoup(requests.get(i['url']).text, features="html.parser").select("img")]
         i['query'] = query
         i['category'] = cat
         i['description'] = get_description(i['url'])

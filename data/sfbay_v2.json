@@ -79,6 +79,27 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7303005101",
+                "name": "vintage Boy Scout Jacket: OFFICIAL Boy Scout of America",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-boy-scout-jacket/7303005101.html",
+                "datetime": "2021-05-04 02:20",
+                "price": "$79",
+                "where": "santa clara",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00707_bYqSGrK4UAN_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00707_bYqSGrK4UAN_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00707_bYqSGrK4UAN_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_ZwrlcGc7Jc_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_isqqf90XJPk_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_bPt4nhXftoGz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_3zqgldoFNcFz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Official Boy Scout of America Red Jacket - Be PreparedNo longer called Boy Scouts, just Scouts.Vibrant Red Color with Official Boy Scouts Of America Patchcirca 1970's or earlierMay be worth a whole lot more when their bankruptcy goes through!Fond memories of the scouts? Jacket is warm and reliableBad memories of the scouts? Buy it and Burn it in an effort to gain some sort of closureHeavy Duty Red Men's Jacket with two front pockets and button sleevesComes with original B S A patch on front left pocketExcellent conditionUber Warm85 Wool / 15% Nylon WPL 6635Cash and CarryPick up in Santa Clara"
+            },
+            {
                 "id": "7316614112",
                 "name": "Vintage Fur Hotpants & Rhinestone Denim Jacket",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-fur-hotpants-rhinestone/7316614112.html",
@@ -120,25 +141,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Here is a gently worn, vintage 1970s beige trenchcoat by Braefair, featuring warm inner lining on zipper for easy attachment and removal, double-breasted closure with 4 large buttons, hook-and-eye collar closure, belted cuffs and a storm shield. In very good to excellent condition - no visible damage anywhere.50 inches long. Made in Korea from cotton, polyester, acrylic, wool, nylon.$140. Cash only. Buyer picks up.Joseph JoS A Bank Banana Republic Michael Kors Patagonia Eddie Bauer London Fog Canada Goose Calceus EricDress Eric Dress Hayes West Louis Kuhl Carhartt Duluth LL Bean Wantdo"
-            },
-            {
-                "id": "7316605014",
-                "name": "Vintage Levi 501 Jeans",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/belmont-vintage-levi-501-jeans/7316605014.html",
-                "datetime": "2021-05-03 22:47",
-                "price": "$50",
-                "where": "belmont",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00l0l_k2kjzhQaZRZz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00l0l_k2kjzhQaZRZz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00l0l_k2kjzhQaZRZz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_dvzQYHfkAjEz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_jFYkSd85X5tz_07K0ak_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "A great pair of worn vintage Levi 501's. They are from the 1990's. Waist 36Length 34"
             }
         ],
         "beaded": [

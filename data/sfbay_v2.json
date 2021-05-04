@@ -16,38 +16,38 @@
         ],
         "wood": [
             {
-                "id": "7316497302",
-                "name": "Red cedar wood slabs 1/2 price",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/hayward-red-cedar-wood-slabs-2-price/7316497302.html",
-                "datetime": "2021-05-03 16:24",
-                "price": "$0",
-                "where": "hayward / castro valley",
+                "id": "7311660112",
+                "name": "Wood rods",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7311660112.html",
+                "datetime": "2021-05-03 18:24",
+                "price": "$5",
+                "where": "south san francisco",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/00L0L_jTYMR9XrOxg_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             },
             {
-                "id": "7316493569",
-                "name": "1x4 and 2x4 wood studs - 76\" long",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-1x4-and-2x4-wood-studs-76-long/7316493569.html",
-                "datetime": "2021-05-03 16:16",
-                "price": "$60",
+                "id": "7315518718",
+                "name": "Solid wood door",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-solid-wood-door/7315518718.html",
+                "datetime": "2021-05-03 18:18",
+                "price": "$40",
+                "where": "oakland hills / mills",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00707_hEG3Q9P0d3Ez_1320MM_600x450.jpg",
+                "query": "wood",
+                "category": "maa"
+            },
+            {
+                "id": "7313541889",
+                "name": "Laminated pressed wood counter top",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-laminated-pressed-wood/7313541889.html",
+                "datetime": "2021-05-03 18:07",
+                "price": "$50",
                 "where": "san mateo",
                 "deleted": false,
-                "image_url": "https://images.craigslist.org/01010_1zp39imDv0Oz_0x20oM_600x450.jpg",
-                "query": "wood",
-                "category": "maa"
-            },
-            {
-                "id": "7311929079",
-                "name": "WOOD MOULDINGS",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-wood-mouldings/7311929079.html",
-                "datetime": "2021-05-03 15:25",
-                "price": "$1",
-                "where": "walnut creek",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00U0U_39Zm7y2ttzDz_0p10t2_600x450.jpg",
+                "image_url": "https://images.craigslist.org/00w0w_kXd1Ix4xnZVz_0lM0t2_600x450.jpg",
                 "query": "wood",
                 "category": "maa"
             }
@@ -55,6 +55,30 @@
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7314572005",
+                "name": "Gucci Money Clip Brass Mint - Vintage - New",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/spreckels-gucci-money-clip-brass-mint/7314572005.html",
+                "datetime": "2021-05-03 18:09",
+                "price": "$200",
+                "where": "san jose north",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00T0T_hAmxBOIB1UX_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
+            {
+                "id": "7307961886",
+                "name": "Vintage Lingerie",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-vintage-lingerie/7307961886.html",
+                "datetime": "2021-05-03 18:07",
+                "price": "$50",
+                "where": "santa clara",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00404_hhGGGLB9uXmz_0CI0t2_600x450.jpg",
+                "query": "vintage",
+                "category": "cla"
+            },
             {
                 "id": "7316526413",
                 "name": "1930s Vintage Women's Hats",
@@ -64,30 +88,6 @@
                 "where": "mission district",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00N0N_j4NCd7DDMzl_0CI0t2_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7316518359",
-                "name": "Vintage Fur Collars",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-fur-collars/7316518359.html",
-                "datetime": "2021-05-03 17:12",
-                "price": "$25",
-                "where": "willow glen / cambrian",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00f0f_feP3CtUjaerz_0ak07K_600x450.jpg",
-                "query": "vintage",
-                "category": "cla"
-            },
-            {
-                "id": "7302972184",
-                "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7302972184.html",
-                "datetime": "2021-05-03 16:38",
-                "price": "$200",
-                "where": "sf",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
                 "query": "vintage",
                 "category": "cla"
             }
@@ -170,6 +170,18 @@
         ],
         "wedding dress": [
             {
+                "id": "7316541346",
+                "name": "Wedding Dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/newark-wedding-dress/7316541346.html",
+                "datetime": "2021-05-03 18:09",
+                "price": "$750",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "image_url": "https://images.craigslist.org/00T0T_fkXiyBW0mJKz_0t20CI_600x450.jpg",
+                "query": "wedding dress",
+                "category": "cla"
+            },
+            {
                 "id": "7316519090",
                 "name": "Wedding Dress",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wedding-dress/7316519090.html",
@@ -190,18 +202,6 @@
                 "where": "hayward / castro valley",
                 "deleted": false,
                 "image_url": "https://images.craigslist.org/00o0o_fN5dQHpE5shz_0kE0ef_600x450.jpg",
-                "query": "wedding dress",
-                "category": "cla"
-            },
-            {
-                "id": "7311454476",
-                "name": "Anthropologie Iva Crepe Maxi Wedding Dress Size 2",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-anthropologie-iva-crepe-maxi/7311454476.html",
-                "datetime": "2021-05-03 15:10",
-                "price": "$140",
-                "where": "oakland east",
-                "deleted": false,
-                "image_url": "https://images.craigslist.org/00K0K_luYYFauKh9Oz_0jl0t2_600x450.jpg",
                 "query": "wedding dress",
                 "category": "cla"
             }

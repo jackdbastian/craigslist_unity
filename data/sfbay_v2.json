@@ -20,6 +20,51 @@
         ],
         "wood": [
             {
+                "id": "7311895951",
+                "name": "Wood Beam Lumber",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/redwood-estates-wood-beam-lumber/7311895951.html",
+                "datetime": "2021-05-05 09:06",
+                "price": "$0",
+                "where": "los gatos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_a9jsGs1gaeL_0jm0pO_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_a9jsGs1gaeL_0jm0pO_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_a9jsGs1gaeL_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00505_afYI67Q40bg_0jm0pO_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "8' long @ longest; 91 @ shortest6.5 x 9Has odd shape on end as pictured.Color of pic is washed out. Please make a reasonable offer.DIY, carpenter, build, building,"
+            },
+            {
+                "id": "7317259811",
+                "name": "Old Reclaimed Barn Wood, Doors, Beams and More",
+                "url": "https://sfbay.craigslist.org/scz/mad/d/templeton-old-reclaimed-barn-wood-doors/7317259811.html",
+                "datetime": "2021-05-05 09:01",
+                "price": "$0",
+                "where": "Paso Robles, CA",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00q0q_hkyig7oZT10z_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00q0q_hkyig7oZT10z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_hkyig7oZT10z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_aDD7xzdqFhJz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_6gaP83UfEwAz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_6NKvauObMH0z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_d3uQ8YMOvGtz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_eniuo8kDGSrz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_hqtIyvxJHL3z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_hg6nbu0e9zBz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_9j7zBSQHMUKz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_1ypq9fLee8Lz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_eZIVKnzLGUKz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Old Reclaimed Barn Wood, Doors, Beams and MoreWe have a very large selection of old reclaimed barnwood from barns that were built in the Midwest in the 1800s.  We have barn siding, flooring, hand hewn beams, rough sawn beams, mantels, doors, windows, ship lap, and much more.  Sizes from 1\u201dx2\u201d lumber all the way to 12\u201dx12\u201d beams.Looking for a rustic fireplace mantel?  Come and see our wide selection of beams.We also carry a nice selection of architectural salvage including windows, doors, old corrugated tin roofing, and tobacco drying sticks.We are located at 3460 La Cruz Way Suite D in Paso Robles, CA.  Hours: Open M-F 10-4 and Sat 10-2.Contact us at info @ americanbarnandwood.com You can also visit our web site at www.americanbarnandwood.comCheck us out on Facebook at American Barn and Wood.Thank you."
+            },
+            {
                 "id": "7303083306",
                 "name": "Pine Decking 3\u201dx8\u201d Wood Tongue and Groove",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-pine-decking-3x8-wood-tongue/7303083306.html",
@@ -42,125 +87,73 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "We have 127 boards of reclaimed pine decking. The boards are 2 5/8\u201d thick by 7 1/4\u201d tongue and groove and are all a little over 13 feet each in length. Tar on backside. Face measures 7\u201d. Asking $2.25 per linear footDecking, patio, wood, pine"
-            },
-            {
-                "id": "7303294132",
-                "name": "Fencing Rod, wood shelves, wood pieces for free",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/hayward-fencing-rod-wood-shelves-wood/7303294132.html",
-                "datetime": "2021-05-05 02:24",
-                "price": "$0",
-                "where": "hayward / castro valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_j91mjB4MJw5z_0jm0ew_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00R0R_j91mjB4MJw5z_0jm0ew_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "call/text to pick up"
-            },
-            {
-                "id": "7303297379",
-                "name": "Fencing Rod, wood shelves,wood pieces, curtain rods etc for free",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/hayward-fencing-rod-wood-shelveswood/7303297379.html",
-                "datetime": "2021-05-05 02:24",
-                "price": "$0",
-                "where": "hayward / castro valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_j91mjB4MJw5z_0jm0ew_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00R0R_j91mjB4MJw5z_0jm0ew_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "call / text"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7308113392",
-                "name": "Tiki time Hawaiian shirts dresses Muu Muus Caftans vintage clothing",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-tiki-time-hawaiian-shirts/7308113392.html",
-                "datetime": "2021-05-05 08:50",
-                "price": "$0",
-                "where": "Alameda",
+                "id": "7313919556",
+                "name": "Vintage and retro shirts and tanks, size M and L",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-vintage-and-retro-shirts/7313919556.html",
+                "datetime": "2021-05-05 09:13",
+                "price": "$20",
+                "where": "santa clara",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00S0S_9stAFDd0Ac0z_0CI0CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00d0d_cZlZ74uGLMoz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00S0S_9stAFDd0Ac0z_0CI0CI_600x450.jpg",
-                    "https://images.craigslist.org/00S0S_9stAFDd0Ac0z_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_kLNkwiIF70az_0CI0sN_50x50c.jpg",
-                    "https://images.craigslist.org/01414_2wA4aNs02uCz_0hl0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_lagK69wC1kGz_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_9kbWPaLrZJYz_0j10CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_2eVCpnjsf7Yz_0ki0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_aYLMpoqlHGmz_0gq0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00404_12ZcLu9HgdHz_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00505_hiu0qOjoF1nz_0ux0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_jYjXivgVq9Fz_0pJ0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_ezeDfYm7wEbz_0nV0CI_50x50c.jpg",
-                    "https://images.craigslist.org/01111_bgNJgZ4Lr85z_0tY0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_cEsMwfimUUxz_0rN0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_6sDDKftD67Oz_0sO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_30DaanQpAkBz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_lTsifaa4Ja0z_0kn0CI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_kBTdlMGNuzdz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_5gj6FTNdbNdz_0j50CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_1f7llbZ678nz_0lT0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_9zBrNCCkEWlz_0sq0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_aM2ZfQeX4zKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00606_7SvptFVmIXMz_0fY0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_k7p26I9VUX3z_0dZ0CI_50x50c.jpg"
+                    "https://images.craigslist.org/00d0d_cZlZ74uGLMoz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_cZlZ74uGLMoz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_2JhB59rBsfTz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_hS3TUO2eCk2z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_9P8sXtV2BIGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_klgHJegt6drz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01717_aUcWkRBtEGoz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_6C0lLkaqN1Nz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00606_5vqpswSw51Nz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "three levels of antiques and collectibles at The Katz Meow 1519 Park St Alameda open 11-6 everyday but Thursdayall items upstairs marked \u201ckk\u201d are 20% off"
+                "description": "All excellent condition, clean, no damage. 20 each. Call or text 650-3five3-0728"
             },
             {
-                "id": "7310346291",
-                "name": "Vintage Mark Cross Ostrich Leather Handbag with Original Coin Purse",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-mark-cross-ostrich-leather/7310346291.html",
-                "datetime": "2021-05-05 08:49",
-                "price": "$4,500",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
-                    "https://images.craigslist.org/01717_fegKs79GWRZ_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_89laq2TpNw5_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_1QMIXx2c0z0_50x50c.jpg",
-                    "https://images.craigslist.org/01212_diz9LEGOG2O_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_ivjqXERtsE9_50x50c.jpg",
-                    "https://images.craigslist.org/00202_Q0rw8qcupz_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_63QEqhLgGwX_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_daWNSjLLlz4_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_hmWKJU1YGZc_50x50c.jpg",
-                    "https://images.craigslist.org/00101_gf4dxdYM2JN_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_bhbizp0Dbrc_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_8huVd4TVxH5_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Pre-owned, vintage Mark Cross ostrich leather handbag in excellent condition.  Base is approximately 4.5 wide and 11.5 long.  Height is approximately 8.  Straps are approximately 17 long.  The handbag opens to reveal two, roughly mirror-imaged sections, each of which contains a roomy compartment, multiple open pouches, and a zippered pouch.  Comes with its original coin purse which is approximately 3-1/8 high and 5-3/8 long.  Sold as is."
-            },
-            {
-                "id": "7312803481",
-                "name": "Vintage White Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7312803481.html",
-                "datetime": "2021-05-05 08:49",
+                "id": "7303658681",
+                "name": "TWELVE Name Brand Handbags Vintage, EXCELLENT Condition!",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-twelve-name-brand/7303658681.html",
+                "datetime": "2021-05-05 09:11",
                 "price": "$25",
-                "where": "concord / pleasant hill / martinez",
+                "where": "half moon bay",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00c0c_8BXwTSa9nTs_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg"
+                    "https://images.craigslist.org/00c0c_8BXwTSa9nTs_600x450.jpg",
+                    "https://images.craigslist.org/00c0c_8BXwTSa9nTs_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_ll9ekTgpCdq_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_1TG1cFF3467_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "2 pairs, price is for both.  Great condition."
+                "description": "I am selling TWELVE  name Brand Handbags (vintage) in excellent condition, for a total of $25.00. The lot inludes: Ganson (two), Contessa, Giani Bernini, Carryland,  Phillippe, LL Bean, Liz Claiborne (two), Nine West, Valarie Jean Clutch, and a red accessory bag. I live on the coast, in El Granada (approx. 5 miles North of Half Moon Bay), but can easily ship to anywhere at a normal cost. Thank you for your interest. *Not all bags are shown*"
+            },
+            {
+                "id": "7307176142",
+                "name": "Vintage London Fog Womens Shoes",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/saratoga-vintage-london-fog-womens-shoes/7307176142.html",
+                "datetime": "2021-05-05 08:59",
+                "price": "$32",
+                "where": "saratoga",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00D0D_8i4IjaO59rB_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00D0D_8i4IjaO59rB_600x450.jpg",
+                    "https://images.craigslist.org/00D0D_8i4IjaO59rB_50x50c.jpg",
+                    "https://images.craigslist.org/00808_2R4gfHsF7lO_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_hzL7ojp3LGn_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_kmsKK4KmUk8_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage ( probably from 50's) London Fog English walkers leather in very good condition. Size 9 ( vintage sizing ). Shoes are 10 inches long and 2 3/4 inches at widest. In original box ( box fair condition )"
             }
         ],
         "beaded": [
@@ -228,6 +221,22 @@
         ],
         "gloves": [
             {
+                "id": "7314850820",
+                "name": "Vintage Lederer of Paris Long Gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/vintage-lederer-of-paris-long-gloves/7314850820.html",
+                "datetime": "2021-05-05 08:59",
+                "price": "$22",
+                "where": "saratoga",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00p0p_jwJS4cYlGqs_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00p0p_jwJS4cYlGqs_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Pair vintage kid leather long gloves marked Lederer of Paris in green script in one glove and 7 1/2 in the other. Gloves have no rips, tears or stains but were worn. Sizes ran smaller so probably more equivalent to a 6-6 1/2 today. Unlined. Measures 14 1/2 inches from cuff to fingertipIf you do not see a reply from me, please check your spam folder"
+            },
+            {
                 "id": "7312803481",
                 "name": "Vintage White Gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7312803481.html",
@@ -260,24 +269,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "NEW!!!SIZE: CHILDINCLUDES:- 1 PAIR OF SPIDERMAN GLOVES"
-            },
-            {
-                "id": "7304251715",
-                "name": "Deadpool Adult Gloves Costume Accessory One Size New!!!",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-deadpool-adult-gloves-costume/7304251715.html",
-                "datetime": "2021-05-05 00:12",
-                "price": "$5",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01111_jNj0Z8lFdql_0ak07K_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01111_jNj0Z8lFdql_0ak07K_600x450.jpg",
-                    "https://images.craigslist.org/01111_jNj0Z8lFdql_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/01515_dGKXHkROLCl_0ak07K_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "NEW!!!SIZE: ADULT INCLUDES:- ONE PAIR OF GLOVES"
             }
         ],
         "wedding dress": [
@@ -353,6 +344,48 @@
         ],
         "great condition": [
             {
+                "id": "7308774839",
+                "name": "TEN Long/Mid Sleeve Women's Shirts, GREAT Condition! Size LRG/MED",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-ten-long-mid-sleeve/7308774839.html",
+                "datetime": "2021-05-05 09:14",
+                "price": "$25",
+                "where": "half moon bay",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00G0G_3VamjCbYfUR_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00G0G_3VamjCbYfUR_600x450.jpg",
+                    "https://images.craigslist.org/00G0G_3VamjCbYfUR_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_9PlAhp24Cj3_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_888503aQaEb_50x50c.jpg",
+                    "https://images.craigslist.org/01010_5uH51uKnodm_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "I am selling TEN Women's Long/Mid Sleeve shirts, all in GREAT Condition! Their sizes range form Medium to Large, however, they all fit like a medium. The brands include, Harley Davidson, American Eagle, Black and White Market, Lucky Brand, etc... I am selling them all for a total of $25.00. If you have any questions, please feel free to email me. I live on the coast, in El Granada (approx. 5 miles North of Half Moon Bay), but can easily mail to anywhere at a minimal cost. Thank you for your interest."
+            },
+            {
+                "id": "7306205012",
+                "name": "Really Cute Red GUESS 4 1/2\" Platform Shoes, Size 8, Great Condition!",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-really-cute-red-guess/7306205012.html",
+                "datetime": "2021-05-05 09:08",
+                "price": "$35",
+                "where": "half moon bay",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_4sBAbbvXj63z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_hUttjYR95Tzz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_i6IyXo8x2Niz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_dBeGtYxO1c4z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_dDrULSNCDt5z_0t20CI_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "I am selling a pair of really cute GUESS 4 1/2  Platform shoes, in GREAT Condition. The shoes are a shiny red collar, with a tan bow, very Betty Boop like. The platform itself, is 1. They are a size 8, and have only been worn twice. If you have any questions, please feel free to email me. I live on the coast, in El Granada (approx. 5 miles North of Half Moon Bay), but can easily ship to anywhere at a normal cost. Thank you for your interest."
+            },
+            {
                 "id": "7309098061",
                 "name": "Men's/Women's Jackets- Great Condition- Lightweight & Comfy ($5-10 ea)",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-mens-womens-jackets-great/7309098061.html",
@@ -378,58 +411,31 @@
                 "query": "great condition",
                 "category": "cla",
                 "description": "Great selection of nice winter/fall jackets and coats that are universal, men's or women's. They are all in great condition and some like new. Some brand names as well, one Izod and one Cabela's jacket. 1 women's warm puffy jacket is like new and a beautiful teal color. The sizes are all XL and a few are XXL or 1x-2x.The medium/heavy fall or winter coats and brand names jackets are $10 each and the other lighter weight or fleece coats/jackets are $5 eachI also have a vintage camel hair beige coat that is pictured last in great condition for $10I have a nice soft brown suede jacket as well, medium size in great condition- $15If you take all of them I will let them all go for $60!!"
-            },
-            {
-                "id": "7316824879",
-                "name": "5 stylish dresses - great condition - S and XS size",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-stylish-dresses-great/7316824879.html",
-                "datetime": "2021-05-04 10:50",
-                "price": "$80",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00M0M_ioIyoVgVURoz_1320MM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00M0M_ioIyoVgVURoz_1320MM_600x450.jpg",
-                    "https://images.craigslist.org/00M0M_ioIyoVgVURoz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_fECJuvnHOW5z_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_438Y7Zd4iLdz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_isarj0bCuNZz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_69xasm2CLNVz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_2k5R3cewQUZz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_bofyJ1ISetSz_0MM132_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "Amazing Deal $80 for ALLAvailable for a pick up only!Anna"
-            },
-            {
-                "id": "7316750588",
-                "name": "2 XS jackets - great condition",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-xs-jackets-great-condition/7316750588.html",
-                "datetime": "2021-05-04 08:57",
-                "price": "$90",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_8aCoqQoGx9Yz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00L0L_8aCoqQoGx9Yz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_8aCoqQoGx9Yz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_RHvXJocLUBz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_az0M1PRWOxvz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_59Kd9GylnPuz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00000_e6bNowJ7oz0z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_gNMJDyxZIyXz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_ad8c2K5GbQPz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_5GmJFCZ7diCz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "Caslon XS Women's Black Leather Jacket (regular & Petite) - bought for $250William rast Justin Timberlake and Trace Ayala XS women jacket - bought for $300Available for a pick up only!Anna"
             }
         ]
     },
     "sports": {
         "autograph": [
+            {
+                "id": "7311369013",
+                "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
+                "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7311369013.html",
+                "datetime": "2021-05-05 09:20",
+                "price": "$200",
+                "where": "emeryville",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
+                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_50x50c.jpg",
+                    "https://images.craigslist.org/00606_dl5A14pkVP1_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_b3QPJv2lUaG_0fu0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_hTAqH5v13hg_0fu0fu_50x50c.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "Pro Staff Autograph RF97 Tennis RacquetHard to find Limited 'Tuxedo' Black and White versionBrand new. Never played4\u215c gripRacquet and bag and strings combos availableCross Section 21.5 FBHead Size 97 sq in - 625.8 sq cmString Pattern 16x19Unstrung Balance 30.5CM/12 Pts HLSeries Pro StaffUnstrung Weight 340 gLength 27 in - 68.6 cm$200"
+            },
             {
                 "id": "7315758652",
                 "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
@@ -469,22 +475,6 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "Brand new autographed John Force 1995 NHRA Champion Castrol GTX Vintage SnapBack Hat.Has been in plastic casing since 1995.Cash or Venmo Please."
-            },
-            {
-                "id": "7303500172",
-                "name": "Oakland A's Logo Baseball Great for Autographs",
-                "url": "https://sfbay.craigslist.org/eby/spo/d/san-ramon-oakland-as-logo-baseball/7303500172.html",
-                "datetime": "2021-05-03 20:38",
-                "price": "$15",
-                "where": "danville / san ramon",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00404_aRQ7MI70yFuz_0bC0fu_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00404_aRQ7MI70yFuz_0bC0fu_600x450.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "Oakland A's Logo Baseball Great for Autographs"
             }
         ]
     },

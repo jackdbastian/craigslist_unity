@@ -80,6 +80,52 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7304110006",
+                "name": "Shoes,Original Vintage Doc Martens M Size 9",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-bruno-shoesoriginal-vintage-doc/7304110006.html",
+                "datetime": "2021-05-05 08:08",
+                "price": "$40",
+                "where": "san bruno",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00L0L_9Zv40GIvDEpz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00L0L_9Zv40GIvDEpz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00L0L_9Zv40GIvDEpz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_4MJeogWxTJ9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_eZXwMvmcBBMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_1uETSRutzsAz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_9Zv40GIvDEpz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_3Y4E1lNeInfz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_4MJeogWxTJ9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_1uETSRutzsAz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage 90's Doc Martens Size 9 - 9 1/2 M$40."
+            },
+            {
+                "id": "7308359886",
+                "name": "Vintage \"Doc Marten's\" size 9 - 9 1/2 M",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/millbrae-vintage-doc-martens-size/7308359886.html",
+                "datetime": "2021-05-05 08:07",
+                "price": "$40",
+                "where": "san bruno",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_eZXwMvmcBBMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_9Zv40GIvDEpz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_4MJeogWxTJ9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_3Y4E1lNeInfz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Early 90's Doc Marten's LoafersClean Great Condition$40.00"
+            },
+            {
                 "id": "7317200441",
                 "name": "Vintage Essex Mfg  NFL Play Football Denver Broncos  Bomber Jacket. Black Medium",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/union-city-vintage-essex-mfg-nfl-play/7317200441.html",
@@ -103,44 +149,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage Essex Mfg  NFL Play Football Denver Broncos  Bomber Jacket. Black Medium Great Shape Polyester $40Fremont pickup"
-            },
-            {
-                "id": "7306192501",
-                "name": "Vintage Clothes Steamer",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-clothes-steamer/7306192501.html",
-                "datetime": "2021-05-05 06:46",
-                "price": "$25",
-                "where": "scotts valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_HQv82kiVHs_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_fyEhLUeQkIM_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_fG0BDl6Bk2H_07K0ak_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Clothes SteamerMade By:  Franzus, Model WA-111SEThe original Wrinkles Away Electric Clothes Steamer, steams out wrinkles quickly and easily.  Ideal for traveling or for home use.Only Used A Few Times! Excellent Condition!Price = $25.00If you are reading this listing, the steamer is still available.Email if interested."
-            },
-            {
-                "id": "7315896553",
-                "name": "Vintage Bob Ross T Shirt",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-bob-ross-shirt/7315896553.html",
-                "datetime": "2021-05-05 06:48",
-                "price": "$25",
-                "where": "scotts valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00F0F_cromytPyhG9_0bS0em_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00F0F_cromytPyhG9_0bS0em_600x450.jpg",
-                    "https://images.craigslist.org/00F0F_cromytPyhG9_0bS0em_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_53RnIx1XNTR_0hJ0sD_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Bob Ross T ShirtHappy TreesSize:  LargeLike New Condition!!  Are You A Fan?Price = $25If you are reading this listing, the shirt is still available.Email if interested."
             }
         ],
         "beaded": [
@@ -262,6 +270,28 @@
         ],
         "wedding dress": [
             {
+                "id": "7311858972",
+                "name": "Wedding Dress",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-wedding-dress/7311858972.html",
+                "datetime": "2021-05-05 08:20",
+                "price": "$20",
+                "where": "petaluma",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01616_ffOS6gVo4tpz_0x20oM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01616_ffOS6gVo4tpz_0x20oM_600x450.jpg",
+                    "https://images.craigslist.org/01616_ffOS6gVo4tpz_0x20oM_50x50c.jpg",
+                    "https://images.craigslist.org/01414_2lcnBbJcViBz_0x20oM_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_jgTcYXaRIHOz_0x20oM_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_aJ3T2ECjjJ4z_0x20oM_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_can2dCmXagdz_0x20oM_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_aJ3T2ECjjJ4z_0x20oM_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Clean with a long train, must see.In a wonderful Keep sake  box.Easy access down town Petaluma.please email me with your number or try   .I can't receive texts.I've listed items on C.L. To see more,  type 7787899 in the search bar.You're welcome to tell me what you're looking forand what you wish to pay.Please call; 7zero7 7seven8    78 nine97787899...   Thanks for looking,   ---Joe."
+            },
+            {
                 "id": "7314284166",
                 "name": "Monique Lou Wedding Dress",
                 "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-monique-lou-wedding-dress/7314284166.html",
@@ -307,35 +337,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Wedding dress Ivory colored , sequins , beautifully hand made,must sell$99XL  Call 707 two 2 eight three 7 nine 6"
-            },
-            {
-                "id": "7317088063",
-                "name": "Wedding Dress - size 8",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wedding-dress-size/7317088063.html",
-                "datetime": "2021-05-04 20:21",
-                "price": "$80",
-                "where": "willow glen / cambrian",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_1QVI5vv6Q6Zz_0m10t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00n0n_1QVI5vv6Q6Zz_0m10t2_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_1QVI5vv6Q6Zz_0m10t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_4v6dPpN30Uqz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_4tGdeVOLVrbz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_36nMP37CXFXz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_hzIKsg5DQZGz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_5k5jreFZo9Dz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00707_2BGqgTAGUvpz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_kPtC8uMzOduz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_5JNXs6Xm4tkz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_2b3A8VRH2Mkz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01414_ja69Euo3eUz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_4oSwQ93x8Nbz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00606_CNPkkTGv7hz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Planning a summer wedding with limited budget?  Check out this beautiful dress.  Includes veil and small purse.Wedding dresses do run a little small."
             }
         ],
         "great condition": [

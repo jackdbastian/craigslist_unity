@@ -82,6 +82,46 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7317418077",
+                "name": "Vintage cream beaded purse",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-cream-beaded-purse/7317418077.html",
+                "datetime": "2021-05-05 13:24",
+                "price": "$40",
+                "where": "Santa Rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_3hnTkxjZX96z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_3hnTkxjZX96z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00F0F_3hnTkxjZX96z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_14YRMgVKb5Lz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00000_8NKfOYy3UYHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_4Pd7l9LhyN0z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_k4AwuHHpyDKz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage cream beaded purseHand made in Hong Kong $40 cash or Venmo"
+            },
+            {
+                "id": "7317416161",
+                "name": "Vintage 1930\u2019s Ladies Genuine Fox Fur Coat",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-1930s-ladies-genuine/7317416161.html",
+                "datetime": "2021-05-05 13:21",
+                "price": "$85",
+                "where": "willow glen / cambrian",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00B0B_8y91yKqnhRLz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00B0B_8y91yKqnhRLz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00B0B_8y91yKqnhRLz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00808_kG3YQd220e9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_iLbm7gR7Tklz_0t20t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage 1930\u2019s Ladies Genuine Fox Fur Coat My grandmother\u2019s fox fur coat in perfect condition. Has been protectively stored in her cedar chest for 70 years! Fully lined (no tears), size medium, 40\u201d length. Perfect for theatrical performances, costume parties or for a collector."
+            },
+            {
                 "id": "7304044314",
                 "name": "vintage salvatore ferragamo shoes - size 7.5 - women",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-salvatore/7304044314.html",
@@ -105,50 +145,30 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "(one pair left) amazingly well preserved. hardly worn.likely 40-50 years old and in perfect shape. slim size 7.5's WERE $225 40-50 years ago...asking $35  - much less $$ than ebay offerings!and from saks fifth avenue. for more goods, check out the more ads by this user link"
-            },
-            {
-                "id": "7310994235",
-                "name": "Vintage Leather Bomber, Brown, Leathertown, Size 46 L to XL",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-leather-bomber-brown/7310994235.html",
-                "datetime": "2021-05-05 12:36",
-                "price": "$45",
-                "where": "san jose west",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_adtarJgMGjl_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00e0e_adtarJgMGjl_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_adtarJgMGjl_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_9aNgCcn9lOD_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_2aHANcMwbG2_0Du0QE_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_I3ELHaPv6R_0Du0QE_50x50c.jpg",
-                    "https://images.craigslist.org/01010_f3eOu2z2q66_0QE0Du_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage, Distressed, Aviator, Brown Leather Bomber, Leathertown brand.Excellent conditionOriginally paid $325Rare zipper pockets above the front side pocket.Vented, pleated underarms.Pleated shoulders Size 46 L to XLPit to Pit 23.5On etsy for $800https://www.etsy.com/listing/177916067/vintage-bomber-jacket-mens-leathereBay $125 too $150 + shipping and tax"
-            },
-            {
-                "id": "7308353023",
-                "name": "Vintage Cocktail Dresses",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-cocktail-dresses/7308353023.html",
-                "datetime": "2021-05-05 12:27",
-                "price": "$30",
-                "where": "walnut creek",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_fMOs6E2o2ds_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_fMOs6E2o2ds_600x450.jpg",
-                    "https://images.craigslist.org/01717_fMOs6E2o2ds_50x50c.jpg",
-                    "https://images.craigslist.org/00909_aW94AR91UNW_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_jPEQviMkvrB_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_hntSKRQFUZ7_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Beautiful cocktail dresses, some black, one white, one blue, one silver and black, one from Maceys, cost $350, it's, $40. Rest are $30 each. One looks like a flapper dress. Sizes 6 to 10. Please call after 2:30pm  and if you leave a message please speak slowly and clearly and remember to leave your number. Must sell. Moving.  Cash only. Thanks."
             }
         ],
         "beaded": [
+            {
+                "id": "7317418077",
+                "name": "Vintage cream beaded purse",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-cream-beaded-purse/7317418077.html",
+                "datetime": "2021-05-05 13:24",
+                "price": "$40",
+                "where": "Santa Rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_3hnTkxjZX96z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_3hnTkxjZX96z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00F0F_3hnTkxjZX96z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_14YRMgVKb5Lz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00000_8NKfOYy3UYHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_4Pd7l9LhyN0z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_k4AwuHHpyDKz_0t20CI_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "Vintage cream beaded purseHand made in Hong Kong $40 cash or Venmo"
+            },
             {
                 "id": "7317307343",
                 "name": "antique beaded purse",
@@ -188,26 +208,6 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "Selling a used Beaded Drama Sleeveless Dress in great condition size is 14 made off 100% Polyester Color is dark grey. If you have any questions or interested email me with your contact info and I will get back to you.Thanks For LookingDan"
-            },
-            {
-                "id": "7309116098",
-                "name": "BEAUTIFUL BEADED PURSE! BIG SALE! $15 OFF  Perfect for holidays!",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/redwood-estates-beautiful-beaded-purse/7309116098.html",
-                "datetime": "2021-05-04 17:07",
-                "price": "$0",
-                "where": "los gatos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00y0y_nQcu4GXGnQ_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00y0y_nQcu4GXGnQ_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00y0y_nQcu4GXGnQ_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_lsRMlY7XoUI_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_gWthUYFQEhQ_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_3qKuEK4Eqpb_0CI0t2_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "BIG SALE! NOW ONLY $20!!!Beautiful vintage black beaded purse with multi colored beaded zipper frame! Can be carried as a clutch orLong gold sleek snake chain to wear as shoulder bag if you choose. Can be worn with a cocktail dress or to dress up a pair of jeans!Beautiful condition! Holds quite a bit in satiny lining. Was asking $35NOW ONLY $20Cash only please.SEE MY OTHER ITEMS FOR SALE CLICK ON more ads by this user"
             }
         ],
         "gloves": [
@@ -654,32 +654,39 @@
                 "description": "Impressively clean Electric Hatchback VW Golf!  This is a great commute vehicle and rides very smoothly!  We practice social distancing and require masks be worn on premises.  Thank you.STK#4487Mileage: 45,791Year: 2016Make: VolkswagenModel: e-GolfTrim: SE Hatchback Sedan 4DEngine: Electric MotorTrans: Single-Speed Fixed GearDrivetrain: FWDExt. Color: BlueOptional EquipmentHill Hold Assist Control, Electronic Stability Control, ABS (4-Wheel), Alarm System, Keyless Entry, Keyless Start, Air Conditioning, Power Windows, Power Door Locks, Electromechanical Steering, Tilt & Telescoping Wheel, AM/FM Stereo, CD/MP3 (Single Disc), SiriusXM Satellite, Bluetooth Wireless, Backup Camera, Dual Air Bags, Side Air Bags, F&R Head Curtain Air Bags, Heated Seats, Dual Power Seats, Daytime Running Lights, Rear Spoiler, Alloy WheelsFree 3 Month/3K Mile Warranty for Eligible Vehicles!Give us a call at the number below for more information about this vehicle, or how we can help you with FINANCING(we have many financing options to offer you!) and/or extended service contracts!!!We also have many other cars and trucks in stock!BK Motors Inc (650) 726-8220108 N Cabrillo HwyHalf Moon Bay, CA 94019(Google Map)Check us out on YELP!www.bkmotors.comDisclaimer: While B.K. Motors, Inc. strives to include the correct information pertaining to itsconsignment vehicles, it is not responsible for any errors or omissions in its vehicle descriptions.The vehicle may include more or less equipment, and vary in exact color from what is listed.do NOT contact me with unsolicited services or offers"
             },
             {
-                "id": "7317398359",
-                "name": "2014 Chevrolet Chevy Equinox Lt",
-                "url": "https://sfbay.craigslist.org/nby/ctd/d/healdsburg-2014-chevrolet-chevy-equinox/7317398359.html",
-                "datetime": "2021-05-05 12:45",
-                "price": "$16,966",
-                "where": "Healdsburg, CA",
+                "id": "7317418391",
+                "name": "2016 Ford Transit Cargo Van van WHITE",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/brentwood-2016-ford-transit-cargo-van/7317418391.html",
+                "datetime": "2021-05-05 13:23",
+                "price": "$21,995",
+                "where": "CALL 510-722-6281 FOR AVAILABILITY",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00l0l_aLCmcnuPIP0z_09Q07v_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00000_7NnNXFUyIRDz_0ak07K_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00l0l_aLCmcnuPIP0z_09Q07v_600x450.jpg",
-                    "https://images.craigslist.org/00l0l_aLCmcnuPIP0z_09Q07v_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_7IvOoqSx78dz_0ak06S_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_2bkkCrHMd1Cz_0ak06S_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_6Wbe2nlVy3Oz_0ak06S_50x50c.jpg",
-                    "https://images.craigslist.org/00303_cyHVhZU64krz_0ak06T_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_jKYNGouRIdKz_0ak06S_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_3BqG75p7FHBz_0ak06S_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_gXOlMMmYUv7z_0ak06S_50x50c.jpg",
-                    "https://images.craigslist.org/01414_6JSNsaOzjixz_0ak06T_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_2TqJQdvRwqUz_0ak06S_50x50c.jpg",
-                    "https://images.craigslist.org/00404_7fcaWdDuhn6z_0ak06S_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_dAuXplPzOUQz_0ak06S_50x50c.jpg"
+                    "https://images.craigslist.org/00000_7NnNXFUyIRDz_0ak07K_600x450.jpg",
+                    "https://images.craigslist.org/00000_7NnNXFUyIRDz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_cMcuDSCeVP2z_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_9YF4BmGkoIZz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/01212_hYtOSKXsF2Zz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/01515_4pPMqlUMJ6ez_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_aXLLJRPemZvz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_goHF584TaDfz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_cUoZ3vIDXYzz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_dHkFeizAzFfz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/01212_iQ8Ru2lVXQEz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/01212_3Wg0oUtUorRz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00303_1xPa8QL5zXJz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_b1f6KYsX8e3z_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_h65AuU2q9G9z_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/01717_5h2r7jsRSXTz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_lXpIwujIkOvz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_5Bjn8R8iqGWz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/01212_5S0Hpl5ulpXz_0ne0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_2H5fjLuEaBPz_0ne0hq_50x50c.jpg"
                 ],
                 "query": "fix* up*",
                 "category": "cta",
-                "description": "McConnell Chevrolet, Inc.address:    1395 Healdsburg Ave. Healdsburg CA, 95448phone:      \u260e (707) 418-5028 ext 18text:       Text 18 to (707) 418-5028 for more details link:       https://4488.dealerresources.net/vslp/44611204/2/22314327/18 contact:    The Sales Department2014 CHEVROLET EQUINOX LTVehicle InfoStock #: 42A03011VIN: 2GNFLGEK2E6330801Condition: UsedOdometer: 56630Fuel Efficiency: 20/29DrivetrainEngine: Gas/Ethanol I4 2.4/145Cylinders: 4Fuel Type: Ethanol - FFVTransmission: 6-Speed AutomaticTransmission Type: AutomaticDrivetrain: AWDBody & InteriorExterior Color: SilverOEM Color Name: Champagne Silver MetallicInterior Color: BlackDoors: 4DescriptionTake a look at this recently acquired from a local customer, one owner 2014 Chevrolet Equinox LT All Wheel Drive. The Equinox not only gets great fuel economy for a mid sized SUV, it is also a versatile vehicle providing the best of both worlds in cargo and people hauling. Absolutely exquisite in Champagne Silver exterior that perfectly compliments it's Charcoal cloth interior, it is simply stunning!!!! Comfort and convenience features are present as well, front driver and passenger leather covered seats that have power adjustments, all power windows and door locks, navigation and bluetooth capability for the infotainment system, air conditioning, even a backup camera!! A tremendous value, the All Wheel Drive is capable to get you to where you need to go!! During our mechanical inspection process, we did change the engine oil and filter as well as rotated the tires. In addition, we changed out the engine air and cabin air filters as well as resurfaced the front brake rotors. Finally we performed a complete detail inside and out of the vehicle, confirmed two sets of keys and she is ready to roll!All of our pre-owned vehicles come with a limited 90 day guarantee AND membership in our CarDoc maintenance program which provides two years worth of limited maintenance for free!!! Contact us for a personalized video of the vehicle today! Stop Clicking and Call Now!Whether you have good credit, bad credit or no credit, Get Pre-Approved Today at: www.McConnellAutoMall.comThis vehicle won't last long at this price! Large Used Car Super Store serving the North Bay Area including Sonoma County, Petaluma & Santa Rosa CA.Call Our Internet Department (707) 433-3384.OptionsGVWR  5070 LBS (2300 KG).,      UNIVERSAL HOME REMOTE.,         JET BLACK  PERFORATED LEATHER., AXLE  3.53 FINAL DRIVE RATIO.,  LICENSE PLATE BRACKET  FRONT.,  REAR PARK ASSIST.,              CHAMPAGNE SILVER METALLIC.,     All Wheel Drive.,               Power Steering.,                ABS.,                           4-Wheel Disc Brakes.,           Aluminum Wheels.,               Tires - Front All-Season.,      Tires - Rear All-Season.,       Aluminum Wheels.,               Temporary Spare Tire.,          Automatic Headlights.,          Fog Lamps.,                     Privacy Glass.,                 Heated Mirrors.,                Power Mirror(s).,               Intermittent Wipers.,           AM/FM Stereo.,                  Satellite Radio.,               MP3 Player.,                    Bluetooth Connection.,          Auxiliary Audio Input.,         Smart Device Integration.,      Requires Subscription.,         Premium Sound System.,          Auxiliary Audio Input.,         MP3 Player.,                    Auxiliary Audio Input.,         Satellite Radio.,               Requires Subscription.,         Bluetooth Connection.,          Bucket Seats.,                  Heated Front Seat(s).,          Power Driver Seat.,             Driver Adjustable Lumbar.,      Pass-Through Rear Seat.,        Rear Bench Seat.,               Floor Mats.,                    Floor Mats.,                    Cruise Control.,                Steering Wheel Audio Controls., Leather Steering Wheel.,        Steering Wheel Audio Controls., Adjustable Steering Wheel.,     Tire Pressure Monitor.,         Trip Computer.,                 Power Windows.,                 Power Door Locks.,              Security System.,               Keyless Entry.,                 Power Door Locks.,              Remote Engine Start.,           Cruise Control.,                Back-Up Camera.,                Security System.,               Engine Immobilizer.,            Climate Control.,               A/C.,                           Rear Defrost.,                  Power Outlet.,                  Auto-Dimming Rearview Mirror.,  Driver Vanity Mirror.,          Passenger Vanity Mirror.,       Front Reading Lamps.,           Brake Assist.,                  Traction Control.,              Traction Control.,              Stability Control.,             Daytime Running Lights.,        Driver Air Bag.,                Passenger Air Bag.,             Front Side Air Bag.,            Front Head Air Bag.,            Rear Head Air Bag.,             Passenger Air Bag Sensor.,      Passenger Air Bag Sensor.,      Telematics.,                    Navigation from Telematics.,    Requires Subscription.,         Child Safety Locks.,            Power Door Locks.,              Tire Pressure Monitor.,         LT PREFERRED EQUIPMENT GROUP  Includes Standard Equipment.,     SEAT ADJUSTER  8-WAY POWER FRONT PASSENGER.,                    LPO  BLACK ROOF RACK CROSS BARS  INTEGRATED WITH ROOF RAILS.,   LIFTGATE  POWER PROGRAMMABLE REAR WITH FIXED GLASS.,            SEATS  DELUXE FRONT BUCKET  (STD).,                             FORWARD COLLISION ALERT AND LANE DEPARTURE WARNING.,            TRANSMISSION  6-SPEED AUTOMATIC WITH OVERDRIVE  (STD).,         TIRES  P225/65R17 ALL-SEASON  BLACKWALL  (STD).,                voice-activated technology for radio and phone.,                Hands-Free smartphone integration with Pandora and Stitcher.,   Gracenote (Playlist   Album art).,                              WHEELS  17 (43.2 CM) ALUMINUM  (STD).,                         Variable Speed Intermittent Wipers.,                            Driver Illuminated Vanity Mirror.,                              Passenger Illuminated Visor Mirror.,                            McConnell Chevrolet, Inc.address:    1395 Healdsburg Ave. Healdsburg CA, 95448phone:      \u260e (707) 418-5028 ext 18text:       Text 18 to (707) 418-5028 for more details link:       https://4488.dealerresources.net/vslp/44611204/2/22314327/18 contact:    The Sales Department"
+                "description": "Why Buy From Jimmys Auto Wholesale?Here \u201cJIMMYS AUTO WHOLESALE\u201d , we devote ourselves to complete customer satisfaction. Come in and drive the car of your dreams home. Our goal is to offer the most modern and convenient access for up-to-date and accurate information, which our customer have come to expect and rely on for all their automotive needs. Our web site is update to offer you the best deals and service. Thank you and we hope to see you soon Management Team JIMMYS AUTO WHOLESALE Stock# 2868510-722-6281 - Call now for your best deal!For all details on this vehicle, visit:http://cl-car.dealersync.com/6845924-78687 Vehicle OverviewTrim:  van Mileage: 76k miles Exterior Color: WHITE Interior Color: GRAY Engine: 3.7L 6 Cylinders Drive: rwd Transmission: Automatic VIN:  1FTYR1ZM1GKA78662Seller Comments: Our exceptionally capable 2016 Ford Transit T-250 Cargo Van in Oxford White helps you take your business to the next level with unrivaled levels of precision and productivity! Powered by a 3.7 Liter V6 that generates 275hp while paired with a 6 Speed Automatic transmission.This versatile Rear Wheel Drive Cargo Van provides a comfortable ride, easy maneuverability, and excellent fuel economy! Take a look at our Transit and you'll see attractive wheels and a low step-in height.   Highly customizable, this T-250 Cargo Van can fulfill whatever your needs may be! You'll enjoy a spacious cabin that has been thoughtfully designed.Relish in full power accessories, front air conditioning, and a stellar sound system with an auxiliary audio jack among other amenities from Ford.Open the rear barn doors to find ample space all of your equipment.   You'll drive confidently knowing that your Ford is equipped with safety features such as a backup camera integrated into the rearview mirror, stability control, tire pressure warning, four-wheel ABS, and a multitude of airbags.Ready to tackle your biggest ideas, our Transit Cargo Van will make an excellent partner for work or play! Print this page and call us Now...We Know You Will Enjoy Your Test Drive Towards Ownership! To request a price quote, visit:http://cl-car.dealersync.com/6845924-78687 *CALL* or *TEXT* us to see how we can help you finance this Ford Transit Cargo Van!Mention you saw STOCK #2868 on Craigslist for a great deal: 510-722-6281Standard FeaturesEngine: 3.7L Ti-Vct V6Fixed Rear-Door Glass Disclaimer: While every reasonable effort is made to ensure the accuracy of the information for this Ford Transit Cargo Van, we are not responsible for any errors or omissions contained in this ad. Please verify any information in question with Jimmys Auto Wholesale at 510-722-6281*Ford* *Transit* *Cargo* *Van* *XL* *Ford* *Transit* *Cargo* *Van* *XLT* 2022  2021  2020  2019  2018  2017  2016  2015  2014  2013  2012  2011  2010  2009  2008  2007  2006  2005  2004  2003  2002  2001  2000   22  21    19  18  17  16  15  14  13  12  11  10  09  08  07  06  05  04  03  02  01  00"
             }
         ],
         "fast": [
@@ -821,26 +828,24 @@
                 "description": "MACKIE ONYX 1220 12-channel (4 mic input) Premium Analog Mixer w/Perkins EQ and Firewire Option.  (NOTE: this is NOT the later 1220i)Excellent condition.  Purchased used, in new condition, in 2012.  Was in home studio (no smokin) service until 2016.  In storage since.A scan from the owners manual, displayed here, shows how Mackie defines it as a 12 channel mixer.Includes padded Gig Skinz carry bag and Mackie dust cover.Includes optional 96kHz FireWire card that was originally available for streaming 14 independent channels of audio to computer.  Since Mackie stopped supporting drivers, it may or may NOT have that functionality on a Mac.  Definitely not on a Windows platform as of the last time I contacted Mackie in 2016.From Mackie: The Mackie Onyx 1220 12-Channel Mixer is a small-format analog mixer. Includes 4 boutique-class Onyx mic preamps with 3-band Perkins EQ plus sweepable mids on mic/line channels. . . .Includes aux sends with pre/post switches, 4 stereo line-level inputs, a talkback section for use with internal or external mics, true hardware EQ bypass, and a Planet-Earth switching power supply for worldwide use. Other features include individual 48V phantom power switches on all mic inputs; 60mm logarithmic taper faders for smooth, linear fades; and balanced direct outs for every channel via DB-25 connections. Selectable instrument inputs on the first 2 channels means no DI boxes are needed.Features    4 mic inputs    4 stereo line-level inputs    2 aux sends    Built-in Talkback section for use with internal or external mic    True hardware EQ bypass    Planet-Earth switching power supply for worldwide use    Individual 48V phantom power switches on all mic inputs    60mm Logarithmic Taper faders for smooth, linear fades    Balanced direct outs for every channel via DB-25 connections    Selectable Instrument inputs on first 2 channels - no DI box needed    17.3in/439mm H x 13.9in/353mm W x 5.9in/150mm DManual and schematics are posted on the Mackie site.  https://loudaudio.netx.net/portals/loud-public/#search/exact/onyx%201220 .Email correspondence through Craigslist Relay ONLY. -- REPEAT Craigslist Relay ONLY! Thank you kindly."
             },
             {
-                "id": "7317400685",
-                "name": "Fender 75 amp",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/petaluma-fender-75-amp/7317400685.html",
-                "datetime": "2021-05-05 12:53",
-                "price": "$500",
-                "where": "Petaluma",
+                "id": "7302959075",
+                "name": "Acoustic Control Corp Amps",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-acoustic-control-corp-amps/7302959075.html",
+                "datetime": "2021-05-05 13:22",
+                "price": "$700",
+                "where": "ingleside / SFSU / CCSF",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00l0l_fRFwHOk5aRVz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00l0l_fRFwHOk5aRVz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00l0l_fRFwHOk5aRVz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_5tBWmokza3Az_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_hrcrzXdeOMIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_e1iWOlPH8ilz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_84votk97k9Dz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_7u2BVjLOddAz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_600x450.jpg",
+                    "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_3QCuUq8HXFQ_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00101_i4oQVpcRYPa_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_1gsEXNVv42_0gw0co_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Last of the handwired era from Fender. this is a loud amp. built to compete with Mesa Boogie - so voiced that way. Great rock ampwith single 12new tubes put in a few years back with very light play since then."
+                "description": "Acoustic 150 w/6- 10 speakers loud and clear , reverb and trem. $700/ b.o.Acoustic 270 w/ 2-15 &horn. Reverb, trem, fuzz, graphic eq. Horn is disconnected(don't need it) $700/b.o.No trades . Buy both for $1200"
             }
         ],
         "famous": [

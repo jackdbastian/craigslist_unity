@@ -20,6 +20,30 @@
         ],
         "wood": [
             {
+                "id": "7316859604",
+                "name": "2x4, 2x8, 4x4 Douglas fir wood",
+                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-2x4-2x8-4x4-douglas-fir/7316859604.html",
+                "datetime": "2021-05-06 20:21",
+                "price": "$300",
+                "where": "inner richmond",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01212_6ut46iA73M6z_0im0CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01212_6ut46iA73M6z_0im0CI_600x450.jpg",
+                    "https://images.craigslist.org/01212_6ut46iA73M6z_0im0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_Pon0BS3wDdz_0im0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_aSyHgwYCXkvz_0im0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_j3pLA4C2KV1z_0im0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_82JNNEiySxIz_0im0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_9ixez3XALkOz_0im0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_gnmz4FvpyGrz_0im0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_5uri67rvxf7z_0im0CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I made this bedframe less than a year ago. I'm moving and not bringing it with me. If you have a project you want to do with it or need a king size bedframe then this is for you."
+            },
+            {
                 "id": "7311570784",
                 "name": "New Simpson #55 Interior Solid Wood Door",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-simpson-55-interior-solid/7311570784.html",
@@ -52,51 +76,29 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "No EMAILS PLEASE.TEXT Paul to arrange pickup on Washington in San Francisco- (65O)2I8-859675x52 fixed dual glazed wood window to be removed by contractor $75"
-            },
-            {
-                "id": "7311919495",
-                "name": "Reclaimed wood for Artisans, Craftspeople, & Woodworkers",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/san-anselmo-reclaimed-wood-for-artisans/7311919495.html",
-                "datetime": "2021-05-06 19:16",
-                "price": "$4",
-                "where": "san anselmo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00101_jWbhkSmtGxv_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00101_jWbhkSmtGxv_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00101_jWbhkSmtGxv_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_awK4LLHq5Ya_0CI0nA_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_hfkux9ETxfO_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_kQEOq30NfJR_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_4IpsUIuY7Uk_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_jiqFlnBSUtl_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_7jn8AgI8QJ2_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_gceLIk8YVrY_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_2WcMFG6oCZF_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_i3EQjJUNGF5_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_fSK3TVl04ld_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_biHFZzuu460_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_kNStgnkRffW_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_jRCgN6eqDZG_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_bfNdn8DLyG4_0CI0hT_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_ZUcslyB362_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_icpiK6cBYKA_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_5lfi9gv9knH_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_dlI3m0J7oKK_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_drQGDUV1KPJ_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_khl6ZVHZ54N_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_5eqLA94By3I_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_4SPUEPOryZ1_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_ddCbEPRta3h_0lM0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Reclaimed wood, reclaimed wood, reclaimed wood! Everything over a hundred years old. Salvaged from 3 barns and 1 of Marin's first ranch houses in Bodega dating from 1850.All old-growth, mostly full dimension Redwood and Doug Fir. I have pieces up to 24 feet in length. Nice patina, saw marks, and character.Planks - 2x8, 2x12, 1x6, 1x122x4, 2x3, 4x4Beams - 6x6, 4x8, 5x5Siding - shiplap, t&g, real beadboardVintage doors, old school redwood fence posts and fence boards.Lots of interesting pieces of trimSearch terms: reclaimed wood, reclaimed lumber, frames, wood, old-growth, redwood, Doug fir, recycled, vintage, windows"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7314176160",
+                "name": "Vintage 1950's Kitchen Apron",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-1950s-kitchen-apron/7314176160.html",
+                "datetime": "2021-05-06 20:18",
+                "price": "$5",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_aZA7ev6W8giz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "This is a original apron from the 1950's.. This is from my Italian grandma stored in a box in my moms closet for years. I have about 5 different ones.. This one in the photo is $5.00 and is in great condition! Call   Thanks"
+            },
             {
                 "id": "7314299085",
                 "name": "VINTAGE DUTCH NAVY PEA COAT",
@@ -137,26 +139,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "SIZE LargeNEW OLD STOCK W/Tags Vintage 1995 San Francisco 49'ers Red Short Sleeve T-ShirtKILLER DESIGNMade by TRUE-FAN SPORTSWEAR - 100% MADE IN USAHas original sku tag plus NFL TEAM tag. CONDITION: New Old Stock With Tags, EXCELLENT - PLEASE SEE PHOTOS -Discovered in a storage bin recently with a number of other SF Bay area vintage sports memorabilia (49'ers, Giants, A's) where its been for over 2 decades PHOTOS SHOW THE ITEM'S CURRENT CONDITION. 276"
-            },
-            {
-                "id": "7303833496",
-                "name": "Vintage Ornate Sterling Silver Filagree Vermeil Flower Pin Brooch",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-ornate-sterling/7303833496.html",
-                "datetime": "2021-05-06 19:23",
-                "price": "$40",
-                "where": "mission district",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_iJRfN1taFd7_0iv0ne_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_iJRfN1taFd7_0iv0ne_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_iJRfN1taFd7_0iv0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_9FZPCtdpxua_0ne0if_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_1TjrGdrNKf_0ii0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_jMpAPOYeLAN_0ne0ji_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Signed and marked STERLING SILVER Vintage Ornate Sterling Silver Filagree Vermeil Flower Pin BroochStamped STERLING SILVER with a VG and stars hallmark..I have not identified it yet...Measures 2 3/4 in length x 2 1/4 wideTotal Weight is 13.1 GramsCONDITION: Overall good condition...shows age...pin in back works...Please see photos for items current condition..SHIPPING AVAILABLE*****Please include a phone number with your response..812"
             }
         ],
         "beaded": [
@@ -276,6 +258,43 @@
         ],
         "wedding dress": [
             {
+                "id": "7304267952",
+                "name": "San Patrick 1964 Seymour Wedding Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-san-patrick-1964-seymour/7304267952.html",
+                "datetime": "2021-05-06 20:10",
+                "price": "$1",
+                "where": "santa clara",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_hAOUXgvAQN1z_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_4Uc6GB9vMvcz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00404_4kVnnsNL0r0z_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_1xhDvzvVew4z_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_fOd2elmRSjpz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/01313_5Y4PUgfXiV1z_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/01616_9e6PU5SMzMgz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_jaJcKqgcSZoz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00101_cUosCc4J3ppz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_cwAn6xNi0xnz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_a75jckavc6iz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_7isCBP3Sq0lz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_enin0D1Vhkuz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_bg2KvKY3uGYz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_4FX6ZSYrOTSz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_3oy8lRGYrfnz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_efmojbs3jg4z_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_3o7LZNOzPemz_0c60fi_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_ntkAflrEsqz_0g80lw_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_kFVb0VZaqH7z_0bC0fu_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Seymour wedding dress from the Fashion 2015 - St Patrick collection | St. PatrickI am selling my wedding dress that I wore once. The original tag is attached still.Size is US 8, as seen on the picture. This dress is a custom with a corset waist, so the dress is actually a US size 8, but using the corset the size can go down to a 0. Please see pictures of back with corset. ASKING $1,500.00If you see this ad, then the dress is still available. Email me your cell phone and we will setup and date and time.CASH ONLY, No IO'S, NO TRADES, NO CHECKS."
+            },
+            {
                 "id": "7318055011",
                 "name": "New Sophia Tolli Wedding Bridal Dress, Size 8",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-new-sophia-tolli-wedding-bridal/7318055011.html",
@@ -321,32 +340,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Storybook Wedding or Lace Dress in good condition size 14 Cash only, I do not deliver or ship no holds.Livermore"
-            },
-            {
-                "id": "7305445539",
-                "name": "Sofia Tolli Wedding Dress",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-sofia-tolli-wedding-dress/7305445539.html",
-                "datetime": "2021-05-06 15:48",
-                "price": "$1,050",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_8efyTeqGhpOz_0bc0eM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00505_8efyTeqGhpOz_0bc0eM_600x450.jpg",
-                    "https://images.craigslist.org/00505_8efyTeqGhpOz_0bc0eM_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_38HJ7iskuy9z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_1kcKveGicwTz_0fc0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_ea00KGNHaxVz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_acASBADp2O4z_0CE0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_cR3BlvvF3IYz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_fBKcbGZ1bDHz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_fyh1kRkXlk9z_0jU0fo_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_8gVmYdwcUboz_0iM05K_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_33Uu8Al7cJ9z_0CI0lP_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Designer:Sofia TolliStyle: Adeline Y11724Color: CappuccinoVintage StyleYou're welcome to try before buying, obviously.Strapless asymmetrically draped misty tulle fit & flare gown with ornate hand-beaded lace appliqu\u00e9 sweetheart neckline & sheer peekaboo, asymmetrically dropped waist finished with matching appliqu\u00e9 on hips, back corset.Has been altered to fit a size 12.First pic is the designer pic, as my photographer didn't get any good photos of the dress on the day! Next 3 pics are photos of the dress on me. Spent a ton on the dress, nothing on the photographer. Big mistake!Since it is a corset back, it's difficult to get the exact measurements of the dress - it has an inch or so give in either direction.It has a thread to mark where the dress can be tied up in the back when you don't want a train anymore.It was only worn once, the day of my wedding. I absolutely loved the dress, and should have gotten more pictures the day-of of the back of the dress!AlterationsThe dress was taken in to fit me better. The measurements given above are the measurements of the dress currently, not pre-alteration."
             }
         ],
         "great condition": [

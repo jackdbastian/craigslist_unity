@@ -217,6 +217,31 @@
         ],
         "gloves": [
             {
+                "id": "7314704967",
+                "name": "Jessica McClintock Wedding Dress with Gloves and Bolero",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-jessica-mcclintock-wedding/7314704967.html",
+                "datetime": "2021-05-07 12:16",
+                "price": "$90",
+                "where": "petaluma",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00U0U_3D5sYC4Weg5z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00U0U_3D5sYC4Weg5z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00U0U_3D5sYC4Weg5z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_22UTdCQfcd8z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_2xkg2k7Bjhmz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_8wr50hId6ZCz_0o90t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_cQOBHOIibZaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01212_6P3CjWt1uIz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_aiXVLoUpW1Iz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_7qLXKrGQOCvz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_cxi5tc67sF0z_0t20CI_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Beautiful yet simple size 6 wedding dress with satin gloves and lace over if it gets chilly.  All you need is a groom and shoes.I'm not a photographer but I just could not capture how beautiful this dress is.  It shimmers with the gems on it.  Also it needs a model for sure."
+            },
+            {
                 "id": "7309432495",
                 "name": "Merino Wool Gloves & Scarf",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-merino-wool-gloves-scarf/7309432495.html",
@@ -252,27 +277,34 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "NEW!!!SIZE: ADULTINCLUDES:- 1 PAIR OF GREEN MESH GLOVES"
-            },
-            {
-                "id": "7313779994",
-                "name": "Neon Pink Lace Gloves 80's Retro Fancy Dress Up Halloween Costume Acce",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-neon-pink-lace-gloves-80s/7313779994.html",
-                "datetime": "2021-05-07 08:12",
-                "price": "$5",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00u0u_huQqoS16tYYz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00u0u_huQqoS16tYYz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00u0u_huQqoS16tYYz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_Me2e31KRIEz_07K0ak_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "NEW!!!- ADULT SIZE- INCLUDES ONE PAIR OF PINK LACE GLOVES"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7314704967",
+                "name": "Jessica McClintock Wedding Dress with Gloves and Bolero",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-jessica-mcclintock-wedding/7314704967.html",
+                "datetime": "2021-05-07 12:16",
+                "price": "$90",
+                "where": "petaluma",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00U0U_3D5sYC4Weg5z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00U0U_3D5sYC4Weg5z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00U0U_3D5sYC4Weg5z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_22UTdCQfcd8z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_2xkg2k7Bjhmz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_8wr50hId6ZCz_0o90t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_cQOBHOIibZaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01212_6P3CjWt1uIz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_aiXVLoUpW1Iz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_7qLXKrGQOCvz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_cxi5tc67sF0z_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Beautiful yet simple size 6 wedding dress with satin gloves and lace over if it gets chilly.  All you need is a groom and shoes.I'm not a photographer but I just could not capture how beautiful this dress is.  It shimmers with the gems on it.  Also it needs a model for sure."
+            },
             {
                 "id": "7311858438",
                 "name": "NEW La Sposa Wedding Dress - Never Worn",
@@ -314,27 +346,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "I have a new modest wedding dress with head dress by Lily Dong Couture manufacture.It is pretty modest for those women who wants a modest dress.Please see images.  Looks like its a size 14-16.You are welcome to come and try it.  Absolutely no returns.Thanks for looking :)Sara"
-            },
-            {
-                "id": "7314531470",
-                "name": "Custom Made White Wedding Dress by San Francisco Designer Monique Lhui",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/san-rafael-custom-made-white-wedding/7314531470.html",
-                "datetime": "2021-05-07 09:56",
-                "price": "$1,899",
-                "where": "san rafael",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00A0A_2gCo7AaCOOVz_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00A0A_2gCo7AaCOOVz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00A0A_2gCo7AaCOOVz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_29nfsDkfDSQz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_13ZKxjQhoXEz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_aqZkMbApzsDz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_fUyGNLF4I5iz_0t20t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Bride is 5'7 and wore flats.Bust size 34-36Paid $8000 for the dress. Not a Chinese import.You can now wear for a much more reasonable price and look great.Packed in a memento storage box."
             }
         ],
         "great condition": [

@@ -79,6 +79,22 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7305509038",
+                "name": "vintage leather caramel color boots 6 - 6.5 women - a bargain!",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-caramel/7305509038.html",
+                "datetime": "2021-05-07 12:41",
+                "price": "$8",
+                "where": "nob hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00X0X_93C2hIwpQ0Wz_03003r_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00X0X_93C2hIwpQ0Wz_03003r_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "vintage leather caramel color boots 6 - 6.5 women - a bargain!for more deals, check the more ads by this user link"
+            },
+            {
                 "id": "7306551762",
                 "name": "vintage LeSportSac zipper tote",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-lesportsac-zipper/7306551762.html",
@@ -118,24 +134,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage Oakland Raiders Santa Claus Hats, new, never worn, still have plastic hangers, inside half is 11 wide, maybe a small, asking 10.00 each.  Non-smoking home.  Cash only.  Can meet in No. Fremont or So. Hayward.  If the ad is still up it's still available."
-            },
-            {
-                "id": "7314400672",
-                "name": "Dooney and Bourke Vintage Satchel",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/gilroy-dooney-and-bourke-vintage-satchel/7314400672.html",
-                "datetime": "2021-05-07 11:11",
-                "price": "$185",
-                "where": "gilroy",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00D0D_9jJGiuy9HUnz_06Q05O_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00D0D_9jJGiuy9HUnz_06Q05O_600x450.jpg",
-                    "https://images.craigslist.org/00D0D_9jJGiuy9HUnz_06Q05O_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_9xKz8TKYTJOz_05P06y_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Beautiful Authentic 1980's Dooney & Bourke All Weather Leather Buckle Satchel.Color: Black All Weather Pebbled Leather,  British Tan Piping Leather Trim and Solid Brass Hardware. Six inside pockets, One Outside Pocket, Zip Closure, Five Brass Feet. All Weather duck seal on Front of Bag.Dooney and Bourke Made in USA Sewn-In Cloth Tag with Serial Number.Bag includes Shoulder Strap, Original Hanging Duck FOB, Intact Label, Made in the USA. This Wonderful Classic Dooney is in Excellent Vintage Condition, Exceptionally Clean Interior! Purchased at Estate Sale from Original Owner. Stored in Dust Bag in Closet.Measurements:  L 11' x W 5 x H 9.  Strap Drop is 21. Price: $185"
             }
         ],
         "beaded": [
@@ -217,6 +215,24 @@
         ],
         "gloves": [
             {
+                "id": "7318387601",
+                "name": "Salisbury gloves and safety helmet; 5 pairs of various gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-salisbury-gloves-and-safety/7318387601.html",
+                "datetime": "2021-05-07 12:44",
+                "price": "$50",
+                "where": "Sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00K0K_kJLk7zPCBXcz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00K0K_kJLk7zPCBXcz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00K0K_kJLk7zPCBXcz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_4hAacRmUxrEz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Various gloves"
+            },
+            {
                 "id": "7314704967",
                 "name": "Jessica McClintock Wedding Dress with Gloves and Bolero",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-jessica-mcclintock-wedding/7314704967.html",
@@ -261,25 +277,25 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Banana Republic scarf and pair of glovesSize: LargeIn excellent condition: Extra Fine Italian Merino WoolPerfect for SFBA chill."
-            },
-            {
-                "id": "7306000103",
-                "name": "Fishnet 80's Wrist GLOVES GREEN Rave School Spirit Cheerleader New!!!",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-fishnet-80s-wrist-gloves-green/7306000103.html",
-                "datetime": "2021-05-07 08:18",
-                "price": "$5",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_kZoesVG6WK7_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Y0Y_kZoesVG6WK7_07K0ak_600x450.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "NEW!!!SIZE: ADULTINCLUDES:- 1 PAIR OF GREEN MESH GLOVES"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7318391269",
+                "name": "Wedding Bridal Dress Tuxedo - Store Credit",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-wedding-bridal-dress-tuxedo/7318391269.html",
+                "datetime": "2021-05-07 12:50",
+                "price": "$1,000",
+                "where": "santa cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_akYk30GsYzrz_0x90t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_akYk30GsYzrz_0x90t2_600x450.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "I have a store credit for Bridal Veil Fashions located in Capitola in the amount of $1166.00 that I would like to sell.Bridal Veil offers wedding dresses, accessories, shoes, bras, and tuxedo rentals.This is 100% authentic and can easily be verified by the store before purchase."
+            },
             {
                 "id": "7314704967",
                 "name": "Jessica McClintock Wedding Dress with Gloves and Bolero",
@@ -326,26 +342,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Taffeta La Sposa Fuego Traditional Wedding Dress (was $1415)Size: US 10This dress is brand new, never worn. Could be hemmed and altered to fit any smaller size.Color is Off White.For more information or pictures, message us. Neckline: Strapless Silhouette: A-line Train: Chapel Height With Heels: dress not hemmed.Note:SIZES ARE BRIDAL SIZE, NOT STREET SIZE!"
-            },
-            {
-                "id": "7318301482",
-                "name": "Lily Dong Couture Modest Wedding Dress obo",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-lily-dong-couture-modest/7318301482.html",
-                "datetime": "2021-05-07 10:25",
-                "price": "$200",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_kJRiTdRfvSnz_0d40hq_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00d0d_kJRiTdRfvSnz_0d40hq_600x450.jpg",
-                    "https://images.craigslist.org/00d0d_kJRiTdRfvSnz_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/00000_4ojFFbUr2gpz_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/01111_9wqYhHL64HWz_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_eFtBryHOM71z_0d40hq_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "I have a new modest wedding dress with head dress by Lily Dong Couture manufacture.It is pretty modest for those women who wants a modest dress.Please see images.  Looks like its a size 14-16.You are welcome to come and try it.  Absolutely no returns.Thanks for looking :)Sara"
             }
         ],
         "great condition": [
@@ -418,6 +414,33 @@
     "sports": {
         "autograph": [
             {
+                "id": "7318379141",
+                "name": "Sale: Wilson Pro Staff RF97 Autograph tennis racket 4 3/8",
+                "url": "https://sfbay.craigslist.org/eby/spo/d/hayward-sale-wilson-pro-staff-rf97/7318379141.html",
+                "datetime": "2021-05-07 12:29",
+                "price": "$100",
+                "where": "hayward / castro valley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00C0C_kGJxqcUbaZAz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00C0C_kGJxqcUbaZAz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00C0C_kGJxqcUbaZAz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_l7MtKgM7wEdz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_aAofkGT7343z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_1x5b07crWr1z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_llEGkGhniFrz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_lR9adVj39JGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_ktuHWKqhGu9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_ioZsZiPSsQfz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_9uC1DoMHjH7z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_e78xQ04Jkjgz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_lksNehgqna0z_0t20CI_50x50c.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "This Wilson Pro Staff RF97 Autograph (1st gen) midplus tennis racket is in very good 8/10 shape with no cracks, just normal scratches and some paint loss/chips from play. Made famous by Roger Federer. 97 sq. inches, regular 27\u201d length, 16x19 string pattern, 340 grams (12.0 oz) unstrung weight, 4 3/8 (L3) grip size, strung at 50 lbs with Wilson Sensation 17 multis. $100 FIRM for it. I am in Hayward."
+            },
+            {
                 "id": "7311369013",
                 "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
                 "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7311369013.html",
@@ -442,31 +465,6 @@
                 "name": "Autographed Oakland Raiders Helmet",
                 "url": "https://sfbay.craigslist.org/eby/spo/d/martinez-autographed-oakland-raiders/7316513294.html",
                 "datetime": "2021-05-07 07:51",
-                "price": "$1",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_5oUWha9dDwRz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_3b2FQXjI1qBz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_3bmVYqB7Ra2z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_jajZ9dqhOQAz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_gYorNaWHykGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_eHI6A8zvk35z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_8pKw84uaWWqz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_oKDklRZgNXz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "Selling a autographed authentic Riddell Oakland Raiders helmet signed by Howie Long  75.       and  Tim Brown   81. Have certificate of  authenticity on the autographs.  Appraised at $650Selling for $400Cash only- no Venmo- no PayPal    No Shipping Football baseball sports  49ers Raiders Chargers helmet"
-            },
-            {
-                "id": "7316513460",
-                "name": "Autographed Oakland Raiders Helmet",
-                "url": "https://sfbay.craigslist.org/eby/spo/d/martinez-autographed-oakland-raiders/7316513460.html",
-                "datetime": "2021-05-07 07:50",
                 "price": "$1",
                 "where": "concord / pleasant hill / martinez",
                 "deleted": false,
@@ -679,6 +677,29 @@
         ],
         "fast": [
             {
+                "id": "7318395689",
+                "name": "2005 Kia Spectra.. Drives Really Smooth.. Will Sell Fast",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-2005-kia-spectra-drives-really/7318395689.html",
+                "datetime": "2021-05-07 12:54",
+                "price": "$2,500",
+                "where": "San Jose Ca",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00U0U_jGsA80Pm6Waz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00U0U_jGsA80Pm6Waz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00U0U_jGsA80Pm6Waz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_jAzSTWtqB7Gz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_2wc251R9Fljz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_lp1WY4HycLzz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_ekYbkxCnFONz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_bYOltUdXq0kz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_fW0r6idUIxfz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "fast",
+                "category": "cta",
+                "description": "I have a automatic 2003 Kia Spectra I am going to let go for $2500. In great driving condition and will sell fast. Drives really smooth. Great on gas. A/C blows cold. Only has 154k original miles. Clean title vehicle. Pinkslip in hand. I will not reply to emails but I can be reached at 4. 0. 8... 6..48..   3.  11...5"
+            },
+            {
                 "id": "7317849646",
                 "name": "2003 Kia Spectra.. 154k Miles.. Will Sell Fast",
                 "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-2003-kia-spectra-154k-miles/7317849646.html",
@@ -741,40 +762,6 @@
                 "query": "fast",
                 "category": "cta",
                 "description": "CRAZY DEAL on this 1973 Volkswagen Bug Coupe Fast 1850cc Dual Carb !! Coupe98,578 mi. - Manual - 2D Coupe -  - VIN# 1132728058 - STK# 728058Desert Private CollectionCall or Text (760) 313-6607www.desertprivatecollection.comAddress: 39625 Entrepreneur Ln, Palm Desert, CA 92211WE BUY CARS AND CONSIGN CARSMORE PICTURES and VIDEO CLIPS ON OUR WEBSITE: www.DesertPrivateCollection.comWE BUY CLASSIC CARS - CONSIGN and SELL -\u00a0PHOTO SHOOT RENTAL IS AVAILABLECalifornia buyers must pay CA sales tax , all prices in USD .\u00a0 Disclaimer-Finance Requirements listed at our website-Price does not include sales tax and DMV registration feesMonthly payment is based on approved Credit for more Inventory VISIT OUR WEBSITE\u00a0https://www.desertprivatecollection.com/ or call\u00a0(760) 313-6607FOR CONSIGNMENT PLEASE CONTACT\u00a0US\u00a0(760) 313-6607This 1973 Volkswagen Bug Coupe is invitingly priced at $14,950.You'll appreciate our hassle-free approach. For more photos and financing information, contact us today!Desert Private CollectionCall or Text (760) 313-6607www.desertprivatecollection.comAddress: 39625 Entrepreneur Ln, Palm Desert, CA 92211*1973* *Volkswagen* *Bug* *Coupe Fast 1850cc Dual Carb !!* *1973 Volkswagen* *1973 Volkswagen Coupe Fast 1850cc Dual Carb !!* *Volkswagen 1973* *Volkswagen 1973 Coupe Fast 1850cc Dual Carb !!* *1973 Volkswagen Bug* *1973 Volkswagen Bug Coupe Fast 1850cc Dual Carb !!* *1973 Bug Volkswagen* *1973 Bug Volkswagen Coupe Fast 1850cc Dual Carb !!* *Volkswagen Bug 1973* *Volkswagen Bug 1973 Coupe Fast 1850cc Dual Carb !!* *Bug Volkswagen 1973* *Bug Volkswagen 1973 Coupe Fast 1850cc Dual Carb !!* *Volkswagen Bug Black* *Volkswagen Bug Green* *Volkswagen Bug Dual Carb w/1850cc* *Volkswagen Bug Manual* *Volkswagen Bug 2dr* *Volkswagen Bug Coupe* *Coupe Volkswagen Bug* *Volkswagen Coupe Bug* *1973 Coupe Volkswagen Bug* *1973 Volkswagen Bug Coupe* 1979 1978 1977 1976 1975 1974 1973  1972 1971 1970 1969 1968 1967 79 78 77 76 75 74 3  72 71 70 69 68 67 Bug Coupe Fast 1850cc 1850 cc 1850-cc Dual Carb !!Powered by WizPoster.com \u2014 #1 Craigslist Posting Tool."
-            },
-            {
-                "id": "7317535840",
-                "name": "*2014 Dodge Charger 5.7 Hemi *1 Owner Car Prior Police Car Very Fast*",
-                "url": "https://sfbay.craigslist.org/eby/cto/d/modesto-2014-dodge-charger-57-hemi/7317535840.html",
-                "datetime": "2021-05-05 17:33",
-                "price": "$8,850",
-                "where": "Hayward/Livermore/Tracy",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00S0S_3bmWyVrOvCxz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00S0S_3bmWyVrOvCxz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00S0S_3bmWyVrOvCxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_arpJmMOJId4z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_p9Md6F8RaIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_lXJ9IwMtcU3z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_4tc0MplQxbbz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_4tc0MplQxbbz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_1dF1NYBn4hqz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_2jmtzVGXkZpz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_eBWnjPM0JFiz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_5NurODWEJOjz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_liNojiKSHCjz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_4wWMSGFJrJez_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_4ixZrEe67Ybz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_jTzKzearhiWz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_hR2GSeZzrHnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_larGBgjGjrtz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_gecX2b8OZVqz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_30GGKeQjAPQz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "fast",
-                "category": "cta",
-                "description": "2014 Dodge Charger 5.7 liter HEMI. 1-Owner Car. Mileage: 141,889. The car equipped with Power windows, Power mirrors, Power locks, Cold air conditioning, AM/FM stereo with CD player, Rear defroster, Dual airbags and side airbags, Tilt steering, Keyles entry and push button Start, Rear defroster. 4 Good Tires. Free vehicle History Report Vin # 2C3CDXAT3EH350927. Comes with a new free smog check. runs And drives Great!****THIS IS A OLD POLICE VEHICLE AND HAS HOLE ON THE ROOF, TRUNK, BUMPER COVER from old police equipment. the car has lots of dings dents and scratches. It was previously owned by Monterey County and was fleet maintenance on a regular basis.Asking $8850 or best offer ***Any questions Call   (Jason)First reasonable offer takes it homePlease call to make a appointment if you would like to come take a look at it.Prime Auto Sales 1400 north 9th st Modesto, Cakeyward: Ford Buick Honda Toyota Charger Impala Taurus Cobolt Fusion Jetta Grand am Grand Prix Focus Neon Pontiac Corolla"
             }
         ]
     },
@@ -873,7 +860,7 @@
                 "name": "Electric keyboard (synthesizer)",
                 "url": "https://sfbay.craigslist.org/eby/msg/d/pleasanton-electric-keyboard-synthesizer/7318292061.html",
                 "datetime": "2021-05-07 10:12",
-                "price": "$18",
+                "price": "$70",
                 "where": "dublin / pleasanton / livermore",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00y0y_iZqCJjhvJokz_1320MM_600x450.jpg",
@@ -885,7 +872,7 @@
                 ],
                 "query": "famous",
                 "category": "msa",
-                "description": "Very famous Korea music instrument brand. Original price is over $650Sound is excellent and all keys are working. Synthesizer with many effects. Carry is very convenient. It has to work with batteries. No power code. No return, cash only, pickup in Pleasanton area."
+                "description": "Very famous Korea music instrument brand. Original price is over $650Sound is excellent and all keys are working. Synthesizer with many effects. Carry is very convenient. It has to work with batteries and power code. No return, cash only, pickup in Pleasanton area."
             },
             {
                 "id": "7318256520",

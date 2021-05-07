@@ -20,6 +20,25 @@
         ],
         "wood": [
             {
+                "id": "7318085126",
+                "name": "Security screen doors and a wood door",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/lower-lake-security-screen-doors-and/7318085126.html",
+                "datetime": "2021-05-06 21:23",
+                "price": "$100",
+                "where": "lake county",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00z0z_iqINgOxiTVdz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00z0z_iqINgOxiTVdz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00z0z_iqINgOxiTVdz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_acvNvkPjrbtz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_h5LFZvbmzMKz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "The security doors are 31-3/8 Wide and 79-1/2 tall. The wood door is 32x78-1/2. Were hoping to sell the security doors together for 100 and 50 for the wood glass door but will offer a package deal for everything if intrested. Calls only thanks.."
+            },
+            {
                 "id": "7316859604",
                 "name": "2x4, 2x8, 4x4 Douglas fir wood",
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-2x4-2x8-4x4-douglas-fir/7316859604.html",
@@ -60,88 +79,118 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "New Simpson #55 Interior Solid Wood Door 36x80"
-            },
-            {
-                "id": "7303755567",
-                "name": "75x52\u201d wood window",
-                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7303755567.html",
-                "datetime": "2021-05-06 19:29",
-                "price": "$75",
-                "where": "Presidio Heights",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "No EMAILS PLEASE.TEXT Paul to arrange pickup on Washington in San Francisco- (65O)2I8-859675x52 fixed dual glazed wood window to be removed by contractor $75"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7314176160",
-                "name": "Vintage 1950's Kitchen Apron",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-1950s-kitchen-apron/7314176160.html",
-                "datetime": "2021-05-06 20:18",
-                "price": "$5",
-                "where": "santa rosa",
+                "id": "7315207624",
+                "name": "ben davis vintage mens shirts 1980",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-pablo-ben-davis-vintage-mens-shirts/7315207624.html",
+                "datetime": "2021-05-06 21:56",
+                "price": "$40",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00h0h_9NPpsrxGUFFz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_aZA7ev6W8giz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00h0h_9NPpsrxGUFFz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_9NPpsrxGUFFz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_iQgnDXmqp9pz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_8grHzfogxjzz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01616_jBrEtJq1lnqz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_epxBnzhYJrgz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This is a original apron from the 1950's.. This is from my Italian grandma stored in a box in my moms closet for years. I have about 5 different ones.. This one in the photo is $5.00 and is in great condition! Call   Thanks"
+                "description": "pre 1980 men or woman work shirts. ben davis. 1/4 zip pullover yellow tags.  $40.00 each. very good condition, large ,  striped, two pockets. 12-long sleeves. 6-short sleeves. wear them ironically or to do actual work. please text only."
             },
             {
-                "id": "7314299085",
-                "name": "VINTAGE DUTCH NAVY PEA COAT",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-vintage-dutch-navy-pea-coat/7314299085.html",
-                "datetime": "2021-05-06 19:39",
-                "price": "$50",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_a0e3b89fmIXz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_a0e3b89fmIXz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_eRzCDEJ1V6Wz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_jW6YJ9LYBy3z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_kILusHWw9wwz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Added image with size information.  Very rare, heavy vintage pea coat.  needs dry cleaning as it has been hanging in my closet for a while and is dusty more than anything.Date says 1955, and I assume that is the mfg. date.  I bought it in the 70's and it served me well.  One pocket lining is torn, but you can't see it from the outside.  also there are some wear marks in the collar.  the pictures make it look more gray than it actually is.  It is very dark blue almost black.  I would call it a mens large."
-            },
-            {
-                "id": "7308050558",
-                "name": "Vintage 1995 \"San Francisco 49'ers Short Sleeve T-Shirt NEW OLD STOCK",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1995-san/7308050558.html",
-                "datetime": "2021-05-06 19:24",
-                "price": "$30",
+                "id": "7308088687",
+                "name": "Designer Michael Valitutti Vintage Sterling & Gold Ring Emerald Stone",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-designer-michael/7308088687.html",
+                "datetime": "2021-05-06 21:21",
+                "price": "$95",
                 "where": "mission district",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_e4RdKHAFUWJ_0dW0c9_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00F0F_cIJT0dBCL9t_0aC0dW_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00U0U_e4RdKHAFUWJ_0dW0c9_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_e4RdKHAFUWJ_0dW0c9_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_4tKxjwbuFvj_0dW0c4_50x50c.jpg"
+                    "https://images.craigslist.org/00F0F_cIJT0dBCL9t_0aC0dW_600x450.jpg",
+                    "https://images.craigslist.org/00F0F_cIJT0dBCL9t_0aC0dW_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_dX5CpAWNtAE_0dW0aZ_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_9xCwG1RtBYA_0bf0dW_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_c8o7fOr6ypD_0b30dW_50x50c.jpg",
+                    "https://images.craigslist.org/00303_eWubsLbMTG_0b00dW_50x50c.jpg",
+                    "https://images.craigslist.org/00202_8ecZW97Sl53_0aU0dW_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "SIZE LargeNEW OLD STOCK W/Tags Vintage 1995 San Francisco 49'ers Red Short Sleeve T-ShirtKILLER DESIGNMade by TRUE-FAN SPORTSWEAR - 100% MADE IN USAHas original sku tag plus NFL TEAM tag. CONDITION: New Old Stock With Tags, EXCELLENT - PLEASE SEE PHOTOS -Discovered in a storage bin recently with a number of other SF Bay area vintage sports memorabilia (49'ers, Giants, A's) where its been for over 2 decades PHOTOS SHOW THE ITEM'S CURRENT CONDITION. 276"
+                "description": "Designer Michael Valitutti Sterling & Gold Ring With Emerald Stone..Beautiful ring with green stone with many black specks inside, common for moderate grade emeralds..parts of the Sterling band are gold wash or gold plate...I lean towards gold plate since gold wash are more commonly the whole piece, as far as I know.Stamped 925 inside the band..with Michael Valittuti trademark NH also on the inside of the band.SIZE - 10WEIGHT - 7.1 gramsCONDITION: Very Good..Show very minimal wear, Please see photos for items current condition. Judge for yourself. As IsSHIPPING AVAILABLE*****Please include a phone number with your response760"
+            },
+            {
+                "id": "7316048085",
+                "name": "Vintage Double Dragon Head Miao Silver Heavy Metal Bracelet 73 Grams",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-double-dragon/7316048085.html",
+                "datetime": "2021-05-06 21:12",
+                "price": "$79",
+                "where": "mission district",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00x0x_8WljHIFVEGgz_0ne0hg_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00x0x_8WljHIFVEGgz_0ne0hg_600x450.jpg",
+                    "https://images.craigslist.org/00x0x_8WljHIFVEGgz_0ne0hg_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_fDt4wgS3Bppz_0ne0hJ_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_7Noz4NZGXaIz_0ne0hd_50x50c.jpg",
+                    "https://images.craigslist.org/01616_kypqFUQHJ4sz_0gF0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_7DqW0yjz0ijz_0ne0hi_50x50c.jpg",
+                    "https://images.craigslist.org/01414_8IOuREX5eS0z_0ne0gL_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Double Dragon Head Miao Silver Heavy Metal Bracelet - 73.3 GramsGreat looking thick and heavy metal double dragon head bracelet with interwoven links...MEASUREMENTS:Total Length - 8 Total Weight - 73.3 GramsDragon Heads - 1 9/16 L x 3/4 H x 1/2 WMiao silver is an alloy of silver, copper and nickel, with 60% being silver. It's a traditional material for making jewelry by craftsmen of Miao Hmong ethnic tribe. Miao Hmong silver jewelry is distinctive for its design, style and craftsmanshipCONDITION: Great...Solid as can be...some patina. Please see photos for items current condition and judge for yourself...Selling as isFEEL WELCOME TO ASK ANY QUESTIONS BEFORE PURCHASING. SHIPPING AVAILABLE*****PLEASE include a phone number if you are local SF/bay area921Miao Silver Heavy Metal Double Dragon Asian bracelet vintage solid"
             }
         ],
         "beaded": [
+            {
+                "id": "7318080472",
+                "name": "SALE! Set of 10 Designer Beaded Bracelets (by Roxanne Assoulin)",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-sale-set-of-10-designer/7318080472.html",
+                "datetime": "2021-05-06 21:20",
+                "price": "$20",
+                "where": "emeryville",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00808_hAmRWT0KoTpz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/01111_dKq5hhsH9wtz_0nE0nE_50x50c.jpg",
+                    "https://images.craigslist.org/01414_iWYRAWNLGNCz_0ey0bl_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "BRAND NEW!Set of 10 beautiful and colorful handmade beaded bracelets by Roxanne Assoulin, a famous jewelry designer.This is normally sold at retail for $45 - $75!CASH ONLY & PICKUP ONLY"
+            },
+            {
+                "id": "7314087704",
+                "name": "* Designer Beaded Bracelets by Roxanne Assoulin *",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-designer-beaded-bracelets-by/7314087704.html",
+                "datetime": "2021-05-06 20:57",
+                "price": "$20",
+                "where": "emeryville",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00202_bfLQfy8yksSz_0ak07K_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00202_bfLQfy8yksSz_0ak07K_600x450.jpg",
+                    "https://images.craigslist.org/00202_bfLQfy8yksSz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00808_hAmRWT0KoTpz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/01111_dKq5hhsH9wtz_0nE0nE_50x50c.jpg",
+                    "https://images.craigslist.org/01414_iWYRAWNLGNCz_0ey0bl_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "BRAND NEW CONDITION!Inspired by friendship bracelets, this selection of 10 bright and cheerful handmade beaded bracelets by designer Roxanne Assoulin can add an instant splash of fun and color to your look. Pair them with a dress or with a simple white tee and jeans.Suggested retail price is $45 - $75!(https://roxanneassoulin.com/collections/bracelets/products/the-brighter-the-better-bracelets)About the designer: Roxanne Assoulin is best known for designing vibrantly colorful accessories with a cult following. Assoulin has been in the fashion business for more than 35 years, working with brands like Oscar de la Renta, J.Crew, and Marc Jacobs on jewelry.CASH ONLY & PICKUP ONLY"
+            },
             {
                 "id": "7304741535",
                 "name": "Very Nice Royal Blue Beaded Party Dress",
@@ -162,101 +211,112 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "One Piece but, looks like a two piece.  Comes with extra beads.If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
-            },
-            {
-                "id": "7314686887",
-                "name": "Jovani beaded ivory/nude gown",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-jovani-beaded-ivory-nude-gown/7314686887.html",
-                "datetime": "2021-05-06 13:22",
-                "price": "$350",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01111_inLVuesQseuz_0he0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01111_inLVuesQseuz_0he0t2_600x450.jpg",
-                    "https://images.craigslist.org/01111_inLVuesQseuz_0he0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_afvpAipUAqpz_0hv0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_dcu7fU6xZLSz_0iS0so_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Jovani beaded ivory/nude gown - $350Jovani product #16926 This is a spaghetti strapped gown with a boat neck and lace pattern running vertically down. Pearls and small sparkle Adorn this piece. The overlay is ivory with nude underneath. This was Worn only once in store and then was unable to be returned to the merchant because of a cancelled event. Perfect for a wedding party/ reception or even prom. condition: brand new make : Jovani Product number: 16926 Size 8"
-            },
-            {
-                "id": "7317869465",
-                "name": "Beautiful WEDDING DRESS - Marisa SIZE 6, Cream - Beaded Bodice",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/el-cerrito-beautiful-wedding-dress/7317869465.html",
-                "datetime": "2021-05-06 12:16",
-                "price": "$95",
-                "where": "albany / el cerrito",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00w0w_2SSd3b1w4biz_0je0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00w0w_2SSd3b1w4biz_0je0t2_600x450.jpg",
-                    "https://images.craigslist.org/00w0w_2SSd3b1w4biz_0je0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_g8IuYeM20hHz_0B00jw_50x50c.jpg",
-                    "https://images.craigslist.org/00404_70N8DQSAiSpz_0eM0t2_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Silk BALL GOWN, size 6.  Beaded bodice.  Spaghetti straps.  Button & hook to attach train to bodice for dancing.  Dress is lighter in person - it' creamy white.  Room was very sunny, which made the pics look a bit gold.Could easily be tailored up or down in size & I have a great, reasonably priced tailor.  You're welcome to try this on before purchase.  CASH ONLY.Leave phone # with reply. Thanks : )"
             }
         ],
         "gloves": [
             {
-                "id": "7310729033",
-                "name": "Wells Lamont Leather Work Gloves 3 pk 40% off",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wells-lamont-leather-work/7310729033.html",
-                "datetime": "2021-05-06 18:57",
-                "price": "$30",
-                "where": "san jose west",
+                "id": "7318089121",
+                "name": "Snow gloves",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-snow-gloves/7318089121.html",
+                "datetime": "2021-05-06 21:47",
+                "price": "$10",
+                "where": "Santa Rosa",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00K0K_9dbO84EiMmEz_07K0ak_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_600x450.jpg",
-                    "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_eOaBQfRZNAlz_0q70t2_50x50c.jpg"
+                    "https://images.craigslist.org/00K0K_9dbO84EiMmEz_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00K0K_9dbO84EiMmEz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_kOViHG68422z_07K0ak_50x50c.jpg"
                 ],
                 "query": "gloves",
                 "category": "cla",
-                "description": "I have a 3 pack of Wells Lamont Leather work gloves for sale.  Never opened, in original sealed packageAmazon sells it for $50, I'm selling this one for $30 https://www.amazon.com/Wells-Lamont-Premium-Leather-X-Large/dp/B00Y3OVFMQ/ref=asc_df_B00Y3OVFMQ/?tag=hyprod-20&linkCode=df0&hvadid=310054314911&hvpos=&hvnetw=g&hvrand=6205822267755036434&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061320&hvtargid=pla-572577013656&psc=1Patented Precurved Design: Our Patented Construction makes our precurved gloves the most comfortable you can buy. The longer glove back pattern required make this more expensive leather construction. The shorter palm pattern lets the leather hug the palm eliminating bunching of excess material in the area. This allows more natural, treer hand movement and the meas less hand fatigue. 100% recyclable"
+                "description": "Heavy-duty snow gloves, for snowboarding, shoveling, any kind of snow fun. Lined, very warm, with extra long wrist cuffs. Yeah, the season's over, but you'll be ready for next year."
             },
             {
-                "id": "7311738080",
-                "name": "Motorcycle gloves Kevlar Olympia",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-carlos-motorcycle-gloves-kevlar/7311738080.html",
-                "datetime": "2021-05-06 16:42",
-                "price": "$35",
-                "where": "San Carlos",
+                "id": "7307580758",
+                "name": "NEW classy ladies khaki / camel / tan gloves with gold chain / detail",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-new-classy-ladies-khaki/7307580758.html",
+                "datetime": "2021-05-06 21:31",
+                "price": "$5",
+                "where": "inner sunset / UCSF",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00I0I_en1i3b1ixXmz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00D0D_cKgAw6RCZdRz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00I0I_en1i3b1ixXmz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00I0I_en1i3b1ixXmz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_ihJpaxTyMDGz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00D0D_cKgAw6RCZdRz_0CI0t2_600x450.jpg"
                 ],
                 "query": "gloves",
                 "category": "cla",
-                "description": "$20 each pair or $35 for bothOne pair unlined for summer. One pair lined for colder winter riding."
+                "description": "Classy ladies gloves - khaki / camel / tan color with gold interlocking chain / detail.I\u2019m moving so check out my other listings for $1 deals and deeply discounted items!"
             },
             {
-                "id": "7311832429",
-                "name": "NEW hat + scarf +  gloves set",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-new-hat-scarf-gloves-set/7311832429.html",
-                "datetime": "2021-05-06 15:47",
-                "price": "$9",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7307579614",
+                "name": "Ladies soft leather gloves (black, olive, purple) + long ones in black",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-ladies-soft-leather/7307579614.html",
+                "datetime": "2021-05-06 21:29",
+                "price": "$5",
+                "where": "inner sunset / UCSF",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_i9bBnhEfkL_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00202_c5WyHfrkd98z_0lM0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00W0W_i9bBnhEfkL_600x450.jpg"
+                    "https://images.craigslist.org/00202_c5WyHfrkd98z_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00202_c5WyHfrkd98z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_7vBOeGqaoiOz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_8QF00l5XYicz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_6lQLy1uIJvhz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_cKgAw6RCZdRz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "gloves",
                 "category": "cla",
-                "description": "NEW hat + scarf +  gloves set ............... $9Very soft and niceCollect in Pleasanton"
+                "description": "Soft leather gloves for sale.Purple/ olive / green pair $5 eachLong black ones $9 eachGreat for the cold weather or for dressing up.I\u2019m moving out of state so am selling everything. Check out my other listings for $1 bargains and deeply discounted items!"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7318086189",
+                "name": "Wedding Dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-wedding-dress/7318086189.html",
+                "datetime": "2021-05-06 21:29",
+                "price": "$1",
+                "where": "oakland north / temescal",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01616_kH1hdgdkuzOz_0kF0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01616_kH1hdgdkuzOz_0kF0t2_600x450.jpg",
+                    "https://images.craigslist.org/01616_kH1hdgdkuzOz_0kF0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_14iUqjVVcUDz_0lm0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_eofw0hdIDWPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_71FNi9vdQjGz_0gn0t2_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Fit is between a size 4 and 6I'm about 5'6.5 inches tallIt was professionally cleaned and is boxedFREE!Give it a new life and be a beautiful bride!"
+            },
+            {
+                "id": "7313380761",
+                "name": "Casablanca Bridal Wedding Gown / Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-casablanca-bridal-wedding-gown/7313380761.html",
+                "datetime": "2021-05-06 21:21",
+                "price": "$300",
+                "where": "san jose east",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_ecrPMh7z5lnz_0aO0fn_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_ecrPMh7z5lnz_0aO0fn_600x450.jpg",
+                    "https://images.craigslist.org/01010_ecrPMh7z5lnz_0aO0fn_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_bsQZRaHsHhIz_08l0fw_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_kevb11XjeYvz_09n0fr_50x50c.jpg",
+                    "https://images.craigslist.org/01111_1KW2lDEO00Cz_0bg0fw_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_km2Dz6f8RCfz_0aA0fx_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_2VyC0OVCbHgz_0bk0do_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_h0CCh5cCQz9z_0CI0sP_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_aeoTkU9rvH1z_0ny0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_7tyuWXLXcA3z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_j4DUWoIfBcTz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Brand New Casablanca Bridal Wedding Gown / Dress Size 10 Never had alterations"
+            },
             {
                 "id": "7304267952",
                 "name": "San Patrick 1964 Seymour Wedding Dress",
@@ -293,53 +353,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Seymour wedding dress from the Fashion 2015 - St Patrick collection | St. PatrickI am selling my wedding dress that I wore once. The original tag is attached still.Size is US 8, as seen on the picture. This dress is a custom with a corset waist, so the dress is actually a US size 8, but using the corset the size can go down to a 0. Please see pictures of back with corset. ASKING $1,500.00If you see this ad, then the dress is still available. Email me your cell phone and we will setup and date and time.CASH ONLY, No IO'S, NO TRADES, NO CHECKS."
-            },
-            {
-                "id": "7318055011",
-                "name": "New Sophia Tolli Wedding Bridal Dress, Size 8",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-new-sophia-tolli-wedding-bridal/7318055011.html",
-                "datetime": "2021-05-06 19:09",
-                "price": "$349",
-                "where": "oakland east",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_600x450.jpg",
-                    "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_arIHVORGZaBz_0mJ0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_ivxgLrln4jLz_0lD0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_7TIVZUoiMtIz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_77fxilE4cMLz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00606_dGVB9zC5YCEz_0kY0rX_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_4VhNd67Y4wZz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_lr9etRjYDDHz_0gH0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_i3VscvCF51az_0g80lv_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_fHZ3uocDCOMz_0iw0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Gorgeous Sophia Tolli designer wedding dress, size 8, never worn. Fit and flare style with keyhole back, illusion cap sleeves and full train. Beautiful beading and lace embellishments. Unfortunately, altering this dress to fit me (I'm Size 0) turned out to be *way* more expensive than I was led to believe by the bridal shop. Hence me buying another dress in my size and selling this one.This bridal dress is brand new. While I bought it on sale, the original price was over $1,600."
-            },
-            {
-                "id": "7302985305",
-                "name": "Storybook Wedding or Lace Dress Size 14",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/livermore-storybook-wedding-or-lace/7302985305.html",
-                "datetime": "2021-05-06 18:56",
-                "price": "$5",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00K0K_iVg3jiESW8Lz_0ej0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00K0K_iVg3jiESW8Lz_0ej0t2_600x450.jpg",
-                    "https://images.craigslist.org/00K0K_iVg3jiESW8Lz_0ej0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_9cs6nZHTZoYz_0CI0mZ_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_iSlfyW4r0SYz_0As0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_dhAR2XFJUOsz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_7ijU47nGGGRz_0dB0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Storybook Wedding or Lace Dress in good condition size 14 Cash only, I do not deliver or ship no holds.Livermore"
             }
         ],
         "great condition": [
@@ -851,6 +864,29 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
+                "id": "7318078829",
+                "name": "Wurlitzer Piano",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-wurlitzer-piano/7318078829.html",
+                "datetime": "2021-05-06 21:15",
+                "price": "$499",
+                "where": "san jose east",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00505_4zQdqj5dzcxz_0fA0jI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00505_4zQdqj5dzcxz_0fA0jI_600x450.jpg",
+                    "https://images.craigslist.org/00505_4zQdqj5dzcxz_0fA0jI_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_8LmlA7xgWPsz_0g60k2_50x50c.jpg",
+                    "https://images.craigslist.org/01212_1qm9PYRjc3Cz_0fY0jQ_50x50c.jpg",
+                    "https://images.craigslist.org/00707_505SSIpTtY6z_0fq0k4_50x50c.jpg",
+                    "https://images.craigslist.org/01212_76Hmj8TCDZIz_0qE0ki_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_eyOpsZ6aFU9z_0r40iK_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_l6I6iuTdC2sz_0qs0ju_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "WurlitzerThis beautiful piano is 50+ years old, but looks and plays beautifully.Comes with original bench that is covered in a tapestry style fabric.Color is a deep walnut. Buyer is responsible for pickup and delivery fees.The famous Rudolph Wurlitzer Company claimed to be sellers of \u2018Everything Musical\u201d, a slogan that was quite accurate! Rudolph Wurlitzer immigrated to America in 1854 and established his first firm in New York City. Wurlitzer moved to Cincinnati in 1856 and became a successful retailer of pianos, organs and general musical merchandise. Wurlitzer\u2019s firm was so successful that he built \u201cThe House Of Wurlitzer\u201d, a large factory with splendid warerooms, in 1861. During these early years, Wurlitzer manufactured organs and melodeons, but imported the majority of his other instruments from European makers which were sold under the Wurlitzer label here in America.The Rudolph Wurlitzer Company was incorporated in 1890 and Wurlitzer\u2019s eldest son, Howard Wurlitzer, was admitted into partnership. Sons Rudolph H. Wurlitzer and Farny Wurlitzer also joined the firm shortly thereafter. By the turn-of-the-century Wurlitzer was specializing in some of the first coin-operated player pianos and orchestrions manufactured and sold in the United States. Rudolph Wurlitzer retired in 1906 and was succeeded by his sons.By the 1920s, Wurlitzer had an endless array of mechanical musical instruments in addition to their traditional pianos and player pianos. There were several names that were controlled by Wurlitzer by the early 20th Century, including Apollo, Julius Bauer, Melville Clark, De Kalb, Ellwood, Farny, Kingston, Merriam, Strad and Underwood. After the Great Depression era, Wurlitzer built several lines of spinets, consoles and baby grand pianos well into the 20th Century. The giant Wurlitzer Company continued to build pianos until the 1990s when the Wurlitzer name was sold to the famous Baldwin Piano & Organ Company."
+            },
+            {
                 "id": "7318060474",
                 "name": "Yamaha DGX-500 Portable Grand Piano with wooden stand",
                 "url": "https://sfbay.craigslist.org/eby/msg/d/hayward-yamaha-dgx-500-portable-grand/7318060474.html",
@@ -865,29 +901,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Yamaha DGX-500 Portable Grand PianoFeatures & detailsOne of the world's premiere piano manufacturers, YAMAHA brings over a century of experience to the DGX-500ADBOver 600 voices, including famous Yamaha XG voice setStereo sampled piano sound is utterly remarkable ? close your eyes and you're in front of a world class concert grandTwo way speakers with bass ports for high fidelity sound qualityA furniture style wood stand with matching end panels completes piano look and feelIncluded pedal and ac adapter.$250"
-            },
-            {
-                "id": "7318021035",
-                "name": "Lame Horse open back banjo",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/oakland-lame-horse-open-back-banjo/7318021035.html",
-                "datetime": "2021-05-06 17:36",
-                "price": "$1,750",
-                "where": "oakland hills / mills",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_fVz9Fggot56z_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00505_fVz9Fggot56z_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00505_fVz9Fggot56z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_8qVt1P9fYpDz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00606_aPWbJPRJJI2z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_dNG1jsFJX39z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_gIHvWZcJalKz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_gNloBvpsQ5Gz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_bZMUxIl1ispz_0fh0dd_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "This is about a ten year old Lame Horse banjo made by luthier Chris Jenkins in Texas. https://lamehorse.net/ He builds very fancy and quite expensive guitars ($7000 +) and occasionally does a banjo. I bought this one new directly from Chris at the luthiers convention in Santa Rose about ten years ago. It is an open back banjo with a 12 block style maple pot and neck.  It is very loud and bright sounding. It has a frailing scoop and a single coordinator rod, five piece neck and has a very easy action. Quite ornamental with exotic woods and inlay up and down the neck. It is in excellent condition with no damage. Mary Cox has hers for sale currently for $2300  plus shipping from Florida on the Banjo Hangout. She is famous, I am not. Reasonable offers accepted, forget low ballers as I do not need to sell it. Comes with a sturdy bump case. No trades, cash only."
             }
         ]
     }

@@ -20,9 +20,48 @@
         ],
         "wood": [
             {
+                "id": "7318933364",
+                "name": "BRAND NEW SOLID WOOD MOLDING AND BASEBOARDS",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-solid-wood-molding/7318933364.html",
+                "datetime": "2021-05-08 14:43",
+                "price": "$0",
+                "where": "San Jose",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00a0a_cs9FGGl2HF2z_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00a0a_cs9FGGl2HF2z_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_cs9FGGl2HF2z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_if0rkj9s4w8z_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_dTonzfv51aez_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_6YF3OQM2fBCz_0t20t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I HAVE MANY MANY PIECES OF SOLID WOOD MAPLE WALNUT CHERRY WHITE OAK MAHOGANY CROWN MOLDING AND BASEBOARD AS PICTURES AVAILABLE FOR SALE ONLY $.75 AND UPI ONLY RESPOND EMAILS WITH PHONE NUMBER"
+            },
+            {
+                "id": "7318932331",
+                "name": "SOLID WOOD FOR CUTTING BOARDS",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-solid-wood-for-cutting-boards/7318932331.html",
+                "datetime": "2021-05-08 14:40",
+                "price": "$1",
+                "where": "San Jose",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00505_cC7qGgbZDh0z_0jm0ew_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00505_cC7qGgbZDh0z_0jm0ew_600x450.jpg",
+                    "https://images.craigslist.org/00505_cC7qGgbZDh0z_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_k0S6usq1X6Yz_0x20oM_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_4ME9CQwo49Mz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I HAVE MANY MANY PIECES AND BOARDS WITH DIFFERENT SIZE AND DIFFERENT KIND OF WOOD READY FOR MAKING CUTTING BOARDS FOR HOLIDAYS AVAILABLE FOR SALE ONLY $.99 AND UP PER LINEAR FOOT (SEE PICTURES FOR EXAMPLE)I ONLY RESPOND EMAILS WITH PHONE NUMBER PLEASE"
+            },
+            {
                 "id": "7318892856",
-                "name": "Solis Wood Shutter/Louvered Doors",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/mountain-view-solis-wood-shutter/7318892856.html",
+                "name": "Solid Real Wood Louvered Doors",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/mountain-view-solid-real-wood-louvered/7318892856.html",
                 "datetime": "2021-05-08 13:19",
                 "price": "$50",
                 "where": "mountain view",
@@ -33,162 +72,94 @@
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "$50 for the pair, moving"
-            },
-            {
-                "id": "7318873292",
-                "name": "Old Rustic and Modern Reclaimed Barn Wood - Mantels - Walls - Beams",
-                "url": "https://sfbay.craigslist.org/pen/mad/d/mountain-view-old-rustic-and-modern/7318873292.html",
-                "datetime": "2021-05-08 12:38",
-                "price": "$0",
-                "where": "mountain view",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00t0t_egtmLIJcKvRz_0x20ok_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00t0t_egtmLIJcKvRz_0x20ok_600x450.jpg",
-                    "https://images.craigslist.org/00t0t_egtmLIJcKvRz_0x20ok_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_egtmLIJcKvRz_0x20ok_50x50c.jpg",
-                    "https://images.craigslist.org/00303_1xZYoBPhBGz_0x20m1_50x50c.jpg",
-                    "https://images.craigslist.org/00404_8egTsdFG7yMz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_cZ3GouUFrSO_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_4j47qZkXipn_50x50c.jpg",
-                    "https://images.craigslist.org/01111_l2RfU5mqy1J_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_aNcZmh6V4pi_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_6kzZbTZjZ5X_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_cLMLOMQSYa0_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_gyODoPa3abN_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_ibKXmBHHQgZ_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_h0nSzttwoPg_0co0gw_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_iOgQaU4lK2Xz_0kx0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_dPbxnLRer8Nz_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_8CyeOCo21Roz_0k30t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_pDJlY9uYSez_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_48A9bRnnj9uz_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_3tQylA5CF9Kz_0wN0oM_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Visit our new Shop in Mountain View - Large Inventory of MaterialsBy appointment only.Give us a call at 650 931 5268Barn-wood is becoming even more rare in the United States and Reclaimed West is your source for authentic barn-wood from the mid-west and Rockies. We have a selection of barn-wood available and can cut materials into any dimension requested.You can visit our new millwork shop in Mountain View and see the new stock of red and white oak from barns salvaged in Kentucky and Indiana. We have a great inventory of material in the heart of Silicon Valley. Our Reception Desk prices start at $1,200.00Our mantel pricing varies - for example, a rough cut 6 x 6 - 60 inches long - $200.00Pricing for 3/4 material ranges from $9.00 - $15.00 per sq ftDimensional lumber pricing starts at $9.50 bd/ft - $15.00 bd/ft.Our 2-3 inch slabs start at $150.00Our tables range in price starting from $300 - $15,000Our guest cabins start at $10,000.00FREE DELIVERY IF ORDER IS OVER 200 SQ FT OF MATERIALWe can create siding, flooring, furniture and even artwork from barn-wood based around your specifications. Contact a Reclaimed West professional today to discuss our material. Visit the website at: www.reclaimedwest.comWe are located at 828 Independence Avenue, Mountain View CA 94043. Give us a call at 650 931 5268Also serving the SF Bay Area: Sacramento, Napa, Chico, Carmel, Napa, San Francisco, San Mateo, Daly City, San Carlos, San Ramon, Campbell, Redwood City, Belmont, Cupertino, Fremont, Gilroy, Hollister, Los Gatos, Milpitas, Morgan Hill, Mountain View, San Jose, Santa Clara, Portola Valley, Los Altos, Saratoga, Sunnyvale, Willow Glen, Cambrian, Alamo Square, Nopa, Bayview, Bernal Heights, Castro, Cole Valley, Ashbury Heights, Excelsior, Financial District, Glen Park, Haight Ashbury, Hayes Valley, Ingleside / SFSU / CCSF, Laurel Heights, Presidio, Marina, Cow Hollow, Mission District, Nob Hill, Noe Valley, North Beach / Telegraph Hill, Pacific Heights, Portola District, Potrero Hill, Richmond, Seacliff, Russian Hill, SOMA, South Beach, Treasure Island, Twin Peaks, Diamond Heights, Visitacion Valley, Forest Hill, Aptos, Boulder Creek, Capitola, Santa Cruz, Scotts Valley, Soquel, Watsonville, Portola Valley, Los Altos, Mountain View, Palo Alto, Menlo Park, Cupertino, San Bruno, Walnut Creek, Sunnyvale, Danville, Napa, Burlingame, Hillsborough, Berkeley, Santa Clara, Fremont, Marin County and Hayward."
-            },
-            {
-                "id": "7318872253",
-                "name": "Old Rustic and Modern Reclaimed Barn Wood - Mantels - Walls - Beams",
-                "url": "https://sfbay.craigslist.org/pen/mad/d/mountain-view-old-rustic-and-modern/7318872253.html",
-                "datetime": "2021-05-08 12:36",
-                "price": "$0",
-                "where": "mountain view",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00t0t_egtmLIJcKvRz_0x20ok_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00t0t_egtmLIJcKvRz_0x20ok_600x450.jpg",
-                    "https://images.craigslist.org/00t0t_egtmLIJcKvRz_0x20ok_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_egtmLIJcKvRz_0x20ok_50x50c.jpg",
-                    "https://images.craigslist.org/00303_1xZYoBPhBGz_0x20m1_50x50c.jpg",
-                    "https://images.craigslist.org/00404_8egTsdFG7yMz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_cZ3GouUFrSO_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_4j47qZkXipn_50x50c.jpg",
-                    "https://images.craigslist.org/01111_l2RfU5mqy1J_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_aNcZmh6V4pi_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_6kzZbTZjZ5X_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_cLMLOMQSYa0_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_gyODoPa3abN_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_ibKXmBHHQgZ_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_h0nSzttwoPg_0co0gw_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_iOgQaU4lK2Xz_0kx0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_dPbxnLRer8Nz_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_8CyeOCo21Roz_0k30t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_pDJlY9uYSez_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_48A9bRnnj9uz_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_3tQylA5CF9Kz_0wN0oM_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Visit our new Shop in Mountain View - Large Inventory of MaterialsBy appointment only.Give us a call at 650 931 5268Barn-wood is becoming even more rare in the United States and Reclaimed West is your source for authentic barn-wood from the mid-west and Rockies. We have a selection of barn-wood available and can cut materials into any dimension requested.You can visit our new millwork shop in Mountain View and see the new stock of red and white oak from barns salvaged in Kentucky and Indiana. We have a great inventory of material in the heart of Silicon Valley. Our Reception Desk prices start at $1,200.00Our mantel pricing varies - for example, a rough cut 6 x 6 - 60 inches long - $200.00Pricing for 3/4 material ranges from $9.00 - $15.00 per sq ftDimensional lumber pricing starts at $9.50 bd/ft - $15.00 bd/ft.Our 2-3 inch slabs start at $150.00Our tables range in price starting from $300 - $15,000Our guest cabins start at $10,000.00FREE DELIVERY IF ORDER IS OVER 200 SQ FT OF MATERIALWe can create siding, flooring, furniture and even artwork from barn-wood based around your specifications. Contact a Reclaimed West professional today to discuss our material. Visit the website at: www.reclaimedwest.comWe are located at 828 Independence Avenue, Mountain View CA 94043. Give us a call at 650 931 5268Also serving the SF Bay Area: Sacramento, Napa, Chico, Carmel, Napa, San Francisco, San Mateo, Daly City, San Carlos, San Ramon, Campbell, Redwood City, Belmont, Cupertino, Fremont, Gilroy, Hollister, Los Gatos, Milpitas, Morgan Hill, Mountain View, San Jose, Santa Clara, Portola Valley, Los Altos, Saratoga, Sunnyvale, Willow Glen, Cambrian, Alamo Square, Nopa, Bayview, Bernal Heights, Castro, Cole Valley, Ashbury Heights, Excelsior, Financial District, Glen Park, Haight Ashbury, Hayes Valley, Ingleside / SFSU / CCSF, Laurel Heights, Presidio, Marina, Cow Hollow, Mission District, Nob Hill, Noe Valley, North Beach / Telegraph Hill, Pacific Heights, Portola District, Potrero Hill, Richmond, Seacliff, Russian Hill, SOMA, South Beach, Treasure Island, Twin Peaks, Diamond Heights, Visitacion Valley, Forest Hill, Aptos, Boulder Creek, Capitola, Santa Cruz, Scotts Valley, Soquel, Watsonville, Portola Valley, Los Altos, Mountain View, Palo Alto, Menlo Park, Cupertino, San Bruno, Walnut Creek, Sunnyvale, Danville, Napa, Burlingame, Hillsborough, Berkeley, Santa Clara, Fremont, Marin County and Hayward."
+                "description": "$50 for the pair, moving1-3/8 thickness23-7/8 wide79-5/8 tall"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7304788640",
-                "name": "DCSF - PanAm Rare Vintage Green Bag",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-dcsf-panam-rare-vintage/7304788640.html",
-                "datetime": "2021-05-08 14:29",
-                "price": "$250",
+                "id": "7318960577",
+                "name": "Vintage Turquoise Sterling Silver Aztec/Inca Warrior Bolo Tie - GREAT!",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-turquoise/7318960577.html",
+                "datetime": "2021-05-08 15:46",
+                "price": "$95",
                 "where": "mission district",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00808_7KvAenlM66_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01111_hdA5y3plK1Ez_0gK0ne_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00808_7KvAenlM66_600x450.jpg",
-                    "https://images.craigslist.org/00808_7KvAenlM66_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_h77HrL05SZQ_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_hFdNabdggsq_50x50c.jpg",
-                    "https://images.craigslist.org/00404_bduQqNfdNmj_50x50c.jpg",
-                    "https://images.craigslist.org/00808_fZv9kmnyBMr_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_8SLQfwsUokI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_xv9Zc9Hv7C_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_ajeisG3GZrZ_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_kt9qrXNwOI_0lM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/01111_hdA5y3plK1Ez_0gK0ne_600x450.jpg",
+                    "https://images.craigslist.org/01111_hdA5y3plK1Ez_0gK0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_aQIl2FuvVeNz_0in0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_lnarm02Gw5mz_0gv0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_hrd9Ft0r7c4z_0fs0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_37eTRaegya3z_0gF0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_76eapDCZjGUz_0ne0hF_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Authentic Pan Am Travel Duffel BagCompletely in new condition -- never been used. This vintage green color is no longer in production.Approx. Dimension:Length = 18 inchWidth = 6.5 inchDepth = 11 inchCash only. Price is final. -----------------------------------------------------------------------Check out my other bags on sale: Puma Green BagELGINI Vintage Suitcase Hand Shoulder BagSWISS ARMY Versatile Red Shoulder or Waist Small BagPanAm Rare Vintage Green BagEtienne Aigner Mens Garment Bag Brown Leather Travel Business RetroFREITAG CLARK One-of-a-kind Sport BagFREITAG HAZZARD Original One-of-a-kind BackpackSAMSONITE Orange Duffle Bag-----------------------------------------------------------------------Cash only. Price is final. Sorry, no delivery.Please text to   to arrange pick-up time. In Mission Dolores area.For the entire listing of my unique sale items, please type DCSF in search page (under all for sales / wanted category)Thank you for visiting this listing!"
+                "description": "Vintage Turquoise Sterling Silver Aztec Inca Warrior Bolo Tie - GREAT! Excellent 1 3/8 wide Sterling Silver Bolo Tie with inlaid turquoise chips and Sterling Silver tips measuring 1 1/2 long...Made with long braided leather tie with re-inforced neck area made with additional wider leather Total Length when folded - 24Reads 925 TV-OS MexicoCONDITION: Overall Great!..excellent colors and thick Sterling Silver centerpiece...a few very tiny little nicks on the side of the main piece. the center figure and turquoise are excellent.Photos show the items' current condition..SHIPPING AVAILABLE *****PLEASE include a phone number with your response828Aztec Inca Sterling Silver Turquoise Inlay leather bolo tie jewelry vintage"
             },
             {
-                "id": "7318926856",
-                "name": "Montana Silversmiths Vintage Silver/Gold Plate Belt Buckle, Letter \"B\"",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-montana-silversmiths/7318926856.html",
-                "datetime": "2021-05-08 14:28",
-                "price": "$85",
+                "id": "7318949088",
+                "name": "Solid Vintage Sterling Silver Cuff Bracelet With Style - 28.8 Grams",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-solid-vintage-sterling/7318949088.html",
+                "datetime": "2021-05-08 15:20",
+                "price": "$80",
                 "where": "mission district",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_6aEHgrvAUUIz_0ne0hG_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00W0W_3W1itGLFSbEz_0ne0gD_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00C0C_6aEHgrvAUUIz_0ne0hG_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_6aEHgrvAUUIz_0ne0hG_50x50c.jpg",
-                    "https://images.craigslist.org/01313_bfV4VnsS8rxz_0ne0hX_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_3lA6cyC5pVBz_0ne0hB_50x50c.jpg"
+                    "https://images.craigslist.org/00W0W_3W1itGLFSbEz_0ne0gD_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_3W1itGLFSbEz_0ne0gD_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_34q0ZAutmtJz_0ne0he_50x50c.jpg",
+                    "https://images.craigslist.org/00909_5F58bxz2hbKz_0ne0gF_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_3Fq7zTGO1NNz_0ne0gH_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_Q3sDvNCmdzz_0ne0h2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Montana Silversmiths Vintage Silver-plate and Gold Electro-plate Belt Buckle, featuring the Letter BBeautiful oval shaped Montana Silversmiths' belt buckle with rope like edge, ornate interior and raised capital B in gold electro-plate...Measures 3 1/2 wide x 2 5/8 high..Excellent solid buckle weighing 3.9 oz..CONDITION...Overall very good condition.couple of light scuffs plus visible patina on the back....Please see photos for items' current condition..SHIPPING AVAILABLE*****PLEASE include a phone number with your response..864"
+                "description": "Solid Vintage Sterling Silver Cuff Bracelet With Style - 28.8 Grams SignedGreat looking stylized Sterling Silver Cuff Bracelet with blackened background to a beautiful free form style..Has what looks like initials on the inside but a little worn and hard to make out..First letter looks like MMEASUREMENTSFITS SIZES - 6-7WIDTH - 1GAP - 1 1/4TOTAL WEIGHT - 28.8 GramsCONDITION: Very Good. minor wear, mostly on the inside of the cuff. Please see photos for items current condition and judge for yourself...Sold As is...SHIPPING AVAILABLE*****PLEASE INCLUDE A PHONE NUMBER WITH YOUR RESPONSE.925Freeform artisan handmade sterling silver signed 925 black"
             },
             {
-                "id": "7306955230",
-                "name": "****Authentic Swiss Lederhosen with Suspenders, Vintage.",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-authentic-swiss-lederhosen/7306955230.html",
-                "datetime": "2021-05-08 14:11",
-                "price": "$85",
-                "where": "santa rosa",
+                "id": "7318946076",
+                "name": "Vintage Coach leather tote",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-coach-leather-tote/7318946076.html",
+                "datetime": "2021-05-08 15:12",
+                "price": "$140",
+                "where": null,
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00K0K_jGHBl9amm5Iz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_gHr7zrRKoNcz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_hki6ICDkORPz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_dnCYylJotr3z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_j7BWfDYSwD1z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_16sOe9Y4q4Bz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_8M7YkCCuRKxz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_1x35BhH9qswz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_9NQmTl7oJ0Iz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_g0jhgWjQA9vz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_jBNVbeTwQOYz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_8sEalzlGm7kz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_cXOur4EDGCez_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_ck35uxs6L7Az_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_5eh3vQkBtXSz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_isiE4zixfPgz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_aM6YvsMLkIlz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_fyEUD2xTpxjz_0lM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00K0K_jGHBl9amm5Iz_0t20CI_600x450.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "****Authentic Swiss Lederhosen with Suspenders, Vintage.    $85From mid  1960's, fine leather,  Buttons held with leather. Great for Oktoberfest,  costume party,  Super cool  lederhosen! Color is gray suede with dark green trim,  Excellent conditionSmall,  women's size 8 or Men' s Extra small.Breeches Lying flat... Waist, from side seam to the other is 14   with back gusset which adds 1 1/2 to waistHips, 16 from side seam to seamInseam  3 1/2      length is 15Total Straps/suspenders:  95 is stamped on bottom of, equals 37 inches long. Straps  are lined with white wool felt.  Some yellowing of felt.Very nice condition with no tears or rips.Lederhosen ( lit. leather breeches; singular in German usage: Lederhose) are breeches made of leather"
+                "description": "I love this tote, but I just don't need it anymore. It needs to move on to a new home. Lightly worn, but that just adds character to such a quality piece. Zipper closure, inner pocket with zip."
             }
         ],
         "beaded": [
+            {
+                "id": "7304741535",
+                "name": "Very Nice Royal Blue Beaded Party Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-very-nice-royal-blue-beaded/7304741535.html",
+                "datetime": "2021-05-08 15:03",
+                "price": "$40",
+                "where": "san jose north",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_ceXWMCpQU04z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00303_h9Y8F9bzv4yz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_84HZ4L1AYBoz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00808_aCkTw8rJLB1z_0t20CI_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "One Piece but, looks like a two piece.  Comes with extra beads.If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+            },
             {
                 "id": "7307558105",
                 "name": "Nice Tea Length Beaded Ivory Ladies Size XL Dress",
@@ -233,27 +204,27 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "Gorgeous satin silk bridal gown.  Exquisitely decorated with metallic gold and silver motif embroideries,  beaded dragons and Phoenix by master hands all over the dress.This is a small/medium size traditional red Chinese wedding dress, also known as KwanKwa/CheongSam.The skirt is 40 long with adjustable suspender to fit different heights, draw string waist expands to fit maximum 30 waist line."
-            },
-            {
-                "id": "7314672298",
-                "name": "Frankie and Johnnie Small BEADED ZIPPERED BAG",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-frankie-and-johnnie-small/7314672298.html",
-                "datetime": "2021-05-08 07:47",
-                "price": "$10",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
-                    "https://images.craigslist.org/00D0D_4iYcOGqbP3j_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_ddViaZQbgzj_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "7 1/2 across x 5 tall Beaded Zippered Bag by Frankie and Johnnie."
             }
         ],
         "gloves": [
+            {
+                "id": "7317066238",
+                "name": "REV'IT! L Volcano Motorcycle Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-revit-volcano-motorcycle/7317066238.html",
+                "datetime": "2021-05-08 15:13",
+                "price": "$60",
+                "where": "lafayette / orinda / moraga",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00a0a_jSuJqCnDovfz_07K0ak_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00a0a_jSuJqCnDovfz_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_jSuJqCnDovfz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_1yWDhUnOcQ9z_07K0ak_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Awesome gloves that I only wore once. Opened the package after spending $70+, wore them to take my motorcycle to work, and realized they are too small. Out of the box condition. They are great quality gloves, I just need to buy an XL instead of a L.REV'IT! Volcano GlovesThe Volcano Gloves from REV'IT! are the lightest ADV gloves in the REV'IT! collection with CE certification. Designed with a mix of on-road and off-road use in mind, the Volcano Gloves are more robust than a full dirt glove and feature a fortified microfiber synthetic palm. Air mesh on the back of hand keeps the hands cool and dry during high effort maneuvers. TPR knuckle sliders with Seesoft viscoelastic backing add protection. Temperfoam can be found again at the palm and thumb. A hook and loop closure keeps the gloves secure, and an oversized pull loop makes for easy entry. Protection Features:Outer Shell: 3D air mesh | artificial leather | stretch | connect finger tip fabricLining: tricot linerComposition: 56% polyamide, 31% polyurethane, 11% polyester, 2% otherProtection: SEESOFT\u2122 knuckle | Temperfoam\u00ae underneath knuckle | PWR|shield at palm | Temperfoam\u00ae finger knuckles | Temperfoam\u00ae palm slider | TPR injected finger knuckle protectors CE certified EN 13594:2015Ergonomic Features:Fit: tour fitAdjustability: adjustment strap at cuffVentilation: 3D air mesh inserts at non-impact zonesFeatures: stretch at fingers and back hand, elastic at wrist, connect finger tips at index finger and thumb, regular cuff, textured grip and control panel"
+            },
             {
                 "id": "7318850434",
                 "name": "Scarves, bags, pashminas, leather gloves etc",
@@ -312,26 +283,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "brand new Marc Jacobs fingerless merino wool gloves in dark olive greeni\u2019m moving and am selling everything. check out my listings (scroll down, click on the blue text that reads \u201cmore ads from this user\u201d) to discover my $1 deals and deeply discounted items."
-            },
-            {
-                "id": "7318824707",
-                "name": "Brand New Ozero Winter Gloves Large",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-brand-new-ozero-winter-gloves/7318824707.html",
-                "datetime": "2021-05-08 11:18",
-                "price": "$10",
-                "where": "Sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00z0z_2nxHkQTbxdcz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00z0z_2nxHkQTbxdcz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00z0z_2nxHkQTbxdcz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_58BB336ge5hz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_g62qMy6aDJPz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_fvbShpi0pXPz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Brand New Mens Large Ozero Waterproof Winter Gloves with touchscreen fingers just $10 cash or Venmo. Text Mark  . Pick up in Sunnyvale"
             }
         ],
         "wedding dress": [
@@ -387,7 +338,7 @@
                 "name": "Azazie Wedding Dress",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-azazie-wedding-dress/7317278454.html",
                 "datetime": "2021-05-08 11:08",
-                "price": "$50",
+                "price": "$60",
                 "where": "fremont / union city / newark",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01010_3x8dUJ97yHvz_08W0ke_600x450.jpg",
@@ -942,45 +893,40 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
-                "id": "7315582967",
-                "name": "2020 Eastman E10OOSS/V",
-                "url": "https://sfbay.craigslist.org/scz/msg/d/aptos-2020-eastman-e10ooss/7315582967.html",
-                "datetime": "2021-05-08 11:40",
-                "price": "$1,200",
-                "where": "Aptos",
+                "id": "7308428094",
+                "name": "Music Box",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/fremont-music-box/7308428094.html",
+                "datetime": "2021-05-08 15:03",
+                "price": "$12",
+                "where": "fremont / union city / newark",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_jDnKSrXHot7z_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00B0B_h0bd3bwxHYyz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00V0V_jDnKSrXHot7z_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_jDnKSrXHot7z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_8fwniQNrqYDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_e20b8vozeuWz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01717_7h2d6DRP9hIz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_d0VMgEsUzDmz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_3oHLDyj2kB4z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_kxB9zsPDNt4z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_kZJT9fnqlbzz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01717_aKDZ0rnyodCz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00B0B_h0bd3bwxHYyz_0t20CI_600x450.jpg"
                 ],
                 "query": "famous",
                 "category": "msa",
-                "description": "If you\u2019re looking for a small bodied Gibson style guitar, this is as good as it gets. Honestly better than most Gibsons, with excellent tone woods, X bracing, and a thin quality finish that Eastman is famous for. This guitar can do it all. Frets are nicely done, neck is straight and easy to play, and looks and feels broken in like you want out of a reliced guitar. Case is in excellent condition."
+                "description": "\ud83c\udfb5You are my sunshine music box, just rotate the handle to play this famous music.\ud83c\udfb5High-quality materials, selection of high-quality carved wood, special carving style patterns\ud83c\udfb5Size: The size of the music box is 2.55\u00d71.97\u00d71.5. The lightweight and portable design can be placed on your palm, small school bag, bedroom desk, etc. It is easy to carry and surprise family or friends at any time.\ud83c\udfb5A cute, creative product, the music box can bring a wonderful music sound.\ud83c\udfb5Ideal gift: This beautiful wooden music box has meaningful information carved inside the box. On birthdays, holidays, anniversaries, weddings, Mother's Day, Christmas, Father's Day and Valentine's Day, we will give high-quality gifts to children/friends."
             },
             {
-                "id": "7318731768",
-                "name": "Roland V Drums TD-8",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-roland-drums-td/7318731768.html",
-                "datetime": "2021-05-08 08:45",
-                "price": "$980",
-                "where": "san jose west",
+                "id": "7318933968",
+                "name": "gladiator guitar and peavey amp",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/alameda-gladiator-guitar-and-peavey-amp/7318933968.html",
+                "datetime": "2021-05-08 14:44",
+                "price": "$150",
+                "where": "Alameda",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00101_5bGiA65A199z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00a0a_i9SuLHdPvVRz_0hT0CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00101_5bGiA65A199z_0CI0t2_600x450.jpg"
+                    "https://images.craigslist.org/00a0a_i9SuLHdPvVRz_0hT0CI_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_i9SuLHdPvVRz_0hT0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_kyy9vpW8G1Sz_0hT0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_jNXbRWulNarz_0hT0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_cQCgSJix7phz_0t20CI_50x50c.jpg"
                 ],
                 "query": "famous",
                 "category": "msa",
-                "description": "SERIOUS BUYERS-PLEASE REPLY BACK WITH NAME AND NUMBER. EMAILS WILL NOT BE RETURNED DUE TO SPAM! PLEASE CALL ME BACK, NO TEXTING.I have the receipt and original manual. Amp, stool, and bass drum pedal sold separately.The V-Drums TD-8 Percussion Sound Module offers everything the world-renowned V-Drums have become famous for\u2014hundreds of amazing drum, percussion and instrument sounds, COSM modeling-based drum editing capabilities, intuitive operation, and unmatched sensitivity, to name just a few.V-Drums sound module featuring 1,286 drum and instrument sounds, 64 distinct drum kits V-Edit mode offers modeling-based control over virtual drum shell depth, tuning, head type, muffling and snare strainer adjustment Intuitive user interface with large backlit LCD and faders for instant group volume adjustment Luminous drummer-friendly rubber buttons Onboard Ambience and EQ processing Built-in sequencer with 800 patterns and GM-compatible sound source Compatible with PD-120/100/80/80R/9/7/5 pads, KD-120/80/7 kick triggers, FD-7 Hi-Hat Controller and SPD-20 Total Percussion PadPercussion Sound Module Roland PD-7 Roland PD-80 Roland PD-80R Roland KD-80 Finish/Color: WhiteKick: 8.5Snare: 9Rack Tom: 9Floor Tom: 9Cymbal Pads: 7.5Hardware: Roland TD-8 Hardware"
+                "description": "DescriptionThis Gladiator Vintage Series is designed to be an accurate reproduction of a famous Vintage masterpiece, in all of its dimensions, finish colors and tonal characteristics. The authentically contoured body is of American Ash and the bolt-on neck is a solid piece of Canadian maple, which incorporates the 12-fret fingerboard with its abalone position dots. The vintage-style 'skunk stripe' is inlaid in the back of the neck. Two powerful Wilkinson\u00ae single-coil ceramic pickups with Alnico magnets combine with a 3-way switch for a variety of authentic tones. The traditional stamped-steel bridge with 3 saddles is pure vintage, and the small-button, enclosed tuning machines are period correct.The GL-221-VGR is finished in Vintage Green with a 3-ply laminated ABS pickguard of mint green.American Ash bodyCanadian maple 1-piec neck and fingerboard with vintage-style skunk stripe & Abalone position markersMulti-ply Mint/Black/Mint pickguardWilkinson\u00ae 1950s inspired alnico magnet single-coil pickups with 3-position pickup selector switchTraditional chrome-plated stamped-steel bridge with 3 vintage-style chrome-plated saddlesAuthentic nickel-plated, small-button, closed-back tuning machinesAdjustable truss rod25 1/2scale lengthBone nutChrome-plated neck pickup cover and control plateVintage GreenPeavey BACKSTAGE 2 Tube Guitar Combo Amp26 watt"
             }
         ]
     }

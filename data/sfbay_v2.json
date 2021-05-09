@@ -20,6 +20,25 @@
         ],
         "wood": [
             {
+                "id": "7319149237",
+                "name": "Two Simpson Solid Wood/Leaded Glass Exterior Entrance Doors",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/discovery-bay-two-simpson-solid-wood/7319149237.html",
+                "datetime": "2021-05-09 08:32",
+                "price": "$450",
+                "where": "brentwood / oakley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00h0h_iTX0kLyJPT6z_07K0ak_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00h0h_iTX0kLyJPT6z_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_iTX0kLyJPT6z_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_fvZ17UxmhlQz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/01414_li7UfZwENHyz_0ak07K_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Two Right Swing Simpson entrance Doors with genuine leaded glass panels. They are white in the photos but are now painted blue. They can be repainted to any exterior color desired. The leaded glass panels have a couple of hairline cracks not noticeable without close inspection. They are otherwise in excellent condition and ready for installation. These doors, if bought new, would cost upwards of $5,000 based on Simpson build quality and reputation."
+            },
+            {
                 "id": "7316673235",
                 "name": "OLD ROUGH DOUGLAS FIR RECLAIMED WOOD-2x4/2x6/2x10/2x12/3x6!",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-old-rough-douglas-fir/7316673235.html",
@@ -61,27 +80,66 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "We have 2\u201dx3\u201d old growth Douglas fir boards for sale - boards range in length from 5\u2019 up to 14\u2019 long. Great grain, some are clear and some with small knots. Asking $2.00 a linear foot! If the posting is up, they are available. Reclaimed, wood, lumber, old growth, architectural salvage, PMI"
-            },
-            {
-                "id": "7319120920",
-                "name": "burly wood for turning",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-burly-wood-for-turning/7319120920.html",
-                "datetime": "2021-05-09 07:13",
-                "price": "$1",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00303_763Psz8818kz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00303_763Psz8818kz_0lM0t2_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I am cutting down this plane tree. There is a lot of lumpy patrs and burls on the trunk. Perfect for wood turning.Make me an offer for a lot or for a little"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7305291415",
+                "name": "Vintage Hand-Sewn, Embroidered Fabric Purse, price firm",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-hand-sewn/7305291415.html",
+                "datetime": "2021-05-09 08:46",
+                "price": "$50",
+                "where": "Santa Cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00p0p_8LzoTO1yrM8_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00p0p_8LzoTO1yrM8_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_8LzoTO1yrM8_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_c5qrCN6qEwQ_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_gu5dyKvxar6_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_bqcibpae9n0_50x50c.jpg",
+                    "https://images.craigslist.org/00101_1oKtYm81V0G_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_cbUIfMmTG2M_50x50c.jpg",
+                    "https://images.craigslist.org/01414_kDXEB4ViDh4_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_7m2MANyvMRs_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_e76as4skShZ_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Beautiful Vintage Mid-Century Fabric Purse, Hand-Sewn, Hand-Embroidered. Purse is made from a natural fabric with natural colored muslin lining. Decorated with brightly colored flowers from fabric & embroidery. Purse is hand-sewn to bamboo frame, also with bamboo handles, and leather closures, with cloth shoulder strap. Never used, excellent condition, inside and out.Asking $50. CASH ONLY.I will respond by email only to Craigslist reply, no text, no phone calls."
+            },
+            {
+                "id": "7317588724",
+                "name": "Vintage Heritage Soft Brown Leather Briefcase/Computer Bag",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-heritage-soft-brown/7317588724.html",
+                "datetime": "2021-05-09 08:27",
+                "price": "$25",
+                "where": "Santa Cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00y0y_3ABqAOo22E7_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00y0y_3ABqAOo22E7_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00y0y_3ABqAOo22E7_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_h7oaPhtx27h_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_lyTRWRfLLWS_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_9bobPxBOJbY_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_fFYT9AjgULh_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_8dNsQnRibMw_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_9ekrJTEXX71_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_8NS9ymBahLM_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_hs8kW8Oa2X7_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_duEK6ow5Kpr_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_kBnoEr7B9tb_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_h7oaPhtx27h_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_3P2mySKDkTY_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_juzsCu4ZKfS_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Heritage Leather Briefcase/Computer Bag with multiple pockets, file divider compartment, and compartment large enough to hold a 15 wide laptop. Made of soft dark brown leather, in overall excellent condition, with some obvious age related wear. Includes a long leather shoulder strap, with comfortable leather pad. Strap is easily removable with the metal clasps and rings. Many strong durable zippers and large metal zipper tabs, with Heritage inscribed on them. 17 wide, 12 high. Red tape on front of bag was added by original owner, presumably for easy identification purposes at airports, etc. It can be removed, if desired. No rips, tears, or other damage.Cash only, please. Pick-up only. No delivery, shipping.I will respond by email to Craigslist reply, no text or phone calls, please."
+            },
             {
                 "id": "7315996995",
                 "name": "Vintage MINK FUR COLLAR",
@@ -99,43 +157,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage (probably 1950's) Mink Fur Collar.  Measures 34 long."
-            },
-            {
-                "id": "7315491213",
-                "name": "Vintage - Stripped Box Purse",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/menlo-park-vintage-stripped-box-purse/7315491213.html",
-                "datetime": "2021-05-09 07:50",
-                "price": "$15",
-                "where": "menlo park",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_5k6UOiVFnUS_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00q0q_5k6UOiVFnUS_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_5k6UOiVFnUS_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_lj7zPHhjKm8_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Oval Molded - Stripped PurseName on Purse: le deco --- has strap (that can be taken off)Cute Size  7 across / 5 deep  /  5 tall  *** you will need to leave your phone number - we do not text"
-            },
-            {
-                "id": "7313904750",
-                "name": "sweet little boho / vintage zipper bag / makeup bag / change purse",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-sweet-little-boho-vintage/7313904750.html",
-                "datetime": "2021-05-09 07:42",
-                "price": "$6",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_e4AiPM8JpMjz_0ak07K_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00e0e_e4AiPM8JpMjz_0ak07K_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_e4AiPM8JpMjz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_gDaVwxHzptiz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_aPeH5Xyq3EVz_0ak07K_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "sweet little boho / vintage zipper bag / makeup bag / change pursevibrant colorsfrom the 1970's4.5 x 6no rips or odors or tearsfor other deals check the more ads by this user link"
             }
         ],
         "beaded": [
@@ -253,6 +274,33 @@
         ],
         "wedding dress": [
             {
+                "id": "7317915543",
+                "name": "Wedding Dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pittsburg-wedding-dress/7317915543.html",
+                "datetime": "2021-05-09 08:57",
+                "price": "$100",
+                "where": "Pittsburg",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_6BEWTCU2Saqz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_6BEWTCU2Saqz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00F0F_6BEWTCU2Saqz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_bsgTOvdQG5Az_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_3JhSVgiMSPcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00808_crbEPn9rGUDz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_jF7Vp00hjMIz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_gZUNVuTmBE4z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_dwrTEqaozXHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_d82uwVBLLqHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00303_cu45HRCeJs5z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_8fCQPX9a72yz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_6w1ioQ6yXTLz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Size 12. Originally \ufffcpaid over 1,500"
+            },
+            {
                 "id": "7309561248",
                 "name": "NEW La Sposa Wedding Dress - Never Worn",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-new-la-sposa-wedding-dress/7309561248.html",
@@ -310,33 +358,51 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Seymour wedding dress from the Fashion 2015 - St Patrick collection | St. PatrickI am selling my wedding dress that I wore once. The original tag is attached still.Size is US 8, as seen on the picture. This dress is a custom with a corset waist, so the dress is actually a US size 8, but using the corset the size can go down to a 0. Please see pictures of back with corset. ASKING $1,500.00If you see this ad, then the dress is still available. Email me your cell phone and we will setup and date and time.CASH ONLY, No IO'S, NO TRADES, NO CHECKS."
-            },
-            {
-                "id": "7319030561",
-                "name": "Larger Size Wedding Dress With Train",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-larger-size-wedding-dress-with/7319030561.html",
-                "datetime": "2021-05-08 19:34",
-                "price": "$65",
-                "where": "san jose north",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_iPp3LLxBnSUz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_iPp3LLxBnSUz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_iPp3LLxBnSUz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00606_deXCTXU2hKfz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00404_7srpqpCQVzEz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_luA9n4IifdIz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_3CppPtFmu0lz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_60QTGvraAW6z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_8jA4er7v3KDz_0in0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_liy8COY6QOYz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Will probably need Dry Cleaned. I called a dry cleaner and they said minimum price is $100.00.  No size listed guessing it might be a 12 or 14.  Please come and try it on (not sure of the size).  If nothing else it is worth the price in beads.  If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
             }
         ],
         "great condition": [
+            {
+                "id": "7306205012",
+                "name": "Really Cute Red GUESS 4 1/2\" Platform Shoes, Size 8, Great Condition!",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-really-cute-red-guess/7306205012.html",
+                "datetime": "2021-05-09 08:48",
+                "price": "$35",
+                "where": "half moon bay",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_4sBAbbvXj63z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_hUttjYR95Tzz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_i6IyXo8x2Niz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_dBeGtYxO1c4z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_dDrULSNCDt5z_0t20CI_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "I am selling a pair of really cute GUESS 4 1/2  Platform shoes, in GREAT Condition. The shoes are a shiny red collar, with a tan bow, very Betty Boop like. The platform itself, is 1. They are a size 8, and have only been worn twice. If you have any questions, please feel free to email me. I live on the coast, in El Granada (approx. 5 miles North of Half Moon Bay), but can easily ship to anywhere at a normal cost. Thank you for your interest."
+            },
+            {
+                "id": "7308774839",
+                "name": "TEN Long/Mid Sleeve Women's Shirts, GREAT Condition! Size LRG/MED",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-ten-long-mid-sleeve/7308774839.html",
+                "datetime": "2021-05-09 08:49",
+                "price": "$25",
+                "where": "half moon bay",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00G0G_3VamjCbYfUR_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00G0G_3VamjCbYfUR_600x450.jpg",
+                    "https://images.craigslist.org/00G0G_3VamjCbYfUR_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_9PlAhp24Cj3_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_888503aQaEb_50x50c.jpg",
+                    "https://images.craigslist.org/01010_5uH51uKnodm_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "I am selling TEN Women's Long/Mid Sleeve shirts, all in GREAT Condition! Their sizes range form Medium to Large, however, they all fit like a medium. The brands include, Harley Davidson, American Eagle, Black and White Market, Lucky Brand, etc... I am selling them all for a total of $25.00. If you have any questions, please feel free to email me. I live on the coast, in El Granada (approx. 5 miles North of Half Moon Bay), but can easily mail to anywhere at a minimal cost. Thank you for your interest."
+            },
             {
                 "id": "7304730917",
                 "name": "Great Condition Chelsea leather boots - 8.5M Ariat ($279 new)",
@@ -355,52 +421,6 @@
                 "query": "great condition",
                 "category": "cla",
                 "description": "Wore a handful of times and realized it\u2019s a bit big for me. These are high quality leather wood sole boots. Bought for $280 new. Size 8.5 Men\u2019s."
-            },
-            {
-                "id": "7306775479",
-                "name": "Great condition jackets sweaters outerwear",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/ramona-great-condition-jackets-sweaters/7306775479.html",
-                "datetime": "2021-05-08 13:49",
-                "price": "$2",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00s0s_fYMvZpc8Yv8_0ew0jm_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00s0s_fYMvZpc8Yv8_0ew0jm_600x450.jpg",
-                    "https://images.craigslist.org/00s0s_fYMvZpc8Yv8_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_6Ct2Dei0zPg_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00303_aibAf7M0bdi_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_4RMloDAA5Mg_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_k7PVMWJz489_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00606_kvfnDjkA7W0_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_fXev3nLvwRo_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_5dRA0gZdqmV_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00101_icjuz5mjeNS_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/01010_95PO8Tg5rUT_0ew0jm_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "Great condition jackets sweaters outerwearSnow jackets rains coats wool jacket etcBuy all for 17$ or prices listed individually. Puffer jacket is new and not used."
-            },
-            {
-                "id": "7316380049",
-                "name": "[GREAT CONDITION] Stussy Vintage SnapBack Hat",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-great-condition-stussy-vintage/7316380049.html",
-                "datetime": "2021-05-07 19:55",
-                "price": "$10",
-                "where": "san jose west",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_gYb3hnviW7Az_0jm0ew_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_gYb3hnviW7Az_0jm0ew_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_gYb3hnviW7Az_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/01717_3NvsV1LXQefz_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_iujWjkq9QZBz_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/01313_evkhbL7a5yYz_0jm0ew_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "[GREAT CONDITION] Stussy Vintage SnapBack HatClassic 90\u2019s skater design. Originally purchased from the Stussy store in Haight-Ashbury back in the mid-2000\u2019s.The color on the brim is a bit faded, but otherwise in great used condition. This item has spent most of the last 12 years in a closet in a smoke-free and pet-free home. Great for collectors."
             }
         ]
     },
@@ -866,6 +886,31 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
+                "id": "7316706707",
+                "name": "1964 Selmer Mark VI Alto Saxophone",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-1964-selmer-mark-vi-alto/7316706707.html",
+                "datetime": "2021-05-09 08:47",
+                "price": "$6,500",
+                "where": "san jose north",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_6jiz7ARQ8GDz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_kihImx6oDqfz_08a0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_7QYfxqFrfOdz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_6FTeV4cf8uiz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_7y98fEATbuFz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_dinEUiyLySVz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/01616_6acN97j2FRZz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_c1klptbf7Qpz_0ew0ew_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Do not pass on this instrument, if you are looking at this, then you know the reputation of the Mark VI, and this one is a good example. This would also be a great investment unlike a new sax that would depreciate in value.This sax plays nice and has that tone the Mark VI is famous for. Original finish but does show slight wear, but very nice for it\u2019s age. No dents & the serial numbers do match, and the original case is in very good condition. Please email with any questions."
+            },
+            {
                 "id": "7314767659",
                 "name": "Mason & Hamlin  52\u201d Ebony Upright",
                 "url": "https://sfbay.craigslist.org/nby/msg/d/ross-mason-hamlin-52-ebony-upright/7314767659.html",
@@ -884,25 +929,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "1906 Mason & Hamlin 52\u201d ebony upright piano model 25A #16298Comes with adjustable bench.At 52\u201d this piano has bass string lengths similar to a medium sized grand, just one inch shorter than a Mason & Hamlin A or Steinway M.Like some grand pianos it has a 5 note tenor bridge to smooth the transition from the treble to the bass sections.Fully restored in 2005 and it still looks brand new inside and outRefinished in high gloss ebony.Plate and soundboard refinished.New pin block, strings, dampers, hammers and key frame and key felts. New sticker felts back check felts and bridle tapes.Pedals, hinges and casters all replated.Like Steinway & Sons, Mason &bnHamlin worked with famous artists to promote their wares. Sergei Rachmaninoff was one of the most famous pianists to makes use of a Mason & Hamlin concert grand piano. Acting as a brand\u00a0ambassador for the Mason & Hamlin company, he was quoted saying, \u201cI desire to play the Mason & Hamlin pianos\u2026I feel that if I have succeeded in making even the slightest impression upon the public by my playing, a great part of my success is due to your instruments.\u201dAlthough it\u2019s an oldie it still has that huge Mason & Hamlin sound and will give musical pleasure for decades to come.If you see this ad the piano is available.Please respond by email with your contact information and I'll get right back to you."
-            },
-            {
-                "id": "7315615961",
-                "name": "Encyclopedia of the Opera by David Ewen",
-                "url": "https://sfbay.craigslist.org/pen/msg/d/encyclopedia-of-the-opera-by-david-ewen/7315615961.html",
-                "datetime": "2021-05-08 19:57",
-                "price": "$25",
-                "where": "redwood city",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_kT4HMjf9tRtz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00q0q_kT4HMjf9tRtz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_kT4HMjf9tRtz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_l7d9pp1RCECz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_6HsdgHGPw3yz_07K0ak_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Encyclopedia of the Opera by David Ewen, 1963, Hill and Wang, 594 pages, hardcover, newThe most informative, useful, and comprehensive single volume source book on opera ever published. Arranged alphabetically & cross-indexed. Contains synopses of every major opera & lesser-known works; biographies of composers, librettists, singers, conductors , impresarios, stage directors, critics, teachers & musicologists; literary sources of opera, histories of famous opera houses and festivals; definitions of opera terms descriptions of important vocal and instrumental passages. Gold cover with gilt lettering on blue background on spine. Book appears new and unread.  Pages are tight, clean and crisp."
             }
         ]
     }

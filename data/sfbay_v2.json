@@ -38,6 +38,22 @@
         ],
         "wood": [
             {
+                "id": "7311660112",
+                "name": "Wood rods",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7311660112.html",
+                "datetime": "2021-05-11 15:25",
+                "price": "$5",
+                "where": "south san francisco",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Round wooden rods. Possibly could be used for furniture or closet.They are 1.5 inches in diameter. Knob in middle is 2.5 inches in diameter.7 are about 38 inches  long.1 is about 32.5 inches long.$5 each.Leave a number if you want a reply."
+            },
+            {
                 "id": "7319229723",
                 "name": "TWO!! 32\u201dx 80\u201d, prehung wood INTERIOR used doors!",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-two-32x-80-prehung-wood/7319229723.html",
@@ -74,50 +90,31 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Brand new, never assembled 24 inch lights color small bathroom vanity including sink top. The one I am selling is almost identical to the one in the picture, but it has CABINET DOORS instead of drawers. Dimensions are exactly the same.  Please email with date and time you are available to pick up, Venmo and cash accepted.\ufffc"
-            },
-            {
-                "id": "7312786341",
-                "name": "Live Edge Wood Slabs And Rough Sawn Lumber Walnut Oak Sycamore Redwood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-live-edge-wood-slabs-and-rough/7312786341.html",
-                "datetime": "2021-05-11 10:59",
-                "price": "$40",
-                "where": "richmond / point / annex",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_2q3R5EyNnh3_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00T0T_2q3R5EyNnh3_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_2q3R5EyNnh3_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_2n2BsUQdxjy_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_b2hnUpdjYl9_50x50c.jpg",
-                    "https://images.craigslist.org/00909_jnRId8kA9vD_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_etzJKGNUO9h_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_2WpBSiv6UcJ_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_aolhWfmoHzr_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_ywMywWpoSO_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_6jHid358Qtb_50x50c.jpg",
-                    "https://images.craigslist.org/00505_kEDVjzWEkoO_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_dF2HD4Y9GYz_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_j37rIkiMPur_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_ev7t7cj3C59_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_4uWwvePUDQv_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_bNuyludiFQj_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_1NgF3EpP2f_50x50c.jpg",
-                    "https://images.craigslist.org/00303_auqfjSqlThF_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_eHaTL3EOVTH_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_3nGPT66lsdl_50x50c.jpg",
-                    "https://images.craigslist.org/00202_4gArmX0X9nc_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_Yz92kEIXkY_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_dQCNdzvVFgn_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_7kPIOH84srs_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Come out and see my warehouse full of reclaimed and salvaged wood from our back door and from around the world.  Live edge slabs, rough sawn lumber, fireplace mantels, barnwood, siding, flooring, shelves, beams, timbers, furniture, shelving, rustic barn wood, and much more.   112 Ohio Ave, Unit 1, Richmond.  10-5 Monday-Saturday.  If the gate is closed, call the number on the sign and I'll open it for you.Species Generally in Stock: Black Acacia, Sycamore, Eucalyptus, American Elm, Giant Sequoia, Poplar, Cottonwood, Black Locust, Black Walnut, Cedar, Honey Locust, Sugar Maple, White Oak, Butternut, White Walnut, Hickory, Grey Elm, Redwood, Claro Walnut, Bay Laurel, Nutmeg, Ash, Old Growth Redwood, Sinker Redwood, Douglas Fir, Cherry, Peroba Rosa, Ipe, Itauba"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7311869670",
+                "name": "Vintage US Military M65 Field Jacket Size Short Medium",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-us-military-m65-field/7311869670.html",
+                "datetime": "2021-05-11 15:13",
+                "price": "$50",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Q0Q_dUv6OqOmtA8_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Q0Q_dUv6OqOmtA8_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00Q0Q_dUv6OqOmtA8_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_2rRjiikXRhE_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_8k1uVV74Aq4_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_6uy39ZVb69J_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Belonged to a family member who was in the Vietnam war. It has paint stains on it. Size Short Medium. Vintage Marines military jacket."
+            },
             {
                 "id": "7310407519",
                 "name": "Hawaiian dresses mumus caftans Aloha shirts Vintage Clothing",
@@ -182,31 +179,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Stunning and very one of a kind, high quality faux fur jacket with beaded appliqu\u00e9. Vintage inspired. Excellent condition, like new, no stains and the lining is in pristine condition. Hooks at the front act as buttons. Such a cool piece to wear everyday! Size Medium. PU only, Venmo or cash."
-            },
-            {
-                "id": "7320268237",
-                "name": "Vintage Genuine Black Leather Club Vest w HD Biker Patches & Buttons",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-genuine-black-leather/7320268237.html",
-                "datetime": "2021-05-11 14:14",
-                "price": "$300",
-                "where": "alameda",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00z0z_6ZFIXjhfv1xz_0w40t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00z0z_6ZFIXjhfv1xz_0w40t2_600x450.jpg",
-                    "https://images.craigslist.org/00z0z_6ZFIXjhfv1xz_0w40t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_kmV7uq4sRAgz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_hyrPiELe2ZIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_f20Ag0GHTObz_0ui0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_dt8FODoMqLOz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_3fHSnB5i4Srz_0CI0lw_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_6mxd7uzyMI9z_0uW0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_fBRu10v8fkiz_0um0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_iMJWBpRctg0z_0xS0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Harley Davidson Biker Patches & Buttons Sz 48 This vest needs you and more adventures. In very good vintage condition, two front pockets, solid construction, vest has normal wear, has pinholes on front, left side missing suede thread and has faint smell of tobacco smoke.Pins: Palm Beach LOH Chili Cookoff 2005 and Ride for Kids 2006Front Patches (some have more wear than others): Harley Owners Group, Road Captain, American Flag, Harley \u2013Davidson Group 1983-2003, Orlando Bike Week 2003 Together ForeverBack Back: Fort Lauderdale Harley Owners Group, Mitchell\u2019s Modesto Harley-Davisdon Modesto, California, Mile ) Key West, Beale Street Memphis Tennessee, Flying Dragon 2005, Ultra Classic, 20 years of H.O.G. 2003, HOG 2004, Let\u2019s Roll HG 2003 Florida State H.O.G. Rally Conch Republic Key West Florida, Amicalola Falls State Park, Americans Peace Sign, Howey in the Hills HOG State Rallies 2004To avoid spam and stay safe, it\u2019s still available and can be purchased at Call Jannie on eBayYES! Always open to reasonable offers to purchase - no trades, no low-balls.  Thanks for looking!"
             }
         ],
         "beaded": [
@@ -867,24 +839,25 @@
                 "description": "910 PRO LESLIE w/ REVERB  LOUD! WORKS GREAT !! Copy and paste the following YouTube link into your search engine to see and hear this Leslie: www.youtube.com/watch?v=tnVFnUpYMmU **************************************************************************************************THIS IS THE BIG ONE!  The amazing Pro Leslie 910, 140 watts RMS with internal REVERB.  Everything checks out and is fully functional on this MONSTER LESLIE with a loud and clear sound. The 900 Pro Series was Leslie\u2019s answer for keyboard players competing with the Marshall stacks of guitar players. Note Robert Lamm from Chicago playing 910 in attached pix. \u2014 Tolex covered cabinet; OK cabs with some repairs\u2014 Fully Serviced and Tested\u2014 All Jensen speakers\u2014 140 watt RMS total output with three (3) on-board amps\u2014 AlNiCo Jensen Tweeter\u2014 Separate amps for Bass, Tweeter and Reverb speakers\u2014 Two-piece amp configuration to break-down weight\u2014 On-board reverb with separate amp and controls\u2014 True separation of Bass and Treble cabinets\u2014 Stationary Bass at slow speed for deep, wobble-free lows\u2014 Real Wood Bass Drum (rare !!)\u2014 All Leslie cables conveniently fit into top-speaker cubby\u2014 \u201cSpace-Expander\u201d on tweeter for on-board reverb signal\u2014 Real Spring Reverb tank with \u201clock-down\u201d cord to prevent spring damage during transport \u2014 Heavy-duty built-in-castors\u2014 Loud, crisp soundThe photos say it all \u2014 a great Leslie for Monster Sound !Buy with confidence, I have been trading on Craigslist for over 20 years with 100% satisfaction (thanks everybody!). Payment: Cash and Carry \u2014 not interested in trades. Test with your rig or use one of mine. Sorry, not interested in trades. ***************************************************************************************\u2014 See and hear this Leslie at: www.youtube.com/watch?v=tnVFnUpYMmU"
             },
             {
-                "id": "7318969970",
-                "name": "Roland Jazz Chorus JC-77 Amplifier",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/berkeley-roland-jazz-chorus-jc-77/7318969970.html",
-                "datetime": "2021-05-11 14:01",
-                "price": "$450",
-                "where": "Berkeley",
+                "id": "7320306809",
+                "name": "Guitar Amp Stagg USA 60 Watt 1x12\" 2-Channel Amplifier Combo",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-guitar-amp-stagg-usa-60/7320306809.html",
+                "datetime": "2021-05-11 15:18",
+                "price": "$125",
+                "where": "mission district",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00l0l_3x91i6qlxGz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01414_8k2mzRX0smcz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00l0l_3x91i6qlxGz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00l0l_3x91i6qlxGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_2CUx3ZQdgEgz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_h5JtINFrz3tz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_5wBF834NBEhz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/01414_8k2mzRX0smcz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01414_8k2mzRX0smcz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_ghlESVvwIfWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_5wGGO21oLG1z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_fk8z9H1REyiz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_c87VyQFfwEGz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Having to sell my beautiful Jazz Chorus as I\u2019m moving states and having to downsize my studio. This thing can be quiet and still sound just as clean and beautiful on 1, and get LOUD when you crank it to 10. The perfect studio amplifier, with plenty of volume for outdoor gigging. The amp is original (so its old/vintage) but well maintained and loved. No problems with either speaker, knobs, buttons, switches etc. all work perfectly. Any questions feel free to ask. Thanks!"
+                "description": "Stagg 60 GA R 1x12 USA 60-Watt Guitar Amplifier 2-Channel w/Spring ReverbGood working guitar amp in very nice original condition.This amp was used in a home environment sparingly.This thing can get loud good for gigs or practice with headphones.Good Crunch and nice clean channel solid amp portable for shows.    1 x 12\u2033 speaker    Metal front grille    High impedance instrument input    2 channels (clean/overdrive) with independent volume controls, selectable via panel or footswitch (not included)    3-band EQ (Bass/Middle/Treble)    Master volume control    Gain control (overdrive channel)    Effects Loop (send/return)    Headphone output    Stereo jack input for CD/MP3 player    Weight: 38.1 lbs    Size (HxWxD) 18.5 x 19.7 x 10.2 in(Yes Still Available If You See This Posting)(Email Your Name and Number For Reply)"
             }
         ],
         "famous": [

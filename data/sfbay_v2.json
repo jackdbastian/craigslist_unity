@@ -99,6 +99,50 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7316718113",
+                "name": "Vintage Stetson Hat",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-stetson-hat/7316718113.html",
+                "datetime": "2021-05-11 18:04",
+                "price": "$45",
+                "where": "San Francisco",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_56OwUdKn93U_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_c6IzVghpohg_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_eQhnkN0VnZd_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_gaIi6OGZX5t_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Size is 6 and 3/4s.  Straw hat"
+            },
+            {
+                "id": "7317576193",
+                "name": "Vintage Skin Gear Leather Trench Coat",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-skin-gear-leather/7317576193.html",
+                "datetime": "2021-05-11 17:59",
+                "price": "$10",
+                "where": "sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00j0j_jJGYUwb7uuEz_0ew0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00j0j_jJGYUwb7uuEz_0ew0jm_600x450.jpg",
+                    "https://images.craigslist.org/00j0j_jJGYUwb7uuEz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_gZ0bKNhq9J3z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_6KM5bKsPCmqz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_gGm3jGH2jfiz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/01313_djzrRELCkjz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_iJD5No1Qufoz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_aidK6HP8vHqz_0ew0jm_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Skin Gear Leather Trench Coat45\u201d long20\u201d across the back, seam to seam at chest hight"
+            },
+            {
                 "id": "7317378680",
                 "name": "vintage satin & lace wedding dress and veil Victorian style",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/novato-vintage-satin-lace-wedding-dress/7317378680.html",
@@ -121,54 +165,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Wrinkled - it's been boxed for a long time.There aren't any labels inside, so either the label was removed or this is custom made.Open back. Leg-of-mutton sleeves. Bow at back.Sleeves - 24Shoulder to shoulder across the back - 17Waist - 34From waist at front down to hem - 27 (it's longer in the back)"
-            },
-            {
-                "id": "7315907039",
-                "name": "Box of Vintage XXL woman\u2019s clothes",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-box-of-vintage-xxl-womans/7315907039.html",
-                "datetime": "2021-05-11 16:37",
-                "price": "$75",
-                "where": "berkeley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_ddD6wHG0IPuz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00q0q_ddD6wHG0IPuz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_ddD6wHG0IPuz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_7BJzF8TIEalz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_gke4U5fcskpz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_1GV1zsT3TKMz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Box of vintage large sizes (XL, 2XL, 3XL) woman\u2019s clothes. Big box full of clothes. No picking, selling whole box. Clothes in good condition, some with price tags. Email with questions or if you need pictures. As is. Cash only."
-            },
-            {
-                "id": "7310346291",
-                "name": "Vintage Mark Cross Ostrich Leather Handbag with Original Coin Purse",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-mark-cross-ostrich-leather/7310346291.html",
-                "datetime": "2021-05-11 16:34",
-                "price": "$4,500",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
-                    "https://images.craigslist.org/01717_fegKs79GWRZ_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_89laq2TpNw5_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_1QMIXx2c0z0_50x50c.jpg",
-                    "https://images.craigslist.org/01212_diz9LEGOG2O_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_ivjqXERtsE9_50x50c.jpg",
-                    "https://images.craigslist.org/00202_Q0rw8qcupz_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_63QEqhLgGwX_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_daWNSjLLlz4_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_hmWKJU1YGZc_50x50c.jpg",
-                    "https://images.craigslist.org/00101_gf4dxdYM2JN_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_bhbizp0Dbrc_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_8huVd4TVxH5_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Pre-owned, vintage Mark Cross ostrich leather handbag in excellent condition.  Base is approximately 4.5 wide and 11.5 long.  Height is approximately 8.  Straps are approximately 17 long.  The handbag opens to reveal two, roughly mirror-imaged sections, each of which contains a roomy compartment, multiple open pouches, and a zippered pouch.  Comes with its original coin purse which is approximately 3-1/8 high and 5-3/8 long.  Sold as is."
             }
         ],
         "beaded": [
@@ -558,30 +554,30 @@
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2007 Scion tc.  panoramic roof.  `SALVAGE TITLE.  SMOG CHECK DONE.holds a previous     salvage titlie. insurable and driveable.159,xxx miles.  drives great.automatic transmission.  shifts good.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             },
             {
-                "id": "7318064777",
-                "name": "2000 Toyota Sienna XLE Drives Great Well Maintained",
-                "url": "https://sfbay.craigslist.org/sfc/cto/d/san-mateo-2000-toyota-sienna-xle-drives/7318064777.html",
-                "datetime": "2021-05-06 19:42",
-                "price": "$2,000",
-                "where": "South San Francisco",
+                "id": "7317607632",
+                "name": "1980 Toyota Hilux with 103k Miles/ Runs & Drives Great",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/mountain-view-1980-toyota-hilux-with/7317607632.html",
+                "datetime": "2021-05-05 22:47",
+                "price": "$2,800",
+                "where": "sunnyvale",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00O0O_lkJFEJl4ixcz_0CI0rP_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00X0X_itlG6MLuFkPz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00O0O_lkJFEJl4ixcz_0CI0rP_600x450.jpg",
-                    "https://images.craigslist.org/00O0O_lkJFEJl4ixcz_0CI0rP_50x50c.jpg",
-                    "https://images.craigslist.org/00505_aiZj8cg2qIPz_0CI0rP_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_1eBKyMunCc4z_0CI0rP_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_cY2Wc3m7zGuz_0CI0rP_50x50c.jpg",
-                    "https://images.craigslist.org/01717_i59eZ4vGHD6z_0CI0rP_50x50c.jpg",
-                    "https://images.craigslist.org/01414_cZbrO9njks2z_0CI0rP_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_fLKYpdg6qPKz_0CI0rP_50x50c.jpg",
-                    "https://images.craigslist.org/01616_7sPqjEmecSOz_0CI0rP_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_eO08AGVHhuMz_0CI0rP_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_81LgNrlzsVSz_0CI0rP_50x50c.jpg"
+                    "https://images.craigslist.org/00X0X_itlG6MLuFkPz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00X0X_itlG6MLuFkPz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_l5ue7KRq2mUz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_bayTL1pxVDqz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_2j2lTS5vPpNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_1OiAJNlWFn7z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_bsCO1Y8WTUFz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_h2ShvDBj0khz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_HRk7g1ZsL0z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_jLf0Sf9iknmz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_cGk3VeUTGsgz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "drives great",
                 "category": "cta",
-                "description": "285000 mostly freeway miles I have a Folder full of maintenance records New Radiator New AlternatorNew Timing belt New BatteryNew Tires Everything works, including cold AC etc Oil changes and fluids changed on time for its whole life.I got it from the original owner with original pink slip This has been our extra vehicle , and we no longer need it since we are moving to Ohio.Priced to sell quickly Clean title/ clean car faxNice rims. Great color way.Power everything, keyless entry, etc. , nothing leaks, zero problems.Just drove to Nevada and back smooth the entire time.2000 Low ballers will be ignored"
+                "description": "Hi, 1980 Toyota Hilux, 2wd half ton, short bed pickup with 103k miles. Runs & drives great. Indestructible 20r 4 cylinder with 4 speed stick. Half-ass paint, bodywork & interior by cheap Grandpa.New parts & servicing. Shell & tow bumper. Clean California Title, passed smog yesterday and valid registration till May 2021. Worth your time & money if looks aren't as important as reliability and cheap running costs. $2800 / BOhilux deluxe 22r 22re 22ret 4runner SR5 tacoma tundra t100 frontier titan 620 720 z22 z24 ranger f150 f250 f350 silverado s10 blazer bronco ram vintage"
             }
         ],
         "fix up": [

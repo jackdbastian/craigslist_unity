@@ -108,6 +108,25 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7321157610",
+                "name": "Coach Vintage Authentic Black  Briefcase",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-coach-vintage-authentic/7321157610.html",
+                "datetime": "2021-05-13 11:20",
+                "price": "$85",
+                "where": "pacific heights",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00P0P_a3nfc0IPfS1z_0ak07K_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00P0P_a3nfc0IPfS1z_0ak07K_600x450.jpg",
+                    "https://images.craigslist.org/00P0P_a3nfc0IPfS1z_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_keGjV8Iqecnz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_5eS7lfMqBr1z_07K0ak_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Coach Vintage Authentic Black  BriefcaseHard to Find100% Hard Leather"
+            },
+            {
                 "id": "7319422366",
                 "name": "Vintage Wedding Dress with Detachable Train",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/san-rafael-vintage-wedding-dress-with/7319422366.html",
@@ -145,27 +164,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "vintage Golden State Warriors Jersey DubbsSize LargeIf you do not receive an email reply, check your Spam folder"
-            },
-            {
-                "id": "7314475686",
-                "name": "Vintage Pendleton Board Shirt Made in USA",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-pendleton-board-shirt/7314475686.html",
-                "datetime": "2021-05-13 09:58",
-                "price": "$25",
-                "where": "Hayward",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00u0u_7p5Vzwfq5zc_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00u0u_7p5Vzwfq5zc_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00u0u_7p5Vzwfq5zc_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_c8SoCaufIWZ_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_boIBbhSWsNC_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_emzf8rvoJLB_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00909_9Lln75nAWuW_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Selling a vintage Pendleton shirt size M. Shirt is in good vintage condition. There is one small tear / hole on the right sleeve (4th photo) which looks like it was remedied by some topical adhesive (looks like a small paint stain). One small stain under the left collar (last photo). $25 oboTags menswear work wear workwear wool flannel mens"
             }
         ],
         "beaded": [
@@ -233,6 +231,22 @@
         ],
         "gloves": [
             {
+                "id": "7321150232",
+                "name": "New, Girl Gloves size S",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pittsburg-new-girl-gloves-size/7321150232.html",
+                "datetime": "2021-05-13 11:07",
+                "price": "$3",
+                "where": "pittsburg / antioch",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00b0b_5jjyBAbSCapz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00b0b_5jjyBAbSCapz_0t20CI_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Zelle for porch pick up or cash when you pick up. I don't drive anywhere or mail."
+            },
+            {
                 "id": "7321125997",
                 "name": "Sensatec Women's wool/cashmere gloves w/ Sensatec Touchscreen, Size M",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-sensatec-womens-wool-cashmere/7321125997.html",
@@ -270,25 +284,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "I have some snow stuffs for kids and adult. Still in very good condition. Nothing goes wrong with them. I just want to clean up our closets. Sporting essential women snow pants size S $20Sporting essential kid snow bib black size 6 $15Gap toddler jackets navy size 3T $10Spider boy jacket size 5 $10"
-            },
-            {
-                "id": "7319925494",
-                "name": "Black Cat Fingerless Gloves - Costume Accessories - Adult Teen New!!!",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-black-cat-fingerless-gloves/7319925494.html",
-                "datetime": "2021-05-13 08:49",
-                "price": "$13",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00z0z_gxbcG9MPNGoz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00z0z_gxbcG9MPNGoz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00z0z_gxbcG9MPNGoz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_kbWDC2TpRTjz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_eaLVfH1Ulw3z_07K0ak_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "NEW!!!FOR AGES 14+***THE THIRD PICTURE IS A CLOSE UP PHOTO TO SHOW THAT THESE ARE MOSTLY FUZZY!INCLUDES:- 1 PAIR OF BLACK CAT GLOVES!"
             }
         ],
         "wedding dress": [
@@ -820,27 +815,26 @@
                 "description": "910 PRO LESLIE w/ REVERB  LOUD! WORKS GREAT !! Copy and paste the following YouTube link into your search engine to see and hear this Leslie: www.youtube.com/watch?v=tnVFnUpYMmU **************************************************************************************************THIS IS THE BIG ONE!  The amazing Pro Leslie 910, 140 watts RMS with internal REVERB.  Everything checks out and is fully functional on this MONSTER LESLIE with a loud and clear sound. The 900 Pro Series was Leslie\u2019s answer for keyboard players competing with the Marshall stacks of guitar players. Note Robert Lamm from Chicago playing 910 in attached pix. \u2014 Tolex covered cabinet; OK cabs with some repairs\u2014 Fully Serviced and Tested\u2014 All Jensen speakers\u2014 140 watt RMS total output with three (3) on-board amps\u2014 AlNiCo Jensen Tweeter\u2014 Separate amps for Bass, Tweeter and Reverb speakers\u2014 Two-piece amp configuration to break-down weight\u2014 On-board reverb with separate amp and controls\u2014 True separation of Bass and Treble cabinets\u2014 Stationary Bass at slow speed for deep, wobble-free lows\u2014 Real Wood Bass Drum (rare !!)\u2014 All Leslie cables conveniently fit into top-speaker cubby\u2014 \u201cSpace-Expander\u201d on tweeter for on-board reverb signal\u2014 Real Spring Reverb tank with \u201clock-down\u201d cord to prevent spring damage during transport \u2014 Heavy-duty built-in-castors\u2014 Loud, crisp soundThe photos say it all \u2014 a great Leslie for Monster Sound !Buy with confidence, I have been trading on Craigslist for over 20 years with 100% satisfaction (thanks everybody!). Payment: Cash and Carry \u2014 not interested in trades. Test with your rig or use one of mine. Sorry, not interested in trades. ***************************************************************************************\u2014 See and hear this Leslie at: www.youtube.com/watch?v=tnVFnUpYMmU"
             },
             {
-                "id": "7308075725",
-                "name": "ISP Technologies TRIWEDGE for trade!",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/saratoga-isp-technologies-triwedge-for/7308075725.html",
-                "datetime": "2021-05-13 10:30",
-                "price": "$700",
-                "where": "saratoga",
+                "id": "7321161641",
+                "name": "All-tube Crate Vintage Club 30 Amp",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/burlingame-all-tube-crate-vintage-club/7321161641.html",
+                "datetime": "2021-05-13 11:27",
+                "price": "$299",
+                "where": "burlingame",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00D0D_g6CanQFaox7_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00h0h_4OIVza5vK3yz_0zS0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00D0D_g6CanQFaox7_600x450.jpg",
-                    "https://images.craigslist.org/00D0D_g6CanQFaox7_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_fGMO7xjv3Wr_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_3oFdpHtZpET_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_be0n85wxNM_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_kuKCFBqsyxg_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_lOFDjNZgaAm_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_dnUOjQ4CCIk_50x50c.jpg"
+                    "https://images.craigslist.org/00h0h_4OIVza5vK3yz_0zS0t2_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_4OIVza5vK3yz_0zS0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_ivz1e0ExUUvz_0CI0st_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_bh3AWElPc84z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_h27WmidXbk8z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_86lgFKpYKS9z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_b5kLlvfnxdnz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Trade for a guitar or other music gear?Insanely loud speaker system will provide sound for 300 person venue  amazing DJ the rig or for live gigs Bass is incredible super clear sound 1500$ new and it\u2019s barely been used at all 100% perfect 600 watts RMS active 3-way floor monitor. 12 inch woofer, 10 inch midrange, 2 inch compression driver, internal 4th order crossover network.ISP Technologies brings you the \u201cNo Compromise\u201d high performance, High Fidelity Active 3-Way floor wedge. No longer do you need to compromise the stage monitor mix with the poor performance of a 2-way floor monitor.The all to common result of a 2-way floor monitor is low fidelity, distorted, unintelligible vocals and instruments. The new ISP Technologies TRIWEDGE provides high-output, high fidelity definition throughout the entire spectrum, including that very important, often overlooked critical midrange."
+                "description": "Crate Vintage Club 30 model 3112 all tube 30 watt amplifier.  Designed with four 12AX7 preamp tubes and four EL84 power tubes.  This amp has two channels.  The A channel provides an amazing clean tone with volume, treble, and bass controls.  The B channel provides \u201cdirty\u201d tone to achieve sounds ranging from bluesy crunch to full tilt hard rock rhythm. Includes gain, treble, mid, base, and volume controls. Both channels have high quality reverb with per-channel controls.  The amp includes an effects loop with cable (included) that allows you to insert effects between the preamp and the poweramp.  There is a channel selector, standby switch, and a footswitch jack. It\u2019s in combo amp format with a Crate Vintage Series 8 ohm, 12\u201d speaker.  Made in the U.S.A.  This amp sounds great at low volume as a practice amp, but it is also loud enough to play with a drummer in small to medium sized venues.This amp sits in a custom built lacquered tweed cabinet with thatched \u201cwheat\u201d grille cloth.  The original cabinet was fully enclosed and tended to get extremely hot. This new cabinet orients the amp with the tubes pointing downward and has an open back which provides plenty of ventilation and solves the excessive heat issue."
             }
         ],
         "famous": [
@@ -866,6 +860,27 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
+                "id": "7321144810",
+                "name": "Yamaha DGX-500 digital  piano 88 keys NEW",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/vallejo-yamaha-dgx-500-digital-piano-88/7321144810.html",
+                "datetime": "2021-05-13 11:07",
+                "price": "$349",
+                "where": "vallejo / benicia",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01717_bAdTxqnx6dAz_0kE0fu_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01717_bAdTxqnx6dAz_0kE0fu_600x450.jpg",
+                    "https://images.craigslist.org/01717_bAdTxqnx6dAz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/01313_jZdf1bma7ZUz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00606_4ZlvwMbTW4z_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_d4eb3qPKXZrz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00303_4EofAzqMz1Qz_0kE0fu_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Selling brand new  Yamaha DGX-500 portable digital grand piano 88 semi-weighted keys. Item has been pulled out from a box to test functionality, works perfect.   Tons of great sounds: pianos, string, organs, flutes, brass etc etc etc. Built in speakers, MIDI, input for headphones. Power supply is included.  price only  $349  in CASH  or PAYPAL . If you see this add it means the piano is availabletel.   If You are not familiar with latest series DGX pianos, please read below:Built by one of the worlds Premier manufactures, Yamaha's DGX500 is the first full size (88 key) portable keyboard to use actual piano keys, and it's the flagship in a series of instruments from Yamaha called Portable Grand. It's packed with functions and features designed specifically for new piano users. A large, piano-shaped button in the center of the front panel calls up the keyboard's best piano sound. A piano accompaniment style is automatically chosen and readied if you want it. Next to the piano button is a metronome-shaped button for, of course, a metronome feature.The DGX505 features an extra-high-quality stereo piano sample, general MIDI (GM) compatibility, and a selection of Yamaha's famous XG Lite voices, all of which work in concert to give you remarkably good sound quality. The quality is enhanced by the keyboard's two-way speakers with bass-enhancing ports.Polyphony is the ability for a keyboard to sound multiple tones simultaneously. Some keyboards in this price range have 16-, 24 -or 28-note polyphony; the DGX500 has a full 32-note polyphony so you can play intricate instrumental arrangements and dense musical passages without running out of notes or sounds.When you want to record your playing, just press the front panel's record button, the track button for the track you want to record on, and start playing. It's that easy. When you're done, save your song internally or to the keyboard's 3.5-inch floppy disk drive as a standard MIDI file (SMF) to make it compatible with other general MIDI keyboards as well as most computers. Imagine recording your child's first song onto a disk, placing it in your computer and attaching it to e-mail so friends and family can hear.Call up your favorite style of music like Rock, Big Band, Gospel or Country, press a chord or play Single Finger mode, and the DGX505 will follow you through a piece of music, providing all of the drums, bass, piano, guitar, horn and string parts for you. And even though the DGX505 comes with 135 built-in music styles, the disk drive opens up the ability to load even more. The disk drive will allow you to save and organize your favorite data for years to come. Another feature to simplify song playing is the music database. Pull out your favorite music book, select a song from any of the over 200 songs in the database, and the entire keyboard sets itself up. Start playing and the keyboard will follow your every chord--with no other buttons to press.The DGX505 comes with 100 built-in songs with its songbook feature. But if you've never played before, where do you start? Well, if learning to play music is important to you, the Yamaha Education Suite II, a set of music training functions, makes learning music incredibly easy. Seven types of lessons are available as well as a convenient chord dictionary.And finally, no matter what level of playing ability your at, you'll appreciate being able to build combinations of your favorite sounds. Pressing the Split button divides the instrument into two parts, allowing you to have two different sounds on the keyboard at the same time, like piano on the right and bass on the left. That's when you really appreciate the 88 keys.In addition, Layer mode lets you combine two sounds across the keyboard range. For example, you could layer piano and strings and play both sounds at the same time. With over 600 voices to choose from, the combinations are only limited by your imagination.Full Stereo sound with 2-way speakers -88 full size Touch sensitive keys - Tutorial modes with grading - Tons of great features, too many to list This piano will satisfy even an accomplished pianist with its sophistication and stunning full room filling sound.  Yet, its simple enough to turn on and begin playing for even the youngest beginner.  Read any reviews on-line and owners just rave about it.    The piano is in excellent condition and works 100%.  Its includes the power cord and the foot petal.  It will be professionally packed for shipping.  Any questions or concerns, feel free to email.  Original Retail price was $1169.95 and that was a steal for this piano."
+            },
+            {
                 "id": "7321124965",
                 "name": "Chickering upright, 1970s. Super low price",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/sunnyvale-chickering-upright-1970s/7321124965.html",
@@ -884,29 +899,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Greetings. You have a chance to buy a great upright piano manufactured by a world-famous Chickering company,  that has been founded BEFORE Steinway.  This upright piano is from 1970s. We are consolidating rooms at our small music school, and now there are too many instruments in one office. Imagine that the piano has been recently TUNED and regulated.  You'll only need to hire your movers. No stairs in the building Chickering has been  famous for many decades before getting sold.https://www.youtube.com/watch?v=L4yfS1bEHz8https://www.youtube.com/watch?v=SylNUF5510E By the way, in the same room, we have also two Chickering grand pianos, which we use for teaching. You can see how much we are fond of this make!"
-            },
-            {
-                "id": "7321068614",
-                "name": "1970s Epiphone ET 270 - vintage Kurt Cobain electric guitar",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/woodland-1970s-epiphone-et-vintage-kurt/7321068614.html",
-                "datetime": "2021-05-13 08:49",
-                "price": "$250",
-                "where": "fairfield / vacaville",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00v0v_5ReY1YieOBuz_0oo0ww_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00v0v_5ReY1YieOBuz_0oo0ww_600x450.jpg",
-                    "https://images.craigslist.org/00v0v_5ReY1YieOBuz_0oo0ww_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_4cSXGd2zptBz_0oo0ww_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_crOSUQ6sokcz_0oo0ww_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_hBshalKP4jTz_0oo0ww_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_lSiBPzzkyhsz_0oo0ww_50x50c.jpg",
-                    "https://images.craigslist.org/01717_5SjuyezwWpAz_0ww0pu_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_a5jmATzJl3Dz_0hq0hq_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "The Epiphone ET 270 guitar is best known for being an early favorite of Kurt Cobain\u2019s. These guitars were only manufactured for about 5 years in the 1970s at the famous Matsumoko factory in Japan, and they are increasingly hard to come by (especially at this price).Features:- Hardwood solid body in Cherry Burst finish- Bolt-on adjustable hardwood neck- Rosewood fingerboard- One tone knob, one volume knob- Toggle switch- Unique \u201cbass boost\u201d switch for added low end- Two original single-coil pickups, plus an added humbucker in the bridge position- Bridge, tuners, and volume and tone knobs all originalThis guitar plays great and has very low action. It\u2019s in pretty good condition for its age, with some scratches and chips in the finish that just add to its rock n\u2019 roll character. The only performance issue is the bass boost switch, which has gotten loose over time.Here\u2019s a demo video I found, so you can hear its great tone and versatility: https://www.youtube.com/watch?v=U0sPUJ33yBk"
             }
         ]
     }

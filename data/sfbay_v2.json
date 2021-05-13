@@ -101,74 +101,64 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7319168685",
-                "name": "TWELVE Name Brand Handbags Vintage, EXCELLENT Condition!",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-twelve-name-brand/7319168685.html",
-                "datetime": "2021-05-13 09:16",
+                "id": "7319422366",
+                "name": "Vintage Wedding Dress with Detachable Train",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/san-rafael-vintage-wedding-dress-with/7319422366.html",
+                "datetime": "2021-05-13 10:19",
+                "price": "$75",
+                "where": "san rafael",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_i7wT1MwgvXl_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_lc6RQt6OMJC_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_coQZA65IxWE_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "A vintage wedding dress with long detachable train.  I believe the dress is a size 16 - 18. It was preserved in 1987-88 and is still in original sealed box."
+            },
+            {
+                "id": "7321122767",
+                "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7321122767.html",
+                "datetime": "2021-05-13 10:19",
+                "price": "$200",
+                "where": "sf",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_eEgVPswHzdh_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "vintage Golden State Warriors Jersey DubbsSize LargeIf you do not receive an email reply, check your Spam folder"
+            },
+            {
+                "id": "7314475686",
+                "name": "Vintage Pendleton Board Shirt Made in USA",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-pendleton-board-shirt/7314475686.html",
+                "datetime": "2021-05-13 09:58",
                 "price": "$25",
-                "where": "half moon bay",
+                "where": "Hayward",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_8BXwTSa9nTs_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00u0u_7p5Vzwfq5zc_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00c0c_8BXwTSa9nTs_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_8BXwTSa9nTs_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_ll9ekTgpCdq_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_1TG1cFF3467_50x50c.jpg"
+                    "https://images.craigslist.org/00u0u_7p5Vzwfq5zc_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_7p5Vzwfq5zc_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_c8SoCaufIWZ_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_boIBbhSWsNC_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_emzf8rvoJLB_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_9Lln75nAWuW_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "I am selling TWELVE  name Brand Handbags (vintage) in excellent condition, for a total of $25.00. The lot inludes: Ganson (two), Contessa, Giani Bernini, Carryland,  Phillippe, LL Bean, Liz Claiborne (two), Nine West, Valarie Jean Clutch, and a red accessory bag. I live on the coast, in El Granada (approx. 5 miles North of Half Moon Bay), but can easily ship to anywhere at a normal cost. Thank you for your interest. *Not all bags are shown*"
-            },
-            {
-                "id": "7317782835",
-                "name": "14 BOOTS MENS LEATHER black motorcycle steel toe vintage pull on ridin",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-14-boots-mens-leather-black/7317782835.html",
-                "datetime": "2021-05-13 09:08",
-                "price": "$140",
-                "where": "sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_50x50c.jpg",
-                    "https://images.craigslist.org/01010_avsCnS76flg_084063_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_9hzxHEjWxZH_063084_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_9DvG96TOiGP_063084_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_cH5mxZMBNQ8_063084_50x50c.jpg",
-                    "https://images.craigslist.org/00101_5Xeyn0nBfNs_084063_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_gzchrzWuNfT_084063_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_2JCWUrJlTYp_084063_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "steel toe, good for riding, or just as work safety boots.14 BOOTS MENS LEATHER black motorcycle steel toe vintage pull on riding work old work ride riding shop garage gear clothing shoe shoes  boot men mens western cowboy large p10pp xl size ren faire costume cosplay larp sca guildbiker bike ride riding goth sca"
-            },
-            {
-                "id": "7317778360",
-                "name": "Vintage clothes",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/gilroy-vintage-clothes/7317778360.html",
-                "datetime": "2021-05-13 09:05",
-                "price": "$100",
-                "where": "gilroy",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_atfbO4R4l3Oz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_gfFNclyiy1Bz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_9fyyvtJrx0iz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00909_gC6NqMHGMsxz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_2CXZPERdywGz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_hdkLjmh3bIhz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_JKUbnv8xTVz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01111_879W5OX1Xpbz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_dHDsRPdAgmcz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_6pA55sUyQprz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Selling some vintage clothes. The brown jacket is corduroy and the black and grey jackets are members only. All are in good condition but will need a good cleaning. Haven\u2019t been worn or used in years. I would prefer to sell as a lot, so please no offers on individual items. I prefer text so please let me know if you\u2019re interested."
+                "description": "Selling a vintage Pendleton shirt size M. Shirt is in good vintage condition. There is one small tear / hole on the right sleeve (4th photo) which looks like it was remedied by some topical adhesive (looks like a small paint stain). One small stain under the left collar (last photo). $25 oboTags menswear work wear workwear wool flannel mens"
             }
         ],
         "beaded": [
@@ -236,6 +226,45 @@
         ],
         "gloves": [
             {
+                "id": "7321125997",
+                "name": "Sensatec Women's wool/cashmere gloves w/ Sensatec Touchscreen, Size M",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-sensatec-womens-wool-cashmere/7321125997.html",
+                "datetime": "2021-05-13 10:25",
+                "price": "$10",
+                "where": "los gatos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00k0k_87HitN67GNX_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00k0k_87HitN67GNX_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00k0k_87HitN67GNX_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01717_ejet7DR9cZF_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_cPBy2bTh2JQ_0CI0t2_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Sensatec  Women's wool/cashmere gloves with Touchscreen, Size MediumNew without tags, never wornIndex and thumb have pads for touchscreen operation without removing gloves"
+            },
+            {
+                "id": "7321121378",
+                "name": "Snow pants/ snow gloves/ jackets/ kids helmet",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/campbell-snow-pants-snow-gloves-jackets/7321121378.html",
+                "datetime": "2021-05-13 10:17",
+                "price": "$0",
+                "where": "campbell",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00c0c_97ka0BBOoJxz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00c0c_97ka0BBOoJxz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00c0c_97ka0BBOoJxz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_1sQrgS2zBsDz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_djyuEAruHZXz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_isNppd37wlGz_0oc0t2_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "I have some snow stuffs for kids and adult. Still in very good condition. Nothing goes wrong with them. I just want to clean up our closets. Sporting essential women snow pants size S $20Sporting essential kid snow bib black size 6 $15Gap toddler jackets navy size 3T $10Spider boy jacket size 5 $10"
+            },
+            {
                 "id": "7319925494",
                 "name": "Black Cat Fingerless Gloves - Costume Accessories - Adult Teen New!!!",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-black-cat-fingerless-gloves/7319925494.html",
@@ -253,46 +282,29 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "NEW!!!FOR AGES 14+***THE THIRD PICTURE IS A CLOSE UP PHOTO TO SHOW THAT THESE ARE MOSTLY FUZZY!INCLUDES:- 1 PAIR OF BLACK CAT GLOVES!"
-            },
-            {
-                "id": "7319927639",
-                "name": "Leopard Fingerless Gloves - Costume Accessories - Adult Teen New!!!",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-leopard-fingerless-gloves/7319927639.html",
-                "datetime": "2021-05-13 08:49",
-                "price": "$6",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00J0J_9CAz34I03rUz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00J0J_9CAz34I03rUz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00J0J_9CAz34I03rUz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_1ZwUuzwj3R1z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_hG0O160e08Cz_07K0ak_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "NEW!!!FOR AGES 14+- 100% POLYESTERINCLUDES:- 1 PAIR OF LEOPARD GLOVES!"
-            },
-            {
-                "id": "7317066238",
-                "name": "REV'IT! L Volcano Motorcycle Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-revit-volcano-motorcycle/7317066238.html",
-                "datetime": "2021-05-13 07:25",
-                "price": "$60",
-                "where": "lafayette / orinda / moraga",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00a0a_jSuJqCnDovfz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00a0a_jSuJqCnDovfz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00a0a_jSuJqCnDovfz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_1yWDhUnOcQ9z_07K0ak_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Awesome gloves that I only wore once. Opened the package after spending $70+, wore them to take my motorcycle to work, and realized they are too small. Out of the box condition. They are great quality gloves, I just need to buy an XL instead of a L.REV'IT! Volcano GlovesThe Volcano Gloves from REV'IT! are the lightest ADV gloves in the REV'IT! collection with CE certification. Designed with a mix of on-road and off-road use in mind, the Volcano Gloves are more robust than a full dirt glove and feature a fortified microfiber synthetic palm. Air mesh on the back of hand keeps the hands cool and dry during high effort maneuvers. TPR knuckle sliders with Seesoft viscoelastic backing add protection. Temperfoam can be found again at the palm and thumb. A hook and loop closure keeps the gloves secure, and an oversized pull loop makes for easy entry. Protection Features:Outer Shell: 3D air mesh | artificial leather | stretch | connect finger tip fabricLining: tricot linerComposition: 56% polyamide, 31% polyurethane, 11% polyester, 2% otherProtection: SEESOFT\u2122 knuckle | Temperfoam\u00ae underneath knuckle | PWR|shield at palm | Temperfoam\u00ae finger knuckles | Temperfoam\u00ae palm slider | TPR injected finger knuckle protectors CE certified EN 13594:2015Ergonomic Features:Fit: tour fitAdjustability: adjustment strap at cuffVentilation: 3D air mesh inserts at non-impact zonesFeatures: stretch at fingers and back hand, elastic at wrist, connect finger tips at index finger and thumb, regular cuff, textured grip and control panel"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7319422366",
+                "name": "Vintage Wedding Dress with Detachable Train",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/san-rafael-vintage-wedding-dress-with/7319422366.html",
+                "datetime": "2021-05-13 10:19",
+                "price": "$75",
+                "where": "san rafael",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_i7wT1MwgvXl_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_lc6RQt6OMJC_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_coQZA65IxWE_0CI0t2_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "A vintage wedding dress with long detachable train.  I believe the dress is a size 16 - 18. It was preserved in 1987-88 and is still in original sealed box."
+            },
             {
                 "id": "7313380761",
                 "name": "Casablanca Bridal Wedding Gown / Dress",
@@ -334,28 +346,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Antique pearl headpiece with veil"
-            },
-            {
-                "id": "7309561248",
-                "name": "NEW La Sposa Wedding Dress - Never Worn",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-new-la-sposa-wedding-dress/7309561248.html",
-                "datetime": "2021-05-13 08:41",
-                "price": "$200",
-                "where": "san jose west",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
-                    "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_kbTSWex9WdDz_0id0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_hXOrLJW4j1tz_0gN0o6_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_1V69cjnhvsrz_0gw0pA_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_iAInrIzHZRSz_0fF0iv_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_i9Pu9FVbNnxz_08V0hr_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Taffeta La Sposa Fuego Traditional Wedding Dress (was $1415)Size: US 10This dress is brand new, never worn. Could be hemmed and altered to fit any smaller size.Color is Off White.For more information or pictures, message us. Neckline: Strapless Silhouette: A-line Train: Chapel Height With Heels: dress not hemmed.Note:SIZES ARE BRIDAL SIZE, NOT STREET SIZE!"
             }
         ],
         "great condition": [
@@ -433,6 +423,26 @@
     "sports": {
         "autograph": [
             {
+                "id": "7312822416",
+                "name": "Brand New Autographed John Force \u201895 NHRA Hat",
+                "url": "https://sfbay.craigslist.org/scz/spo/d/aptos-brand-new-autographed-john-force/7312822416.html",
+                "datetime": "2021-05-13 10:05",
+                "price": "$30",
+                "where": "aptos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00404_fq6Awues0CPz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00404_fq6Awues0CPz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00404_fq6Awues0CPz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_14zdzPAAmRMz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_gOSkoxaPGLKz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_fnTaTkdX2S0z_0CI0t2_50x50c.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "Brand new autographed John Force 1995 NHRA Champion Castrol GTX Vintage SnapBack Hat.Has been in plastic casing since 1995.Cash or Venmo Please."
+            },
+            {
                 "id": "7317714749",
                 "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
                 "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7317714749.html",
@@ -469,26 +479,6 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "2007 Signed Harlem Globetrotters Pennant.  I can't make which signatures are which, but the roster for the 2007 year was:-Anthony Ant Atkinson-Sun Ming Ming-Mario West-Brent Petway-Marcus Kennedy1 tack holes in each corner.First $5 gets it."
-            },
-            {
-                "id": "7315758652",
-                "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
-                "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7315758652.html",
-                "datetime": "2021-05-12 08:13",
-                "price": "$200",
-                "where": "emeryville",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_50x50c.jpg",
-                    "https://images.craigslist.org/00606_dl5A14pkVP1_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_b3QPJv2lUaG_0fu0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_hTAqH5v13hg_0fu0fu_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "Pro Staff Autograph RF97 Tennis RacquetHard to find Limited 'Tuxedo' Black and White versionBrand new. Never played4\u215c gripRacquet and bag and strings combos availableCross Section 21.5 FBHead Size 97 sq in - 625.8 sq cmString Pattern 16x19Unstrung Balance 30.5CM/12 Pts HLSeries Pro StaffUnstrung Weight 340 gLength 27 in - 68.6 cm$200"
             }
         ]
     },

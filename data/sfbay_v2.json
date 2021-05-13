@@ -38,6 +38,45 @@
         ],
         "wood": [
             {
+                "id": "7318933364",
+                "name": "BRAND NEW SOLID WOOD MOLDING AND BASEBOARDS",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-solid-wood-molding/7318933364.html",
+                "datetime": "2021-05-12 21:34",
+                "price": "$0",
+                "where": "San Jose",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00a0a_cs9FGGl2HF2z_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00a0a_cs9FGGl2HF2z_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_cs9FGGl2HF2z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_if0rkj9s4w8z_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_dTonzfv51aez_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_6YF3OQM2fBCz_0t20t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I HAVE MANY MANY PIECES OF SOLID WOOD MAPLE WALNUT CHERRY WHITE OAK MAHOGANY CROWN MOLDING AND BASEBOARD AS PICTURES AVAILABLE FOR SALE ONLY $.75 AND UPI ONLY RESPOND EMAILS WITH PHONE NUMBER"
+            },
+            {
+                "id": "7318932331",
+                "name": "SOLID WOOD FOR CUTTING BOARDS",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-solid-wood-for-cutting-boards/7318932331.html",
+                "datetime": "2021-05-12 21:34",
+                "price": "$1",
+                "where": "San Jose",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00505_cC7qGgbZDh0z_0jm0ew_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00505_cC7qGgbZDh0z_0jm0ew_600x450.jpg",
+                    "https://images.craigslist.org/00505_cC7qGgbZDh0z_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_k0S6usq1X6Yz_0x20oM_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_4ME9CQwo49Mz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I HAVE MANY MANY PIECES AND BOARDS WITH DIFFERENT SIZE AND DIFFERENT KIND OF WOOD READY FOR MAKING CUTTING BOARDS FOR HOLIDAYS AVAILABLE FOR SALE ONLY $.99 AND UP PER LINEAR FOOT (SEE PICTURES FOR EXAMPLE)I ONLY RESPOND EMAILS WITH PHONE NUMBER PLEASE"
+            },
+            {
                 "id": "7312909170",
                 "name": "Carpet tack strips for wood subfloor",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/san-anselmo-carpet-tack-strips-for-wood/7312909170.html",
@@ -54,107 +93,78 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Almost full box (~400 linear ft) https://www.homedepot.com/p/Halex-Poplar-1-in-Wide-x-4-ft-Long-Carpet-Tack-Strip-for-Wood-Subfloors-100-Pack-HD-320-P- Available near downtown San Anselmo."
-            },
-            {
-                "id": "7311570784",
-                "name": "New Simpson #55 Interior Solid Wood Door",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-simpson-55-interior-solid/7311570784.html",
-                "datetime": "2021-05-12 19:26",
-                "price": "$150",
-                "where": "berkeley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00x0x_cpIiCTovywHz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00x0x_cpIiCTovywHz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00x0x_cpIiCTovywHz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_86qoCuQFCKOz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "New Simpson #55 Interior Solid Wood Door 36x80"
-            },
-            {
-                "id": "7319562607",
-                "name": "New Simpson #82 Interior Solid Wood Door",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-new-simpson-82-interior-solid/7319562607.html",
-                "datetime": "2021-05-12 19:26",
-                "price": "$150",
-                "where": "berkeley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00I0I_kXH9L8SNIpPz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00I0I_kXH9L8SNIpPz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00I0I_kXH9L8SNIpPz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_eV3sXuquagkz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_fh5iDk74sCEz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "New Simpson #82 Interior Solid Wood Door 36 x 80 Varnished clear"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7311777747",
-                "name": "vintage Tie: Buck Wheat Little Rascals",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/cupertino-vintage-tie-buck-wheat-little/7311777747.html",
-                "datetime": "2021-05-12 21:04",
-                "price": "$350",
-                "where": null,
+                "id": "7309009207",
+                "name": "Vintage overcoat. Air Force",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-overcoat-air-force/7309009207.html",
+                "datetime": "2021-05-12 22:27",
+                "price": "$50",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00z0z_1m90Rv8NRHMz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_6vQVJSqiByLz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_llYTV8SmkFDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_9QvHRxL0wPFz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_5U1ZYVZHIbrz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00z0z_1m90Rv8NRHMz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00z0z_1m90Rv8NRHMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_N1OLH9F4Xlz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_3Mn86sSFf2Vz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01717_jVORAyQG3VGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_27QxiqUyIslz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_kmIxyp2M7vKz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_6PkyzC8aXdWz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Little Rascals by Ralph MarlinBuck Wheat Tievintagewhere will you find another like this!excellent condition$350"
+                "description": "In relatively good condition considering it\u2019s age. Probably from the Korean War era."
             },
             {
-                "id": "7320921352",
-                "name": "Vintage Sterling Silver Graduated Beaded Necklace 18\" Signed. D.E.C",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-sterling-silver/7320921352.html",
-                "datetime": "2021-05-12 21:00",
-                "price": "$115",
-                "where": "mission district",
+                "id": "7320933681",
+                "name": "EQUIPMENT FEMME - perch / NEW: Vintage & Old Fashioned Limon Dress",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-equipment-femme-perch-new/7320933681.html",
+                "datetime": "2021-05-12 22:15",
+                "price": "$400",
+                "where": "sunset / parkside",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_5z5FFUxWGnqz_0gG0ne_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00606_ehJfg211L2bz_0tN0oB_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00W0W_5z5FFUxWGnqz_0gG0ne_600x450.jpg",
-                    "https://images.craigslist.org/00W0W_5z5FFUxWGnqz_0gG0ne_50x50c.jpg",
-                    "https://images.craigslist.org/01212_aztUDNAwpCFz_0ne0gQ_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_h0Wm8AdKguSz_0gX0ne_50x50c.jpg"
+                    "https://images.craigslist.org/00606_ehJfg211L2bz_0tN0oB_600x450.jpg",
+                    "https://images.craigslist.org/00606_ehJfg211L2bz_0tN0oB_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_1ostPIAunohz_0d20jK_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_2sW1PYh6oV5z_0cW0ju_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_fp4KU7xNYQRz_0et0lB_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_5n4090KI3Nzz_0fy0nl_50x50c.jpg",
+                    "https://images.craigslist.org/00202_ivpaF4Gs6gZz_0z60nC_50x50c.jpg",
+                    "https://images.craigslist.org/00909_hJNQuIUCHvVz_0gi0h1_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_idOZW5nGiCVz_0vz0oZ_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage Sterling Silver Graduated Beaded Necklace 18 Signed. D.E.CExcellent 18 graduated sterling silver balls on a thin silver chain with sterling clasp...MEASUREMENTSNECKLACE LENGTH - 18NECKLACE WEIGHT - 27 GramsLargest Sterling Bead Is Approximately 1/2 (12.70mm) in diameterCONDITION:.Excellent Condition, looks great, beautiful patina. Please see photos for items current  condition and judge for yourself...Sold As is...SHIPPING AVAILABLE****PLEASE include a phone number with your response903"
+                "description": "NEW Limon dress - vintage/ old fashioned. With folded French Cuffs like.Color: is much brighter, then the pictures showsSHELL: 100% PolyesterLINING: 100% PolyesterSize: XS - TP\u2022 You can pick this up in Sunset District SF \u2013 by Taraval St and 39th Ave\u2022 Or I can deliver to ALL San Francisco areas only.\u2022 I can also mail it to you if needed.\u2022 Best way to reach me, is by texting me back:  \u2022 I accept Venmo, PayPal and CASH.\u2022 Hablo Espanol tambien.\u2022 Please let me know in advance \u2013 Thank you."
             },
             {
-                "id": "7316070360",
-                "name": "Vintage Disney Beauty and The Beast On Broadway Denim Jacket, Large",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-disney-beauty-and/7316070360.html",
-                "datetime": "2021-05-12 20:29",
-                "price": "$85",
-                "where": "mission district",
+                "id": "7320933108",
+                "name": "vintage rabbit fur coat",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-rabbit-fur-coat/7320933108.html",
+                "datetime": "2021-05-12 22:11",
+                "price": "$20",
+                "where": "Palo Alto",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00u0u_cpG7baSoDcz_0iT0ne_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00w0w_b4YXAcw9pzqz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00u0u_cpG7baSoDcz_0iT0ne_600x450.jpg",
-                    "https://images.craigslist.org/00u0u_cpG7baSoDcz_0iT0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_4TQrGN97paAz_0ho0ne_50x50c.jpg",
-                    "https://images.craigslist.org/01414_auHYsOsZuJbz_0iX0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_fjTvTtPv4pCz_0ne0fs_50x50c.jpg"
+                    "https://images.craigslist.org/00w0w_b4YXAcw9pzqz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00w0w_b4YXAcw9pzqz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00303_j76r7Hq1HQ0z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_kvYsDlbqPM6z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_fNFjQguV1KMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_bEsCn5nUuxFz_0t10CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage Disney Beauty and The Beast On Broadway Denim Jacket, LargeThis is a vintage 1990's Disney's Beauty and the Beast Broadway musical denim jacket. It is an adult's Size Large ..Made by IDENTITY INC..New York.....100% CottonMEASUREMENTSShoulder to Shoulder - 20Armpit to Armpit - 23Waist Across - 22Shoulder Seam To Cuff - 23Bottom of Collar to Hem - 24CONDITION: Used...Looks very good..Minimal use.. Photos show items current condition and use your best judgement...Sold As is...SHIPPING AVAILABLE*****SF/Bay area buyers, please include a phone number with your response..954Disney Beauty And the Beast Broadway Musical denim jacket large 100% cotton vintage"
+                "description": "This beautiful vintage rabbit fur coat is in need of a few repairs, but is a great deal at $20. The fur itself is soft and in excellent condition.  See pics for repairs needed: re-secure the clip, repair the lining, sew a few furs back together. It\u2019s probably the equivalent a woman\u2019s size 6/8."
             }
         ],
         "beaded": [
@@ -837,30 +847,24 @@
                 "description": "910 PRO LESLIE w/ REVERB  LOUD! WORKS GREAT !! Copy and paste the following YouTube link into your search engine to see and hear this Leslie: www.youtube.com/watch?v=tnVFnUpYMmU **************************************************************************************************THIS IS THE BIG ONE!  The amazing Pro Leslie 910, 140 watts RMS with internal REVERB.  Everything checks out and is fully functional on this MONSTER LESLIE with a loud and clear sound. The 900 Pro Series was Leslie\u2019s answer for keyboard players competing with the Marshall stacks of guitar players. Note Robert Lamm from Chicago playing 910 in attached pix. \u2014 Tolex covered cabinet; OK cabs with some repairs\u2014 Fully Serviced and Tested\u2014 All Jensen speakers\u2014 140 watt RMS total output with three (3) on-board amps\u2014 AlNiCo Jensen Tweeter\u2014 Separate amps for Bass, Tweeter and Reverb speakers\u2014 Two-piece amp configuration to break-down weight\u2014 On-board reverb with separate amp and controls\u2014 True separation of Bass and Treble cabinets\u2014 Stationary Bass at slow speed for deep, wobble-free lows\u2014 Real Wood Bass Drum (rare !!)\u2014 All Leslie cables conveniently fit into top-speaker cubby\u2014 \u201cSpace-Expander\u201d on tweeter for on-board reverb signal\u2014 Real Spring Reverb tank with \u201clock-down\u201d cord to prevent spring damage during transport \u2014 Heavy-duty built-in-castors\u2014 Loud, crisp soundThe photos say it all \u2014 a great Leslie for Monster Sound !Buy with confidence, I have been trading on Craigslist for over 20 years with 100% satisfaction (thanks everybody!). Payment: Cash and Carry \u2014 not interested in trades. Test with your rig or use one of mine. Sorry, not interested in trades. ***************************************************************************************\u2014 See and hear this Leslie at: www.youtube.com/watch?v=tnVFnUpYMmU"
             },
             {
-                "id": "7306943941",
-                "name": "Hohner Organola Accordion 140 bass Mussette",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/santa-clara-hohner-organola-accordion/7306943941.html",
-                "datetime": "2021-05-12 21:27",
-                "price": "$1,500",
-                "where": "santa clara",
+                "id": "7319612627",
+                "name": "Vintage Drum1970s Blue Olive Badge Ludwig 12\" Concert Tom White Cortex",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-vintage-drum1970s-blue-olive/7319612627.html",
+                "datetime": "2021-05-12 22:26",
+                "price": "$110",
+                "where": "willow glen / cambrian",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00g0g_e4ADfz2b1oG_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01111_3pgCJZaDzvuz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00g0g_e4ADfz2b1oG_600x450.jpg",
-                    "https://images.craigslist.org/00g0g_e4ADfz2b1oG_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_ginqiM2Ul01_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_ctBprnzZLcX_50x50c.jpg",
-                    "https://images.craigslist.org/00909_hcx4tNq1ZlO_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_4Ib6LGlW4uZ_50x50c.jpg",
-                    "https://images.craigslist.org/00909_2BhuGQCAxnv_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_jrFnInkEpKh_50x50c.jpg",
-                    "https://images.craigslist.org/01414_hF4uXPSwr3w_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_dzONeo447aL_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_1Zr0aUUYBov_50x50c.jpg"
+                    "https://images.craigslist.org/01111_3pgCJZaDzvuz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/01111_3pgCJZaDzvuz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_4TyUUoulB1cz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01212_bpyYazP1NVzz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01717_fnd6lmq115Wz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Hohner Organola piano accordion Made in Germany serial no. 246599Organola is one step down from the Hoher Morino (one of the two top Hohner accordions, number is Hohner Gola ).This accordion has just been completely gone thru by a professional accordion restorer, one of themost experienced. Kind of rare model. Has 13 shifts treble side and 6 shifts bass side.VERY RARE SPECIAL EDITION 140 BASS buttons. Treble side 4 reeds and bass side 5 reeds.all new treble pads. shallow key travel for fast and easy play.very nice Mussette sound. beautiful to listen to. plays easy and loud.all reeds and leathers checked to A-1 condition. Electronically tuned.Reeds L-M-M-H. adjustable base strap.Hard case is in good condition.Air tight, very nice bellows. Super nice condition.Keyboard size 20 inches which is little longer than the full size accordion of 19.5 inches. Manufacture date, unknown.Please read the description carefully before you ask me questions. Thanks!$1500 Serious buyer contact me with phone number."
+                "description": "Vintage 1970s Blue Olive Badge Ludwig 13 Concert Tom White CortexGreat loud concert stage sound. New Aquarian Modern Vintage II Batter Head.Nice to add to your drum set collection."
             }
         ],
         "famous": [

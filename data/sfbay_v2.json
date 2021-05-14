@@ -151,6 +151,47 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7307718805",
+                "name": "American Eagle Vintage Graphic Full-Zip Hoodie Size L Brand New",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-american-eagle-vintage/7307718805.html",
+                "datetime": "2021-05-14 15:25",
+                "price": "$44",
+                "where": "sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_lrQSX52cxroz_0gl0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "$44"
+            },
+            {
+                "id": "7321767382",
+                "name": "Vintage Calif. State HAYWARD Jackets",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-calif-state-hayward/7321767382.html",
+                "datetime": "2021-05-14 15:19",
+                "price": "$0",
+                "where": "hayward / castro valley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00202_69RI6UeV9jrz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00202_69RI6UeV9jrz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00202_69RI6UeV9jrz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_B9XoLeJ9jMz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_eUK6FcS7muz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_gAWp28p1pfUz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_41O5fxPHQbqz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_hQMedXGWcHcz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_ktJ3A16umpKz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Calif. State Univ., HAYWARD Jacket - $40\tSize: Medium\tHeavy duty knit material\tNo pockets\tExcellent ConditionVintage Calif. State Univ., HAYWARD Jacket - $60\tSize: Large\tNylon - Lined\tDeep zippered pockets\tMade by Adidas\tNew ConditionCalif. State Univ., EAST BAY - Pull Over Jacket -  $50\tSize: X-Large\tNylon Lined\tNew Condition"
+            },
+            {
                 "id": "7311869670",
                 "name": "Vintage US Military M65 Field Jacket Size Short Medium",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-us-military-m65-field/7311869670.html",
@@ -169,66 +210,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Belonged to a family member who was in the Vietnam war. It has paint stains on it. Size Short Medium. Vintage Marines military jacket."
-            },
-            {
-                "id": "7315424081",
-                "name": "vintage LEATHER RIDING BOOTS black womans mid 60s",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-leather-riding-boots/7315424081.html",
-                "datetime": "2021-05-14 14:05",
-                "price": "$75",
-                "where": "sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_9X14CGXUhNv_0pO0jm_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00o0o_9X14CGXUhNv_0pO0jm_600x450.jpg",
-                    "https://images.craigslist.org/00o0o_9X14CGXUhNv_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_9pUKt902PMv_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_fWWo0aD5HdJ_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_cA62ItEAFF7_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00909_3cd00MD0pa0_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_6TknFnfFgmT_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/01616_1jltdr37bsC_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00505_iUTwwI9nVPA_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00303_bskOy1NGrpl_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_7oYBZjZujST_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00808_5bNfEBsyM4h_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_jiwBvu5JmcM_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_gTGZ1z1zbLY_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_bOTwHbbvx9H_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_2DbAx2qeG0U_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_gFdVUvUqffJ_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_f832xQlhvID_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_6UqeLZehDBg_0pO0jm_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Came from the estate of a woman who rode horses locally in the mid to late 60s. Beautiful distresses old leather, still soft and wearable...about a size 7.5 - 8. usa.$75ride horse equestrian trail barn rustic camp female woman womans girl girls boot shoe shoes clothing boots knee tall high vnt horses lady ladies west old western cowboy cowgirl ranch rancher"
-            },
-            {
-                "id": "7321695083",
-                "name": "Wool lined vintage army trenchcoat",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-wool-lined-vintage-army/7321695083.html",
-                "datetime": "2021-05-14 13:02",
-                "price": "$60",
-                "where": "Emeryville",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00v0v_aY4vPc7DXNbz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00v0v_aY4vPc7DXNbz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00v0v_aY4vPc7DXNbz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_2IXV3Ny8TQbz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_brLwvyHcpaaz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_dexU6dabBkLz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_jI1b56kzqxpz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01616_gE2UyeCUDKDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_g2wi3zBDmRsz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_3PfDdQtldiZz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00000_eoYYCz1AgAtz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01313_ldXaDIlAndwz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Excellent condition vintage military trench coat. Very warm seldom used."
             }
         ],
         "beaded": [
@@ -910,26 +891,22 @@
                 "description": "Great small amp with big sound, perfect for acoustic guitar and vocal.It has 2 separate channels, working like new.It has some scratches on the outside.Price is not negotiable, thanks.New it sells for $350 + tax"
             },
             {
-                "id": "7318511694",
-                "name": "2002 Rainsong Carbon Fiber guitar",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/milpitas-2002-rainsong-carbon-fiber/7318511694.html",
-                "datetime": "2021-05-14 14:49",
-                "price": "$1,200",
-                "where": "milpitas",
+                "id": "7307996893",
+                "name": "Sabian HHX Groove Ride 21\" Amazing Sounding ride drum cymbal orig $509",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/castro-valley-sabian-hhx-groove-ride-21/7307996893.html",
+                "datetime": "2021-05-14 15:20",
+                "price": "$290",
+                "where": "hayward / castro valley",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00u0u_ddpMycrBefCz_0jm0CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01414_bg5gwSaXMye_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00u0u_ddpMycrBefCz_0jm0CI_600x450.jpg",
-                    "https://images.craigslist.org/00u0u_ddpMycrBefCz_0jm0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00808_Fh11G6rDfyz_0jm0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_5F32tUGoDmYz_0jm0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_4j3fcv9YGkQz_0jm0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_9mApg5cg8Ygz_0jm0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_5PkZVBJ0Wf9z_0jm0CI_50x50c.jpg"
+                    "https://images.craigslist.org/01414_bg5gwSaXMye_600x450.jpg",
+                    "https://images.craigslist.org/01414_bg5gwSaXMye_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_bD24oxoWxbM_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Fabulous, rare Rainsong 38 inch dreadnaught steel string acoustic electric guitar in excellent condition except for small nick that does not affect its amazing sound which is loud and clear. Strung with Elixer strings. This is a high end instrument that is just the right size for most anyone.  It has Fischer electronics and includes a quality gig bag and strap. You will not be disappointed. Best offer accepted!"
+                "description": "Amazing lightly used, one of the best crash rides out in existence, ive had 3 of these, and this is the best sounding of the 3!The Sabian HHX 21 Groove Ride is a remarkable sounding cymbal -- one of the darkest in the HHX line and with seriously musical overtones and an ultra-sensitive response. With a good amount of stick attack, the Groove Ride produces some nice definition but stays away from the ping sound found in many rides. The Groove Ride is all about the wash and sustain. Even when you strike the bell, which is loud without being overpowering, you'll notice some bleed into the bow which adds a great harmonic character to this versatile cymbal."
             }
         ],
         "famous": [

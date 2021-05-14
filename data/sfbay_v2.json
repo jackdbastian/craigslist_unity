@@ -38,6 +38,25 @@
         ],
         "wood": [
             {
+                "id": "7321307731",
+                "name": "1\"x4\" DF wood",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/santa-clara-1x4-df-wood/7321307731.html",
+                "datetime": "2021-05-13 16:28",
+                "price": "$50",
+                "where": "santa clara",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00b0b_dCozIgTbcsez_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00b0b_dCozIgTbcsez_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00b0b_dCozIgTbcsez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_gi67nQxbYexz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_bxmCvXvRoaTz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Approximately 180 lineal feet of 1x4. Longest pieces are 16' and the shortest one is 5'. These were used to support plywood shelves indoors and they are in good condition. $50 for all."
+            },
+            {
                 "id": "7321272021",
                 "name": "**BRAND NEW WINDOWS worth +$3.2k-  MILGARD White Fiberglass/Wood",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/mill-valley-brand-new-windows-worth-32k/7321272021.html",
@@ -79,27 +98,6 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "TWO 32\u201dx 80\u201d, prehung wood INTERIOR, used doors, Very Good Condition!Used doors, Original cost of similar Home Depot/Lowes Doors are about $150 ea.  Painted white, right swing and left swing, one has a brushed nickel door handle lever, only sold together!!Please contact me if interested.Thank you!"
-            },
-            {
-                "id": "7310177125",
-                "name": "WOOD CHIPS 3YRD $150 DELIVERED",
-                "url": "https://sfbay.craigslist.org/scz/mat/d/santa-cruz-wood-chips-3yrd-150-delivered/7310177125.html",
-                "datetime": "2021-05-13 13:00",
-                "price": "$150",
-                "where": "SANTA CRUZ COUNTY",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01414_hdanYSoMNYKz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01414_hdanYSoMNYKz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/01414_hdanYSoMNYKz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_cNOD5ItAIzOz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_D79ICOBEmYz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_aCAmpLeCTQvz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_iNkOYldv3BMz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "RECYCLED WOOD CHIPSONE TRAILER LOAD = 3yrds$150as many loads as you wantor if you need less let me knowJason83 one four 0 0-944 zero"
             }
         ]
     },
@@ -232,55 +230,108 @@
         ],
         "gloves": [
             {
-                "id": "7307557431",
-                "name": "Fishnet 80's Wrist GLOVES Silver Rave School Spirit Cheerleader New!!!",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-fishnet-80s-wrist-gloves/7307557431.html",
-                "datetime": "2021-05-13 16:17",
+                "id": "7313779994",
+                "name": "Neon Pink Lace Gloves 80's Retro Fancy Dress Up Halloween Costume Acce",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-neon-pink-lace-gloves-80s/7313779994.html",
+                "datetime": "2021-05-13 16:52",
                 "price": "$5",
                 "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01414_eMvizpGHFVm_07K0ak_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00u0u_huQqoS16tYYz_07K0ak_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01414_eMvizpGHFVm_07K0ak_600x450.jpg"
+                    "https://images.craigslist.org/00u0u_huQqoS16tYYz_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_huQqoS16tYYz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_Me2e31KRIEz_07K0ak_50x50c.jpg"
                 ],
                 "query": "gloves",
                 "category": "cla",
-                "description": "NEW!!!SIZE: ADULTINCLUDES:- 1 PAIR OF SILVER MESH GLOVES"
+                "description": "NEW!!!- ADULT SIZE- INCLUDES ONE PAIR OF PINK LACE GLOVES"
             },
             {
-                "id": "7317793144",
-                "name": "CHILD THEATRICAL BLACK COTTON GLOVES Child Short 8\" Costume Gloves Acc",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-child-theatrical-black-cotton/7317793144.html",
-                "datetime": "2021-05-13 15:52",
-                "price": "$2",
+                "id": "7307561944",
+                "name": "Fishnet 80's Wrist GLOVES White Rave School Spirit Cheerleader New!!!",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-fishnet-80s-wrist-gloves-white/7307561944.html",
+                "datetime": "2021-05-13 16:49",
+                "price": "$5",
                 "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00P0P_50Uw6MYkcVoz_07K0ak_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00Y0Y_ljaGfWceFIu_07K0ak_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00P0P_50Uw6MYkcVoz_07K0ak_600x450.jpg"
+                    "https://images.craigslist.org/00Y0Y_ljaGfWceFIu_07K0ak_600x450.jpg"
                 ],
                 "query": "gloves",
                 "category": "cla",
-                "description": "NEW!!!COLOR:BLACKSIZE: CHILDRENCONTAINS: 1 PAIR OF CHILDRENS THEATRICAL GLOVES BLACK"
+                "description": "NEW!!!SIZE: ADULTINCLUDES:- 1 PAIR OF WHITE MESH GLOVES"
             },
             {
-                "id": "7321150232",
-                "name": "New, Girl Gloves size S",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pittsburg-new-girl-gloves-size/7321150232.html",
-                "datetime": "2021-05-13 11:07",
-                "price": "$3",
-                "where": "pittsburg / antioch",
+                "id": "7307520705",
+                "name": "New Fishnet Gold GLoves Adult!",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-new-fishnet-gold-gloves-adult/7307520705.html",
+                "datetime": "2021-05-13 16:47",
+                "price": "$5",
+                "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00b0b_5jjyBAbSCapz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01414_e2EspyvF1Dv_07K0ak_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00b0b_5jjyBAbSCapz_0t20CI_600x450.jpg"
+                    "https://images.craigslist.org/01414_e2EspyvF1Dv_07K0ak_600x450.jpg"
                 ],
                 "query": "gloves",
                 "category": "cla",
-                "description": "Zelle for porch pick up or cash when you pick up. I don't drive anywhere or mail."
+                "description": "NEW!!SIZE: ADULTINCLUDES:- 1 PAIR OF GOLD MESH GLOVES"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7315113522",
+                "name": "Pronovias Wedding Dress Gown",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-carlos-pronovias-wedding-dress-gown/7315113522.html",
+                "datetime": "2021-05-13 16:41",
+                "price": "$250",
+                "where": "san carlos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00W0W_feAzyVK6d0nz_06L06v_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00W0W_feAzyVK6d0nz_06L06v_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_feAzyVK6d0nz_06L06v_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_b5ThjRIGlA3z_07I08g_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_cqW6TTCqhgHz_08D07y_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_ev43ZyRIp3wz_08308r_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_eKM1itUNIdOz_06J08W_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_cA6z4JG3DOsz_07J0bC_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_fafVTRw8QMsz_0CI0ik_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_aC9oq83S2Siz_0CI0ik_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_962rgvBaxGUz_0ik0CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "**IF THIS AD IS STILL UP, THE ITEM IS STILL AVAILABLE**Original Pronovias brand wedding dress- trumpet-style  (or fit-and-flare) silhouette that gives you a nice hourglass shape -fitted on the bust & waist and flares at the hips-altered into a halter style (the original was spaghetti-style straps) -gorgeous lace and pearl & crystal detailing, all hand-sewn -built-in bra cups for maximum comfort on your wedding day (but can be easily removed) -the back has a hidden zipper (what people see is button and loop fastening) -dramatic cathedral-length train Details:  *Will fit someone who normally wears a size 6-8 dress size* Style: Trumpet or fit-and-flare Fabric: Organza Color: Light gold (in photos, it can look ivory or white depending on the lighting)  ~photo of dress on the model is exact color of the wedding dress~  Condition: Gently Used/Excellent Condition The length of this dress was altered and should work for anyone who is 5'6 or shorter.  Please see photos of the dress (full length) to get an idea if this'll work for your height.  No tears, stains or damage anywhere. Fantastic condition!  The dress has been professionally cleaned, preserved and boxed (from the Wedding Gown Preservation Co). Comes from a pet-free and smoke-free home.  Cash or Venmo Only.  I live in the flatlands of San Carlos, easy access from 101.  We are moving! spanish trumpet fit flare organza tulle light elegant classic formal la sposa maggie sottero pure fiji enzoani san patrick rosa clara monique lhuillier"
+            },
+            {
+                "id": "7318984028",
+                "name": "Elegant Wedding Dress - New with Tags",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/los-altos-elegant-wedding-dress-new/7318984028.html",
+                "datetime": "2021-05-13 16:38",
+                "price": "$100",
+                "where": "los altos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00M0M_gh1NjjiFf07z_0kd0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00M0M_gh1NjjiFf07z_0kd0t2_600x450.jpg",
+                    "https://images.craigslist.org/00M0M_gh1NjjiFf07z_0kd0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_b6hoq6w1j7gz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01313_fATWbLgcqyaz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_f1mz7duj9E7z_0fh0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_2Q12u4qTmG0z_0eL0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_i9dfoVzI4AJz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_9eoneEpy8Svz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_iOndRTh0cpxz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_6FnE7ZScEolz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_6QsRs1RRU52z_0lM0t2_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Simple and elegant bridal gown from Mingda Designs. Never worn dress is new with tags. No size tag on dress...could fit a 6, 8, 10. Lovely lace overlay with eyelash fringe on bust and hem.  Beautiful sweep train and delicate capped sleeves. Structured bust bodice. Back is especially nice with low profile, mesh, and buttons.  Can be worn with sash (included) if desired. A very pretty dress perfect for today's weddings and venues. Would also be stunning for photo shoot."
+            },
             {
                 "id": "7319959794",
                 "name": "Vintage Wedding Dress for halloween or theatrical costume",
@@ -303,49 +354,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Vintage Designer Wedding Dress.    Size small to medium ... unmarked - guessing.    3 pieces... crown with vale, Lacey button down dress (no zippers) with unique clip on cape - IDEAL for Halloween Costume.    Being sold as-is pictured, no other details known.   Please examine pic and google for more info.   No try-on's, show up to buy as-is.    ONLY $60 cash pickup in SOMA, $80 Venmo or Paypal to Ship.   include your cell in reply."
-            },
-            {
-                "id": "7320250794",
-                "name": "Beautiful WEDDING DRESS - Marisa SIZE 6 - Beaded Bodice",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/el-cerrito-beautiful-wedding-dress/7320250794.html",
-                "datetime": "2021-05-13 14:07",
-                "price": "$95",
-                "where": "albany / el cerrito",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00w0w_2SSd3b1w4biz_0je0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00w0w_2SSd3b1w4biz_0je0t2_600x450.jpg",
-                    "https://images.craigslist.org/00w0w_2SSd3b1w4biz_0je0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_g8IuYeM20hHz_0B00jw_50x50c.jpg",
-                    "https://images.craigslist.org/00404_70N8DQSAiSpz_0eM0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Silk BALL GOWN, size 6.  Beaded bodice.  Spaghetti straps.  Button & hook to attach train to bodice for dancing.  Dress is creamy white - much lighter in person.  Room was very sunny, which made the pics look a bit gold.Could easily be tailored up or down in size & I have a great, reasonably priced tailor.  You're welcome to try this on before purchase.  CASH ONLY.Leave phone # with reply. Thanks : )"
-            },
-            {
-                "id": "7321141434",
-                "name": "Wedding Dress Beautiful Classic - Justin Alexander - Excellent Cond.",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/danville-wedding-dress-beautiful/7321141434.html",
-                "datetime": "2021-05-13 10:52",
-                "price": "$950",
-                "where": "danville / san ramon",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_kHo5pKlyKTbz_0rL0hu_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00U0U_kHo5pKlyKTbz_0rL0hu_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_kHo5pKlyKTbz_0rL0hu_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_6cYlud7bIGDz_0gc0ph_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_2OkKZnE60Goz_0jz0jb_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_92GDShGTx4ez_0tX0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_dLeaWJJZYNFz_0kk0pA_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_hz1jzVddhvPz_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_cHHi3OSENgmz_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_iB1KeToX5g8z_0nr0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "For sale is a beautiful ivory wedding dress with classic lines and modern contemporary details. In excellent condition.  From Justin Alexander's 2020 collection.Dress gown size 12. Altered to fit: bust 36/waist 30/hips 38Length was not altered.  From Designer's website: \u201cThis Mikado* ball gown with a sweetheart neckline is the perfect classic look with modern style details. Featuring a back cuff and illusion beading that your guests are sure to remember.\u201dDesigner: Justin Alexander Style #: 88110 See more photos and video on the designer\u2019s website:https://www.justinalexander.com/justin-alexander/collection/wedding-dresses/88110/ \u2022  Color - Ivory\u2022  Fabric: Mikado* and beading\u2022  Silhouette - Ball Gown \u2022  Neckline - Strapless, Sweetheart \u2022  Waistline - Natural \u2022  Trend - Clean and Modern, Preppy Chic \u2022  Train length - Chapel \u2022  Pockets - yes*Mikado fabric is an expensive blend of silk and nylon, which offers a smooth finish that has a slight grain in the texture. This is a durable material that creates wonderful structure and contours in wedding dresses. . Wedding dress is in excellent condition. It has been professionally dry cleaned and is ready for the next bride!Asking $950 (Retail = $1800)Located in Danville.  wedding, bride, brides, dress, dresses"
             }
         ],
         "great condition": [
@@ -817,20 +825,24 @@
                 "description": "Great small amp with big sound, perfect for acoustic guitar and vocal.It has 2 separate channels, working like new.It has some scratches on the outside.Price is not negotiable, thanks.New it sells for $350 + tax"
             },
             {
-                "id": "7313483448",
-                "name": "Basson Sound - Speaker Monitor",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-basson-sound-speaker/7313483448.html",
-                "datetime": "2021-05-13 13:42",
-                "price": "$500",
-                "where": "San Francisco",
+                "id": "7318414845",
+                "name": "Acoustic Control Corp Amps",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-acoustic-control-corp-amps/7318414845.html",
+                "datetime": "2021-05-13 16:40",
+                "price": "$700",
+                "where": "ingleside / SFSU / CCSF",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_gKgnG82wDwWz_0lM0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00e0e_gKgnG82wDwWz_0lM0t2_600x450.jpg"
+                    "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_600x450.jpg",
+                    "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_3QCuUq8HXFQ_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00101_i4oQVpcRYPa_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_1gsEXNVv42_0gw0co_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Basson Sound - Speaker MonitorUp for sale is a good condition, used Basson Speaker. Built for low frequences and high volume.The Basson B412 guitar cab is designed for smooth tone at extreme volume. The enclosure is air sealed with silicone to maintain consistent air volume, creating an air spring to prevent the audio speaker from excess travel. The result is less speaker distortion when you play low and loud. This consistency combined with 300W of power handling makes for a cab low enough for the 7-string enthusiast, and clear enough for the clean tone soloist. An amazing 480W output. Removable casters.B412 Guitar Cabinet Specifications:* 4x12 Eminence Legends* 300W power handling* 8 ohms* 101dB* 30-1/2W x 34-1/4H x 14-1/4D* 106 lbs.FEATURES* Incredibly smooth tone* Air sealed with silicon* All joints reinforced with a 1-1/4 brace* Tolex covered cabinet* 2 recessed metal 1/4 inputs* Removable wheels"
+                "description": "Acoustic 150 w/6- 10 speakers loud and clear , reverb and trem. $700/ b.o.Acoustic 270 w/ 2-15 &horn. Reverb, trem, fuzz, graphic eq. Horn is disconnected(don't need it) $700/b.o.No trades . Buy both for $1200"
             }
         ],
         "famous": [

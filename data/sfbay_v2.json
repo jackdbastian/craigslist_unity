@@ -2,6 +2,22 @@
     "materials": {
         "gravel": [
             {
+                "id": "7315926815",
+                "name": "Gravel",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/los-altos-gravel/7315926815.html",
+                "datetime": "2021-05-16 09:39",
+                "price": "$0",
+                "where": "los altos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg"
+                ],
+                "query": "gravel",
+                "category": "maa",
+                "description": "NO EMAILS PLEASETEXT Paul to arrange pickup on Aura Way in Los Altos:  Part of a whole house Estate salvage sale. Everything goes!Gravel is $1 /5 gallon bucket  $3/5 gallon bucket"
+            },
+            {
                 "id": "7320279035",
                 "name": "Glazed Porcelain Floor Tile - Gravel Road",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/brentwood-glazed-porcelain-floor-tile/7320279035.html",
@@ -18,62 +34,25 @@
                 "query": "gravel",
                 "category": "maa",
                 "description": "6 boxes of extras we didn't use.  $50 per box (9 tiles)Porch pickup in Brentwood.Cash, Venmo or Paypal.Daltile Saddle Brook XT 6 in. x 36 in. Glazed Porcelain Floor TileGravel Road XTSaddle Brook XT\u2122 is designed to defeat exterior challenges! This tile is slip-resistant and is easy to maintain and is great for commercial applications as well as any outdoor space. - Achieve the look of authentic hardwood in exterior spaces without the maintenance- Contains Daltile\u2019s patent-pending StepWise\u2122 technology for superior slip-resistance    Size: 6 x 36 Field Tile* - (5 7/8 x 35 7/16) - (15.00 cm x 90.00 cm)     Pieces Per Carton: 9    SQFT Per Carton: 13.05Info:https://floorzz.com/products/daltile-saddle-brook-xt-6-in-x-36-in-glazed-porcelain-floor-tile-gravel-road-xt"
-            },
-            {
-                "id": "7315926815",
-                "name": "Gravel",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/los-altos-gravel/7315926815.html",
-                "datetime": "2021-05-14 00:57",
-                "price": "$0",
-                "where": "los altos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg"
-                ],
-                "query": "gravel",
-                "category": "maa",
-                "description": "NO EMAILS PLEASETEXT Paul to arrange pickup on Aura Way in Los Altos:  Part of a whole house Estate salvage sale. Everything goes!Gravel is $1 /5 gallon bucket  $3/5 gallon bucket"
-            },
-            {
-                "id": "7317467755",
-                "name": "Retired Concrete Railroad Ties | Located In Iowa | Local Pick Up",
-                "url": "https://sfbay.craigslist.org/sfc/mad/d/retired-concrete-railroad-ties-located/7317467755.html",
-                "datetime": "2021-05-05 14:56",
-                "price": "$0",
-                "where": "We Ship Nationwide",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_bJPYiW2OQbnz_0jm0ew_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00W0W_bJPYiW2OQbnz_0jm0ew_600x450.jpg",
-                    "https://images.craigslist.org/00W0W_bJPYiW2OQbnz_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_6ul2jG3Z3K9z_0jm0ei_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_bDj6Np4tvj0z_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_dkp6M2bIFy5z_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00808_3bWQilAefuwz_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_enrpLNKcIc7z_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_5nQSr7Tmn3Ez_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00808_js2RWtWIk0xz_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/01717_5eibaE5nIKyz_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_bkCzH26YREoz_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/01414_3Ib2EctZaloz_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_fgmhyB15nOdz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_bYmGL5rElc2z_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_c1XJLU1PFyjz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/01212_2flqQg0pfBtz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_4e0E0jJ3AJRz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_dQ3llhXcUYiz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_ke0Yru4ljowz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_c67affZ2hqLz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_9fupjCBWlKVz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_fJ58bGaWeh1z_0jm0pO_50x50c.jpg"
-                ],
-                "query": "gravel",
-                "category": "maa",
-                "description": "Check Out Our Website>> https://www.repurposedmaterialsinc.com/concrete-railroad-ties/Concrete Railroad Ties**Quantities are limited and subject to inventory availability**backSTORY: Retired concrete railroad ties. Dimensions:  Length- 102',  Width- 11, Height- 8.5  Weight: 795 lbs. Each, Truckload Weight: Approx.  47,700 lbsPrice: $20Quantity Sold: IndividuallyLocation: Iowa WarehouseShipping Method: Local Pick-Up Only. Shipping is not offered on this item. Please visit Warehouse to pick-up.****************************************************************************************Concrete Railroad Ties -TRUCKLOAD Quantity**Truckload quantities are limited and subject to inventory availability**backSTORY: Retired concrete railroad ties. Dimensions:  Length- 102,  Width- 11, Height- 8.5  Weight: 795 lbs. Each, Truckload Weight: Approx.  47,700 lbsPrice: $1,080.00Quantity Sold: Truckload of 60 unitsLocation: Iowa WarehouseShipping Method: Flatbed. Call for quote 877-282-USED (8733)Shipping must be quoted on this item. Please call for quote.*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*Questions?? Call Us @ 877-282-USED (8733)Come view this item and SO MUCH MORE----repurposedMATERIALS1725 E Maple St, Maquoketa, IA 52060 OPEN to the PUBLIC | Hours: 9-5 pm | Monday -FridayWe Accept Cash, Check and ALL Major Credit CardsNo Appointment NecessaryWe Have Equipment to Load on SiteSign-Up for our Widely Followed \u201crepurposing\u201d E-Newsletter>> https://www.repurposedmaterialsinc.com/newsletter-sign-up _____________________________________________________________________________________We BUY \u2013 SELL \u2013 TRADE all kinds of materials! If you don\u2019t want it, WE MIGHT!Got Stuff? We're interested in your obsolete stuff...eg: materials, equipment, inventory, chemicals, machinery, product, etc...anywhere in the United States. If you don't want it, we might! Call Damon w/ details @ 303.321.1471.Learn more>> https://www.repurposedmaterialsinc.com/gotSTUFF_____________________________________________________________________________________Guard rail timbers, landscape timbers, landscape timber, land scape timber. landscape wood, landscape posts, post, posts, Railroad ties, rail road ties, rail road logs, railroad logs, los, telephone pole, telephone poles, retaining wall, landscape edging, landscape wood, fence post, fence posts, weathered wood, timbers, mantel, forest products, highway posts, highway timbers, pressure treated landscape timbers, pressure treated, green treated, green-treated, garden timber, garden wood, garden edging, recycled plastic railroad ties, 8ft, 8', 8 feet, 8 foot, treated timbers, Landscape timber edging, lumber, treated lumber, tractor supply landscape timbers, landscape timbers menards, 6x6 landscape timbers lowes, 8x8 landscape timbers, 6x6 landscape timbers price, landscape timbers home depot, landscape timbers for sale, landscape timbers walmart, Universal Forest Products: Wood Landscape Timbers, Landscape Timbers & Ties at Sutherlands, Fort Collins, Colorado Landscape Timber: Cedar Supply, guard rail, Searches related to guard rail timber, timber guardrail detail steel backed timber guardrail wood guardrail posts for sale wood guard rail details wooden guardrail suppliers timber guardrail cost steel backed timber guardrail details wood guard rail fence, Mantel, Mantle, Beams, Wood Mantel, Wood Fireplace Mantel, Fireplace Mantle, Timber Beams, Rustic Mantel, Fireplace Surrounds, Custom Mantels, Mantel Shelves, Corbels, Timber Mantles, Old Wood, Old Rustic Wood, Antique Mantels, Vintage Mantels, Reclaimed Wood, creosote, fence post, fencing, gate, chain link, corals, corrals, corner post, pens, cattle, post, posts, t post, tpost, pipe router table saw clamp woodworking delta rockler craftsman dewalt drill press jig blade woodworking sandermiter saw chop planer jointer shopsmith vice vacuum nail gun bandsaw scroll shaper circular lathe Rockwell ryobidisc ash walnut maple oak pine mahogany douglas fir hardwood cedar birch cherry dremel bosch cordless, Maderas protectoras, maderas de paisaje, madera de paisaje, madera de tierra. madera de paisaje, postes de paisajismo, postes, postes, amarres de ferrocarril, lazos de ferrocarril, troncos de ferrocarril, troncos de ferrocarril, los, poste de tel\u00e9fono, postes de tel\u00e9fono, muro de contenci\u00f3n, ribete de paisaje, madera de paisaje, poste de cerca, postes de cerca, madera desgastada, maderas, repisas, productos forestales, postes de carreteras, maderas de carreteras, maderas de paisaje tratadas a presi\u00f3n, tratadas a presi\u00f3n, tratadas en verde, tratadas en verde, madera de jard\u00edn, madera de jard\u00edn, ribete de jard\u00edn, amarres de pl\u00e1stico reciclados, 8 pies, 8 ', 8 pies, 8 pies, maderas tratadas, bordes de madera de paisaje, madera aserrada, madera tratada, suministro de tractores macetas de paisajismo, jardines de maderas paisaj\u00edsticas, 6x6 lowes de maquinarias de paisaje, maderas paisaj\u00edsticas de 8x8, precio de maderas paisaj\u00edsticas de 6x6, dep\u00f3sito de viviendas de maquinarias de jardiner\u00eda, macetas paisaj\u00edsticas en venta, maderas paisaj\u00edsticas Walmart, Buffalo Rancher, Bridge Timbers, Relayed, Concrete Blocks, barriers, barricade, jersey barriers, parking stops, signs, anchors, truck stop, retaining wall, sand pit, pit, gravel, stones, guard, guard rail Concrete \u2013 barrier, block, sidewalk, precast, Portland, cement, mixer, retaining, wall, traffic, barricade, traffic, jersey, krail, k-rail, panel, jj hooks, j-j hooks, clamp, highway,Barrier, barricade, block, truck stop, retaining wall, Concrete Blocks, barriers, barricade, jersey barriers, parking stops, signs, anchors, truck stop, retaining wall, sand pit, pit, gravel, stones, guard, guard rail Concrete - barrier, block, sidewalk, precast, Portland, cement, mixer, retaining, wall, traffic, barricade, traffic, jersey, krail, k-rail, panel, jj hooks, j-j hooks, clamp, highway, concrete highway barriers for sale concrete barriers cost concrete barriers weight concrete barrier blocks for sale stackable concrete barriers concrete barriers for sale near me cement barrier blocks concrete barriers for rent, parking stop, parking blocks, retaining wall,Shipping AvailableIndustrial Thrift StoreBelow is a bit of about our mission/concept of repurposing.First off, what are some examples of repurposing? It is taking a byproduct or waste stream such as a retired street sweeper brush and giving it a 2nd life as a back scratcher for horses or cattle. It is taking a decommissioned fire hose and giving it an extended life as a boat dock fender. It is taking an obsolete ski lift cable and giving it a second life as hand railing in a luxury condo building. In your efforts to reach Zero Waste, do you have any byproducts or waste from projects now, or coming up, that would be a candidate for repurposing? Or, do you have any surplus/obsolete inventories or idle equipment you'd like to deal on. . . maybe items that have been depreciated out, over orders on a job, inventory from a project that got cancelled, etc.?We look forward to being a resource on any byproducts, waste, inventories, or equipment that would be a candidate for repurposing! To date, our company has helped a number of organizations through repurposing: US Army, Denver Broncos, City of Chicago, Nestles, BNSF Railroad, Oklahoma State University, Purina, US National Forest Service, Campbells Soup, State of Wyoming, Paramount Pictures, and many, many more!_________________________________________________________________________________________________________________________________________________We are America's largest Industrial Thrift Store! We have yards in Denver, Chicago, Atlanta, Dallas, and Philadelphia. Our main office is in Denver 303.321.1471_________________________________________________________________________________________________________________________________________________Items we deal in- marine, stock, bar, guide rails, wear plates, rollers, conveyor augers, bin and hopper lines, chutes, bearings, bushings and gears, paver, rock, stone, siding, glass, tile, wood, lumber, timber, vinyl, floor, window, light, carpet, paint, epoxy, pallet, shelf, stain, plywood, oak, deck, decking, shingle, roof, concrete, cement, rubber, door, countertop, cabinet, plumb, electric, granite, marble, hose, brick, John deere, toro, lawn, mower, grass, hay, alfalfa, dog, cat, chicken, pig, bird, cow, horse, cattle, goat, honda, snow, blower, gate, fence, baler, tractor, plow, trailer, saddle, combine, chain, saw, New Holland, Case, Ford, Kubota Massey Ferguson welder dump, tool, stock, tank, bobcat, skidsteer, scraper, bulldozer, fork lift, telehandler, trailer, tractor, freightliner, mack, peterbuilt, bridge, crane, winch, lift, beam, steel, joist, truss, Volvo, crane, generator, tank, fuel, gas, diesel, ford, Chevrolet, lift, bucket, 4x4, tire, wheel, loader, road, grader, excavator, track, hoe, front, end, genset, hydraulic, phase, Caterpiller, John Deere, Komatsu, power, unit, kw, tool, plow, blade, bed, steel, aluminum, portable, engine, compressor, truck, Kenworth, washer, box, axle, paint, GMC, chipper, pump, concrete, backhose, grapple, attachment, spreader, natural gas, propane, heavy, light, belly, dump, flat, dual, scissor, terrain, rough, motor, battery, transmission, pressure, genie, Vermeer, international, cummins, Detroit, drill, rig, water, used, volt, phase, plant, module, container, hyster, reefer, shape, condition, repair, gallon, pound, ton, mini, boom, lease, spray, power, air, electrical, press, drill, mill, lp, fiberglass, plate, block, part, vacuum, scale, vinyl, cover, rack, system, gym, court, gymnasium, basketball, volleyball, floor, protect, school, wood, level, probe, tank, back scratcher, container, Cable, fencing, coral, pens, farm, ranch, guy wire, guide wire, post, cow, barrier, stop, Soaker, portable tire wash, concrete tire wash, Monster wash, Washer, Stanton systems, wheel , industrial, mine, quarry, dirt, dirty, car wash, cleaner, aggregate, pit, boat, dock, pvc membrane welder, hot air welder, BAK welders, TPO membrane, Hypalon, EPDM, roofon, weldmaster, Miller, seamrover, elite air, Fencing, Wire, Mesh, remesh, structural mesh, standard welded wire reinforcement and concrete pipe reinforcement, reinforcing mesh, welded wire"
             }
         ],
         "wood": [
+            {
+                "id": "7321416654",
+                "name": "75x52\u201d wood window",
+                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7321416654.html",
+                "datetime": "2021-05-16 09:38",
+                "price": "$75",
+                "where": "Presidio Heights",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "No EMAILS PLEASE.TEXT Paul to arrange pickup on Washington in San Francisco- (65O)2I8-859675x52 fixed dual glazed wood window to be removed by contractor $75"
+            },
             {
                 "id": "7322458416",
                 "name": "Old Windows (Wood Framed) $29 Ea",
@@ -107,32 +86,34 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "I have about 360 sq feet of nice engineered flooring. They are pretty thick, i think 5mm.  Text me for fastest response."
-            },
-            {
-                "id": "7311135947",
-                "name": "BRAND NEW MAHOGANY SOLID WOOD",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-mahogany-solid-wood/7311135947.html",
-                "datetime": "2021-05-16 08:10",
-                "price": "$0",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_1KGex0B3bzkz_0x40oM_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_arQXh4bYblEz_0xT0po_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_80e2zp3lXOsz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_3duzSuf9UgOz_0lL0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I HAVE MANY MANY PIECES AND BOARDS OF MAHOGANY WOOD SIZE AS PICTURES AVAILABLE FOR SALE ONLY $.99 AND UP I ONLY RESPOND EMAILS WITH PHONE NUMBER"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7319959794",
+                "name": "Vintage Wedding Dress for halloween or theatrical costume",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-wedding-dress-for/7319959794.html",
+                "datetime": "2021-05-16 09:55",
+                "price": "$60",
+                "where": "SOMA / south beach",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00H0H_iCgx7LqvNHv_06V0ee_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00H0H_iCgx7LqvNHv_06V0ee_600x450.jpg",
+                    "https://images.craigslist.org/00H0H_iCgx7LqvNHv_06V0ee_50x50c.jpg",
+                    "https://images.craigslist.org/00000_iBTBg6329K0_06V0ee_50x50c.jpg",
+                    "https://images.craigslist.org/00202_jZB3MJzieH0_06V0ee_50x50c.jpg",
+                    "https://images.craigslist.org/01010_6IQaWvtVPRY_06V0ee_50x50c.jpg",
+                    "https://images.craigslist.org/00000_8rnqF8LjyxD_0tg0ee_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_kn0TXkVamU6_0tg0ee_50x50c.jpg",
+                    "https://images.craigslist.org/01515_6FbL7uVSme7_0tg0ee_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Designer Wedding Dress.    Size small to medium ... unmarked - guessing.    3 pieces... crown with vale, Lacey button down dress (no zippers) with unique clip on cape - IDEAL for Halloween Costume.    Being sold as-is pictured, no other details known.   Please examine pic and google for more info.   No try-on's, show up to buy as-is.    ONLY $60 cash pickup in SOMA, $80 Venmo or Paypal to Ship.   include your cell in reply."
+            },
             {
                 "id": "7319285662",
                 "name": "Vintage Crocheted Newborn or Baby Doll Clothing.",
@@ -192,24 +173,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage Snapback from the 90sIt is brand-new with tags.Hat has been stored for about 30 years so it might have some dust on it.NHL / La Kings - 400.00MLB (2) San Jose Sharks - 100.00NFL (2) Kansas City Chiefs 100.00NFL / Atlanta Falcons 50.00NFL / Dallas Cowboys 50.00NBA / Phoenix Suns - 50.00 Call or Text41.5.299.16.35"
-            },
-            {
-                "id": "7315478265",
-                "name": "Vintage Burmese Karen Handwoven Sling Bag",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-burmese-karen-handwoven/7315478265.html",
-                "datetime": "2021-05-16 08:52",
-                "price": "$0",
-                "where": "Oakland",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_9Z2ghwVEK1d_0aD0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00n0n_9Z2ghwVEK1d_0aD0CI_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_9Z2ghwVEK1d_0aD0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_arc47X7P5sW_0c50CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Natural fiber, handwoven by a Karen tribeswoman in N Burma(Myanmar). I acquired it while trekking amongst the hill tribes north of Mandalay late last century.  Not a tourist item; unused, and on display on my living room wall ever since.14 x 16, the bag itself. The strap is as in the photo.$75"
             }
         ],
         "beaded": [
@@ -331,74 +294,72 @@
         ],
         "wedding dress": [
             {
-                "id": "7322448515",
-                "name": "Size 0 - Vintage Jessica McClintock Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-size-vintage-jessica/7322448515.html",
-                "datetime": "2021-05-16 08:46",
+                "id": "7319959794",
+                "name": "Vintage Wedding Dress for halloween or theatrical costume",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-wedding-dress-for/7319959794.html",
+                "datetime": "2021-05-16 09:55",
                 "price": "$60",
-                "where": "sunset / parkside",
+                "where": "SOMA / south beach",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00g0g_1ZLZn5wpEgkz_0CI0sU_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00H0H_iCgx7LqvNHv_06V0ee_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00g0g_1ZLZn5wpEgkz_0CI0sU_600x450.jpg",
-                    "https://images.craigslist.org/00g0g_1ZLZn5wpEgkz_0CI0sU_50x50c.jpg",
-                    "https://images.craigslist.org/01717_jaLjby6Sl4yz_0CI0sU_50x50c.jpg",
-                    "https://images.craigslist.org/00202_gDDEyEK4jAsz_0CI0sU_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_21qNJgsNxSBz_0CI0sU_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_lNV8ohZaxJ1z_0CI0sU_50x50c.jpg"
+                    "https://images.craigslist.org/00H0H_iCgx7LqvNHv_06V0ee_600x450.jpg",
+                    "https://images.craigslist.org/00H0H_iCgx7LqvNHv_06V0ee_50x50c.jpg",
+                    "https://images.craigslist.org/00000_iBTBg6329K0_06V0ee_50x50c.jpg",
+                    "https://images.craigslist.org/00202_jZB3MJzieH0_06V0ee_50x50c.jpg",
+                    "https://images.craigslist.org/01010_6IQaWvtVPRY_06V0ee_50x50c.jpg",
+                    "https://images.craigslist.org/00000_8rnqF8LjyxD_0tg0ee_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_kn0TXkVamU6_0tg0ee_50x50c.jpg",
+                    "https://images.craigslist.org/01515_6FbL7uVSme7_0tg0ee_50x50c.jpg"
                 ],
                 "query": "wedding dress",
                 "category": "cla",
-                "description": "Vintage (1990's) Jessica McClintock Formal Lace and Satiny Wedding Dress. Size zero in good condition.  Protected in a garment bag, comes with a matching vail.  $60 cash only."
+                "description": "Vintage Designer Wedding Dress.    Size small to medium ... unmarked - guessing.    3 pieces... crown with vale, Lacey button down dress (no zippers) with unique clip on cape - IDEAL for Halloween Costume.    Being sold as-is pictured, no other details known.   Please examine pic and google for more info.   No try-on's, show up to buy as-is.    ONLY $60 cash pickup in SOMA, $80 Venmo or Paypal to Ship.   include your cell in reply."
             },
             {
-                "id": "7314284166",
-                "name": "Monique Lou Wedding Dress",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-monique-lou-wedding-dress/7314284166.html",
-                "datetime": "2021-05-16 08:43",
+                "id": "7322473858",
+                "name": "Wedding dress brand Marisa size 12",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/aptos-wedding-dress-brand-marisa-size-12/7322473858.html",
+                "datetime": "2021-05-16 09:39",
+                "price": "$50",
+                "where": "aptos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01313_ar5JW33OLQ1z_0ew0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01313_ar5JW33OLQ1z_0ew0jm_600x450.jpg",
+                    "https://images.craigslist.org/01313_ar5JW33OLQ1z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00909_hsSlg2twj1qz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_cFm1WRG7w5Jz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_aHoz7M30ajpz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00202_2eOBpM9XKBlz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00101_5qgo8Mnfh37z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00505_jZoAVBmkruvz_0ew0jm_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Used, needs dry cleaning"
+            },
+            {
+                "id": "7311858438",
+                "name": "NEW La Sposa Wedding Dress - Never Worn",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-new-la-sposa-wedding-dress/7311858438.html",
+                "datetime": "2021-05-16 09:38",
                 "price": "$200",
-                "where": "santa cruz",
+                "where": "san jose west",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_f88B1hKXbZTz_0d40hq_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01010_f88B1hKXbZTz_0d40hq_600x450.jpg",
-                    "https://images.craigslist.org/01010_f88B1hKXbZTz_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_ejNJaDGAVpCz_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_eWM2Wua0xpFz_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/00909_1sZkEJ4WhKtz_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_dUPXt56nm8zz_0hq0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00202_1kmndwnU5Prz_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/00000_4chcmTVrezIz_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/00505_hwcn1BV2Wi9z_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_caGHmpnjCohz_0hq0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00505_ersvGKTxk2Cz_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/00505_2SCLHTl9165z_0d40hq_50x50c.jpg",
-                    "https://images.craigslist.org/00404_fDKqTg9HZJwz_0d40hq_50x50c.jpg"
+                    "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
+                    "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_kbTSWex9WdDz_0id0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_hXOrLJW4j1tz_0gN0o6_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_1V69cjnhvsrz_0gw0pA_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_iAInrIzHZRSz_0fF0iv_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_i9Pu9FVbNnxz_08V0hr_50x50c.jpg"
                 ],
                 "query": "wedding dress",
                 "category": "cla",
-                "description": "This dress is simple yet very classy and elegant.Never been Worn tags still attached.Gorgeous!Size 4 mediumIt has a small amount of bling in the embroidery very subtle It tappers down into the body and the ta-rain.Stunning!$200.00"
-            },
-            {
-                "id": "7322424551",
-                "name": "Adrianna Papell Wedding Dress Size 8",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-adrianna-papell-wedding-dress/7322424551.html",
-                "datetime": "2021-05-16 07:49",
-                "price": "$600",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00v0v_gpMjFCuxnSD_0jm0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00v0v_gpMjFCuxnSD_0jm0t2_600x450.jpg",
-                    "https://images.craigslist.org/00v0v_gpMjFCuxnSD_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_4ZnfTHFgUZb_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_hFZ1JrU04Ut_07Z0gp_50x50c.jpg",
-                    "https://images.craigslist.org/01010_qVSQ7aGuz8_0dL0kE_50x50c.jpg",
-                    "https://images.craigslist.org/01212_fVIpOu8V0g6_0cS0jc_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "This size 8 wedding dress was bought off the rack from Gesinees in Concord CA. No alterations have been made with the exception of having a bustle added to the back to pin up the dress for the reception. It has been dry cleaned however they couldn't get the bottom 100% back to its original color however it's not that noticeable (see photos). Serious buyers only. Asking $600, originally $1200+ new. Local pick up only. (I live on the concord / Clayton boarder)"
+                "description": "Taffeta La Sposa Fuego Traditional Wedding Dress (was $1415)Size: US 10This dress is brand new, never worn. Could be hemmed and altered to fit any smaller size.Color is Off White.For more information or pictures, message us. Neckline: Strapless Silhouette: A-line Train: Chapel Height With Heels: dress not hemmed.Note:SIZES ARE BRIDAL SIZE, NOT STREET SIZE!"
             }
         ],
         "great condition": [
@@ -926,6 +887,30 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
+                "id": "7321323218",
+                "name": "Behringer DM12 12-voice true analog polyphonic synthesizer",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/san-mateo-behringer-dm12-12-voice-true/7321323218.html",
+                "datetime": "2021-05-16 09:33",
+                "price": "$699",
+                "where": "san mateo",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00A0A_9xUdi3TNQ0n_09G05O_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00A0A_9xUdi3TNQ0n_09G05O_600x450.jpg",
+                    "https://images.craigslist.org/00A0A_9xUdi3TNQ0n_09G05O_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_6UeMf4YROgiz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_fZLmhfrov1jz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_4hxIRR6rE0rz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_gJh2FB1jtsFz_10l0KL_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_aZ5Y6hr0zjXz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_iL5Fh0TIc31z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_2LXplgyfI0uz_1320MM_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Since you see this ad now, it means that Deep Mind 12 is STILL AVAILABLE.Behringer's famous first analog synth, Deep Mind 12. True analog, 12-voice poly, 4x effects engines, 8x modulation matrix, 1024 patches onboard. Commonly known as Juno on steroids, the modern incarnation of Juno-106 (for the look and bunch of buttons and sliders), it's actually closer to more advanced Juno-60 and JX series. Think JX-10 with all these Juno sliders and  a PG-800 programmer built in. I had and have most of classic analog polysynths, the last one was JX-10 with Vecoven upgrade (cost me over $1300), but even that one doesn't come close to DM12 in sound, features and ease of use. Nothing can beat the feeling of just grabbing a slider and adjusting the value right away, instead of recalling parameter first, then adjusting it, then recalling another, like on JX. You can even play with two or more sliders at once, like cutoff and resonance. There's no way you can do it on any JX.12-voice polyphony does make the difference, you'll never have cut notes as it happens with 6-voice synths like Juno, JX-8P or Polysix.DM12 is analog fanatics' heaven: everything you wished an old Juno or JX had is here, already implemented. IMHO it's the dream analog polysynth: plenty of sliders on surface for instant tweaking like on Junos and Jupiters, and a large graphic display for in-depth editing (no external programmer or software editors are needed). DM12 has a lot more editable parameters than surface allows, so combination of physical sliders for most critical parameters and on-screen menus for everything else is the best, like for effects parameters (it has no less than 4 separate effects engines made by TC Electronics, makers of legendary studio rack effect units like 2290, M-One and D-Two). Plus, an insane 1024 memories onboard (instead 32 to128 on classics) make it quite usable even for live performances. I'd take it over Nord Lead, Novation Peak or Prophet-6 any day!DM12 are becoming rare, since they are no longer produced, and Behringer now is focusing on producing the exact copies of the classic synthesizers. DM12 is an original design, and while it has a lot of layout and sonic similarities with Junos, it's far more advanced and superior to all of them, in a small package with solid all-metal design.  Watch videos for sound samples, more detailed overview of features and comparisons to classic synths.https://www.youtube.com/watch?v=Ynm44MeqPfk&feature=emb_logoVery detailed tutorial: https://www.youtube.com/watch?v=So8B6HJ2chQThis DM12 is in great shape, practically new, not even a single scratch anywhere. Selling only because I mostly play live and need more universal synth like Kronos or Montage. My price is fair: they are no longer produced and becoming rare (especially in new condition like mine). Be way of online buys: some sellers won't tell you everything, and in case of problems you'll be paying for return shipment anyway, IF seller accepts returns (most don't).Low-ball offers: No reply means that your offer went straight to trash. I don't need to know how much they are on eBay, or that somebody is selling it for less or is willing to give it to you for free: if he does, go and get that one.Thanks for looking!"
+            },
+            {
                 "id": "7314827412",
                 "name": "1920s Oscar Schmidt stencil guitar - great shape , great tone",
                 "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-1920s-oscar-schmidt/7314827412.html",
@@ -952,31 +937,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "1930s Oscar Schmidt stencil guitar featuring a Hawaiian scene.Solid birch\u2014the shape and silhouette is quite like their famous Stella. It has that deep, satisfying sound too.There are some repaired cracks along the upper bout, scuffs and stencil discoloring, but generally the guitar is in great shape. Stamped on the top of the headstock is \u201cFATDOG 93.\u201dGoing with the theme, I have set this up, with a vintage nut riser, to be played lap style like a Hawaiian guitar.Without the nut extender the relatively high action measures 1/16\u201d at first fret, 2/16\u201d at seventh fret and 3/16\u201d at twelfth fret (see last photos).In all, an enjoyable guitar - both visually and sonically - that is a playable work of art.Comes with inexpensive chipboard case.Local pick up only; CASH ONLY."
-            },
-            {
-                "id": "7322413914",
-                "name": "2020 Eastman E10OOSS/V",
-                "url": "https://sfbay.craigslist.org/scz/msg/d/aptos-2020-eastman-e10ooss/7322413914.html",
-                "datetime": "2021-05-16 07:22",
-                "price": "$1,200",
-                "where": "Aptos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_jDnKSrXHot7z_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00V0V_jDnKSrXHot7z_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_jDnKSrXHot7z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_8fwniQNrqYDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_e20b8vozeuWz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01717_7h2d6DRP9hIz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_d0VMgEsUzDmz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_3oHLDyj2kB4z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_kxB9zsPDNt4z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_kZJT9fnqlbzz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01717_aKDZ0rnyodCz_0t20CI_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "If you\u2019re looking for a small bodied Gibson style guitar, this is as good as it gets. Honestly better than most Gibsons, with excellent tone woods, X bracing, and a thin quality finish that Eastman is famous for. This guitar can do it all. Frets are nicely done, neck is straight and easy to play, and looks and feels broken in like you want out of a reliced guitar. Case is in excellent condition."
             }
         ]
     }

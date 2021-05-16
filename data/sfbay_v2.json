@@ -97,6 +97,46 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7321407156",
+                "name": "Vintage Motor-Cycle Style Leather Jacket size 6- 8 ladies",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-motor-cycle-style/7321407156.html",
+                "datetime": "2021-05-16 13:47",
+                "price": "$150",
+                "where": "marina / cow hollow",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00G0G_5oN7MA1YcjR_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00G0G_5oN7MA1YcjR_600x450.jpg",
+                    "https://images.craigslist.org/00G0G_5oN7MA1YcjR_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_6PA4TqYfTRr_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_1SRDhmMdezy_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_2kakG8fuKLX_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Distressed brown leather. Ladies size 6-8+ish - on a 6, hangs loose.Very HEAVY weight / distressed brown leather. Very cool details: arm and chest zippers, pockets, braided leather strip details and buckle detailsOne button missing - still uber-cool! Adds to the authenticity NEVER exposed to any smoke (never worn in any clubs!).Never exposed to pets.No stains or tears.Just distressed leather.Venmo / cash only."
+            },
+            {
+                "id": "7322590899",
+                "name": "Lucky Brand Men's jeans, NWOT",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-lucky-brand-mens-jeans-nwot/7322590899.html",
+                "datetime": "2021-05-16 13:40",
+                "price": "$10",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00X0X_hhnFd0702SAz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00X0X_hhnFd0702SAz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00X0X_hhnFd0702SAz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_gkOBjsH9owGz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_b8QfOftoGLQz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_2A67Szl3Vvnz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "NWOT Lucky Brand Men's JeansNew and unworn.  Size 33 x 34.  Medium-Dark denim, style 361 Vintage Straight.Smoke-free, pet-free, COVID-free home.Cash only.  Buyer transports."
+            },
+            {
                 "id": "7322584325",
                 "name": "COWBOY BOOTS/ Vintage",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/vineburg-cowboy-boots-vintage/7322584325.html",
@@ -114,47 +154,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage Cowboy Boots by CORSINAColor: BlackSays Size 9, but fits like 8-8 1/2 Women\u2019sAwsome Vintage 80\u2019s CORSINA flat Western style bootsPull on Style with minimal stacked heel12\u201d high from ground to topEmbossed snake skin Print Leather InsertsGreat looking and Very Comfortable"
-            },
-            {
-                "id": "7312813349",
-                "name": "Vintage Braefair men's 50\" trench coat cl\u00e1sico gabardina saco",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-braefair-mens-50/7312813349.html",
-                "datetime": "2021-05-16 13:11",
-                "price": "$140",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00v0v_j7uvSwK7nSMz_07R0fu_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00v0v_j7uvSwK7nSMz_07R0fu_600x450.jpg",
-                    "https://images.craigslist.org/00v0v_j7uvSwK7nSMz_07R0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_d9kyTbFAgvhz_08I0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_dFEai7yyKOMz_07K0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_k7RXPFrOsTCz_07u0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_fSXvetCxLoYz_09s0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_hwnR8TsQmIwz_08L0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_gHJI2tSwd7Vz_0f20dQ_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Here is a gently worn, vintage 1970s beige trenchcoat by Braefair, featuring warm inner lining on zipper for easy attachment and removal, double-breasted closure with 4 large buttons, hook-and-eye collar closure, belted cuffs and a storm shield. In very good to excellent condition - no visible damage anywhere.50 inches long. Made in Korea from cotton, polyester, acrylic, wool, nylon.$140. Cash only. Buyer picks up.Joseph JoS A Bank Banana Republic Michael Kors Patagonia Eddie Bauer London Fog Canada Goose Calceus EricDress Eric Dress Hayes West Louis Kuhl Carhartt Duluth LL Bean Wantdo"
-            },
-            {
-                "id": "7315620379",
-                "name": "[New] Weatherproof Vintage Ladies' Comfy Vest",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-new-weatherproof-vintage/7315620379.html",
-                "datetime": "2021-05-16 13:07",
-                "price": "$7",
-                "where": "berkeley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00N0N_7L9EyBq8Ujq_0aY0aY_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00N0N_7L9EyBq8Ujq_0aY0aY_600x450.jpg",
-                    "https://images.craigslist.org/00N0N_7L9EyBq8Ujq_0aY0aY_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_ainN78qsdcd_0aY0aY_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "I have 3 size vests. https://www.amazon.com/Weatherproof-Vintage-Ladies-Comfy-White/dp/B08HST5FNPXXL : $7L: $7M: $7If you buy all 3 items, $20Cash only"
             }
         ],
         "beaded": [
@@ -831,24 +830,25 @@
                 "description": "Great small amp with big sound, perfect for acoustic guitar and vocal.It has 2 separate channels, working like new.It has some scratches on the outside.Price is not negotiable, thanks.New it sells for $350 + tax"
             },
             {
-                "id": "7322550725",
-                "name": "Romanian solid top Dreadnought = Martin D18",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/rohnert-park-romanian-solid-top/7322550725.html",
-                "datetime": "2021-05-16 12:51",
-                "price": "$279",
-                "where": "Oakland or Rohnert Park",
+                "id": "7322594804",
+                "name": "Ampeg SVT 810AV",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-ampeg-svt-810av/7322594804.html",
+                "datetime": "2021-05-16 13:49",
+                "price": "$800",
+                "where": "sunset / parkside",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_hW87I6i318iz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00909_lQoyTREsmgKz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00h0h_hW87I6i318iz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_hW87I6i318iz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_8tgWPmnzgu9z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_kIDUZZgRNfz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_ceSvHasScyBz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00909_lQoyTREsmgKz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00909_lQoyTREsmgKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_cscjeG4m9GLz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_cvRjhqsEFesz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_2ZN0ixwZmn8z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_ddSikfXAmuwz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "This is a REALLY good sounding x commie guitar made in Romania with a solid top, This guitar will hold it's own against vintage MARTIN D18's!!! It is a canon! HERE IS A REVIEW I just received: I have that same model guitar , I have been playing for a very long time and I absolutely love the guitar .I have very fine Martin guitars that are prewar vintage and I find myself reaching for my X-commie most of the time . I perform on stage with my X-commie and it sounds so very , very good . Good luck on your sale I hope someone realizes what a fine guitar it actually is.   Good Luck on your sale .     Chuck  It has a great sound really good action and a nice neck, it looks like the back and sides are maple in any case it has a pretty robust sound for a maple back and sides guitar it's not overly bright and it has a really good bass in addition to a really good treble. Here is part of a Harmony Central (I googled Montana MT-204) review, which I agree completely with:This guitar has incredible sound qualities, from high clear bell like tones to low loud bass and good mid range. i believe it would work well for most any style of music this guitar really projects. everyone who has ever played it has said basically the same thing with a look of surprise, This guitar has great tone! the surprise comes from the fact that nothing about the guitars appearance would suggest that it was anything special."
+                "description": "This 8x10 cab has served me well, sounds great and is very loud. It has played a handful of shows, some rehearsals. Spent most of its time in storage. Its a bit dusty and has some wear on the vinyl, but overall in good shape. The silver screen looks quite classy up on stage. Pickup Only."
             }
         ],
         "famous": [

@@ -272,6 +272,22 @@
         ],
         "gloves": [
             {
+                "id": "7322373826",
+                "name": "Ladies Fuzzy Gloves One Size Pink Color",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/vallejo-ladies-fuzzy-gloves-one-size/7322373826.html",
+                "datetime": "2021-05-16 04:58",
+                "price": "$1",
+                "where": "vallejo / benicia",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00s0s_glOYaD2ind9z_0bC0ft_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00s0s_glOYaD2ind9z_0bC0ft_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Stop by between the hours of 10 am and 7 pm daily1509 Rice Street in Vallejo"
+            },
+            {
                 "id": "7308855333",
                 "name": "Head Junior Ski Gloves Size Large *** BRAND NEW ***",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/head-junior-ski-gloves-size-large-brand/7308855333.html",
@@ -308,26 +324,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "I have a 3 pack of Wells Lamont Leather work gloves for sale.  Never opened, in original sealed packageAmazon sells it for $50, I'm selling this one for $30 https://www.amazon.com/Wells-Lamont-Premium-Leather-X-Large/dp/B00Y3OVFMQ/ref=asc_df_B00Y3OVFMQ/?tag=hyprod-20&linkCode=df0&hvadid=310054314911&hvpos=&hvnetw=g&hvrand=6205822267755036434&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061320&hvtargid=pla-572577013656&psc=1Patented Precurved Design: Our Patented Construction makes our precurved gloves the most comfortable you can buy. The longer glove back pattern required make this more expensive leather construction. The shorter palm pattern lets the leather hug the palm eliminating bunching of excess material in the area. This allows more natural, treer hand movement and the meas less hand fatigue. 100% recyclable"
-            },
-            {
-                "id": "7321121378",
-                "name": "Snow pants/ snow gloves/ jackets/ kids helmet",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/campbell-snow-pants-snow-gloves-jackets/7321121378.html",
-                "datetime": "2021-05-15 17:05",
-                "price": "$0",
-                "where": "campbell",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_97ka0BBOoJxz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_97ka0BBOoJxz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_97ka0BBOoJxz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_1sQrgS2zBsDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_djyuEAruHZXz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_isNppd37wlGz_0oc0t2_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "I have some snow stuffs for kids and adult. Still in very good condition. Nothing goes wrong with them. I just want to clean up our closets. Sporting essential women snow pants size S $20Sporting essential kid snow bib black size 6 $15Gap toddler jackets navy size 3T $10Spider boy jacket size 5 $10"
             }
         ],
         "wedding dress": [

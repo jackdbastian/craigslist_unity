@@ -456,6 +456,24 @@
     "sports": {
         "autograph": [
             {
+                "id": "7314562087",
+                "name": "Team Autographed Harlem Globetrotters Basketball signed Pennant",
+                "url": "https://sfbay.craigslist.org/nby/spo/d/santa-rosa-team-autographed-harlem/7314562087.html",
+                "datetime": "2021-05-16 00:33",
+                "price": "$5",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_f77MaHDJoZf_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_f77MaHDJoZf_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_f77MaHDJoZf_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_cYkNsUqdaBA_50x50c.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "2007 Signed Harlem Globetrotters Pennant.  I can't make which signatures are which, but the roster for the 2007 year was:-Anthony Ant Atkinson-Sun Ming Ming-Mario West-Brent Petway-Marcus Kennedy1 tack holes in each corner.First $5 gets it."
+            },
+            {
                 "id": "7312143617",
                 "name": "SHARKS AUTOGRAPHED LARGE PICTURE",
                 "url": "https://sfbay.craigslist.org/pen/spo/d/menlo-park-sharks-autographed-large/7312143617.html",
@@ -497,26 +515,6 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "Brand new autographed John Force 1995 NHRA Champion Castrol GTX Vintage SnapBack Hat.Has been in plastic casing since 1995.Cash or Venmo Please."
-            },
-            {
-                "id": "7315758652",
-                "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
-                "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7315758652.html",
-                "datetime": "2021-05-15 08:34",
-                "price": "$200",
-                "where": "emeryville",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_50x50c.jpg",
-                    "https://images.craigslist.org/00606_dl5A14pkVP1_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_b3QPJv2lUaG_0fu0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_hTAqH5v13hg_0fu0fu_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "Pro Staff Autograph RF97 Tennis RacquetHard to find Limited 'Tuxedo' Black and White versionBrand new. Never played4\u215c gripRacquet and bag and strings combos availableCross Section 21.5 FBHead Size 97 sq in - 625.8 sq cmString Pattern 16x19Unstrung Balance 30.5CM/12 Pts HLSeries Pro StaffUnstrung Weight 340 gLength 27 in - 68.6 cm$200"
             }
         ]
     },

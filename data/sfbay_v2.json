@@ -143,6 +143,26 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7311869670",
+                "name": "Vintage US Military M65 Field Jacket Size Short Medium",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-us-military-m65-field/7311869670.html",
+                "datetime": "2021-05-17 15:16",
+                "price": "$50",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Q0Q_dUv6OqOmtA8_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Q0Q_dUv6OqOmtA8_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00Q0Q_dUv6OqOmtA8_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_2rRjiikXRhE_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_8k1uVV74Aq4_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_6uy39ZVb69J_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Belonged to a family member who was in the Vietnam war. It has paint stains on it. Size Short Medium. Vintage Marines military jacket."
+            },
+            {
                 "id": "7317576193",
                 "name": "Vintage Skin Gear Leather Trench Coat",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-skin-gear-leather/7317576193.html",
@@ -186,29 +206,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Majestic SF Giants jacket in excellent condition.   Only worn a few times.  $100"
-            },
-            {
-                "id": "7321279772",
-                "name": "Vintage Nike SB Elephant Print Windbreaker",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/daly-city-vintage-nike-sb-elephant/7321279772.html",
-                "datetime": "2021-05-17 14:51",
-                "price": "$250",
-                "where": "daly city",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01616_bPtTabSFQKNz_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01616_bPtTabSFQKNz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/01616_bPtTabSFQKNz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_6n70OMBDUrIz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_bbNCH9uKvjKz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_8zfwneWfJvSz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_eVLKsj6o9y6z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_4GJYtmTs7vKz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_i7wsBwQoubzz_0t20t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Nike SB Elephant Print Windbreaker in excellent condition.  Only worn less than a handful of times.  Sz XL$250Jordan, Yeezy, Supreme"
             }
         ],
         "beaded": [
@@ -347,6 +344,30 @@
         ],
         "wedding dress": [
             {
+                "id": "7321897329",
+                "name": "New Casablanca Primrose Wedding Dress - Size 6 unaltered & unworn",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-new-casablanca-primrose/7321897329.html",
+                "datetime": "2021-05-17 15:09",
+                "price": "$1,480",
+                "where": "danville / san ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00W0W_5HGZXJ7Nz8iz_0be0gi_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00W0W_5HGZXJ7Nz8iz_0be0gi_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_5HGZXJ7Nz8iz_0be0gi_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_93fUvPRBGqrz_0dl0dA_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_8kokZAWk2sPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_4qArzcEEhvdz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01212_4hk6qmZWjuPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_8RbzxrniCVzz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_7q8AAGH1dTBz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01313_iEDnB1mUljIz_0dl0n3_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Casablanca Primrose Wedding Dress - Size 6 for $1,480.  Unaltered and unworn.  Don\u2019t wait 6 months to start your wedding!!"
+            },
+            {
                 "id": "7323095878",
                 "name": "Wedding Dress",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/gilroy-wedding-dress/7323095878.html",
@@ -403,37 +424,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Red100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size S 5 pcs Size M, 13 pcsSize L, 39 pcsSize XL, 24 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
-            },
-            {
-                "id": "7309070561",
-                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Blac",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7309070561.html",
-                "datetime": "2021-05-17 13:36",
-                "price": "$10",
-                "where": "San Mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_8zVEcq23Z7Qz_0pO0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01010_8zVEcq23Z7Qz_0pO0CI_600x450.jpg",
-                    "https://images.craigslist.org/01010_8zVEcq23Z7Qz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_7XnTbDrXPAz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_fxtOE6TeALjz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_1fs2PuKLaMbz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_lJmMSvuGIFXz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_5lJPMY7ZNcaz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_hLeWGcSNTZjz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_fe76JwxGXM0z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/01212_2b2qmduRqNmz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_fJi4rPLfLW6z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_aonCbccjFOrz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_k1UUKYtQSGrz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_5xyM2A3HZgIz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_7c6I0CI4WXoz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_iVesQ4hg8b3z_0pO0CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Black100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size M, 15 pcsSize L, 45 pcsSize XL, 25 pcsSize XXL, 12 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
             }
         ],
         "great condition": [
@@ -768,6 +758,30 @@
         ],
         "fast": [
             {
+                "id": "7323122966",
+                "name": "2002 Acura MDX clean one owner priced to sell fast",
+                "url": "https://sfbay.craigslist.org/eby/cto/d/hayward-2002-acura-mdx-clean-one-owner/7323122966.html",
+                "datetime": "2021-05-17 15:03",
+                "price": "$2,900",
+                "where": "hayward / castro valley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00O0O_eEnnBdFXmtPz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00O0O_eEnnBdFXmtPz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00O0O_eEnnBdFXmtPz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_xAMdXE03tqz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_lvpXARHFFkYz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_bUby2NBg3fKz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_5pLnMhKdIjfz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_9KaL3Fkoiarz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_dErvaVIn7Noz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_gjiKol5f6lbz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "fast",
+                "category": "cta",
+                "description": "Hi.  I am selling my 7 seater SUV bought new in 2002.  Clean title. No accidents.  Tires less than 5000 miles. (Tires cost $700+ brand new already).  I just bought new SUV so have to sell this one.  Priced below kbb.  No low ballers please. Thanks!Contact five one zero six seven six four zero zero fourSimilar SUV: Toyota Highlander, Honda Pilot, Lexus RX350"
+            },
+            {
                 "id": "7322506090",
                 "name": "Fast and Furious P71 Crown Victoria Sedan Safe Sexy Fun",
                 "url": "https://sfbay.craigslist.org/nby/cto/d/windsor-fast-and-furious-p71-crown/7322506090.html",
@@ -837,39 +851,6 @@
                 "query": "fast",
                 "category": "cta",
                 "description": "2006 Dosge Charger R/T 5.7 Liter Hemi, Auto , 138k, Leather , Heated Seats. moonroof, Back-Up Camera, Mopar upgraded intake , Mopar upgraded Exhaust , new rear brakes , FAST !!!**Warranty available ***** Financing available w Good credit**NEW SALE PRICE $9995 plus tax and license ** Appointments only to view car Auto Emporium 478 East Santa Clara St # 213San Jose,Ca. 95112"
-            },
-            {
-                "id": "7321568435",
-                "name": "Fast and Furious P71 Crown Victoria Sedan Safe Sexy Fun",
-                "url": "https://sfbay.craigslist.org/nby/cto/d/windsor-fast-and-furious-p71-crown/7321568435.html",
-                "datetime": "2021-05-14 09:27",
-                "price": "$4,900",
-                "where": "Healdsburg Windsor",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_duV9OhBMHthz_0CI0t1_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00R0R_duV9OhBMHthz_0CI0t1_600x450.jpg",
-                    "https://images.craigslist.org/00R0R_duV9OhBMHthz_0CI0t1_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_annJ86qXbgQz_0CI0t1_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_kJMdtzSbFJXz_0CI0ua_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_8fpQvW0nrn6z_0CI0r4_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_bYjtK9Q9Sqpz_0CI0t1_50x50c.jpg",
-                    "https://images.craigslist.org/00707_7sGDdhGQ64iz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_4navy2fmMHaz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_5J8UhU8FAvvz_0CI0ur_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_9CB2ote2Zjzz_0CI0ue_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_iGXQYrY7RTWz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_dtppHcw0LzOz_0CI0rW_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_6vmu68PhanJz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_2epmSDeRvCTz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_48Zx1dkXetQz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_aCgqkdAcGDTz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_eBJvpg7UyMrz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_7Yq9OAMjFB6z_0CI0t2_50x50c.jpg"
-                ],
-                "query": "fast",
-                "category": "cta",
-                "description": "Bad  Ass Ford Crown Vic Police Interceptor Leak Feee4.6L V8 Runs Fierce with 130k Miles Well Maintained, Leak Free, Crazy Powerful! The Heavy Duty Transmission is tight and Shifts PERFECT The Front Seats are Beefy and Comfy. Rip Free The A/C Blows ICE COLD Large Backseat, Clean and Rip Free 3 Body Trunk to Transport EVERYTHING / ANYTHING All Door Panels, Windows, Everything Electric Works, Heavy Duty Battery, never needs a jump This is a super clean Police Interceptor.  Nice Tires, Needs Nothing to be the Best Commuter EVER! Drive through Traffic like You Own the Road. People pull OUT of the Carpool Lane to LET YOU PASS Watch Everyone Buckle Up and Hang Up their Phones NEVER GET CUT OFF AGAIN Police Even Lower Their Hair Dryers :) Roll Up on Your Friends,  Or use it for Your Security Company  Get Through Traffic in Record Time  Safest Car On the Road, Reinforced Steel Beams, Air Bags All Around, But it's the Respect that  is Priceless New Smog, Clean Title in Hand 7O7-498-5I89"
             }
         ]
     },

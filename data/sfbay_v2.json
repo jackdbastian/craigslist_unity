@@ -342,6 +342,28 @@
         ],
         "wedding dress": [
             {
+                "id": "7314003544",
+                "name": "White wedding dress, size 4-6",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/white-wedding-dress-size-6/7314003544.html",
+                "datetime": "2021-05-16 19:37",
+                "price": "$85",
+                "where": "campbell",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00g0g_dpDjY96QAt0_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00g0g_dpDjY96QAt0_600x450.jpg",
+                    "https://images.craigslist.org/00g0g_dpDjY96QAt0_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_gR8x32VXJhI_50x50c.jpg",
+                    "https://images.craigslist.org/00808_1Kw0WjBs1ux_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_lOLy89guBUq_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_ke9jo9BPAhU_50x50c.jpg",
+                    "https://images.craigslist.org/00808_jER5lx8k2rR_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "White gown for formal event, prom, or wedding. Worn once. Silver on the top and matching silver band on bottom of dress with beading and embroidery. Zipper behind the buttons. Dress is floor length. Made by Pallas Athena. Detachable long train if worn as a wedding dress. Runs small. Tag says 8, but runs small."
+            },
+            {
                 "id": "7317915543",
                 "name": "Wedding Dress",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/pittsburg-wedding-dress/7317915543.html",
@@ -393,27 +415,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "BACKSTORY:  This is the dress my mother wore at my parents' wedding in 1969. They've been married for 52 years now, so this dress is imbued happy marriage vibes. We are hoping it goes to someone who will be excited to wear it in their own wedding.DRESS DETAILS:- This dress is in perfect condition. - White skirt and bodice with ivory venetian lace along the edges. - Purchased at Saks Fifth Avenue in Boston. - Size 2, but can be altered. - Veil included, as well as the original box the dress was delivered in."
-            },
-            {
-                "id": "7314531470",
-                "name": "Custom Made White Wedding Dress by San Francisco Designer Monique Lhui",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/san-rafael-custom-made-white-wedding/7314531470.html",
-                "datetime": "2021-05-16 15:09",
-                "price": "$1,800",
-                "where": "san rafael",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00A0A_2gCo7AaCOOVz_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00A0A_2gCo7AaCOOVz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00A0A_2gCo7AaCOOVz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_29nfsDkfDSQz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_13ZKxjQhoXEz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_aqZkMbApzsDz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_fUyGNLF4I5iz_0t20t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Size 6-8Bride is 5'7 and wore flats.Bust size 34-36Paid $8000 for the dress. Not a Chinese import.You can now wear for a much more reasonable price and look great.Packed in a memento storage box."
             }
         ],
         "great condition": [
@@ -484,6 +485,22 @@
     "sports": {
         "autograph": [
             {
+                "id": "7322720764",
+                "name": "Oakland A's Logo Baseball Great for Autographs",
+                "url": "https://sfbay.craigslist.org/eby/spo/d/san-ramon-oakland-as-logo-baseball/7322720764.html",
+                "datetime": "2021-05-16 19:46",
+                "price": "$15",
+                "where": "danville / san ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00404_aRQ7MI70yFuz_0bC0fu_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00404_aRQ7MI70yFuz_0bC0fu_600x450.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "Oakland A's Logo Baseball Great for Autographs"
+            },
+            {
                 "id": "7316513294",
                 "name": "Autographed Oakland Raiders Helmet",
                 "url": "https://sfbay.craigslist.org/eby/spo/d/martinez-autographed-oakland-raiders/7316513294.html",
@@ -532,27 +549,6 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "Selling a autographed authentic Riddell Oakland Raiders helmet signed by Howie Long  75.       and  Tim Brown   81. Have certificate of  authenticity on the autographs.  Appraised at $650Selling for $400Cash only- no Venmo- no PayPal    No Shipping Football baseball sports  49ers Raiders Chargers helmet"
-            },
-            {
-                "id": "7319648230",
-                "name": "1989 AUTOGRAPHED GIANTS TEAM BASEBALL",
-                "url": "https://sfbay.craigslist.org/sfc/spo/d/oceanside-1989-autographed-giants-team/7319648230.html",
-                "datetime": "2021-05-16 10:14",
-                "price": "$195",
-                "where": "glen park",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00101_6J1a5cDy8a1_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00101_6J1a5cDy8a1_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00101_6J1a5cDy8a1_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_2Fh9J5D9iMC_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_9KZC3C5M8q0_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_99rYNEta9OT_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_lQvBhhQV6su_0CI0t2_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "This belonged to my deceased brother who was an avid collector. All proceeds go to my nephew. If you would like to see a list of what remains of this large collection, just send me an email address and I would be happy to forward it. I ship frequently since I live in the San Diego area.Thanks"
             }
         ]
     },

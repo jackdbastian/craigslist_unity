@@ -75,6 +75,25 @@
         ],
         "wood": [
             {
+                "id": "7309413959",
+                "name": "Unique Leaded Glass & Wood Doors",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/sebastopol-unique-leaded-glass-wood/7309413959.html",
+                "datetime": "2021-05-17 09:21",
+                "price": "$250",
+                "where": "sebastopol",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00T0T_22sf6UK1EQCz_07K0ak_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00T0T_22sf6UK1EQCz_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00T0T_22sf6UK1EQCz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/01616_16iMuJAMbYIz_07L0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_1E6nANmleYzz_07K0ak_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Really unique leaded glass & wood doors(fit together). Each door is 18x80. Fit together 36 doorway. Distressed painted."
+            },
+            {
                 "id": "7311895951",
                 "name": "Wood Beam Lumber",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/redwood-estates-wood-beam-lumber/7311895951.html",
@@ -110,33 +129,41 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Lots of great reclaimed wood beams just waiting to be a featured piece in your home!  Walnut, old Redwood, Old growth Douglas Fir!  Various sizes available:  2x10, 3x6, 4x6, 4x4, 6x8, 7x4, etc.  Various lengths available (or could be cut to specific): 6, 7, 8, 9-17 feet!Individually priced.  Come take a look!  Email if interested.Architectural salvage, reclaimed, vintage, aged, interior design, fireplace, livingroom, diningroom, bedroom, reuse, patina"
-            },
-            {
-                "id": "7314300186",
-                "name": "3/4\u201d Wood Boards (10-13\u201d widths!)",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-4-wood-boards-widths/7314300186.html",
-                "datetime": "2021-05-17 06:53",
-                "price": "$8",
-                "where": "san carlos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_15J9xoAqr4j_08g0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00W0W_15J9xoAqr4j_08g0ak_600x450.jpg",
-                    "https://images.craigslist.org/00W0W_15J9xoAqr4j_08g0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_b08uRMHHbQC_08g0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_85QwTBqdkWX_08g0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01010_e3lP3q2AZMX_0ak08g_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_crDURtzfowM_0ak08g_50x50c.jpg",
-                    "https://images.craigslist.org/00101_glfRuR97NrP_05a048_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Wood boards (some are redwood) previously used as shelving, nice grain and figure - all 3/4 of an inch thick. Quantities and sizing are:3 boards- 12 1/2\u201dx 18 1/2\u201d4boards- 10 1/8\u201dx 28 3/4\u201d1 board -  12 1/2\u201d x 37\u201d4 boards- 11 1/2\u201d x 37 1/4\u201d6 boards- 11 1/8\u201d x 42 3/4\u201d3 boards- 10\u201d x 57\u201d2 boards- 12 1/4\u201d x 58\u201dAsking $6 per foot for under 12\u201d width and $8 per foot for over 12\u201d width. Redwood, shelving, table tops, cabinetry, architectural salvage, PMI"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7317588724",
+                "name": "Vintage Heritage Soft Brown Leather Briefcase/Computer Bag",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-heritage-soft-brown/7317588724.html",
+                "datetime": "2021-05-17 09:19",
+                "price": "$25",
+                "where": "Santa Cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00y0y_3ABqAOo22E7_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00y0y_3ABqAOo22E7_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00y0y_3ABqAOo22E7_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_h7oaPhtx27h_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_lyTRWRfLLWS_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_9bobPxBOJbY_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_fFYT9AjgULh_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_8dNsQnRibMw_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_9ekrJTEXX71_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_8NS9ymBahLM_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_hs8kW8Oa2X7_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_duEK6ow5Kpr_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_kBnoEr7B9tb_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_h7oaPhtx27h_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_3P2mySKDkTY_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_juzsCu4ZKfS_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Heritage Leather Briefcase/Computer Bag with multiple pockets, file divider compartment, and compartment large enough to hold a 15 wide laptop. Made of soft dark brown leather, in overall excellent condition, with some obvious age related wear. Includes a long leather shoulder strap, with comfortable leather pad. Strap is easily removable with the metal clasps and rings. Many strong durable zippers and large metal zipper tabs, with Heritage inscribed on them. 17 wide, 12 high. Red tape on front of bag was added by original owner, presumably for easy identification purposes at airports, etc. It can be removed, if desired. No rips, tears, or other damage.Cash only, please. Pick-up only. No delivery, shipping.I will respond by email to Craigslist reply, no text or phone calls, please."
+            },
             {
                 "id": "7322895339",
                 "name": "Vintage Clothes Steamer",
@@ -177,27 +204,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Brand new Juicy Couture makeup case. Interior mirror. Zip closure with front zip pocket. Light pink and green with real leather and velour with brush gold hardware. ***CASH ONLY AND PLEASE ARRANGE FOR PICKUP IN DUBLIN***"
-            },
-            {
-                "id": "7308359886",
-                "name": "Vintage \"Doc Marten's\" size 9 - 9 1/2 M",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/millbrae-vintage-doc-martens-size/7308359886.html",
-                "datetime": "2021-05-17 07:54",
-                "price": "$40",
-                "where": "san bruno",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_eZXwMvmcBBMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_9Zv40GIvDEpz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_4MJeogWxTJ9z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_3Y4E1lNeInfz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Early 90's Doc Marten's LoafersClean Great Condition$40.00"
             }
         ],
         "beaded": [

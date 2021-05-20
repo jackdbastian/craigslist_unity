@@ -64,6 +64,43 @@
         ],
         "wood": [
             {
+                "id": "7323242730",
+                "name": "New Wood Molding 7' Long - 5 Pieces",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-new-wood-molding-long-pieces/7323242730.html",
+                "datetime": "2021-05-20 09:49",
+                "price": "$30",
+                "where": "San Jose",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_kNNBampfmjez_0CI0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "5 Pieces of new moulding.  If interested please call or text  Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+            },
+            {
+                "id": "7320998969",
+                "name": "Wood Slabs for sale single or bulk, very dry, ready to use!",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/sacramento-wood-slabs-for-sale-single/7320998969.html",
+                "datetime": "2021-05-20 08:58",
+                "price": "$123",
+                "where": "Sacramento",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00C0C_jR47e0XLonJz_08P0ev_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00C0C_jR47e0XLonJz_08P0ev_600x450.jpg",
+                    "https://images.craigslist.org/00C0C_jR47e0XLonJz_08P0ev_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_aHcahp5aPs1z_09T0fP_50x50c.jpg",
+                    "https://images.craigslist.org/01717_ltGM4Og7bgzz_04i0d0_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I have dry slabs ready to work for sale at fair prices. 7-16 years dry, covered! Lots of Redwood, walnut, oak, Deadore cedar, tulip poplar, poplar, alder, sycamore, iron bark eucalyptus boards, etc. Etc. Misc. Other smaller and mixed wood.   2 species of large slabs, redwood and wych elm. Around 44x12'  Some exotics, 300' madrone cabinet grade, Iroko, Iron wood slabs, Touch base for sizes needed and price. Some burl slabs, and other great project lumber, nat. edge walnut. And other.. Bulk deals Also selling some veey nice slightly used, cabinet shop machinery. Inquire!   Thanks"
+            },
+            {
                 "id": "7322347190",
                 "name": "Wood kitchen island pillars",
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-wood-kitchen-island/7322347190.html",
@@ -81,144 +118,98 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Two beautiful kitchen island pillars. Solid cherry wood with a natural walnut colored stain. Ornate, traditional detailing. Cosmetically perfect, with one pillar still wrapped in original packaging. Ordered the wrong pair for my renovation and custom stained so could not return...costly mistake. Willing to negotiate with all reasonable offers."
-            },
-            {
-                "id": "7324360490",
-                "name": "New Gray Shaker Kitchen Wood Cabinets & Bathroom Vanity RTA Cupboards!",
-                "url": "https://sfbay.craigslist.org/sfc/mad/d/san-francisco-new-gray-shaker-kitchen/7324360490.html",
-                "datetime": "2021-05-20 07:10",
-                "price": "$1",
-                "where": "financial district",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_l3kgNtRKGqZ_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00W0W_l3kgNtRKGqZ_600x450.jpg",
-                    "https://images.craigslist.org/00W0W_l3kgNtRKGqZ_50x50c.jpg",
-                    "https://images.craigslist.org/00404_gxshTdCAjFP_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_7lqYP2A6ZmN_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_9PZADvN5c8s_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_6oaLzmJIz8Z_50x50c.jpg",
-                    "https://images.craigslist.org/00303_jzcrhZLagOq_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_pX6ix2fPHX_50x50c.jpg",
-                    "https://images.craigslist.org/00808_6JxNoiRvf4I_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_kCwGC9K7b0M_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_ftX614zMMhb_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_7ESzEyidy2G_50x50c.jpg",
-                    "https://images.craigslist.org/00404_c7UFXQSFTom_50x50c.jpg",
-                    "https://images.craigslist.org/00909_gCxLZOXzl6A_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_qX4IUDefWu_50x50c.jpg",
-                    "https://images.craigslist.org/01010_8ExA2xMQUZI_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_2qpyYewkezm_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_bxsj4RujZFV_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_kblGXc1eNey_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_2CvfnFhd4hF_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_1tZosvCcXAS_50x50c.jpg",
-                    "https://images.craigslist.org/00505_4afD0kQb4Zw_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Selling New Beautiful Premium Gray Shaker Kitchen and Bathroom Vanity Cabinets at Wholesale Pricing*YEARS OF EXPERIENCE, THOUSANDS OF HAPPY CUSTOMERS THROUGHOUT THE USA*www.nelsonkb.comHello, we are a direct wholesale-to-consumer distribution company specializing only in premium gray shaker kitchen and bathroom vanity cabinets. Please visit our website to learn more about us, our products, and pricing: www.nelsonkb.com. Cabinets will be delivered directly to your property within 7 to 10 business days. If you need help or are unsure can also send us the measurements or layout of the existing space. We can also help with kitchen ideas and design to make your kitchen look like one of those modern, luxury, high end kitchens featured in magazines, Instagram, Houzz, and Pinterest. The cabinets are top of the line and are:- All Wood Construction- Plywood box- Maple Frame and Drawers- Maple Wood Doors- Soft Close Doors and Drawers- High Quality Hardware Made by DTC- Premium Full Extension Drawers- Dovetail Drawer Construction- Stained/Finished Sides- Base and Wall Cabinets come with Shelves IMPORTANT PREMIUM FEATURE: The interior is completely painted to match the exterior. This means that even the interior side walls and drawers are gray, inside and out! Very rare to find in other cabinets. Also, NO mdf or particle board!They are great for complete Kitchen Remodel (small or large), Bathroom vanity remodeling, Island, Garage, Living room, Dining room, Pantry, Bar, Mancave, Furniture, Storage, Shed, Office, Mobile Home, Farmhosue, Game room, Bathroom, Closet, Hallway, Entrance, Rec rta room, Den diy, Basement, Cellar, Activity room, utility rooms, Attic, Guest room, drawing room, conservatory, green room, patio, outside deck, work bench, mudroom, wardrobe, furniture, budget and low cost projects, d\u00e9cor renovation, etc.   - Available sizes and prices - Sink Base Cabinets:SB30 - $227.08SB33 - $230.18SB36 - $233.28Base Cabinets:B09 - $157.27B12 - $171.68B15 - $184.16B18 - $201.58B21 - $221.46B24 - $241.35B27 - $258.77B30 - $281.13B33 - $298.54B36 - $315.96Drawer Base Cabinets:DB12 - $218.88 DB15 - $239.44DB18 - $257.67DB21 - $278.54DB24 - $295.96DB30 - $312.88Base Corner Cabinets:Lazy Susan (Corner base cabinet)LS33 - $345.88LS36 - $365.86Blind base cabinet 42-45 - $368.82Wall Cabinets 30 inches tall:W9/30 - $98.51W12/30 - $109.44W15/30 - $119.88W18/30 - $138.34W21/30 - $147.24W24/30 - $174.63W27/30 - $184.05W30/30 - $186.03W33/30 - $188.00W36/30 - $216.90 Wall Cabinets 36 inches tall:W9/36 - $116.91W12/36- $128.34W15/36 - $133.28W18/36 - $157.24W21/36 - $169.10W24/36 - $204.05W27/36 - $213.44W30/36 - $243.82W33/36 - $249.26W36/36 - $254.24 Wall Cabinets 42 inches tall:W9/42 - $121.85W12/42 - $136.74W15/42 - $160.20W18/42 - $186.63W21/42 - $206.63W24/42 - $228.88W27/42 - $241.35W30/42 - $256.30W33/42 - $289.76W36/42 - $302.61 Wall Diagonal Corner Cabinets:Wall Diagonal Corner 24/30 - $259.26 Wall Diagonal Corner 24/36 - $277.30 Wall Diagonal Corner 24/42 - $301.50 Above the Fridge/Stove cabinets:Stove 30 - $122.38 - 173.86Fridge 36 - $151.88 - $200.20Pantry Cabinets:W18 x 84/90/96H x 24D - $516.34 - 540.76W24 x 84/90/96H x 24D - $570.02 - 602.14W30 x 84/90/96H x 24D - $610.06 - 630.08Double oven cabinets also available in 30 and 33 inches wide by 84/90/96 inches tall. VanitiesV24 - $238.58V30 - $257.94V36 - $276.86V36 with drawers - $321.76V42 - $463.20V48 - $473.76V60 - $542.30Accessories:Base Filler 6 inches by 36 inches $38 eachWall Filler 3 inches by 42 inches $20eachScribe 3/4 inches wide by 8 feet long $15 eachCrown Molding 8 feet long $80 eachDishwasher Panel $80 eachToekick 8 feet long $28 each If you have any questions, please do not hesitate to contact us. For more information please visit our website:www.nelsonkb.com or give us a call at 832-998-6598."
-            },
-            {
-                "id": "7324351449",
-                "name": "Vintage style modern Wood burning stove",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/stanford-vintage-style-modern-wood/7324351449.html",
-                "datetime": "2021-05-20 06:57",
-                "price": "$175",
-                "where": "portola valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_fKdMgAjfjzvz_0ne0od_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_fKdMgAjfjzvz_0ne0od_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "NO EMAILS PLEASE!30x21x39 tall. Wood burning stove and  screen: Chimney stack is 9x62 $175/allTEXT Paul to pick up in Portola Valley. Mention Arastradero property:"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7316144562",
-                "name": "Coat / Wool / Vintage / Retro /Pride / Nancy /1950",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/vallejo-coat-wool-vintage-retro-pride/7316144562.html",
-                "datetime": "2021-05-20 08:13",
-                "price": "$125",
-                "where": "napa county",
+                "id": "7317782835",
+                "name": "14 BOOTS MENS LEATHER black motorcycle steel toe vintage pull on ridin",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-14-boots-mens-leather-black/7317782835.html",
+                "datetime": "2021-05-20 09:44",
+                "price": "$140",
+                "where": "sunnyvale",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00b0b_ct1xmyg8FhH_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00b0b_ct1xmyg8FhH_600x450.jpg",
-                    "https://images.craigslist.org/00b0b_ct1xmyg8FhH_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_khg3G5Uwkx3_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_eC1EDJFPcgZ_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_aVJH7im1M3s_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_50lQmrYbLpF_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_5dXx3H7Dppc_50x50c.jpg",
-                    "https://images.craigslist.org/00909_9DRWBgkkbIa_50x50c.jpg",
-                    "https://images.craigslist.org/01111_8rOYLShjv8B_50x50c.jpg",
-                    "https://images.craigslist.org/00909_aPETduBuVxc_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_bPFI21Btbns_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_lRlSjltP9C_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_JZ31JUz4DA_50x50c.jpg",
-                    "https://images.craigslist.org/00202_2nEqrD6LNIq_50x50c.jpg"
+                    "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_600x450.jpg",
+                    "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_50x50c.jpg",
+                    "https://images.craigslist.org/01010_avsCnS76flg_084063_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_9hzxHEjWxZH_063084_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_9DvG96TOiGP_063084_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_cH5mxZMBNQ8_063084_50x50c.jpg",
+                    "https://images.craigslist.org/00101_5Xeyn0nBfNs_084063_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_gzchrzWuNfT_084063_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_2JCWUrJlTYp_084063_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Jonathan Michael Wool CoatCoat was worn rarely; is currently being stored in a vacuumed space bagThe item is in Like NEW condition; there are NO rips, tears or discoloration marksWomens Full-length wool coat Circa '90Size L / XL (12 - 16)Color: CamelDouble BreastedButton ClosureApprox. Dimensions:  Collar to Hem - 50Underarm to Underarm - 25Sleeve Length - 34 (center of neck, backside, to wrist)Coat is fully lined for optimum comfort (100% polyester)Two Front PocketsRolled CuffsDry clean onlyOriginal OwnerPet and Smoke Free EnvironmentCash / Paypal only"
+                "description": "steel toe, good for riding, or just as work safety boots.14 BOOTS MENS LEATHER black motorcycle steel toe vintage pull on riding work old work ride riding shop garage gear clothing shoe shoes  boot men mens western cowboy large p10pp xl size ren faire costume cosplay larp sca guildbiker bike ride riding goth sca"
             },
             {
-                "id": "7324382207",
-                "name": "1970\u2019s Vintage Cognac Brown Leather Messenger Bag Tan Rectanglar",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-1970s-vintage-cognac-brown/7324382207.html",
-                "datetime": "2021-05-20 07:56",
-                "price": "$249",
-                "where": "alameda",
+                "id": "7323417939",
+                "name": "Vintage Western Boots",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/healdsburg-vintage-western-boots/7323417939.html",
+                "datetime": "2021-05-20 09:28",
+                "price": "$150",
+                "where": "healdsburg / windsor",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00X0X_8c9JkZM8kGNz_0o40t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00H0H_cquXjQ3Esjq_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00X0X_8c9JkZM8kGNz_0o40t2_600x450.jpg",
-                    "https://images.craigslist.org/00X0X_8c9JkZM8kGNz_0o40t2_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_alLQmLSeTuz_0nR0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_gmY4sotb0Ngz_0kN0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_fyy1cfDbM40z_0ps0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_6AJQddpWBcoz_0wv0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_5pdyUhpWbipz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_bpFGpNKwq1Gz_0CI0oP_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_e2O8Ch1OJboz_0CI0se_50x50c.jpg",
-                    "https://images.craigslist.org/00606_8hlHAEazkpAz_0CI0oT_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_67fmisX0DbCz_0CI0rj_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_hSdmuBJzg6Lz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_aL1WsQUVGwGz_0qH0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00H0H_cquXjQ3Esjq_600x450.jpg",
+                    "https://images.craigslist.org/00H0H_cquXjQ3Esjq_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_iIivY1kwKis_50x50c.jpg",
+                    "https://images.craigslist.org/01111_fbh9vY1tdwj_50x50c.jpg",
+                    "https://images.craigslist.org/00808_62KhSCW4qmT_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_70oA3rzBsyX_50x50c.jpg",
+                    "https://images.craigslist.org/01313_e7Tq9qJ69O9_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_fvNzgP2rM7e_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Crossbody Bag One of a kind, envelope style, fantastic bag and you will get compliments.\u2022\tIn very good vintage condition, has light wear and scratches with normal use.\u2022\tUnique weave side stitching, two interior pockets and adjustable strap.\u2022\tMeasures around 10\u201d wide and 14\u201d tall, 1.5 \u2013 2\u201d thick.To avoid spam and stay safe, it\u2019s still available and can be purchased at Call Jannie on eBayYES! Always open to reasonable offers to purchase - no trades, no low-balls.  Thanks for looking!"
+                "description": "Vintage Western Boots Women size 7"
             },
             {
-                "id": "7317674181",
-                "name": "Vintage Juicy Couture Cosmetic Bag",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-vintage-juicy-couture-cosmetic/7317674181.html",
-                "datetime": "2021-05-20 06:55",
-                "price": "$80",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7320946419",
+                "name": "vintage man's OBI",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-mans-obi/7320946419.html",
+                "datetime": "2021-05-20 09:26",
+                "price": "$10",
+                "where": "palo alto",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00I0I_b1WZoX7IwRv_0jC0k8_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00Q0Q_6KM1m501kVQ_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00I0I_b1WZoX7IwRv_0jC0k8_600x450.jpg",
-                    "https://images.craigslist.org/00I0I_b1WZoX7IwRv_0jC0k8_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_3eqwJipg1B8_0tN0lI_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_6rqINEoxfoM_0q10lI_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_imUdmWuiZB8_0qc0lI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_ehA1oRmZdR1_0vk0k8_50x50c.jpg"
+                    "https://images.craigslist.org/00Q0Q_6KM1m501kVQ_600x450.jpg",
+                    "https://images.craigslist.org/00Q0Q_6KM1m501kVQ_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_61BmjIeGRR2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Brand new Juicy Couture makeup case. Interior mirror. Zip closure with front zip pocket. Light pink and green with real leather and velour with brush gold hardware. ***CASH ONLY AND PLEASE ARRANGE FOR PICKUP IN DUBLIN***"
+                "description": "older silk obi, still in the package. It's 7'3 long by 4 wide.....$10.00(will ship)....."
             }
         ],
         "beaded": [
+            {
+                "id": "7323367541",
+                "name": "Nice Tea Length Beaded Ivory Ladies Size XL Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-nice-tea-length-beaded-ivory/7323367541.html",
+                "datetime": "2021-05-20 09:54",
+                "price": "$20",
+                "where": "san jose north",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_4WlsfFe8CV2z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_kLuaxvHe0lOz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00707_ebXushrU6xpz_0t20CI_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+            },
             {
                 "id": "7319024094",
                 "name": "Vintage Native American Style Tooled Beaded Leather Women's Belt - 30",
@@ -264,27 +255,25 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "This is a new, with store tag attached, purse by the Brazilian brand Corello. It features a fabric paisley exterior covered in various seed beads and a few iridescent sequins in orange, fuchsia, greens, aqua, lavender, and powder blue. The handles and interior zip pocket opening are taupe lamb leather while the interior is a ribbed ivory fabric. The purse has a single magnetic closure.It measures approximately 10 tall x 14 wide with an 8 handle drop. The tag appears to have a handwritten date of June 11th, 2005 (Brazil's date format of DD/MM/YY).Please call, text, or email anytime.Thank you,Ed"
-            },
-            {
-                "id": "7314672298",
-                "name": "Frankie and Johnnie Small BEADED ZIPPERED BAG",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-frankie-and-johnnie-small/7314672298.html",
-                "datetime": "2021-05-19 07:41",
-                "price": "$10",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
-                    "https://images.craigslist.org/00D0D_4iYcOGqbP3j_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_ddViaZQbgzj_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "7 1/2 across x 5 tall Beaded Zippered Bag by Frankie and Johnnie."
             }
         ],
         "gloves": [
+            {
+                "id": "7312803481",
+                "name": "Vintage White Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7312803481.html",
+                "datetime": "2021-05-20 08:53",
+                "price": "$25",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "2 pairs, price is for both.  Great condition."
+            },
             {
                 "id": "7313422429",
                 "name": "2 pairs, Unisex fleece gloves, Size Medium",
@@ -318,27 +307,35 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Black Chenille hat and gloves with multicolor accentsNew"
-            },
-            {
-                "id": "7313422569",
-                "name": "2 pairs, Unisex fleece gloves, Size Small",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-pairs-unisex-fleece-gloves/7313422569.html",
-                "datetime": "2021-05-20 07:47",
-                "price": "$5",
-                "where": "los gatos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00w0w_jOh2WNYbfft_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00w0w_jOh2WNYbfft_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00w0w_jOh2WNYbfft_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_1b3dTvMaBMQ_0CI0t2_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "2 pairs, Unisex fleece gloves, Size SmallIn excellent condition.  I don't think we ever even wore them."
             }
         ],
         "wedding dress": [
+            {
+                "id": "7313380761",
+                "name": "Casablanca Bridal Wedding Gown / Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-casablanca-bridal-wedding-gown/7313380761.html",
+                "datetime": "2021-05-20 09:19",
+                "price": "$300",
+                "where": "san jose east",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_ecrPMh7z5lnz_0aO0fn_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_ecrPMh7z5lnz_0aO0fn_600x450.jpg",
+                    "https://images.craigslist.org/01010_ecrPMh7z5lnz_0aO0fn_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_bsQZRaHsHhIz_08l0fw_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_kevb11XjeYvz_09n0fr_50x50c.jpg",
+                    "https://images.craigslist.org/01111_1KW2lDEO00Cz_0bg0fw_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_km2Dz6f8RCfz_0aA0fx_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_2VyC0OVCbHgz_0bk0do_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_h0CCh5cCQz9z_0CI0sP_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_aeoTkU9rvH1z_0ny0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_7tyuWXLXcA3z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_j4DUWoIfBcTz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Brand New Casablanca Bridal Wedding Gown / Dress Size 10 Never had alterations"
+            },
             {
                 "id": "7324341291",
                 "name": "Wedding dress sz med.",
@@ -373,27 +370,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Hello Bride-To-Be\u2019s, Wedding Dress in pristine condition. Size small: For petite busty women, 5\u20193 height and under, it can be altered. :)She wore it only once. \ud83d\ude00Paid Over $2000 for this dress plus alterations. Free delivery within reasonable distance. OBO"
-            },
-            {
-                "id": "7321839211",
-                "name": "Summer Wedding? Selling My Gorge& Lace Beading Dress!",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-summer-wedding-selling-my/7321839211.html",
-                "datetime": "2021-05-19 22:30",
-                "price": "$700",
-                "where": "walnut creek",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00F0F_3a5yKgR3uhez_0dq0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00F0F_3a5yKgR3uhez_0dq0t2_600x450.jpg",
-                    "https://images.craigslist.org/00F0F_3a5yKgR3uhez_0dq0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_awVq9w9o58Zz_0dq0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_5r2yRyJdN4Wz_0co0gw_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_e73vdNRpmBJz_0dq0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_7JAboUecyEsz_0dq0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Selling My beautiful one of a kind wedding dress for only $700 Originally $1995 from the BHLDN store in Walnut Creek. It\u2019s been dry cleaned. No stains. This dress is amazing on! It\u2019s all beads and lace from head  toe! If you want a vintage bohemian wedding dress. This is the dress for you! I have no room to store this dress that\u2019s why I\u2019m selling it. The dress is a size 8 and I had the length shortened from the waist to keep the original raw edge. The length from the bottom of the ribbon on the waist to the edge of the lace is 44\u201d. The waist is 29 1/2\u201d. The bust fits if you are are around 34 B. Cash Only! No Cashier check inquiries!"
             }
         ],
         "great condition": [
@@ -466,6 +442,26 @@
     "sports": {
         "autograph": [
             {
+                "id": "7315758652",
+                "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
+                "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7315758652.html",
+                "datetime": "2021-05-20 08:50",
+                "price": "$200",
+                "where": "emeryville",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
+                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_50x50c.jpg",
+                    "https://images.craigslist.org/00606_dl5A14pkVP1_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_b3QPJv2lUaG_0fu0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_hTAqH5v13hg_0fu0fu_50x50c.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "Pro Staff Autograph RF97 Tennis RacquetHard to find Limited 'Tuxedo' Black and White versionBrand new. Never played4\u215c gripRacquet and bag and strings combos availableCross Section 21.5 FBHead Size 97 sq in - 625.8 sq cmString Pattern 16x19Unstrung Balance 30.5CM/12 Pts HLSeries Pro StaffUnstrung Weight 340 gLength 27 in - 68.6 cm$200"
+            },
+            {
                 "id": "7312822416",
                 "name": "Brand New Autographed John Force \u201895 NHRA Hat",
                 "url": "https://sfbay.craigslist.org/scz/spo/d/aptos-brand-new-autographed-john-force/7312822416.html",
@@ -505,26 +501,6 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "This belonged to my deceased brother who was an avid collector. All proceeds go to my nephew. If you would like to see a list of what remains of this large collection, just send me an email address and I would be happy to forward it. I ship frequently since I live in the San Diego area.Thanks"
-            },
-            {
-                "id": "7311369013",
-                "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
-                "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7311369013.html",
-                "datetime": "2021-05-19 07:42",
-                "price": "$200",
-                "where": "emeryville",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_50x50c.jpg",
-                    "https://images.craigslist.org/00606_dl5A14pkVP1_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_b3QPJv2lUaG_0fu0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_hTAqH5v13hg_0fu0fu_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "Pro Staff Autograph RF97 Tennis RacquetHard to find Limited 'Tuxedo' Black and White versionBrand new. Never played4\u215c gripRacquet and bag and strings combos availableCross Section 21.5 FBHead Size 97 sq in - 625.8 sq cmString Pattern 16x19Unstrung Balance 30.5CM/12 Pts HLSeries Pro StaffUnstrung Weight 340 gLength 27 in - 68.6 cm$200"
             }
         ]
     },
@@ -895,33 +871,34 @@
                 "description": "910 PRO LESLIE w/ REVERB  LOUD! WORKS GREAT !! Copy and paste the following YouTube link into your search engine to see and hear this Leslie: www.youtube.com/watch?v=tnVFnUpYMmU **************************************************************************************************THIS IS THE BIG ONE!  The amazing Pro Leslie 910, 140 watts RMS with internal REVERB.  Everything checks out and is fully functional on this MONSTER LESLIE with a loud and clear sound. The 900 Pro Series was Leslie\u2019s answer for keyboard players competing with the Marshall stacks of guitar players. Note Robert Lamm from Chicago playing 910 in attached pix. \u2014 Tolex covered cabinet; OK cabs with some repairs\u2014 Fully Serviced and Tested\u2014 All Jensen speakers\u2014 140 watt RMS total output with three (3) on-board amps\u2014 AlNiCo Jensen Tweeter\u2014 Separate amps for Bass, Tweeter and Reverb speakers\u2014 Two-piece amp configuration to break-down weight\u2014 On-board reverb with separate amp and controls\u2014 True separation of Bass and Treble cabinets\u2014 Stationary Bass at slow speed for deep, wobble-free lows\u2014 Real Wood Bass Drum (rare !!)\u2014 All Leslie cables conveniently fit into top-speaker cubby\u2014 \u201cSpace-Expander\u201d on tweeter for on-board reverb signal\u2014 Real Spring Reverb tank with \u201clock-down\u201d cord to prevent spring damage during transport \u2014 Heavy-duty built-in-castors\u2014 Loud, crisp soundThe photos say it all \u2014 a great Leslie for Monster Sound !Buy with confidence, I have been trading on Craigslist for over 20 years with 100% satisfaction (thanks everybody!). Payment: Cash and Carry \u2014 not interested in trades. Test with your rig or use one of mine. Sorry, not interested in trades. ***************************************************************************************\u2014 See and hear this Leslie at: www.youtube.com/watch?v=tnVFnUpYMmU"
             },
             {
-                "id": "7322967727",
-                "name": "Accoustic guitar, Eastman E20 oo,  All Solid wood,  Adirondack top",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/windsor-accoustic-guitar-eastman-e20-oo/7322967727.html",
-                "datetime": "2021-05-20 07:44",
-                "price": "$1,150",
-                "where": "santa rosa",
+                "id": "7313609887",
+                "name": "Beautiful Mason & Hamlin Piano",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/santa-clara-beautiful-mason-hamlin-piano/7313609887.html",
+                "datetime": "2021-05-20 08:49",
+                "price": "$0",
+                "where": "santa clara",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00K0K_9hx20qY5AiQz_0lM0CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00p0p_VbiMCkUPbv_0CI0iP_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00K0K_9hx20qY5AiQz_0lM0CI_600x450.jpg",
-                    "https://images.craigslist.org/00K0K_9hx20qY5AiQz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_jKkPANPccXKz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00808_axMn46s8FRWz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_lJrcr3JBF5zz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/01111_4sXZ2IUMgiLz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_l0yfuQxnrJMz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_hYruLTbm9Frz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_eUQZIAEo3Ctz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_7a0ATtcH2Wtz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_9ASnVRNgP58z_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_iypAwdw5dNwz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_aTBdaS1jJHiz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_doXmeoiW5Gpz_0CI0lM_50x50c.jpg"
+                    "https://images.craigslist.org/00p0p_VbiMCkUPbv_0CI0iP_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_VbiMCkUPbv_0CI0iP_50x50c.jpg",
+                    "https://images.craigslist.org/01212_bYs7vRefQHo_0CI0oh_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_cMsa5Ca6Wzh_0CI0iP_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_d0qZIaXz01b_0iP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_gDsO7SHG5Dq_0CI0iP_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_6rDT5BHAskU_0CI0iP_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_8t5a5Jpqclo_0CI0iP_50x50c.jpg",
+                    "https://images.craigslist.org/00505_2bGcvUAsWPL_0iP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_dNzjVgp8P8N_0CI0iP_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_3lmvO313YPD_0CI0iP_50x50c.jpg",
+                    "https://images.craigslist.org/00808_9ptRvbsI0hQ_0CI0iP_50x50c.jpg",
+                    "https://images.craigslist.org/01414_jSnUbIr28Pg_0CI0iP_50x50c.jpg",
+                    "https://images.craigslist.org/00303_5KVxF6S6Pv7_0CI0f8_50x50c.jpg",
+                    "https://images.craigslist.org/01717_joO8t5KaqLD_0iP0CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "***This is the best price you are going to find on this model.I have two, so one is going up for sale.This is a guitar you have to play to understand.The short scale makes it very easy on your hands.The Adirondack (Red Spruce) top give volume and clarity that has to be heard to be understand.The rosewood back and sides give this a clarity of sound that is wonderful and balanced.And yes it is all solid woods construction.Yes it comes with very nice hard case.This is a loud guitar. Especially for it's size.The Ebony fret board make for very smooth finger board action.Anyway...enough of my opinion. Look it up for reviews.To check it out give me a call.  Dan at"
+                "description": "Hi CL,I have a beautiful '63-'64 Mason & Hamlin piano in great condition and well cared for.  Special/rare edition with 4 decorative legs.  All original finish and parts that include a matching original rose design carving leather storage bench.  The sound is expected of a Mason & Hamlin that rivals Steinway piano & many European brands; much better than Yamaha, Kawai, etc (True rich/bright warm tone that can play soft or powerfully loud that can permeate a large room.  Tuned regularly, feel free to schedule, come & test it out.Studio Console / Vertical E styleHeight 41 (size / dimensions:\u00a059 L x 24 D x 41 H)Year: 1963Special Rose d\u00e9cor (# 67177) with 4 decorative legsPrice $1,888/cash or PayPal (local pickup only, please arrange your professional pickup)"
             }
         ],
         "famous": [
@@ -947,51 +924,50 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
-                "id": "7324335886",
-                "name": "Lots of Piano Sheet Music",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/discovery-bay-lots-of-piano-sheet-music/7324335886.html",
-                "datetime": "2021-05-20 06:39",
-                "price": "$0",
-                "where": "brentwood / oakley",
+                "id": "7316706707",
+                "name": "1964 Selmer Mark VI Alto Saxophone",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-1964-selmer-mark-vi-alto/7316706707.html",
+                "datetime": "2021-05-20 09:40",
+                "price": "$6,500",
+                "where": "san jose north",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_cdKvbVjqqIvz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00h0h_cdKvbVjqqIvz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_cdKvbVjqqIvz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_4l0GgyF36zz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_dW0ugx3ns8fz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00606_bxgPdiIZyhtz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_bUW6VxHwr52z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_2EK7YgxoaZQz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_iafemzK13VDz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_4CdiBoJdjyEz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_41Hgd1lTcshz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_rLzF8c9Ijzz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_fpkHB6HuGKYz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00505_9baa4Ej62jsz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_fsJ5TEgsRcEz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_jr7TuGjEOV6z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_8BzdYitKxrIz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_6jiz7ARQ8GDz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_kihImx6oDqfz_08a0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_7QYfxqFrfOdz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_6FTeV4cf8uiz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_7y98fEATbuFz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_dinEUiyLySVz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/01616_6acN97j2FRZz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_c1klptbf7Qpz_0ew0ew_50x50c.jpg"
                 ],
                 "query": "famous",
                 "category": "msa",
-                "description": "***LOCATED IN DISCOVERY BAY***I don't check email much. Please call or text if interested.I have lots of ads up. Please click more ads by this user to see them all.We acquired all this music and books from an estate.  I have boxes of sheet music and whole books of music, mainly for vocals.  Old music, really old music.  I don't have anything current.  Lots of classical and holiday.  There are books of opera, composers and more.  I also have a few books about famous composers.  Much of the music has copyrights prior to 1950.  Some as old as the late 1800's.  The owner was German.  Have some German music.These start from $.50 to a few dollars a book.  Look through and take what you want.  Make an offer on the lot.Please call or text for quicker service."
+                "description": "Do not pass on this instrument, if you are looking at this, then you know the reputation of the Mark VI, and this one is a good example. This would also be a great investment unlike a new sax that would depreciate in value.This sax plays nice and has that tone the Mark VI is famous for. Original finish but does show slight wear, but very nice for it\u2019s age. No dents & the serial numbers do match, and the original case is in very good condition. Please email with any questions."
             },
             {
-                "id": "7318731768",
-                "name": "Roland V Drums TD-8",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-roland-drums-td/7318731768.html",
-                "datetime": "2021-05-19 19:53",
-                "price": "$899",
-                "where": "san jose west",
+                "id": "7321144810",
+                "name": "Yamaha DGX-500 digital  piano 88 keys NEW",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/vallejo-yamaha-dgx-500-digital-piano-88/7321144810.html",
+                "datetime": "2021-05-20 09:16",
+                "price": "$349",
+                "where": "vallejo / benicia",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00101_5bGiA65A199z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01717_bAdTxqnx6dAz_0kE0fu_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00101_5bGiA65A199z_0CI0t2_600x450.jpg"
+                    "https://images.craigslist.org/01717_bAdTxqnx6dAz_0kE0fu_600x450.jpg",
+                    "https://images.craigslist.org/01717_bAdTxqnx6dAz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/01313_jZdf1bma7ZUz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00606_4ZlvwMbTW4z_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_d4eb3qPKXZrz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00303_4EofAzqMz1Qz_0kE0fu_50x50c.jpg"
                 ],
                 "query": "famous",
                 "category": "msa",
-                "description": "SERIOUS BUYERS-PLEASE REPLY BACK WITH NAME AND NUMBER. EMAILS WILL NOT BE RETURNED DUE TO SPAM! PLEASE CALL ME BACK, NO TEXTING.I have the receipt and original manual. Amp, stool, and bass drum pedal sold separately.The V-Drums TD-8 Percussion Sound Module offers everything the world-renowned V-Drums have become famous for\u2014hundreds of amazing drum, percussion and instrument sounds, COSM modeling-based drum editing capabilities, intuitive operation, and unmatched sensitivity, to name just a few.V-Drums sound module featuring 1,286 drum and instrument sounds, 64 distinct drum kits V-Edit mode offers modeling-based control over virtual drum shell depth, tuning, head type, muffling and snare strainer adjustment Intuitive user interface with large backlit LCD and faders for instant group volume adjustment Luminous drummer-friendly rubber buttons Onboard Ambience and EQ processing Built-in sequencer with 800 patterns and GM-compatible sound source Compatible with PD-120/100/80/80R/9/7/5 pads, KD-120/80/7 kick triggers, FD-7 Hi-Hat Controller and SPD-20 Total Percussion PadPercussion Sound Module Roland PD-7 Roland PD-80 Roland PD-80R Roland KD-80 Finish/Color: WhiteKick: 8.5Snare: 9Rack Tom: 9Floor Tom: 9Cymbal Pads: 7.5Hardware: Roland TD-8 Hardware"
+                "description": "Selling brand new  Yamaha DGX-500 portable digital grand piano 88 semi-weighted keys. Item has been pulled out from a box to test functionality, works perfect.   Tons of great sounds: pianos, string, organs, flutes, brass etc etc etc. Built in speakers, MIDI, input for headphones. Power supply is included.  price only  $349  in CASH  or PAYPAL . If you see this add it means the piano is availabletel.   If You are not familiar with latest series DGX pianos, please read below:Built by one of the worlds Premier manufactures, Yamaha's DGX500 is the first full size (88 key) portable keyboard to use actual piano keys, and it's the flagship in a series of instruments from Yamaha called Portable Grand. It's packed with functions and features designed specifically for new piano users. A large, piano-shaped button in the center of the front panel calls up the keyboard's best piano sound. A piano accompaniment style is automatically chosen and readied if you want it. Next to the piano button is a metronome-shaped button for, of course, a metronome feature.The DGX505 features an extra-high-quality stereo piano sample, general MIDI (GM) compatibility, and a selection of Yamaha's famous XG Lite voices, all of which work in concert to give you remarkably good sound quality. The quality is enhanced by the keyboard's two-way speakers with bass-enhancing ports.Polyphony is the ability for a keyboard to sound multiple tones simultaneously. Some keyboards in this price range have 16-, 24 -or 28-note polyphony; the DGX500 has a full 32-note polyphony so you can play intricate instrumental arrangements and dense musical passages without running out of notes or sounds.When you want to record your playing, just press the front panel's record button, the track button for the track you want to record on, and start playing. It's that easy. When you're done, save your song internally or to the keyboard's 3.5-inch floppy disk drive as a standard MIDI file (SMF) to make it compatible with other general MIDI keyboards as well as most computers. Imagine recording your child's first song onto a disk, placing it in your computer and attaching it to e-mail so friends and family can hear.Call up your favorite style of music like Rock, Big Band, Gospel or Country, press a chord or play Single Finger mode, and the DGX505 will follow you through a piece of music, providing all of the drums, bass, piano, guitar, horn and string parts for you. And even though the DGX505 comes with 135 built-in music styles, the disk drive opens up the ability to load even more. The disk drive will allow you to save and organize your favorite data for years to come. Another feature to simplify song playing is the music database. Pull out your favorite music book, select a song from any of the over 200 songs in the database, and the entire keyboard sets itself up. Start playing and the keyboard will follow your every chord--with no other buttons to press.The DGX505 comes with 100 built-in songs with its songbook feature. But if you've never played before, where do you start? Well, if learning to play music is important to you, the Yamaha Education Suite II, a set of music training functions, makes learning music incredibly easy. Seven types of lessons are available as well as a convenient chord dictionary.And finally, no matter what level of playing ability your at, you'll appreciate being able to build combinations of your favorite sounds. Pressing the Split button divides the instrument into two parts, allowing you to have two different sounds on the keyboard at the same time, like piano on the right and bass on the left. That's when you really appreciate the 88 keys.In addition, Layer mode lets you combine two sounds across the keyboard range. For example, you could layer piano and strings and play both sounds at the same time. With over 600 voices to choose from, the combinations are only limited by your imagination.Full Stereo sound with 2-way speakers -88 full size Touch sensitive keys - Tutorial modes with grading - Tons of great features, too many to list This piano will satisfy even an accomplished pianist with its sophistication and stunning full room filling sound.  Yet, its simple enough to turn on and begin playing for even the youngest beginner.  Read any reviews on-line and owners just rave about it.    The piano is in excellent condition and works 100%.  Its includes the power cord and the foot petal.  It will be professionally packed for shipping.  Any questions or concerns, feel free to email.  Original Retail price was $1169.95 and that was a steal for this piano."
             }
         ]
     }

@@ -38,6 +38,22 @@
         ],
         "wood": [
             {
+                "id": "7323162063",
+                "name": "Solid wood door slab",
+                "url": "https://sfbay.craigslist.org/scz/mat/d/aptos-solid-wood-door-slab/7323162063.html",
+                "datetime": "2021-05-21 20:56",
+                "price": "$75",
+                "where": "aptos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01515_3NgNCumh6svz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01515_3NgNCumh6svz_0t20CI_600x450.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Solid wood door slab only, no jambOak exterior, light green paint exterior.36 in wideText Dave"
+            },
+            {
                 "id": "7325237285",
                 "name": "Hardwood Flooring - Brazilian Wood",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-hardwood-flooring-brazilian/7325237285.html",
@@ -81,32 +97,71 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Hard to find olive wood for turning and carving. Lot's of pieces to choose from. This green olive wood from a 100+ year-old (estimated) olive tree. Tree was dying and I salvaged most of the good wood, but there is much more than I can use. There are some really nice pieces here, including a piece about 32 inches high by about 15 in diameter. There are pieces you can use for handles, pens, cheese boards, serving trays, bowls, utensils, etc. Even a couple you can use as table bases. I estimate over a thousand pounds of olive wood available. $3.00 per pound for the premium pieces (those with no or few cracks), and $2.00 per pound for those with a lot of cracks. Cash only, and I will not hold any pieces. First come, first served. Call or text: Ask for Greg"
-            },
-            {
-                "id": "7325206300",
-                "name": "**BRAND NEW WINDOWS worth +$3.2k-  MILGARD White Fiberglass/Wood",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/mill-valley-brand-new-windows-worth-32k/7325206300.html",
-                "datetime": "2021-05-21 17:31",
-                "price": "$1",
-                "where": "mill valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_g6X0DdXAKKO_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00n0n_g6X0DdXAKKO_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_g6X0DdXAKKO_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_bbkygT1CMWj_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00505_fK5MuYaAFzS_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_jNZ9wPxE6kQ_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_2BjLZ4EmaBb_0CI0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "PLEASE LEAVE CONTACT PHONE NUMEBR WITH REPLY Selling 3 brand new never used and still sealed in original wrap Milgard Windows (top of the line and not vinyl)* First bought for     $1,600  ;  net frame 62.5 x 43.5* Second bought for $420     ; net frame 17.5 x 43.5* Third bought for   $1,105  ; net frame 53.5 x 43.5Best Cash offer takes them ; No need to wait for a long order - Must be able to pick up in Marin County 1. Paid $1,600 -- Best Cash Offer Model = Composite Design Size = Net Frame 62 1/2 x 43 1/2Glass = 1/8 SuncCoat Max (Low-E) over 1/8 ClearArgon Gas Filled Glazing = Dual Glaze, Gray Foam Spacer with ArgonGrids = 1.1 PWR Fixed 1.3 PWR Fixed Standard Vintage Ext Frost/Int Painted Wood 12 Valance 2W1H 1.2-PWR Fixed Standard Vintage Ext Frost/In Painted Wood 12 Valance 3W1HLow Profile Wood Mull Cap, Cut Window Finish Size, Glass Breakage Warranty 2. Paid $420 -- Best Cash Offer Model = PictureSize = RO 18 x 44Net Frame = 17 1/2 x 43 1/2Energy Package = Title 24 2019Glass = 1/8 SuncCoat Max (Low-E) over 1/8 ClearArgon Gas Filled Glazing = Dual Glaze, Gray Foam Spacer with ArgonGrids = Standard Vintage Ext Frost/In Painted Wood 12 Valance 3W1H3. Paid $1,105 -- Best Cash Offer Model = Picture Two WideSize = RO 54 x 44Net Frame = 53 1/2 x 43 1/2Energy Package = Title 24 2019Glass = 1/8 SuncCoat Max (Low-E) over 1/8 ClearArgon Gas Filled Glazing = Dual Glaze, Gray Foam Spacer with ArgonGrids = Standard Vintage Ext Frost/In Painted Wood 12 Valance 6W1HWindow Windows Pella Milgard Home Depot Lowes Anderson Marvin"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7315496618",
+                "name": "Gucci vintage near new briefcase",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/danville-gucci-vintage-near-new/7315496618.html",
+                "datetime": "2021-05-21 20:46",
+                "price": "$499",
+                "where": "danville / san ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00f0f_qR5cHPtSXI_0t20t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00f0f_qR5cHPtSXI_0t20t2_600x450.jpg",
+                    "https://images.craigslist.org/00f0f_qR5cHPtSXI_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_jWcY4PivsDt_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_9jEAe7kurHr_0CI0t1_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_5n4InfUOFKG_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_9SxhaaoxnOL_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_jehQIXNDXOS_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_f0s1hXNi8o6_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_1R5ZgJ60A4q_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00505_7XmFVbpEso1_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_cObTUTjec9y_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_gy4F4A1aHFS_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_hMPovnyK2cr_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_lhrXNMb8sar_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_aEWmAkzrZyA_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_idnjAW1g1wR_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01717_k92R8oc6CfC_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "A very rare vintage Gucci monogram briefcase in near new condition. Old label.I bought this from Gucci 30 years ago and used it a few times. Very little wear and the leather aroma is like it just came out from the factory. Lamb skin lined interior is simple beautiful. The craftsmanship is no longer seen in corporate owned Gucci. This was made when the House of Gucci was still a thriving independent force.Please feel free to ask question or for more images. I am open to reasonable offers.Both keys in the pouch. Original Gucci box."
+            },
+            {
+                "id": "7318536262",
+                "name": "Vintage  clothing and  shoes",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-vintage-clothing-and-shoes/7318536262.html",
+                "datetime": "2021-05-21 20:38",
+                "price": "$2",
+                "where": "santa clara",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00d0d_8a5YICNSkNFz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00d0d_8a5YICNSkNFz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_8a5YICNSkNFz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_ljqbBCCXlg7z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_b8mBxSp3f6zz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_3wktbiYjnqhz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_8VbH5RdNs3az_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_6OloSGUyaSxz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_h18ExfCa1rYz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_3ccVxCnZqb4z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_KhuJqTnAsKz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_hhGGGLB9uXmz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_6uRAw7hufmbz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_dVwdfVDvfqHz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Beautiful  vintage  clothing and  shoes....   Under garments.  lacy & delicate  $50.many inexpensive shoes and  some designer shoes..Please come to the estate/antique/garage sale on Saturdayat  3515   The Alameda,  Santa Clara       West of Harrison St.10am to 4pm."
+            },
             {
                 "id": "7313816644",
                 "name": "Vintage 1950's Kitchen Apron",
@@ -124,46 +179,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "This is a original apron from the 1950's.. This is from my Italian grandma stored in a box in my moms closet for years. I have about 5 different ones.. This one in the photo is $5.00 and is in great condition! Call   Thanks"
-            },
-            {
-                "id": "7318533587",
-                "name": "Vintage Women's Red Cowboy Boots",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-womens-red-cowboy/7318533587.html",
-                "datetime": "2021-05-21 20:14",
-                "price": "$20",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_bnV8MxaUhaMz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_iSrMn2VNkwRz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_4rbla0VWVxaz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Awesome vintage women's cowboy boots.. Summer is here. Great for country concerts, a night out on the town dancing or what ever.. 20.00   Garden yard art deco?NOTE: THEY CAN USE A GOOD CLEANING. BEEN IN A BOX IN THE BARN ATTIC.."
-            },
-            {
-                "id": "7318976281",
-                "name": "Vintage Women's Red Cowboy Boots",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-womens-red-cowboy/7318976281.html",
-                "datetime": "2021-05-21 20:12",
-                "price": "$20",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_bnV8MxaUhaMz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_iSrMn2VNkwRz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_4rbla0VWVxaz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Awesome vintage women's cowboy boots.. Summer is here. Great for country concerts, a night out on the town dancing or what ever.. 20.00   Garden yard art deco?NOTE: THEY CAN USE A GOOD CLEANING. BEEN IN A BOX IN THE BARN ATTIC.."
             }
         ],
         "beaded": [
@@ -952,6 +967,46 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
+                "id": "7323192180",
+                "name": "Vintage Fender Gemini II Excellent Condition",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/mill-valley-vintage-fender-gemini-ii/7323192180.html",
+                "datetime": "2021-05-21 20:34",
+                "price": "$250",
+                "where": "mill valley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00n0n_3RizN7YIlyWz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00n0n_3RizN7YIlyWz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00n0n_3RizN7YIlyWz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_inhtSTqYEeHz_0oa0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_fnp3e6WyHvQz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_3Tgs02mUww4z_0f20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_7xyiW3HyxUoz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01313_88TdIsywfMlz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_9VsWZluPR0Wz_0CI0lJ_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_bznXFnHrwRzz_0CI0m3_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_fccUzGsJiN9z_0fT0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_i50lDLwURg7z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_721PlIYVEqcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_jPXGikeRJWQz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_dWnNFxXC9gEz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_lWNv68GZblWz_0hO0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_ewsuaOVDrG7z_0gc0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_1MAKXOw0Rnkz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_3kNytB4SQWYz_0jb0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_cTXfZWfVMgOz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_ldOWbm4snnXz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01010_3y7BI2EjjjJz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_gGI8cYnD7NCz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_Tv8JsKfCuUz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01717_d8UkL8vtaDFz_0f20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_dPLOf2VTf2bz_0t20CI_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "A model made famous by being on Prince\u2019s \u201cDiamonds and Pearls\u201d -- the Fender Gemini II features Sitka Spruce top and Nato back and sides. This guitar sounds absolutely fantastic for its price range and is perfect for a seasoned player looking for a durable guitar for the road or a beginner looking for a dreadnaught with a vintage vibe at a steal. Recently cleaned, frets polished and setup -- action is great -- comfortably low and plays great. Beautiful guitar and in excellent condition. Comes with a gig bag included."
+            },
+            {
                 "id": "7316549904",
                 "name": "Ventura V-1300G Archtop Electric Guitar ES-175 Style-70\u2019s Lawsuit Era",
                 "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-ventura-1300g-archtop/7316549904.html",
@@ -974,29 +1029,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "This guitar is a 1970\u2019s Japanese knockoff of a Gibson ES-175. These are among those known as \u201clawsuit guitars,\u201d vintage instruments from that era that were well-made copies of famous American guitars.The pickups in it are humbuckers from a more recent Les Paul. (The knobs are also from a newer Gibson.) It\u2019s a versatile instrument, plays well, and looks great. There is visual evidence of some cracks in the face, which I\u2019ve highlighted in a couple of the photos. None seems to propagate through the face, and given that this is a plywood instrument, they don\u2019t appear to pose any serious problem to the integrity of the guitar.It comes with a nice hard case. If you are looking for a good jazz guitar, but aren\u2019t prepared to spend the thousands that they typically cost, this is a great alternative.I can\u2019t take trades, please don\u2019t offer."
-            },
-            {
-                "id": "7325192824",
-                "name": "Gently used Sitar",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-mateo-gently-used-sitar/7325192824.html",
-                "datetime": "2021-05-21 17:01",
-                "price": "$995",
-                "where": null,
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_35jZGQLLVb5z_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_35jZGQLLVb5z_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_35jZGQLLVb5z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_jYhqQKGWfVwz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_7JGUPlAYEmrz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_a39LFKIZRD7z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01111_a7iatqQtNaez_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_gDkNRopFNe2z_0zu0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_fdkhkr8KOUzz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "This gently used sitar plays well and stays in tune nicely. Made from tun (Mahogany) wood. Kharaj Pancham / Ravi Shankar style sitar. Includes an upper tumba and a factory made black fiberglass sitar case.$995.00 or best offer. Sitars like this often sell for much more elsewhere. It is priced reasonably to help get this sitar into the hands of another musician in need even though it is hard to have sitars imported at this time. Shahidali is an established sitar maker in Miraj, an Indian town famous for sitar and musical instrument making. This sitar is was very skillfully created following a Rikhi Ram Kharaj Pancham sitar design that was very popular from 1985 through the early 2000s. It was made from carefully aged wood and the carving pattern is full decoration.This sitar projects sound very well. It also has been lovingly cared for and has no damage. It was fully set up by an instrument technician with years of experience with sitars. Then it was played lovingly by a talented sitar player and teacher who later sold me the sitar while teaching me.I will miss it though I know another sitar player will enjoy it greatly. Upon request I could include an instructional sitar playing book written by Ravi Shankar and/or an instructional sitar learning DVD.I will bring it to a public outdoor location for a viewing/sale."
             }
         ]
     }

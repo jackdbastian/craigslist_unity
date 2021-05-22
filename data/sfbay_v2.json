@@ -103,6 +103,29 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7314299085",
+                "name": "VINTAGE DUTCH NAVY PEA COAT",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-vintage-dutch-navy-pea-coat/7314299085.html",
+                "datetime": "2021-05-21 21:23",
+                "price": "$50",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_a0e3b89fmIXz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_a0e3b89fmIXz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_eRzCDEJ1V6Wz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_jW6YJ9LYBy3z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00909_kILusHWw9wwz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Added image with size information.  Very rare, heavy vintage pea coat.  needs dry cleaning as it has been hanging in my closet for a while and is dusty more than anything.Date says 1955, and I assume that is the mfg. date.  I bought it in the 70's and it served me well.  One pocket lining is torn, but you can't see it from the outside.  also there are some wear marks in the collar.  the pictures make it look more gray than it actually is.  It is very dark blue almost black.  I would call it a mens large."
+            },
+            {
                 "id": "7315496618",
                 "name": "Gucci vintage near new briefcase",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/danville-gucci-vintage-near-new/7315496618.html",
@@ -161,24 +184,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Beautiful  vintage  clothing and  shoes....   Under garments.  lacy & delicate  $50.many inexpensive shoes and  some designer shoes..Please come to the estate/antique/garage sale on Saturdayat  3515   The Alameda,  Santa Clara       West of Harrison St.10am to 4pm."
-            },
-            {
-                "id": "7313816644",
-                "name": "Vintage 1950's Kitchen Apron",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-1950s-kitchen-apron/7313816644.html",
-                "datetime": "2021-05-21 20:14",
-                "price": "$5",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_aZA7ev6W8giz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "This is a original apron from the 1950's.. This is from my Italian grandma stored in a box in my moms closet for years. I have about 5 different ones.. This one in the photo is $5.00 and is in great condition! Call   Thanks"
             }
         ],
         "beaded": [
@@ -672,31 +677,6 @@
         ],
         "fix up": [
             {
-                "id": "7324045104",
-                "name": "2006  Chevy Colorado UPFITTED WORK TRUCK",
-                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-2006-chevy-colorado-upfitted/7324045104.html",
-                "datetime": "2021-05-19 12:15",
-                "price": "$7,500",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_k3qGsy0mXZvz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_k3qGsy0mXZvz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_k3qGsy0mXZvz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_1lnyfHBXTgFz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_jjAJKutxHHjz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_amxYkja45v0z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_9QLCJ6ZqWsKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_a9iXi2FHr5cz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_6VEVUQbgZAMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_bCZ2ZhKstaNz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01010_7XVvqfrETzrz_0t20CI_50x50c.jpg"
-                ],
-                "query": "fix* up*",
-                "category": "cta",
-                "description": "UPFITTED WORK TRUCK!(VERY PROFESSIONAL LOOKING WORK TRUCK)Rack-it forklift loadable lumber rack (heavy duty)+Heavy duty leaf springs installed+Firestone ride-rite air bags (with the up / down controls in the cab)*REAR ANTI SAG AIR SUSPENSION UP TO 5000 POUNDS*+Brand new tires and rims (Mastercraft tires + pro comp aluminum rims)+3 inch liftI had All upfits professionally installed by a professional truck shopAdvanced Trucks in Morgan HillI have all receipts to showLow miles 116,000 milesRegisteredSalvaged title=We bought the truck like that we were told it was side swiped but was fixed. Scraped door.No Check Engine lightCome Test Drive itGAS SAVER -5 CYLINDERS"
-            },
-            {
                 "id": "7323893756",
                 "name": "2016 VW e-GOLF SE*ELECTRIC VEHICLE*45K MILES*AUTO*BACK UP CAMERA",
                 "url": "https://sfbay.craigslist.org/pen/ctd/d/half-moon-bay-2016-vw-golf-seelectric/7323893756.html",
@@ -765,6 +745,29 @@
                 "query": "fix* up*",
                 "category": "cta",
                 "description": "2003 Acura CL S-Type130K Original MilesSecond OwnerVtec V6 280horsepower / 5spd AutoHigh performance upgradesUpgraded TransmissionFully servicedCustom stereoClean CarfaxFresh smog and tags are good to September. Title is in hand, and in my namePlease read whole ad before calling, as many questions can be answered belowClean Carfax Shows:No accidents, 2 owner, Clean Title, accurate mileage20 service records from Acura of Stockton from original owner. The original transmissions went out at 100k. However a 2006/2007 Honda Accord V6 uses the same exact trans, except Honda fixed the fatal flaw (2/3rd gear clutch pack oiling) and they are very dependable. I installed a trans out of a 2007 accord that was 1 owner from Dublin, always maintained at Honda with also 100K on the odometer (came out of a salvaged crash car was hit in rear) This trans should last the life of the car without issue. This is a common swap among CL and TL enthusiasts.Along with trans, around 100K I installed a Genuine  Acura Timing belt and water pump kit with tensioner and seals.  All Factory parts. I also did factory Iridium spark plugs and checked the valve adjustment at that time.All 4 brakes are done recently with e-coated rotors, stoptech pads and flushed performance brake fluid2 new motor mounts, Factory AcuraCoolant replaced and the power steering fluid flushed with Honda fluidNew HID Ballasts and bulbsNow for the goodies $$*Koni Yellow Rebound adjustable Struts at all 4 corners with stock springs at 1 lower height (not too low)*Eibach Sway Bars front and rear with poly bushings* All 4 sway bar end links replaced with HD Moog greasable units*Poly strut rod mounts*Real Deal Comptech Stainless Mufflers and Y pipe (can be showroom polished if wanted)*Air sound/restrictor removed from air box (still smog legal no issue, just throatier sound)*Has TL rims on it as opposed to the factory CL rims which look almost identical except the CL rims get curbed easier and don't have the nice dark metallic background color. *Interior has been double dyna-matted (sound deadening) all along back seat area, both doors completely, trunk *Has custom stereo with a 10 Sub with a JL amp powering it, and a 4 channel rockford fosgate powering door speakers and 6x9s, all quality cables throughout even all the way up to the door speakers*Ceramic 20% tinted windows all the way around, nice privacy but  not so dark can't see out and they are the heat resistant pricey ceramicThis CL Runs and Drives excellent, super clean and tasteful. Handles on rails, super comfortable, and plenty of power along with good gas mileage. Everything works, AC cold, both heated seats work, windows, locks, power seats, everything. The negatives:The air bag recall needs to be done, and the seatbelt receiver replaced (both will be done for free at the dealer, I just never got around to it because its a few cities away)Dings on body (see passenger door) and minor visual defects on exterior (rock chips front bumper) 20 year old black car, its super clean and representable but its also not a complete garage queen.Will need tires soon. The current ones will get you where you need to go but theyre at the end of their life.*Price is absolutely firm, no rush to sell, if you like what you see and read you won't be wasting your time coming to see and but this clean machine.*Cody"
+            },
+            {
+                "id": "7320088702",
+                "name": "1999 Toyota Landcruiser - Mechanic Owned, Upgrades, Camp/OverLand Read",
+                "url": "https://sfbay.craigslist.org/pen/cto/d/san-carlos-1999-toyota-landcruiser/7320088702.html",
+                "datetime": "2021-05-11 08:48",
+                "price": "$12,950",
+                "where": "san carlos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_6i5avp7CTrxz_0c60g8_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_6i5avp7CTrxz_0c60g8_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_6i5avp7CTrxz_0c60g8_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_iA2qufThSyPz_0c6094_50x50c.jpg",
+                    "https://images.craigslist.org/00202_hpgquutuVl8z_0c6094_50x50c.jpg",
+                    "https://images.craigslist.org/00202_jJmCOJIia6Oz_0c6094_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_fPfsx9HcOICz_0c60g8_50x50c.jpg",
+                    "https://images.craigslist.org/00909_1vPsfhqsQD5z_0c6094_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_j1euDe5Vi3Dz_0c6094_50x50c.jpg"
+                ],
+                "query": "fix* up*",
+                "category": "cta",
+                "description": "Excellent Toyota Landcruiser - with Rear Locker (OE)Mechanic owned over several years. Very well maintained!This Cruiser 100 series is also overland/camp ready right away!Items that were replaced - 30,000 miles ago:Timing Belt - with tensioners, idlers, etc.Water PumpThermostat, Gasket, Valve Cover Gaskets, Spark PlugsRadiatorDrive BeltRoof RackIcon Shocks with 2.5-inch liftFront Differential DropFront AxlesSlidersAnd moreTires have about 80% remaining - put on about 2 years ago. The body has some things here and there with the mileage and with one rear quarter panel bump on the trail. Interior is worn with use (see photos). Nothing that can't be fixed up or cleaned up if you like.Please let me know if you are interested and would like to check it out.All work completed and built at A+ Japanese Auto Repair in San Carloswww.aplusjapaneseautorepair.comEric S.650-703-097three"
             }
         ],
         "fast": [
@@ -924,24 +927,32 @@
                 "description": "Great small amp with big sound, perfect for acoustic guitar and vocal.It has 2 separate channels, working like new.It has some scratches on the outside.Price is not negotiable, thanks.New it sells for $350 + tax"
             },
             {
-                "id": "7318414845",
-                "name": "Acoustic Control Corp Amps",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-acoustic-control-corp-amps/7318414845.html",
-                "datetime": "2021-05-21 19:24",
-                "price": "$700",
-                "where": "ingleside / SFSU / CCSF",
+                "id": "7325270101",
+                "name": "TC Electronic RS410 Bass Cab",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-tc-electronic-rs410-bass-cab/7325270101.html",
+                "datetime": "2021-05-21 21:26",
+                "price": "$450",
+                "where": "san jose west",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00l0l_8RPiqwdij4Ez_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_600x450.jpg",
-                    "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_3QCuUq8HXFQ_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00101_i4oQVpcRYPa_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_1gsEXNVv42_0gw0co_50x50c.jpg"
+                    "https://images.craigslist.org/00l0l_8RPiqwdij4Ez_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00l0l_8RPiqwdij4Ez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_2MGGsO5evpbz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_lqjK3z15umhz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_2wmnSjq3z5Zz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_fVTBdJ76rCsz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_gfMyzJVCPWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_73wUqayFYTmz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_cRaEEZrltIEz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_7zSsA0SmS3Vz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_i9oQDDhjYtHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_9Uu7rB5rfyRz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_8rAoxUg0RTmz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Acoustic 150 w/6- 10 speakers loud and clear , reverb and trem. $700/ b.o.Acoustic 270 w/ 2-15 &horn. Reverb, trem, fuzz, graphic eq. Horn is disconnected(don't need it) $700/b.o.No trades . Buy both for $1200"
+                "description": "Bought a few years ago used. Seldom used in house. Works fine, loud, deep. Minor scratches. Cover included. Also have the TC RH450 amp head on another CL ad. Local pick up. Might need a dolly. Please include a legit phone# for text or call. Otherwise no response.TC Electronic RS410 Bass Extension Cabinet Features at a Glance:Power handling of 600 wattsEnclosure made of 18mm plywood side panels and 18mm rounded carved hardwood cornersAnti-skid dual component surface treatmentDual front porting4 x Eminence custom 10 woofersEminence 33mm voice coil and titanium diaphragm tweeterL-pad tweeter adjustment2 speakON (input or link) connectors8 ohms of impedance"
             }
         ],
         "famous": [

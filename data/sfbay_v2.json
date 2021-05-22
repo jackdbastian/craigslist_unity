@@ -104,6 +104,47 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7325328946",
+                "name": "Cute vintage crop sweater - embellished",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/belmont-cute-vintage-crop-sweater/7325328946.html",
+                "datetime": "2021-05-22 05:41",
+                "price": "$8",
+                "where": "belmont",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00s0s_gVj5Vd3KuvUz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00s0s_gVj5Vd3KuvUz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00s0s_gVj5Vd3KuvUz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01414_bW4FCElrS56z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_c3KuqhnKXkZz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_kiDTJxnuPjSz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_2hEauj5ddkOz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Adorable vintage crop sweater embellished with white lace and vintage buttons. Soft and pretty! 65% polyester; 35% cotton. Looks like size medium. Excellent condition!"
+            },
+            {
+                "id": "7312817218",
+                "name": "Vintage STROH\u2019S BEER Jacket XXL but more like L-XL",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-strohs-beer/7312817218.html",
+                "datetime": "2021-05-22 05:34",
+                "price": "$25",
+                "where": "cole valley / ashbury hts",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00r0r_hBXtJj8SKYWz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00r0r_hBXtJj8SKYWz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00r0r_hBXtJj8SKYWz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01717_hHVTARGNTl8z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00707_5QkWOk4C4abz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_8nksel5ogwwz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Great condition. More of less fits me at 5\u201911, 175 lbs. although label says it\u2019s XXL."
+            },
+            {
                 "id": "7325318358",
                 "name": "Vintage Sopheea tote bag",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-sopheea-tote-bag/7325318358.html",
@@ -125,49 +166,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Hello A very beautiful Sopheea classic, genuine leather tote bag. On line there asking a stupid price I won't even tell you I'm asking $199"
-            },
-            {
-                "id": "7325316777",
-                "name": "Vintage NY coach Tote bag",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-ny-coach-tote-bag/7325316777.html",
-                "datetime": "2021-05-22 04:55",
-                "price": "$199",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_600x450.jpg",
-                    "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_eCvSSwRwE4rz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_64OfLarC68Ez_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_cXol6NPu4idz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_k4oIF230ke1z_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_fPrzXUUwhvRz_0gl0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage New York Coach Tote bag, very beautiful LN8-8214 . In wonderful condition normally going for $499 I'm asking $199Thank you"
-            },
-            {
-                "id": "7325313442",
-                "name": "DJK long sleeve V-neck top, Lace decor and Bow, Lightweight, Vintage,",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-djk-long-sleeve-neck-top-lace/7325313442.html",
-                "datetime": "2021-05-22 04:39",
-                "price": "$12",
-                "where": "alameda",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00z0z_omay0OF5mkz_05O07K_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00z0z_omay0OF5mkz_05O07K_600x450.jpg",
-                    "https://images.craigslist.org/00z0z_omay0OF5mkz_05O07K_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_9PQ4RoPrnfRz_05O07K_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_cFHLbhptMOSz_0B90t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_3cIQd8vwanfz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_goD80uf9ipyz_0iM0ed_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "DJK long-sleeve V-neck top with elegant Lace decoration and bow tie, lightweight, vintage and festive. Rayon, spandex, polyester.Colorblock with lace detailCondition is very good Pre-owned."
             }
         ],
         "beaded": [
@@ -237,6 +235,24 @@
         ],
         "gloves": [
             {
+                "id": "7325331874",
+                "name": "Italian embroidered kid leather gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/richmond-italian-embroidered-kid/7325331874.html",
+                "datetime": "2021-05-22 05:51",
+                "price": "$20",
+                "where": "richmond / point / annex",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00L0L_5JW8R0Y3bCuz_05a03S_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00L0L_5JW8R0Y3bCuz_05a03S_600x450.jpg",
+                    "https://images.craigslist.org/00L0L_5JW8R0Y3bCuz_05a03S_50x50c.jpg",
+                    "https://images.craigslist.org/01212_1zHWxxSPPATz_05a03S_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "I have two pairs of embroidered leather gloves that came from a trip to Italy many years ago.  One pair is creamy white with embroidery and cutouts, perfect for a summer wedding; the other black with less obvious embroidery, good for any time of year.  They are very soft fine leather, and a fairly small size 6.5.  $20 for each pair.I live in a gated community at Marina Bay, just off 580 in Richmond."
+            },
+            {
                 "id": "7310729033",
                 "name": "Wells Lamont Leather Work Gloves 3 pk 40% off",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wells-lamont-leather-work/7310729033.html",
@@ -293,24 +309,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "much more in links belowClearing 3 closets full of unique vintage fashions in best offer auction: please reply with the photo number of the item you want and send your offer. If your price is acceptable and no one outbids, you can call and pick up in SF. If no show, the next bidder gets it. No reply means your offer was too low.Discount for 10+ items - bonanza for vintage resellers. 100s of tops, dresses, jackets, suits, blazers, skirts, pants, shoes, accessories, jewellery etc. etc. - too many to post. Many rare designer outfits. Check these links for more items.More and bigger photos:DRESSES:https://photos.google.com/share/AF1QipMAx1RCA9H-3N3xMSNHi8CgAxx0cB7N0ENQiC4Z_aGAqat5ucRUSl2oxZiwQxGpNw?key=MFZRWlBkS1BBOUY2Y1p6ZFg2bUthVXRMZXhKYU5RTOPS AND SWEATERS:https://photos.google.com/share/AF1QipOLcKmSUiCNSa5zg-56bIAcSl4ujC6Is2eZm_yqmm743Vy8xnc7Mb8aHl3VTQV-5w?key=NUFPM2J1UEp0ZWpnTDhLdUZ3SHJ4WjRIdGVPczh3COATS, JACKETS AND SUITS:https://photos.google.com/share/AF1QipPPM9khppYOY6saAcqn8jpP2j7zkALfLt62WffqtZxmxuordC5zwbvR2-45zq_QqA?key=YndWTHQ5d3NDTlEwdDJYNHdGLUZvTmZ3MjFuWFRBJUMPSUITS, SKIRTS, PANTS, SHORTS.https://photos.google.com/share/AF1QipMAAy1bGxvovZKacZ3tLfxSWhr-_y98o2RTAfuIxSsgRIMD3eeUSNyP_luzXnHZJQ?key=TVhfY0xrWHlqdFZIUHNUNEotbXNfaXdiVC1aTlVRLINGERIEhttps://photos.google.com/share/AF1QipMHYh86mDFKmeTLHxlnGq4gVtkgmAKqZOXgkX7zRQh6kMFfXBYVJtaGe2KS4mSa_g?key=ZVoxODNaeV8zbVRlR09rSWZ1blY2QmY2bWVUVjVRDESIGNERhttps://photos.google.com/share/AF1QipO64n8tWi2A_EzHvlu7X25xDh0S6JeA1DdEKxNawAwbrXZ3N6oHkRQUpbtPS3d59w?key=NVRYWm53Q0RxMVJCVkhzRjNWaVFBcVlnZWp0blhnKIMONO COAT. ETHNIC WAREhttps://photos.google.com/share/AF1QipPC4s2D9N4wucWq3g7L2X1hqZCF4524OwpgL5MZ4KefwuiPhQg_20UrJ7kK94z-LQ?key=RG9yVXFXUmlsNGFrQmUwTTZrRkVTTnJCQzQweXBBBELTS AND ACCESSORIEShttps://photos.google.com/share/AF1QipNq_KIUCYBxi5rKoJep9uBhHXG_tUoACojHwWduLdXHkwQewnZz5NICc6fXExTETg?key=Z19LTEd3bzJuU1YwT3RDaVA2LXNGaVJELTdHdkNBSHOEShttps://photos.google.com/share/AF1QipOTtTlREUWUCtllFXic_sr_tYbBvw21shzBSAYSQ9HZyuJfjNnGzLaCNdEOyShrpg?key=Qzd5WXhBVkc4dm9ON3laMGRRdnZsSGFmWTZWdTh3JEWELLERYhttps://photos.google.com/share/AF1QipMyXvCa3ygKlMolOcw1H8EmUv60ZugjbKjsZ9ssTYbp7g5Dckz5BUQzNccO_dUfXg?key=UmczLXU1QmRndFJlNkVCRWNSNDF0azJTSmdZemJ3"
-            },
-            {
-                "id": "7324868943",
-                "name": "REV'IT! L Volcano Motorcycle Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-revit-volcano-motorcycle/7324868943.html",
-                "datetime": "2021-05-21 08:52",
-                "price": "$45",
-                "where": "lafayette / orinda / moraga",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00a0a_jSuJqCnDovfz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00a0a_jSuJqCnDovfz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00a0a_jSuJqCnDovfz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_1yWDhUnOcQ9z_07K0ak_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Awesome gloves that I only wore once. Opened the package after spending $70+, wore them to take my motorcycle to work, and realized they are too small. Out of the box condition. They are great quality gloves, I just need to buy an XL instead of a L.REV'IT! Volcano GlovesThe Volcano Gloves from REV'IT! are the lightest ADV gloves in the REV'IT! collection with CE certification. Designed with a mix of on-road and off-road use in mind, the Volcano Gloves are more robust than a full dirt glove and feature a fortified microfiber synthetic palm. Air mesh on the back of hand keeps the hands cool and dry during high effort maneuvers. TPR knuckle sliders with Seesoft viscoelastic backing add protection. Temperfoam can be found again at the palm and thumb. A hook and loop closure keeps the gloves secure, and an oversized pull loop makes for easy entry. Protection Features:Outer Shell: 3D air mesh | artificial leather | stretch | connect finger tip fabricLining: tricot linerComposition: 56% polyamide, 31% polyurethane, 11% polyester, 2% otherProtection: SEESOFT\u2122 knuckle | Temperfoam\u00ae underneath knuckle | PWR|shield at palm | Temperfoam\u00ae finger knuckles | Temperfoam\u00ae palm slider | TPR injected finger knuckle protectors CE certified EN 13594:2015Ergonomic Features:Fit: tour fitAdjustability: adjustment strap at cuffVentilation: 3D air mesh inserts at non-impact zonesFeatures: stretch at fingers and back hand, elastic at wrist, connect finger tips at index finger and thumb, regular cuff, textured grip and control panel"
             }
         ],
         "wedding dress": [

@@ -38,6 +38,24 @@
         ],
         "wood": [
             {
+                "id": "7311895951",
+                "name": "Wood Beam Lumber",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/redwood-estates-wood-beam-lumber/7311895951.html",
+                "datetime": "2021-05-21 22:12",
+                "price": "$0",
+                "where": "los gatos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_a9jsGs1gaeL_0jm0pO_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_a9jsGs1gaeL_0jm0pO_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_a9jsGs1gaeL_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00505_afYI67Q40bg_0jm0pO_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "8' long @ longest; 91 @ shortest6.5 x 9Has odd shape on end as pictured.Color of pic is washed out. Please make a reasonable offer.DIY, carpenter, build, building,"
+            },
+            {
                 "id": "7323162063",
                 "name": "Solid wood door slab",
                 "url": "https://sfbay.craigslist.org/scz/mat/d/aptos-solid-wood-door-slab/7323162063.html",
@@ -73,30 +91,6 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "approximately 500 sq ft of beautiful Brazilian Hardwood flooring.   $1800 or best offer"
-            },
-            {
-                "id": "7325217109",
-                "name": "Olive Wood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/danville-olive-wood/7325217109.html",
-                "datetime": "2021-05-21 18:01",
-                "price": "$3",
-                "where": "danville / san ramon",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01414_hDnNI0K7H7Gz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01414_hDnNI0K7H7Gz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/01414_hDnNI0K7H7Gz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_fqo6oPdxy4Qz_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00808_h4xXQscYAkwz_0oo0ww_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_lIkgdgwDZG7z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_jDn17cHgrq0z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_3w1hmIdpBNbz_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_d69dfgLl74Az_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_h1mbKM6zlSKz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Hard to find olive wood for turning and carving. Lot's of pieces to choose from. This green olive wood from a 100+ year-old (estimated) olive tree. Tree was dying and I salvaged most of the good wood, but there is much more than I can use. There are some really nice pieces here, including a piece about 32 inches high by about 15 in diameter. There are pieces you can use for handles, pens, cheese boards, serving trays, bowls, utensils, etc. Even a couple you can use as table bases. I estimate over a thousand pounds of olive wood available. $3.00 per pound for the premium pieces (those with no or few cracks), and $2.00 per pound for those with a lot of cracks. Cash only, and I will not hold any pieces. First come, first served. Call or text: Ask for Greg"
             }
         ]
     },
@@ -556,42 +550,6 @@
     "cars": {
         "drives great": [
             {
-                "id": "7325002819",
-                "name": "2012 Fiat 500 Pop Hatchback 2D _ 5 Speed_ 91000 Mile _  Drives Great",
-                "url": "https://sfbay.craigslist.org/sby/cto/d/campbell-2012-fiat-500-pop-hatchback-2d/7325002819.html",
-                "datetime": "2021-05-21 10:57",
-                "price": "$3,900",
-                "where": "san jose west",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01313_jQanATWBwZz_0ak07K_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01313_jQanATWBwZz_0ak07K_600x450.jpg",
-                    "https://images.craigslist.org/01313_jQanATWBwZz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_eXTLjlrmNerz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_ge7kFapUjMsz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_eYuypikZ1gBz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_3p3E6pO4Gc5z_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00808_dSr42Y2I4Soz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_27L2ThTMNEWz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/01717_8u3AmAKwhLXz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_6qOLIgs9WWvz_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/01717_bffRJpSSwKpz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_grVQnXPo5Miz_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00404_6Jx32VtQ41nz_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/01212_4nr0bgXSgK7z_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_3qIua8tkObHz_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_eCglVkb4niez_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_h9Le38z9Jj3z_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_65w7xNwro75z_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_1gwfchFn3I6z_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00000_3tz5s7OC62fz_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00808_dAHihlqkpVbz_0ww0oo_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "2012 Fiat 500 Pop Hatchback 2D Excellent Gas Saver91,000 MileManual, 5-Spd 4-Cyl 1.4 Liter FWDWell Maintained Clean Title (Clean History)4 fairly new Tires Smog Test passed Car is in great mechanical shape currently, Clean and Reliable small commuter, Great car for around town, and perfectly fine for long commute as well. Services are up to date. It's a non smoking no pets car.Options:- Keyless entry Remote control with Anti-theft system, Hill Start Assist control, Traction control, Stability control, ABS 4-wheel, All power, Air conditioning, CD/MP3 single CD with Radio AM FM  sound system, Bluetooth Wireless,  Dual air bags with side airbags front and rear, Daytime running light, Steel wheels If interested call me at 4 0 8 - 7 2 1 - 2 7 8 1 to schedule time to see it, Serious inquiries please Asking $3900 Cash Firm"
-            },
-            {
                 "id": "7324091570",
                 "name": "2008 NISSAN ROGUE S   CLEAN TITLE. SMOG CHECK.    DRIVES GREAT.!!!",
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2008-nissan-rogue-clean-title/7324091570.html",
@@ -660,9 +618,71 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "CLEAN TITLE. SMOG CHECK.  MANUAL TRANSMISSION.  126,xxx miles.cold a/c.  drives great.  aftermarket deck.  navigation, and apps.510,= < 299+ 1213....."
+            },
+            {
+                "id": "7322125528",
+                "name": "2006 TOYOTA CAMRY LE.  CLEAN TITLE. SMOG!!  102k mi**  DRIVES GREAT!!!",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2006-toyota-camry-le-clean/7322125528.html",
+                "datetime": "2021-05-15 11:30",
+                "price": "$7,499",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_600x450.jpg",
+                    "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_fjDqQYZ9wwDz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00808_eWpIrPuMEi8z_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_26N4HRSn2n4z_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00909_k8ZENDAKzUKz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_4HgI1Yp4ttYz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_bcDWU8dD6FFz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_dDjnyRyH0Kjz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01313_apLppNUXXMdz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01212_ghtHtCum5ZWz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_faHxqKBTqQvz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_aOSFCf4BEJxz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_3pMU1ZyAKSIz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01515_hXPk8JhvOe7z_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_jC1vmxNadiFz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_5VuJewtcZJoz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_d8WWgI82sPbz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_fSUiAWRZeJUz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_bzsIZudpi4yz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_i63zts4WBBDz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01212_kqjfyy3PeKKz_0CI0lM_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2006 Toyota camry leclean title. smog check.102,xxx miles.  very low.4-cylinder.  gas saver.automatic, shifts smooth.cold a/c.   power windows and locks.drives great.  clean in and out.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [
+            {
+                "id": "7324045104",
+                "name": "2006  Chevy Colorado UPFITTED WORK TRUCK",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-2006-chevy-colorado-upfitted/7324045104.html",
+                "datetime": "2021-05-19 12:15",
+                "price": "$7,500",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00j0j_k3qGsy0mXZvz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00j0j_k3qGsy0mXZvz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00j0j_k3qGsy0mXZvz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_1lnyfHBXTgFz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_jjAJKutxHHjz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_amxYkja45v0z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_9QLCJ6ZqWsKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_a9iXi2FHr5cz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_6VEVUQbgZAMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_bCZ2ZhKstaNz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01010_7XVvqfrETzrz_0t20CI_50x50c.jpg"
+                ],
+                "query": "fix* up*",
+                "category": "cta",
+                "description": "UPFITTED WORK TRUCK!(VERY PROFESSIONAL LOOKING WORK TRUCK)Rack-it forklift loadable lumber rack (heavy duty)+Heavy duty leaf springs installed+Firestone ride-rite air bags (with the up / down controls in the cab)*REAR ANTI SAG AIR SUSPENSION UP TO 5000 POUNDS*+Brand new tires and rims (Mastercraft tires + pro comp aluminum rims)+3 inch liftI had All upfits professionally installed by a professional truck shopAdvanced Trucks in Morgan HillI have all receipts to showLow miles 116,000 milesRegisteredSalvaged title=We bought the truck like that we were told it was side swiped but was fixed. Scraped door.No Check Engine lightCome Test Drive itGAS SAVER -5 CYLINDERS"
+            },
             {
                 "id": "7323893756",
                 "name": "2016 VW e-GOLF SE*ELECTRIC VEHICLE*45K MILES*AUTO*BACK UP CAMERA",
@@ -732,29 +752,6 @@
                 "query": "fix* up*",
                 "category": "cta",
                 "description": "2003 Acura CL S-Type130K Original MilesSecond OwnerVtec V6 280horsepower / 5spd AutoHigh performance upgradesUpgraded TransmissionFully servicedCustom stereoClean CarfaxFresh smog and tags are good to September. Title is in hand, and in my namePlease read whole ad before calling, as many questions can be answered belowClean Carfax Shows:No accidents, 2 owner, Clean Title, accurate mileage20 service records from Acura of Stockton from original owner. The original transmissions went out at 100k. However a 2006/2007 Honda Accord V6 uses the same exact trans, except Honda fixed the fatal flaw (2/3rd gear clutch pack oiling) and they are very dependable. I installed a trans out of a 2007 accord that was 1 owner from Dublin, always maintained at Honda with also 100K on the odometer (came out of a salvaged crash car was hit in rear) This trans should last the life of the car without issue. This is a common swap among CL and TL enthusiasts.Along with trans, around 100K I installed a Genuine  Acura Timing belt and water pump kit with tensioner and seals.  All Factory parts. I also did factory Iridium spark plugs and checked the valve adjustment at that time.All 4 brakes are done recently with e-coated rotors, stoptech pads and flushed performance brake fluid2 new motor mounts, Factory AcuraCoolant replaced and the power steering fluid flushed with Honda fluidNew HID Ballasts and bulbsNow for the goodies $$*Koni Yellow Rebound adjustable Struts at all 4 corners with stock springs at 1 lower height (not too low)*Eibach Sway Bars front and rear with poly bushings* All 4 sway bar end links replaced with HD Moog greasable units*Poly strut rod mounts*Real Deal Comptech Stainless Mufflers and Y pipe (can be showroom polished if wanted)*Air sound/restrictor removed from air box (still smog legal no issue, just throatier sound)*Has TL rims on it as opposed to the factory CL rims which look almost identical except the CL rims get curbed easier and don't have the nice dark metallic background color. *Interior has been double dyna-matted (sound deadening) all along back seat area, both doors completely, trunk *Has custom stereo with a 10 Sub with a JL amp powering it, and a 4 channel rockford fosgate powering door speakers and 6x9s, all quality cables throughout even all the way up to the door speakers*Ceramic 20% tinted windows all the way around, nice privacy but  not so dark can't see out and they are the heat resistant pricey ceramicThis CL Runs and Drives excellent, super clean and tasteful. Handles on rails, super comfortable, and plenty of power along with good gas mileage. Everything works, AC cold, both heated seats work, windows, locks, power seats, everything. The negatives:The air bag recall needs to be done, and the seatbelt receiver replaced (both will be done for free at the dealer, I just never got around to it because its a few cities away)Dings on body (see passenger door) and minor visual defects on exterior (rock chips front bumper) 20 year old black car, its super clean and representable but its also not a complete garage queen.Will need tires soon. The current ones will get you where you need to go but theyre at the end of their life.*Price is absolutely firm, no rush to sell, if you like what you see and read you won't be wasting your time coming to see and but this clean machine.*Cody"
-            },
-            {
-                "id": "7320088702",
-                "name": "1999 Toyota Landcruiser - Mechanic Owned, Upgrades, Camp/OverLand Read",
-                "url": "https://sfbay.craigslist.org/pen/cto/d/san-carlos-1999-toyota-landcruiser/7320088702.html",
-                "datetime": "2021-05-11 08:48",
-                "price": "$12,950",
-                "where": "san carlos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_6i5avp7CTrxz_0c60g8_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00o0o_6i5avp7CTrxz_0c60g8_600x450.jpg",
-                    "https://images.craigslist.org/00o0o_6i5avp7CTrxz_0c60g8_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_iA2qufThSyPz_0c6094_50x50c.jpg",
-                    "https://images.craigslist.org/00202_hpgquutuVl8z_0c6094_50x50c.jpg",
-                    "https://images.craigslist.org/00202_jJmCOJIia6Oz_0c6094_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_fPfsx9HcOICz_0c60g8_50x50c.jpg",
-                    "https://images.craigslist.org/00909_1vPsfhqsQD5z_0c6094_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_j1euDe5Vi3Dz_0c6094_50x50c.jpg"
-                ],
-                "query": "fix* up*",
-                "category": "cta",
-                "description": "Excellent Toyota Landcruiser - with Rear Locker (OE)Mechanic owned over several years. Very well maintained!This Cruiser 100 series is also overland/camp ready right away!Items that were replaced - 30,000 miles ago:Timing Belt - with tensioners, idlers, etc.Water PumpThermostat, Gasket, Valve Cover Gaskets, Spark PlugsRadiatorDrive BeltRoof RackIcon Shocks with 2.5-inch liftFront Differential DropFront AxlesSlidersAnd moreTires have about 80% remaining - put on about 2 years ago. The body has some things here and there with the mileage and with one rear quarter panel bump on the trail. Interior is worn with use (see photos). Nothing that can't be fixed up or cleaned up if you like.Please let me know if you are interested and would like to check it out.All work completed and built at A+ Japanese Auto Repair in San Carloswww.aplusjapaneseautorepair.comEric S.650-703-097three"
             }
         ],
         "fast": [

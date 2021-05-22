@@ -147,6 +147,49 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7320410424",
+                "name": "Vintage Kids Patagonia jacket",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-kids-patagonia-jacket/7320410424.html",
+                "datetime": "2021-05-22 10:38",
+                "price": "$35",
+                "where": "berkeley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Z0Z_if2qSEFm7sk_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Z0Z_if2qSEFm7sk_600x450.jpg",
+                    "https://images.craigslist.org/00Z0Z_if2qSEFm7sk_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_gVs2mFJ6ulb_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_kmIDuwTWY9k_50x50c.jpg",
+                    "https://images.craigslist.org/00101_8XqmoMcRd2h_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_bfY5WCByYzT_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "So cute!Size 12 kids :)"
+            },
+            {
+                "id": "7320587783",
+                "name": "Vintage Moroccan leather travel bag",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-moroccan-leather/7320587783.html",
+                "datetime": "2021-05-22 10:38",
+                "price": "$100",
+                "where": "berkeley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00c0c_3L5S7tcdxaF_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00c0c_3L5S7tcdxaF_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00c0c_3L5S7tcdxaF_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_gmNIfW0fdQm_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_jMBw2bWKbWm_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_dAHtTKOnKZQ_0ij0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_dmTCPxVEnUN_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_gx5pEigTN60_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Measures: 20\u201d wide 15\u201dtall 10\u201d deepGreat bag :)"
+            },
+            {
                 "id": "7322224154",
                 "name": "Tumi vintage briefcase",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-tumi-vintage-briefcase/7322224154.html",
@@ -168,46 +211,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Good condition Tumi expandable leather briefcase. No rips or stains.Cash only. Meet in SF. No trades. Price is firm. Thanks."
-            },
-            {
-                "id": "7325442426",
-                "name": "Vintage Retro Disney Mickey Mouse 3D Head Snapback",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-vintage-retro-disney-mickey/7325442426.html",
-                "datetime": "2021-05-22 09:30",
-                "price": "$25",
-                "where": "sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_ayMBe5PnZSFz_0CI0lM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00909_ayMBe5PnZSFz_0CI0lM_600x450.jpg",
-                    "https://images.craigslist.org/00909_ayMBe5PnZSFz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_hRtNNA6sMNhz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_aeAZdEmHgLpz_0CI0lM_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "In great conditionhat hats"
-            },
-            {
-                "id": "7325435461",
-                "name": "Vintage, beautiful leather coat by Deri Saray",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-beautiful-leather/7325435461.html",
-                "datetime": "2021-05-22 09:18",
-                "price": "$65",
-                "where": "Livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_fJ6xiga5f1wz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00k0k_fJ6xiga5f1wz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00k0k_fJ6xiga5f1wz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_kXZju4zQajVz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01414_4hCtXulASHz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_4rrPvgQitMEz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_f1kp1h280Gyz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "This is a beautiful vintage Deri Saray grey leather coat, size large, with removable fur trimmed hood.  100% polyester lining.  Leather covered buttons and beautiful bound button holes!  Excellent condition!  Dress elegantly in the cold weather!Located in Livermore."
             }
         ],
         "beaded": [
@@ -335,6 +338,24 @@
         ],
         "wedding dress": [
             {
+                "id": "7325487174",
+                "name": "Modern Chinese Wedding Dress Qipao Cheongsam Size 4",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-modern-chinese-wedding-dress/7325487174.html",
+                "datetime": "2021-05-22 10:39",
+                "price": "$99",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00D0D_a0u1HjfUWnOz_08C0cU_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00D0D_a0u1HjfUWnOz_08C0cU_600x450.jpg",
+                    "https://images.craigslist.org/00D0D_a0u1HjfUWnOz_08C0cU_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_d3ZHVvqin1yz_0880hW_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Lovely qipao/cheongsam I used for my tea ceremony. Trumpet silhouette, sleeveless, all over lace. Cash only.Measurements:Bust: 33Waist: 26Hip: 37Height w/ heels: 5'6"
+            },
+            {
                 "id": "7325478614",
                 "name": "Mori Lee Deep V Back Wedding Dress",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-mori-lee-deep-back-wedding/7325478614.html",
@@ -342,12 +363,12 @@
                 "price": "$299",
                 "where": "san jose south",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00x0x_5X8sZ0LuvoNz_0nt0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00d0d_luLz9TlC3wuz_0CI0pO_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00x0x_5X8sZ0LuvoNz_0nt0t2_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_luLz9TlC3wuz_0CI0pO_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_luLz9TlC3wuz_0CI0pO_50x50c.jpg",
                     "https://images.craigslist.org/00x0x_5X8sZ0LuvoNz_0nt0t2_50x50c.jpg",
                     "https://images.craigslist.org/00505_b47JcM0O9Dsz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_luLz9TlC3wuz_0CI0pO_50x50c.jpg",
                     "https://images.craigslist.org/01313_iIVBYAUDjWrz_0kk0t2_50x50c.jpg",
                     "https://images.craigslist.org/00b0b_1bYnHWRL3Dmz_0kk0t2_50x50c.jpg"
                 ],
@@ -375,30 +396,28 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Size 6-8Bride is 5'7 and wore flats.Bust size 34-36Paid $8000 for the dress. Not a Chinese import.You can now wear for a much more reasonable price and look great.Packed in a memento storage box."
-            },
-            {
-                "id": "7322448515",
-                "name": "$50 -Size S Vintage Jessica McClintock Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-50-size-vintage-jessica/7322448515.html",
-                "datetime": "2021-05-22 08:18",
-                "price": "$60",
-                "where": "sunset / parkside",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00g0g_1ZLZn5wpEgkz_0CI0sU_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00g0g_1ZLZn5wpEgkz_0CI0sU_600x450.jpg",
-                    "https://images.craigslist.org/00g0g_1ZLZn5wpEgkz_0CI0sU_50x50c.jpg",
-                    "https://images.craigslist.org/01717_jaLjby6Sl4yz_0CI0sU_50x50c.jpg",
-                    "https://images.craigslist.org/00202_gDDEyEK4jAsz_0CI0sU_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_21qNJgsNxSBz_0CI0sU_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_lNV8ohZaxJ1z_0CI0sU_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Vintage (1990's) Jessica McClintock Formal Lace and Satiny Wedding Dress. Size small in good condition.  Protected in a garment bag, comes with a matching vail.  $60 cash only."
             }
         ],
         "great condition": [
+            {
+                "id": "7322539861",
+                "name": "Great Condition Chelsea leather boots - 8.5M Ariat ($279 new)",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-great-condition-chelsea/7322539861.html",
+                "datetime": "2021-05-22 10:51",
+                "price": "$69",
+                "where": "lower pac hts",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_3ZOv46eqdmQz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_3ZOv46eqdmQz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00F0F_3ZOv46eqdmQz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_1zr9jE0GH2Rz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_l20uLUG7bWyz_0t20CI_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "Wore a handful of times and realized it\u2019s a bit big for me. These are high quality leather wood sole boots. Bought for $280 new. Size 8.5 Men\u2019s."
+            },
             {
                 "id": "7315405215",
                 "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
@@ -438,29 +457,30 @@
                 "query": "great condition",
                 "category": "cla",
                 "description": "[GREAT CONDITION] Stussy Vintage SnapBack HatClassic 90\u2019s skater design. Originally purchased from the Stussy store in Haight-Ashbury back in the mid-2000\u2019s.The color on the brim is a bit faded, but otherwise in great used condition. This item has spent most of the last 12 years in a closet in a smoke-free and pet-free home. Great for collectors."
-            },
-            {
-                "id": "7320428035",
-                "name": "Coach Genuine Leather Handbag Red in Great Condition",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-coach-genuine-leather-handbag/7320428035.html",
-                "datetime": "2021-05-21 19:07",
-                "price": "$30",
-                "where": "milpitas",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00r0r_1UyNU1bhFz1_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00r0r_1UyNU1bhFz1_600x450.jpg",
-                    "https://images.craigslist.org/00r0r_1UyNU1bhFz1_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_5HLp5T45NDV_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "Coach Genuine Leather Handbag, gorgeous red color with the soft smooth leather top quality. Please call or tet me at   and take it today!"
             }
         ]
     },
     "sports": {
         "autograph": [
+            {
+                "id": "7325488126",
+                "name": "Autographed Dominik Hasek Detroit Red Wings 2002 Stanley Cup Photo",
+                "url": "https://sfbay.craigslist.org/nby/spo/d/greenville-autographed-dominik-hasek/7325488126.html",
+                "datetime": "2021-05-22 10:43",
+                "price": "$100",
+                "where": "novato",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00K0K_ckLVp9t9fliz_0ew0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00K0K_ckLVp9t9fliz_0ew0jm_600x450.jpg",
+                    "https://images.craigslist.org/00K0K_ckLVp9t9fliz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_cpm6oYsTqjYz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_dLvcefczgSYz_0ew0jm_50x50c.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "Autographed Dominik Hasek Detroit Red Wings 2002 Stanley Cup Photo.-photo 8x10-framed and matted 14x18-hockey memorabilia"
+            },
             {
                 "id": "7315758652",
                 "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
@@ -500,27 +520,79 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "Brand new autographed John Force 1995 NHRA Champion Castrol GTX Vintage SnapBack Hat.Has been in plastic casing since 1995.Cash or Venmo Please."
-            },
-            {
-                "id": "7323761826",
-                "name": "Tony LaRussa Autographed Leroy Neiman poster",
-                "url": "https://sfbay.craigslist.org/eby/spo/d/tony-larussa-autographed-leroy-neiman/7323761826.html",
-                "datetime": "2021-05-21 13:11",
-                "price": "$100",
-                "where": "danville / san ramon",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00404_94gedaGEuFQz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00404_94gedaGEuFQz_0t20CI_600x450.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "I have a nicely framed Leroy Neiman poster of Tony LaRussa that was signed by Tony.Wife says I have too much sports memorabilia on the walls so this one must go.These were limited editions when Tony was Manager of the Year and they are no longer available, even on the Leroy Neiman web site.$100 for poster and frame!  baseball, Oakland, athletics, A's, Raiders, sports, memorabilia, picture,"
             }
         ]
     },
     "cars": {
         "drives great": [
+            {
+                "id": "7325483990",
+                "name": "2013 FORD C-MAX HYBRID.  CLEAN TITLE.   DRIVES GREAT.  ONE OWNER!!!!!!",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2013-ford-max-hybrid-clean/7325483990.html",
+                "datetime": "2021-05-22 10:31",
+                "price": "$5,999",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00B0B_jg2UT3Xwolwz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00B0B_jg2UT3Xwolwz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00B0B_jg2UT3Xwolwz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01313_hcCrs5yVYMfz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_cTZkDXYmjtqz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_7W3lhHbsPw8z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_3bhAGIpEWa2z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_dBOGwrgW45kz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_42brgEuAIR0z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_kkcMictRpURz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_gAygyOznAiMz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_2ZCDLDH6CIez_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_jC5Qi4oIi5rz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_hzknQ2vjap3z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_5HYKMuLNuKsz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_af0efETePn6z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_4kCIoX5Xv52z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_3k5j35Ckwu1z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_lFywcGTvUWnz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_fnlNBOhlVr4z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_azF13woLaHoz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_2s5tsUgBaOhz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_l1s60a6twdNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_am3QgjBGxYgz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2013 Ford cmax hybridclean title.150,xxx  miles.drives great.  cold a/cPrices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
+            },
+            {
+                "id": "7325482787",
+                "name": "2006 VOLKWAGEN BEETLE 2.5  CLEAN TITLE.  SMOG. DRIVES GREAT. SERVICED!",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2006-volkwagen-beetle-25-clean/7325482787.html",
+                "datetime": "2021-05-22 10:29",
+                "price": "$4,999",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Z0Z_ciiFO3qTf1cz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Z0Z_ciiFO3qTf1cz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00Z0Z_ciiFO3qTf1cz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_e5Px5Xzk4bxz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_bddmIEV9yK8z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_lAvNH4boDbMz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_lRKHGIrJTfOz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_kGmEEDQvdcnz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_6KxYMynGZF9z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_d29Kst8CxnNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_17XFEyycHf6z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_cpVZEgACrRLz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_3N9H1y7cg18z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_8vDZVPuJDTbz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_iQxbFyXlLKYz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_64lrxCYNMjTz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2006 vw beetle. clean title. smog check.112,xxx miles.  lot to godrives great.  cold a/c.  leather seats.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
+            },
             {
                 "id": "7324091570",
                 "name": "2008 NISSAN ROGUE S   CLEAN TITLE. SMOG CHECK.    DRIVES GREAT.!!!",
@@ -557,76 +629,6 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2008 Nissan rogue sclean title.  smog check.139,xxx miles.  lots to go.cold a/c.  drives great.4-cylinder.  good on gasPrices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
-            },
-            {
-                "id": "7323080640",
-                "name": "2012 VOLKSWAGEN PASSAT*** CLEAN TITLE.  NAVI.   DRIVES GREAT!!!  CLEAN",
-                "url": "https://sfbay.craigslist.org/eby/cto/d/fremont-2012-volkswagen-passat-clean/7323080640.html",
-                "datetime": "2021-05-17 13:45",
-                "price": "$6,500",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00m0m_fO0dhxL0VpYz_0CI0lM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00m0m_fO0dhxL0VpYz_0CI0lM_600x450.jpg",
-                    "https://images.craigslist.org/00m0m_fO0dhxL0VpYz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_gZDTmCmAklAz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_hGwCgYljInHz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01616_f7VxAN5aeosz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_h5EOYjsMZB2z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_6weHF9R7rhjz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_41l98nVsL1nz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00202_cjrWDODwlIdz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_gUEhdSXbaOmz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00909_lAxbz8r7j6Wz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_bMyTEQUkIJxz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_gzKcz2oi6Ycz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_55zOSJmKNgMz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_cJ8csIZ55DJz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01111_7Y7Efp2Qh2uz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01515_4LsmCDn6xPiz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_2fF0LiyOmsQz_0CI0lM_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "CLEAN TITLE. SMOG CHECK.  MANUAL TRANSMISSION.  126,xxx miles.cold a/c.  drives great.  aftermarket deck.  navigation, and apps.510,= < 299+ 1213....."
-            },
-            {
-                "id": "7322125528",
-                "name": "2006 TOYOTA CAMRY LE.  CLEAN TITLE. SMOG!!  102k mi**  DRIVES GREAT!!!",
-                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2006-toyota-camry-le-clean/7322125528.html",
-                "datetime": "2021-05-15 11:30",
-                "price": "$7,499",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_600x450.jpg",
-                    "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_fjDqQYZ9wwDz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00808_eWpIrPuMEi8z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_26N4HRSn2n4z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00909_k8ZENDAKzUKz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_4HgI1Yp4ttYz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_bcDWU8dD6FFz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_dDjnyRyH0Kjz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01313_apLppNUXXMdz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01212_ghtHtCum5ZWz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_faHxqKBTqQvz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_aOSFCf4BEJxz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_3pMU1ZyAKSIz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01515_hXPk8JhvOe7z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_jC1vmxNadiFz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_5VuJewtcZJoz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_d8WWgI82sPbz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_fSUiAWRZeJUz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_bzsIZudpi4yz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_i63zts4WBBDz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01212_kqjfyy3PeKKz_0CI0lM_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2006 Toyota camry leclean title. smog check.102,xxx miles.  very low.4-cylinder.  gas saver.automatic, shifts smooth.cold a/c.   power windows and locks.drives great.  clean in and out.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [
@@ -881,20 +883,24 @@
                 "description": "Great small amp with big sound, perfect for acoustic guitar and vocal.It has 2 separate channels, working like new.It has some scratches on the outside.Price is not negotiable, thanks.New it sells for $350 + tax"
             },
             {
-                "id": "7325477919",
-                "name": "Sennheiser E835 Dynamic Vocal Microphone",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/concord-sennheiser-e835-dynamic-vocal/7325477919.html",
-                "datetime": "2021-05-22 10:25",
-                "price": "$90",
-                "where": "concord / pleasant hill / martinez",
+                "id": "7319612627",
+                "name": "Drum Blue Olive Badge Ludwig 12\" Concert Tom White Cortex",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-drum-blue-olive-badge-ludwig/7319612627.html",
+                "datetime": "2021-05-22 10:32",
+                "price": "$100",
+                "where": "willow glen / cambrian",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00202_91SOWuScMrxz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01111_3pgCJZaDzvuz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00202_91SOWuScMrxz_0CI0t2_600x450.jpg"
+                    "https://images.craigslist.org/01111_3pgCJZaDzvuz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/01111_3pgCJZaDzvuz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_4TyUUoulB1cz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01212_bpyYazP1NVzz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01717_fnd6lmq115Wz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Authentic Sennheiser E835 microphone, bought new from Sweetwater, complete with original microphone pouch and mic clip. Save  $20 over the price of a new one plus tax. Never gigged, only used occasionally for home recording. Bright-sounding and hot mic compared to Shure SM57 / SM58, great for cutting through a loud band or if you think your voice sounds too dark or muddy on other dynamic mics. Cash only and meetup at Concord PD for sale."
+                "description": "Blue Olive Badge Ludwig 13 Concert Tom White CortexGreat loud concert stage sound. New Aquarian Modern Vintage II Batter Head.Nice to add to your drum set collection."
             }
         ],
         "famous": [

@@ -107,6 +107,50 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7315282037",
+                "name": "Vintage Pendelton 100% Wool shirt Size Medium",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/albany-vintage-pendelton-100-wool-shirt/7315282037.html",
+                "datetime": "2021-05-22 06:29",
+                "price": "$60",
+                "where": "albany / el cerrito",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01414_iRloS2PdpB0_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01414_iRloS2PdpB0_600x450.jpg",
+                    "https://images.craigslist.org/01414_iRloS2PdpB0_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_g7V19Dgyu9o_50x50c.jpg",
+                    "https://images.craigslist.org/00707_63yJI5MHQV8_50x50c.jpg",
+                    "https://images.craigslist.org/01212_6DK9R8tMjMG_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_ek26cjEYaSX_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Pendleton 100% Wool Shirt in excellent condition. Original owner - Made in the U.S.A. Size MediumCall home phone  No texting thanks"
+            },
+            {
+                "id": "7315282121",
+                "name": "Vintage Pendelton 100% Wool shirt Size Medium",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/albany-vintage-pendelton-100-wool-shirt/7315282121.html",
+                "datetime": "2021-05-22 06:29",
+                "price": "$60",
+                "where": "albany / el cerrito",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_eVdJ3NYZUVa_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_eVdJ3NYZUVa_600x450.jpg",
+                    "https://images.craigslist.org/01010_eVdJ3NYZUVa_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_6yIPe8E6ygS_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_1qDBbbInPFf_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_kH5utudBDre_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_da48uybgvQt_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_cYXGLZKniOo_50x50c.jpg",
+                    "https://images.craigslist.org/00707_1t8Z7uAgaSl_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Pendleton 100% Wool Shirt in excellent condition. Original owner - Made in the U.S.A. Size MediumCall home phone  No texting thanks"
+            },
+            {
                 "id": "7325328946",
                 "name": "Cute vintage crop sweater - embellished",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/belmont-cute-vintage-crop-sweater/7325328946.html",
@@ -126,49 +170,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Adorable vintage crop sweater embellished with white lace and vintage buttons. Soft and pretty! 65% polyester; 35% cotton. Looks like size medium. Excellent condition!"
-            },
-            {
-                "id": "7312817218",
-                "name": "Vintage STROH\u2019S BEER Jacket XXL but more like L-XL",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-strohs-beer/7312817218.html",
-                "datetime": "2021-05-22 05:34",
-                "price": "$25",
-                "where": "cole valley / ashbury hts",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00r0r_hBXtJj8SKYWz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00r0r_hBXtJj8SKYWz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00r0r_hBXtJj8SKYWz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01717_hHVTARGNTl8z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00707_5QkWOk4C4abz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_8nksel5ogwwz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Great condition. More of less fits me at 5\u201911, 175 lbs. although label says it\u2019s XXL."
-            },
-            {
-                "id": "7325318358",
-                "name": "Vintage Sopheea tote bag",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-sopheea-tote-bag/7325318358.html",
-                "datetime": "2021-05-22 05:02",
-                "price": "$199",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_bsYt2j2ELOWz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_apgAPIXTI9Nz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_hvgFOZ4giD3z_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_jFvcVnNZJvjz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_chpDoSJz5v1z_0gl0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Hello A very beautiful Sopheea classic, genuine leather tote bag. On line there asking a stupid price I won't even tell you I'm asking $199"
             }
         ],
         "beaded": [
@@ -316,6 +317,28 @@
         ],
         "wedding dress": [
             {
+                "id": "7323794580",
+                "name": "Lazaro couture wedding dress size 4",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/union-city-lazaro-couture-wedding-dress/7323794580.html",
+                "datetime": "2021-05-22 06:50",
+                "price": "$750",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00808_ddGkAEvr0W1z_0aE0fY_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00808_ddGkAEvr0W1z_0aE0fY_600x450.jpg",
+                    "https://images.craigslist.org/00808_ddGkAEvr0W1z_0aE0fY_50x50c.jpg",
+                    "https://images.craigslist.org/01515_jVrPHKrsZLpz_0a40gw_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_81wNiCJErJ3z_0dw0kE_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_3fFz7X6LGlmz_06s06o_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_1EssqhBUkJGz_06n06s_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_flPazpg8YdNz_0gw0co_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Lazaro size 4. Prefect size for someone who is 5\u2019 2\u201d and normal clothing size small or extra small. Only wear once for 3 hour max."
+            },
+            {
                 "id": "7324120825",
                 "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Red",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7324120825.html",
@@ -385,30 +408,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Black100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size M, 15 pcsSize L, 45 pcsSize XL, 25 pcsSize XXL, 12 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
-            },
-            {
-                "id": "7324121122",
-                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Long Dress, Black",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7324121122.html",
-                "datetime": "2021-05-21 20:00",
-                "price": "$10",
-                "where": "San Mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_600x450.jpg",
-                    "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_hDqpGMA1Ujoz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_ezPJY4aWHkHz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_is7Mt6Hs8Tjz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_fA8FP8jyFHkz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_eYKRYGXXyJvz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_6XqyrwDR2j2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_g7ooeT5COBz_0pO0CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Long Dresses, Black100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size XXL, 15 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
             }
         ],
         "great condition": [
@@ -657,6 +656,31 @@
         ],
         "fix up": [
             {
+                "id": "7324045104",
+                "name": "2006  Chevy Colorado UPFITTED WORK TRUCK",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-2006-chevy-colorado-upfitted/7324045104.html",
+                "datetime": "2021-05-19 12:15",
+                "price": "$7,500",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00j0j_k3qGsy0mXZvz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00j0j_k3qGsy0mXZvz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00j0j_k3qGsy0mXZvz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_1lnyfHBXTgFz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_jjAJKutxHHjz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_amxYkja45v0z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_9QLCJ6ZqWsKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_a9iXi2FHr5cz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_6VEVUQbgZAMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_bCZ2ZhKstaNz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01010_7XVvqfrETzrz_0t20CI_50x50c.jpg"
+                ],
+                "query": "fix* up*",
+                "category": "cta",
+                "description": "UPFITTED WORK TRUCK!(VERY PROFESSIONAL LOOKING WORK TRUCK)Rack-it forklift loadable lumber rack (heavy duty)+Heavy duty leaf springs installed+Firestone ride-rite air bags (with the up / down controls in the cab)*REAR ANTI SAG AIR SUSPENSION UP TO 5000 POUNDS*+Brand new tires and rims (Mastercraft tires + pro comp aluminum rims)+3 inch liftI had All upfits professionally installed by a professional truck shopAdvanced Trucks in Morgan HillI have all receipts to showLow miles 116,000 milesRegisteredSalvaged title=We bought the truck like that we were told it was side swiped but was fixed. Scraped door.No Check Engine lightCome Test Drive itGAS SAVER -5 CYLINDERS"
+            },
+            {
                 "id": "7323893756",
                 "name": "2016 VW e-GOLF SE*ELECTRIC VEHICLE*45K MILES*AUTO*BACK UP CAMERA",
                 "url": "https://sfbay.craigslist.org/pen/ctd/d/half-moon-bay-2016-vw-golf-seelectric/7323893756.html",
@@ -725,32 +749,31 @@
                 "query": "fix* up*",
                 "category": "cta",
                 "description": "2003 Acura CL S-Type130K Original MilesSecond OwnerVtec V6 280horsepower / 5spd AutoHigh performance upgradesUpgraded TransmissionFully servicedCustom stereoClean CarfaxFresh smog and tags are good to September. Title is in hand, and in my namePlease read whole ad before calling, as many questions can be answered belowClean Carfax Shows:No accidents, 2 owner, Clean Title, accurate mileage20 service records from Acura of Stockton from original owner. The original transmissions went out at 100k. However a 2006/2007 Honda Accord V6 uses the same exact trans, except Honda fixed the fatal flaw (2/3rd gear clutch pack oiling) and they are very dependable. I installed a trans out of a 2007 accord that was 1 owner from Dublin, always maintained at Honda with also 100K on the odometer (came out of a salvaged crash car was hit in rear) This trans should last the life of the car without issue. This is a common swap among CL and TL enthusiasts.Along with trans, around 100K I installed a Genuine  Acura Timing belt and water pump kit with tensioner and seals.  All Factory parts. I also did factory Iridium spark plugs and checked the valve adjustment at that time.All 4 brakes are done recently with e-coated rotors, stoptech pads and flushed performance brake fluid2 new motor mounts, Factory AcuraCoolant replaced and the power steering fluid flushed with Honda fluidNew HID Ballasts and bulbsNow for the goodies $$*Koni Yellow Rebound adjustable Struts at all 4 corners with stock springs at 1 lower height (not too low)*Eibach Sway Bars front and rear with poly bushings* All 4 sway bar end links replaced with HD Moog greasable units*Poly strut rod mounts*Real Deal Comptech Stainless Mufflers and Y pipe (can be showroom polished if wanted)*Air sound/restrictor removed from air box (still smog legal no issue, just throatier sound)*Has TL rims on it as opposed to the factory CL rims which look almost identical except the CL rims get curbed easier and don't have the nice dark metallic background color. *Interior has been double dyna-matted (sound deadening) all along back seat area, both doors completely, trunk *Has custom stereo with a 10 Sub with a JL amp powering it, and a 4 channel rockford fosgate powering door speakers and 6x9s, all quality cables throughout even all the way up to the door speakers*Ceramic 20% tinted windows all the way around, nice privacy but  not so dark can't see out and they are the heat resistant pricey ceramicThis CL Runs and Drives excellent, super clean and tasteful. Handles on rails, super comfortable, and plenty of power along with good gas mileage. Everything works, AC cold, both heated seats work, windows, locks, power seats, everything. The negatives:The air bag recall needs to be done, and the seatbelt receiver replaced (both will be done for free at the dealer, I just never got around to it because its a few cities away)Dings on body (see passenger door) and minor visual defects on exterior (rock chips front bumper) 20 year old black car, its super clean and representable but its also not a complete garage queen.Will need tires soon. The current ones will get you where you need to go but theyre at the end of their life.*Price is absolutely firm, no rush to sell, if you like what you see and read you won't be wasting your time coming to see and but this clean machine.*Cody"
-            },
-            {
-                "id": "7320088702",
-                "name": "1999 Toyota Landcruiser - Mechanic Owned, Upgrades, Camp/OverLand Read",
-                "url": "https://sfbay.craigslist.org/pen/cto/d/san-carlos-1999-toyota-landcruiser/7320088702.html",
-                "datetime": "2021-05-11 08:48",
-                "price": "$12,950",
-                "where": "san carlos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_6i5avp7CTrxz_0c60g8_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00o0o_6i5avp7CTrxz_0c60g8_600x450.jpg",
-                    "https://images.craigslist.org/00o0o_6i5avp7CTrxz_0c60g8_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_iA2qufThSyPz_0c6094_50x50c.jpg",
-                    "https://images.craigslist.org/00202_hpgquutuVl8z_0c6094_50x50c.jpg",
-                    "https://images.craigslist.org/00202_jJmCOJIia6Oz_0c6094_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_fPfsx9HcOICz_0c60g8_50x50c.jpg",
-                    "https://images.craigslist.org/00909_1vPsfhqsQD5z_0c6094_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_j1euDe5Vi3Dz_0c6094_50x50c.jpg"
-                ],
-                "query": "fix* up*",
-                "category": "cta",
-                "description": "Excellent Toyota Landcruiser - with Rear Locker (OE)Mechanic owned over several years. Very well maintained!This Cruiser 100 series is also overland/camp ready right away!Items that were replaced - 30,000 miles ago:Timing Belt - with tensioners, idlers, etc.Water PumpThermostat, Gasket, Valve Cover Gaskets, Spark PlugsRadiatorDrive BeltRoof RackIcon Shocks with 2.5-inch liftFront Differential DropFront AxlesSlidersAnd moreTires have about 80% remaining - put on about 2 years ago. The body has some things here and there with the mileage and with one rear quarter panel bump on the trail. Interior is worn with use (see photos). Nothing that can't be fixed up or cleaned up if you like.Please let me know if you are interested and would like to check it out.All work completed and built at A+ Japanese Auto Repair in San Carloswww.aplusjapaneseautorepair.comEric S.650-703-097three"
             }
         ],
         "fast": [
+            {
+                "id": "7325350617",
+                "name": "2001 Infinity QX4.. Drives Really Smooth.. Will Sell Fast",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-2001-infinity-qx4-drives/7325350617.html",
+                "datetime": "2021-05-22 06:38",
+                "price": "$1,750",
+                "where": "San Jose Ca",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00l0l_i2sULlMM6K7z_0xy0pa_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00l0l_i2sULlMM6K7z_0xy0pa_600x450.jpg",
+                    "https://images.craigslist.org/00l0l_i2sULlMM6K7z_0xy0pa_50x50c.jpg",
+                    "https://images.craigslist.org/01111_9luifeq0vqez_0xy0pa_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_2dNdZKDHZf2z_0xy0pa_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_1bbl7HDi4G2z_0xy0pa_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_fRl81Idp6Otz_0xy0pa_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_jPyLWCM69Jmz_0xy0pa_50x50c.jpg"
+                ],
+                "query": "fast",
+                "category": "cta",
+                "description": "I have a automatic 2001 Infinity QX4 I am going to let go for $1750. In great driving condition and will sell fast. Drives really smooth. A/C blows cold. Power seats. Power windows. Moonroof. Mileage is good. Pinkslip in hand. I will not reply to emails but I can be reached at 4. 0. 8... 6..48..   3.  11...5"
+            },
             {
                 "id": "7324507277",
                 "name": "2008 Mini Cooper S (R56) - Stage2 - Lots of mods, very fast!",
@@ -814,44 +837,6 @@
                 "query": "fast",
                 "category": "cta",
                 "description": "1968 Dodge Charger Restomod in Charcoal over Two Tone Light Gray/Charcoal Interior. Powered by a blown 426ci Hemi V8 mated to a Racing Powerglide Transmission. This original black plate California car has had a complete rotisserie restoration. Features include: 871 Weiand Blower w/ Dual Carbs, Fully Tubbed 4 Link Fab 9 Rear End w/ Positraction, TTI Ceramic Headers w/ 3 Polished Stainless Steel Exhaust, Adjustable Coilovers, Wilwood Disc Brakes, Dakota Digital Gauges, Billet Specialties Wheels (15x15 Rear and 15x7 Front) and much more! This Charger is ready to be shown or driven!A startup and walk around video can be seen here:https://youtu.be/m6-DOguubbQFor more photos please visit our website:https://www.gtautolounge.com/vehicle-details/1968-dodge-charger-restomod-coupe-811a88bf719943ccb413862642d019e9For more information please call 916-387-9997.Open to offers and trades. Financing available. Worldwide shipping available"
-            },
-            {
-                "id": "7322013181",
-                "name": "2006 Dodge Charger R/T 5.7L Hemi FAST FAST",
-                "url": "https://sfbay.craigslist.org/sby/ctd/d/san-jose-2006-dodge-charger-t-57l-hemi/7322013181.html",
-                "datetime": "2021-05-15 08:14",
-                "price": "$9,995",
-                "where": "san jose downtown",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00000_i7eAEyKoXFvz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00000_i7eAEyKoXFvz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00000_i7eAEyKoXFvz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_6LD1Mz0bWymz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_jYVigJBwtnAz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_a3mFHq7ntXUz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_7vZphbzDTsOz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_cABa7UesWyBz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_klvnrEy6dciz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_31sfpFnVQPtz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_eHDGh51iAnWz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_drtRlc1Z71oz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_liKtVMkixTvz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_1xPWK0GgXm6z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_9KSEc8h5Zlrz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_9Xt3PLQojYBz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_4k9nXFWp5cRz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_kwzQRAFZa2oz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_jDNlHAOT3Ytz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_82qS8pnR1elz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_f0cNzAyqttHz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_84fQ88dtbShz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_hPO9v4zal7Jz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_frN4Lzb7SPEz_0t20CI_50x50c.jpg"
-                ],
-                "query": "fast",
-                "category": "cta",
-                "description": "2006 Dosge Charger R/T 5.7 Liter Hemi, Auto , 138k, Leather , Heated Seats. moonroof, Back-Up Camera, Mopar upgraded intake , Mopar upgraded Exhaust , new rear brakes , FAST !!!**Warranty available ***** Financing available w Good credit**NEW SALE PRICE $9995 plus tax and license ** Appointments only to view car Auto Emporium 478 East Santa Clara St # 213San Jose,Ca. 95112"
             }
         ]
     },
@@ -907,41 +892,25 @@
                 "description": "Great small amp with big sound, perfect for acoustic guitar and vocal.It has 2 separate channels, working like new.It has some scratches on the outside.Price is not negotiable, thanks.New it sells for $350 + tax"
             },
             {
-                "id": "7325298249",
-                "name": "2003 Garrison G25 CE Acoustic Electric Guitar ... Built For Strummers",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-2003-garrison-g25-ce-acoustic/7325298249.html",
-                "datetime": "2021-05-22 02:28",
-                "price": "$1,150",
-                "where": "san jose east",
+                "id": "7322499518",
+                "name": "Bass and  amp",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-bass-and-amp/7322499518.html",
+                "datetime": "2021-05-22 06:38",
+                "price": "$1",
+                "where": "san jose west",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00X0X_lW4vyLgbwYW_0lM0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00606_1hU51gDYXInz_0lM0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00X0X_lW4vyLgbwYW_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00X0X_lW4vyLgbwYW_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_gBSC6FhN58P_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_4CVKYjgFtRd_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_7v35awl3a4D_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_bsHHL2fbtf7_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_4MxYeTJrSwl_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_8Ilky3J6tfw_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_geavarqeCKH_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_kKwvxxxE6d_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_jYUb9tWZuWd_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_5NflBLZJaNN_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_6EElc82DQNJ_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_Ep3TpunNOY_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_ilnU61DJY9W_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_7sPsiWbPg4w_0CI0l9_50x50c.jpg",
-                    "https://images.craigslist.org/00909_4rtECVCfSEA_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_jagh5rWUzNs_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_57Bvnx4ylRB_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_7sqbLaUQX62_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_2cStf5RuoHF_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_6wPK6ZuM4T0_0lM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00606_1hU51gDYXInz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00606_1hU51gDYXInz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_3gELxT3586Vz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_3BLxDuwDYREz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_cWUy2xd6eyWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_hzBr4ZnwnlQz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "I am moving stuff out of storage and selling this excellent condition 2003 Garrison G25 CE acoustic electric guitar.The serial number is 030207021 (means the guitar is made in 2003). The G25 is well-built (like a tank): 100% solid wood (solid birch back/sides + solid cedar top + mahogany neck) with black body binding and high gloss finish.Strummers, fingerpickers, and flatpickers will love the clear projection and top-end brightness. The sound is warm with good bass and crisp highs (see the demo link below)https://youtu.be/ngwkgYPQxbUhttps://www.youtube.com/watch?v=HJYtt1BNqUYIt has clear articulation, punchy and loud bass and treble/mids more than a traditional dreadnought does. This is a rare find (before Garrison guitars became Gibsons). You\u2019ll get the best bang for the buck in sound quality, workmanship, playability, and ... a free Guitar Hard Shell Protective Case ($70 value).Please text me your questions before it's gone (and price is firm). Thank you. John"
+                "description": "Nikki Sixx signature Diamond series base. Used in great condition. $400.00Workingmans 15 SWR amp. Used works perfectly. Great loud sound.$230.00"
             }
         ],
         "famous": [

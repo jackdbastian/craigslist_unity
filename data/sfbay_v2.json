@@ -307,6 +307,25 @@
         ],
         "gloves": [
             {
+                "id": "7317608787",
+                "name": "new with tag Marc Jacobs fingerless merino wool gloves in olive green",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-new-with-tag-marc-jacobs/7317608787.html",
+                "datetime": "2021-05-24 21:26",
+                "price": "$9",
+                "where": "SOMA / south beach",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_4n13chcy7Z6z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_4n13chcy7Z6z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_4n13chcy7Z6z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_6QpPTVKW623z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_gqWRV9CRpEhz_0t20CI_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "brand new Marc Jacobs fingerless merino wool gloves in dark olive greeni\u2019m moving and am selling everything. check out my listings (scroll down, click on the blue text that reads \u201cmore ads from this user\u201d) to discover my $1 deals and deeply discounted items."
+            },
+            {
                 "id": "7326630061",
                 "name": "Victorian corsets, skirt, gloves, handbag",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-victorian-corsets-skirt-gloves/7326630061.html",
@@ -349,32 +368,53 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "I have an brand new extra pair of warm Manzella gloves available. They have the Touchtip that enables you to still use your smartphone/touchscreens."
-            },
-            {
-                "id": "7324666619",
-                "name": "Vintage Fownes Brothers Black Gloves Fur Lining Nylon Fourchette",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-fownes-brothers/7324666619.html",
-                "datetime": "2021-05-24 11:20",
-                "price": "$30",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_7gsoSRYHaO2z_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00G0G_7gsoSRYHaO2z_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_7gsoSRYHaO2z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_6IKSZgAWrTxz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_4GKrSC7SrF1z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_1ZE5nu5Kdpez_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_dAJKcP6OMcjz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_eami4WRq7Nwz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_5ZowW2TE6DNz_0t20t2_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "This is a pair of vintage black gloves by Fownes. They feel and look like very supple leather however the tag does not state any leather material. These have a 100% fur lining 15% nylon fourchette and were made in the Philippines according to the tag in the left glove. The fur lining is luxuriously soft and is a mix of browns, grays, and white. I believe the letter B is the size. The gloves are approximately 10 long from the tip of the middle finger to the opening. They are in very excellent cosmetic condition with just a few small blemishes as shown.------Please call, text, or email anytime.Thank you,Ed"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7321884119",
+                "name": "Beautiful, New, Kitty Chen Georgetta Wedding Dress Size 10 unaltered",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-beautiful-new-kitty-chen/7321884119.html",
+                "datetime": "2021-05-24 21:17",
+                "price": "$2,000",
+                "where": "danville / san ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00R0R_fjk6H1ANHzEz_0dm0sU_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00R0R_fjk6H1ANHzEz_0dm0sU_600x450.jpg",
+                    "https://images.craigslist.org/00R0R_fjk6H1ANHzEz_0dm0sU_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_lGM5FI9zjC9z_0dm0sU_50x50c.jpg",
+                    "https://images.craigslist.org/00909_3T6Zw1l6Appz_0dm0sU_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_cSKbOaJc2Stz_0dm0sU_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Brand New Kitty Chen Georgetta Wedding Dress for $2,000, size 10 and entirely unaltered and never worn.  Please contact me for questions."
+            },
+            {
+                "id": "7321897329",
+                "name": "New Casablanca Primrose Wedding Dress - Size 6 unaltered & unworn",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-new-casablanca-primrose/7321897329.html",
+                "datetime": "2021-05-24 21:17",
+                "price": "$1,480",
+                "where": "danville / san ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00W0W_5HGZXJ7Nz8iz_0be0gi_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00W0W_5HGZXJ7Nz8iz_0be0gi_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_5HGZXJ7Nz8iz_0be0gi_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_93fUvPRBGqrz_0dl0dA_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_8kokZAWk2sPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_4qArzcEEhvdz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01212_4hk6qmZWjuPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_8RbzxrniCVzz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_7q8AAGH1dTBz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01313_iEDnB1mUljIz_0dl0n3_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Casablanca Primrose Wedding Dress - Size 6 for $1,480.  Unaltered and unworn.  Don\u2019t wait 6 months to start your wedding!!"
+            },
             {
                 "id": "7326676750",
                 "name": "Blossom Wedding Dress Sash",
@@ -393,54 +433,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Blossom Veils & Accessories, blush accented wedding sash. Brand new, unworn, still in box."
-            },
-            {
-                "id": "7318055011",
-                "name": "New Sophia Tolli Wedding Bridal Dress, Size 8",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-new-sophia-tolli-wedding-bridal/7318055011.html",
-                "datetime": "2021-05-24 19:59",
-                "price": "$349",
-                "where": "oakland east",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_600x450.jpg",
-                    "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_arIHVORGZaBz_0mJ0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_ivxgLrln4jLz_0lD0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_7TIVZUoiMtIz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_77fxilE4cMLz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00606_dGVB9zC5YCEz_0kY0rX_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_4VhNd67Y4wZz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_lr9etRjYDDHz_0gH0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_i3VscvCF51az_0g80lv_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_fHZ3uocDCOMz_0iw0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Gorgeous Sophia Tolli designer wedding dress, size 8, never worn. Fit and flare style with keyhole back, illusion cap sleeves and full train. Beautiful beading and lace embellishments. Unfortunately, altering this dress to fit me (I'm Size 0) turned out to be *way* more expensive than I was led to believe by the bridal shop. Hence me buying another dress in my size and selling this one.This bridal dress is brand new. While I bought it on sale, the original price was over $1,600."
-            },
-            {
-                "id": "7326613014",
-                "name": "Wedding Dress-Brand New BHLDN",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/vallejo-wedding-dress-brand-new-bhldn/7326613014.html",
-                "datetime": "2021-05-24 17:19",
-                "price": "$600",
-                "where": "vallejo / benicia",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00J0J_bvYfBX2ujN3z_0ak0ik_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00J0J_bvYfBX2ujN3z_0ak0ik_600x450.jpg",
-                    "https://images.craigslist.org/00J0J_bvYfBX2ujN3z_0ak0ik_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_kbRitjDaYCiz_0ak0ik_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_3amiFep32KOz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_iA7HomYekRCz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_52zCNjprm4nz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_25Fa1ndgXl7z_0t20CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Never been worn, BHLDN Tulle & Lace Wedding Gown  (BHLDN.com)Wtoo by Watters Clarinda Strapless Lace GownIvory/BlushSize 12Brand New condition (needs pressing; of course)Not alteredWas $1495.00Strapless Corset BodiceDiscontinued style (the black is still for sale on the website).Shipping availableFinal Sale"
             }
         ],
         "great condition": [

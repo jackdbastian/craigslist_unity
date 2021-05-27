@@ -127,6 +127,26 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7314747968",
+                "name": "Red vintage J Crew peacoat",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-red-vintage-crew-peacoat/7314747968.html",
+                "datetime": "2021-05-27 08:22",
+                "price": "$8",
+                "where": "Outer Sunset",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00H0H_ivT88eNm79bz_07K0ak_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00H0H_ivT88eNm79bz_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00H0H_ivT88eNm79bz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_b0nRtmuEFvPz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_fsnkvd6QII1z_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/01717_jMXlVelVdGoz_07K0ak_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Red vintage J Crew peacoat Double-breasted Gently used, but in great condition 31\u201d x 16\u201d2 exterior pockets; 1 interior pocket Dry clean $8 cash I\u2019m pet-free and a non-smoker.Pick-up outside the Ortega library in the Outer Sunset."
+            },
+            {
                 "id": "7326667410",
                 "name": "Vintage overcoat. Air Force",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-overcoat-air-force/7326667410.html",
@@ -169,24 +189,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage (1990's) Jessica McClintock Formal Lace and Satiny Wedding Dress. Size small in good condition.  Protected in a garment bag, comes with a matching vail.  $40 cash only."
-            },
-            {
-                "id": "7318709560",
-                "name": "Vintage Purses",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-bruno-vintage-purses/7318709560.html",
-                "datetime": "2021-05-27 07:23",
-                "price": "$10",
-                "where": "san bruno",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_idrdis4xIEc_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00T0T_idrdis4xIEc_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_idrdis4xIEc_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_dqmULK0031k_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Purses:8 All Leather Purses, in Excellent Condition, some New!$10.00 each. or, $55.00 lot"
             }
         ],
         "beaded": [

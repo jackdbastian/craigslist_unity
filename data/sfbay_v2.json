@@ -136,6 +136,50 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7326296382",
+                "name": "Vintage Persian lamb and mink jacket",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-persian-lamb-and-mink/7326296382.html",
+                "datetime": "2021-06-02 08:51",
+                "price": "$100",
+                "where": "Alameda",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_b7q5lnAN3Ykz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_cjzriNSmyvlz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_fJgSySmsdviz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "This was my grandmothers and is in excellent condition.\ufffc"
+            },
+            {
+                "id": "7330645160",
+                "name": "Vintage Disney leather backpack",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-disney-leather-backpack/7330645160.html",
+                "datetime": "2021-06-02 08:42",
+                "price": "$55",
+                "where": "berkeley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00H0H_d5bbBXB7rZR_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00H0H_d5bbBXB7rZR_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00H0H_d5bbBXB7rZR_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01717_3NHslxub8ro_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_1fRn37iqrxu_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_Wfs5RvUOMh_0ql0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_j9QvPuK04c7_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_joY76t8GDAA_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_4lnaYfYYaIv_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_f5TLbjvX6v5_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Looks new.. like it was never used!Width: 13Height: 10.5Depth: 5Circa: 1940sColor: Caramel brown / mixedMaterial: Tooled Leather"
+            },
+            {
                 "id": "7325316777",
                 "name": "Vintage NY coach Tote bag",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-ny-coach-tote-bag/7325316777.html",
@@ -156,50 +200,29 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage New York Coach Tote bag, very beautiful LN8-8214 . In wonderful condition normally going for $499 I'm asking $99Thank you"
-            },
-            {
-                "id": "7325318358",
-                "name": "Vintage Sopheea tote bag",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-sopheea-tote-bag/7325318358.html",
-                "datetime": "2021-06-02 08:21",
-                "price": "$50",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_bsYt2j2ELOWz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_apgAPIXTI9Nz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_hvgFOZ4giD3z_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_jFvcVnNZJvjz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_chpDoSJz5v1z_0gl0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Hello A very beautiful Sopheea classic, genuine leather tote bag. On line there asking a stupid price I won't even tell you I'm asking $50Thank you"
-            },
-            {
-                "id": "7327315857",
-                "name": "(3) Vintage Leather Choker Necklaces w/Ceramic Pendants- Pretty! (NEW)",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-leather-choker/7327315857.html",
-                "datetime": "2021-06-02 08:18",
-                "price": "$10",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_8ts4uphqTn6z_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Pretty colorful vintage 1960's leather corded choker necklaces with different ceramic beads/pieces. All in in new condition and unique and different. Asking $10 each or take all 3 with an extra pendant piece for only $20!"
             }
         ],
         "beaded": [
+            {
+                "id": "7321825638",
+                "name": "Beaded Cuff Bracelet",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/mill-valley-beaded-cuff-bracelet/7321825638.html",
+                "datetime": "2021-06-02 08:47",
+                "price": "$25",
+                "where": "mill valley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00H0H_5q6r6zEKPSdz_05L03X_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00H0H_5q6r6zEKPSdz_05L03X_600x450.jpg",
+                    "https://images.craigslist.org/00H0H_5q6r6zEKPSdz_05L03X_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_6VCGUzTCZJMz_0h60an_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_iAP8eZoYhsqz_0fM0ag_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_6w2kWyhu5Oxz_0eg0a2_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "I have this beaded cuff bracelet that is 3.25 inches wide and 6 inches long.  Made for a fairly small boned person.  Fists wrist from about 6.5 inches to 8 inches in diameter.  It has no damage or defects other than you need someone else to tie it on for you.Be advised I live way up on Mount Tamalpais off of Panoramic Highway above Mill Valley 15 minutes off of the 101. I can be talked into meeting at the Manzanita Parking Lot 40 Shoreline Highway if that is more convenient."
+            },
             {
                 "id": "7326582226",
                 "name": "Vintage Blue Sequins Beaded Flowered Clutch Purse",
@@ -238,28 +261,6 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "BIG SALE! NOW ONLY $20!!!Beautiful vintage black beaded purse with multi colored beaded zipper frame! Can be carried as a clutch orLong gold sleek snake chain to wear as shoulder bag if you choose. Can be worn with a cocktail dress or to dress up a pair of jeans!Beautiful condition! Holds quite a bit in satiny lining. Was asking $35NOW ONLY $20Cash only please.SEE MY OTHER ITEMS FOR SALE CLICK ON more ads by this user"
-            },
-            {
-                "id": "7324535717",
-                "name": "Vintage Beaded Gold Leather Clutch Purse",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-beaded-gold-leather/7324535717.html",
-                "datetime": "2021-05-31 20:00",
-                "price": "$20",
-                "where": "Santa Cruz",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01515_f2TGDDxNS8Kz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01515_f2TGDDxNS8Kz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/01515_f2TGDDxNS8Kz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_gIuj8U4AtaDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_9kLrj5Olhptz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_4IQfRaei3xpz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_cpUOtXaw4TKz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_dcSAU7F8h1Qz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Beautiful vintage clutch bag.  Leather with beading. Used but in perfect condition. Please contact Diane, Online Sales Coordinator, at  , ext 232 or reply to this ad. Being sold through Grey Bears. Grey Bears is a non profit recycling center and thrift store that benefits local seniors.Make us an offer!"
             }
         ],
         "gloves": [
@@ -325,6 +326,48 @@
         ],
         "wedding dress": [
             {
+                "id": "7330651054",
+                "name": "Brand New Wedding Dress + Vail for Sale!",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/el-verano-brand-new-wedding-dress-vail/7330651054.html",
+                "datetime": "2021-06-02 08:51",
+                "price": "$1,500",
+                "where": "sonoma",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01616_3Np0y6VJbzKz_0lL0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01616_3Np0y6VJbzKz_0lL0t2_600x450.jpg",
+                    "https://images.craigslist.org/01616_3Np0y6VJbzKz_0lL0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_2AFVYRIUkKQz_0lL0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00303_88CwxFigZThz_0zu0t2_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Selling a BRAND NEW, NEVER WORN  Wedding dress + matching vail!  Only worn to be tried before being brought home!It is a beautiful lace wedding dress that is tapered to the knee, and features an off-shoulder illusion neckline and sheer back that buttons.  Dress has not been fitted or altered.Colors: Under Layer = AntiqueLace over the Under Layer = IvoryIllusion Neckline and Back = NudeDress Designer is Allure Bridal, style #9474 and was purchased from Trudy's Bridal in 2019.Stock photos + one photo when dress was tried on are attached.  Asking $1,500 OBO - paid close to $2,000 for dress and vail."
+            },
+            {
+                "id": "7330647073",
+                "name": "Aidan Mattox - Size 8 - Fancy Dress - Prom - Wedding - New with tags",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-aidan-mattox-size-fancy-dress/7330647073.html",
+                "datetime": "2021-06-02 08:45",
+                "price": "$35",
+                "where": "san mateo",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_1LgjbtHK5Tkz_06808b_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_1LgjbtHK5Tkz_06808b_600x450.jpg",
+                    "https://images.craigslist.org/00F0F_1LgjbtHK5Tkz_06808b_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_1Jjh40FvQOaz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_e4oV24d5YDPz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_dNO8pXKJVMOz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_iUZHBpXN6fNz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_hepTXJ3RfcSz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_izvbZRyE1Hz_0ak07K_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "If the ad is up, this lovely dress is still available - and waiting for just the right person.  Brand new dress has a build-in bra.   From the arm pit to the bottom it measures 55.    Refer to pix for additional details.  Hoping this will save someone a ton of money for prom, wedding or other special occasion.  Asking $35 cash (preferred), Paypal or Venmo.  OBO.   Pick-up in North San Mateo.  Easy access from 101 or ECR/Poplar.  You may try it on on our storage unit if you wish.   Masks please.  Cross listed.   CL email to contact."
+            },
+            {
                 "id": "7325994474",
                 "name": "JESSICA McCLINTOCK SIZE 4 STRAPLESS WEDDING DRESS BRAND NEW W/TAGS",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/jessica-mcclintock-size-strapless/7325994474.html",
@@ -345,47 +388,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "JESSICA McCLINTOCK OFF WHITE STRAPLESS WEDDING DRESS SIZE 4 IT HAS A SIDE ZIPPER AND LACE ON THE TOP BRAND NEW WITH TAGS IT HAS A TRAIN IN THE BACK $30.00 IT HAS BEEN IN A BOX SO IT NEEDS TO BE STEAMED."
-            },
-            {
-                "id": "7316541346",
-                "name": "Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/newark-wedding-dress/7316541346.html",
-                "datetime": "2021-06-01 23:54",
-                "price": "$750",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_fkXiyBW0mJKz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00T0T_fkXiyBW0mJKz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_fkXiyBW0mJKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01717_gCJRmvvaYwUz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_eP17mRZRajXz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Hello Bride-To-Be\u2019s, Wedding Dress in pristine condition. Size small: For petite busty women, 5\u20193 height and under, it can be altered. :)She wore it only once. \ud83d\ude00Paid Over $2000 for this dress plus alterations. Free delivery within reasonable distance. OBO"
-            },
-            {
-                "id": "7327653941",
-                "name": "New-Wedding Dress with Veil and Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-new-wedding-dress-with-veil-and/7327653941.html",
-                "datetime": "2021-06-01 22:54",
-                "price": "$40",
-                "where": "hayward / castro valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01313_lTKnU0B9iioz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01313_lTKnU0B9iioz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/01313_lTKnU0B9iioz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01313_uE5R8IYVMiz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_WXaP6BxgFyz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_4LD6LPgbRJ4z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_1byZ4yUqaCdz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00505_gkgdB8wnYVlz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "I bought a new wedding dress online a year ago, didn\u2019t ended up using and now it is too late to return. The dress is a size 4-6 with adjustable back. The dress style is a hybrid of off-should and long sleeve with floor length. I also bought a pair of gloves and veil that goes with it.  I am giving out a new dress for whoever is buying this dress. Please only email if you are a seriously buyer."
             }
         ],
         "great condition": [
@@ -824,24 +826,26 @@
                 "description": "This is a Thump12BST 1300W 12Advanced Loud Speaker It's in very good condition, Like New.  It has only seen 4 or 5 gigs.  Pick up only in Scotts Valley."
             },
             {
-                "id": "7330632971",
-                "name": "Weber Ceramic California 12\u201d speaker 4 ohms",
-                "url": "https://sfbay.craigslist.org/pen/msg/d/san-mateo-weber-ceramic-california-12/7330632971.html",
-                "datetime": "2021-06-02 08:22",
-                "price": "$55",
-                "where": "san mateo",
+                "id": "7318511694",
+                "name": "2002 Rainsong Carbon Fiber guitar",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/milpitas-2002-rainsong-carbon-fiber/7318511694.html",
+                "datetime": "2021-06-02 08:38",
+                "price": "$1,200",
+                "where": "milpitas",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00606_4JGjFST1WLLz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00u0u_ddpMycrBefCz_0jm0CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00606_4JGjFST1WLLz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00606_4JGjFST1WLLz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00303_ekUnpBLRWPTz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_9uD2dZi2QG0z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_bsma3UGl2ABz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00u0u_ddpMycrBefCz_0jm0CI_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_ddpMycrBefCz_0jm0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00808_Fh11G6rDfyz_0jm0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_5F32tUGoDmYz_0jm0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_4j3fcv9YGkQz_0jm0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_9mApg5cg8Ygz_0jm0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_5PkZVBJ0Wf9z_0jm0CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "This is a clone of the JBL D120. Buying these new I think is a 124 + 20 shipping.Favorite for Twin Reverb, or any amp required an extremely clean tone.For Twins JBL D120F tone with ceramic punch. 12\u2033, 60oz ceramic magnet, 80 watt, 2\u2033 voice coil, curved cone. Loud, smooth, uncolored.This has a paper cone for smoother tone and is 4 ohm. It's been used (broken in) but it's in great shape. No issues and ready to rock.Send me an email with a phone number. No hassle, socially distant pickup only at my house in San Mateo, right off 280 and 92."
+                "description": "Fabulous, rare Rainsong 38 inch dreadnaught steel string acoustic electric guitar in excellent condition except for small nick that does not affect its amazing sound which is loud and clear. Strung with Elixer strings. This is a high end instrument that is just the right size for most anyone.  It has Fischer electronics and includes a quality gig bag and strap. You will not be disappointed. Best offer accepted!"
             }
         ],
         "famous": [

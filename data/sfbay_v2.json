@@ -139,6 +139,40 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7327873933",
+                "name": "Vintage floral boho caftan / dress",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-floral-boho/7327873933.html",
+                "datetime": "2021-06-01 18:47",
+                "price": "$45",
+                "where": "San Francisco",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00L0L_glfXwS4xHNez_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00L0L_glfXwS4xHNez_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00L0L_glfXwS4xHNez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_9M0KDgSPsCSz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Great as a house dress, also charming for park outings, farmers market jaunts or as a \u201ccover-up.\u201d Hits around mid-thigh in the fromt and longer drape in back. Oversized cut fits most all sizesSuper soft and light combed cotton, like new"
+            },
+            {
+                "id": "7328349493",
+                "name": "Black Vintage J Crew Blazer 6P",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-black-vintage-crew-blazer/7328349493.html",
+                "datetime": "2021-06-01 18:34",
+                "price": "$10",
+                "where": "sunset / parkside",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00303_ae0aFSlV4x1z_07K0ak_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00303_ae0aFSlV4x1z_07K0ak_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Dry clean only$10 cashI'm pet free and a non-smoker.Pick-up outside the Ortega library in the Outer Sunset."
+            },
+            {
                 "id": "7327240034",
                 "name": "VINTAGE HAT",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-hat/7327240034.html",
@@ -156,47 +190,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "100% wool. Made in USA by Lancaster, Sonni of San Francisco.Dark beige veiled wool felt broad brimmed with tule"
-            },
-            {
-                "id": "7327240183",
-                "name": "VINTAGE DRESS FROM JESSICA MCCLINTOCK BRIDAL COLLECTION",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-dress-from/7327240183.html",
-                "datetime": "2021-06-01 18:20",
-                "price": "$20",
-                "where": "inner richmond",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_eTHcYPVscBF_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_eTHcYPVscBF_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_eTHcYPVscBF_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_impVe0VLRYN_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_9gq4H2WLu47_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_ilpiW9QAkK3_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_32kCVADAhGG_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Light sage. Made in USA. Size 5/6. 59% acetate, 41% rayon. Zipper in back."
-            },
-            {
-                "id": "7330441632",
-                "name": "1930s Vintage Women's Hats",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-1930s-vintage-womens-hats/7330441632.html",
-                "datetime": "2021-06-01 18:09",
-                "price": "$12",
-                "where": "mission district",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00N0N_j4NCd7DDMzl_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00N0N_j4NCd7DDMzl_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00N0N_j4NCd7DDMzl_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_gsVSpHS7K9s_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_a72Ulo24bPS_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_1INryFoZJQ2_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "1. Vintage Eva Mae Modes Hat - Black Velvet Sunday Hat - in nice shape - $122. Joseph Magnin women's hat (Jaguar written on inside) - probably unused - $12"
             }
         ],
         "beaded": [
@@ -325,6 +318,29 @@
         ],
         "wedding dress": [
             {
+                "id": "7320760198",
+                "name": "WEDDING DRESS & an Eve. Dress!",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7320760198.html",
+                "datetime": "2021-06-01 18:39",
+                "price": "$65",
+                "where": "sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                    "https://images.craigslist.org/01717_d6fzffAhkIk_50x50c.jpg",
+                    "https://images.craigslist.org/00101_bl8y1IxloeK_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_kVlMyl8ifyI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_f8WGDbKtwnN_50x50c.jpg",
+                    "https://images.craigslist.org/00000_tclh2W2lBh_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_9398GASL6Kf_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_airF1iyfhDD_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "2 Amazing dresses for your upcoming event!!!1. Beautiful wedding dress in excellent condition! Knee length!- $653. A LOVELY evening dress; Beautiful, smashing, unique dress/gown for prom, ball, graduation or any other occasion!Designer: Betsy and Adam. Size: 12Color: shades of coralStrapless. Heart shaped bodice decorated with jewels. Side zipper.Worn once. Excellent condition. See pictures.asking price: $65. Paid $380 for this amazing dress!!!TAKE THE 2 DRESSES FOR ONLY $110!!!"
+            },
+            {
                 "id": "7322946054",
                 "name": "San Patrick 1964 Seymour Wedding Dress",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-san-patrick-1964-seymour/7322946054.html",
@@ -397,29 +413,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Seymour wedding dress from the Fashion 2015 - St Patrick collection | St. PatrickI am selling my wedding dress that I wore once. The original tag is attached still.Size is US 8, as seen on the picture. This dress is a custom with a corset waist, so the dress is actually a US size 8, but using the corset the size can go down to a 0. Please see pictures of back with corset. ASKING $1,500.00If you see this ad, then the dress is still available. Email me your cell phone and we will setup and date and time.CASH ONLY, No IO'S, NO TRADES, NO CHECKS."
-            },
-            {
-                "id": "7322751733",
-                "name": "Allure Romance #2954 Lace Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-allure-romance-2954-lace/7322751733.html",
-                "datetime": "2021-06-01 14:31",
-                "price": "$650",
-                "where": "san jose downtown",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00202_7NPmLtHtaEDz_08I0d4_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00202_7NPmLtHtaEDz_08I0d4_600x450.jpg",
-                    "https://images.craigslist.org/00202_7NPmLtHtaEDz_08I0d4_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_bDhYu8K6ZDXz_0fV0nV_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_17O4p7sI7Enz_0ft0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_fjtvOE2vBX5z_0ek0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_lk5enc7uwWqz_0k00t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_7R3KLlZ7AHPz_0jV0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_dJCbBkiXCI6z_0k50t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Allure Romance #2954 Lace Wedding DressLabel Size: 8, Street Size: 2-4Color: IvoryAsking: $650 OBO pick up in San JoseCondition: Worn for 5 hours for Ceremony and Photos only, Clean & Ready to go :)Great for a bride who wants a beautiful tailored lace wedding dress with long train on a budget. Tailoring in the Bay Area is not cheap.Total Spent: $2050 + TaxDress from Bridal Store: $1350 + Tax Alterations by seamstress in Campbell: $700 + Tax- Added additional bra padding- Added bustle - Shortened few inches. (I am 5\u2019, 120lb, and wore 5\u201d heels)"
             }
         ],
         "great condition": [
@@ -503,6 +496,22 @@
     "sports": {
         "autograph": [
             {
+                "id": "7323761826",
+                "name": "Tony LaRussa Autographed Leroy Neiman poster",
+                "url": "https://sfbay.craigslist.org/eby/spo/d/tony-larussa-autographed-leroy-neiman/7323761826.html",
+                "datetime": "2021-06-01 18:55",
+                "price": "$100",
+                "where": "danville / san ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00404_94gedaGEuFQz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00404_94gedaGEuFQz_0t20CI_600x450.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "I have a nicely framed Leroy Neiman poster of Tony LaRussa that was signed by Tony.Wife says I have too much sports memorabilia on the walls so this one must go.These were limited editions when Tony was Manager of the Year and they are no longer available, even on the Leroy Neiman web site.$100 for poster and frame!  baseball, Oakland, athletics, A's, Raiders, sports, memorabilia, picture,"
+            },
+            {
                 "id": "7317714749",
                 "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
                 "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7317714749.html",
@@ -549,31 +558,6 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "strung with babolat rpm blast premium poly strings @ 58 lbs. good condition."
-            },
-            {
-                "id": "7327703290",
-                "name": "Autographed Oakland Raiders Helmet",
-                "url": "https://sfbay.craigslist.org/eby/spo/d/martinez-autographed-oakland-raiders/7327703290.html",
-                "datetime": "2021-05-31 14:23",
-                "price": "$1",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_5oUWha9dDwRz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_3b2FQXjI1qBz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_3bmVYqB7Ra2z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_jajZ9dqhOQAz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_gYorNaWHykGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_eHI6A8zvk35z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_8pKw84uaWWqz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_oKDklRZgNXz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "Selling a autographed authentic Riddell Oakland Raiders helmet signed by Howie Long  75.       and  Tim Brown   81. Have certificate of  authenticity on the autographs.  Appraised at $650Selling for $400Cash only- no Venmo- no PayPal    No Shipping Football baseball sports  49ers Raiders Chargers helmet"
             }
         ]
     },

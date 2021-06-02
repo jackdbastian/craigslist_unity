@@ -310,6 +310,28 @@
         ],
         "wedding dress": [
             {
+                "id": "7325994474",
+                "name": "JESSICA McCLINTOCK SIZE 4 STRAPLESS WEDDING DRESS BRAND NEW W/TAGS",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/jessica-mcclintock-size-strapless/7325994474.html",
+                "datetime": "2021-06-02 00:44",
+                "price": "$30",
+                "where": "SAN JOSE",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00505_h3AU6dsSrj0_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00505_h3AU6dsSrj0_600x450.jpg",
+                    "https://images.craigslist.org/00505_h3AU6dsSrj0_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_hPDDekS2kTU_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_erwIO4SEqb0_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_e6etA23oEPu_50x50c.jpg",
+                    "https://images.craigslist.org/00404_2pifZHL7q4C_50x50c.jpg",
+                    "https://images.craigslist.org/00707_amP1wfJ13qQ_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "JESSICA McCLINTOCK OFF WHITE STRAPLESS WEDDING DRESS SIZE 4 IT HAS A SIDE ZIPPER AND LACE ON THE TOP BRAND NEW WITH TAGS IT HAS A TRAIN IN THE BACK $30.00 IT HAS BEEN IN A BOX SO IT NEEDS TO BE STEAMED."
+            },
+            {
                 "id": "7316541346",
                 "name": "Wedding Dress",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/newark-wedding-dress/7316541346.html",
@@ -349,25 +371,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "I bought a new wedding dress online a year ago, didn\u2019t ended up using and now it is too late to return. The dress is a size 4-6 with adjustable back. The dress style is a hybrid of off-should and long sleeve with floor length. I also bought a pair of gloves and veil that goes with it.  I am giving out a new dress for whoever is buying this dress. Please only email if you are a seriously buyer."
-            },
-            {
-                "id": "7327663472",
-                "name": "Ball Gown Off-the-Shoulder  Champagne Color Size 2-4 Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/south-san-francisco-ball-gown-off-the/7327663472.html",
-                "datetime": "2021-06-01 22:54",
-                "price": "$400",
-                "where": null,
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00K0K_2C6Q5Op6Y8Yz_0CI0pO_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00K0K_2C6Q5Op6Y8Yz_0CI0pO_600x450.jpg",
-                    "https://images.craigslist.org/00K0K_2C6Q5Op6Y8Yz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_bZunnvnz5JTz_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_1jgefx2hJjyz_06V0dH_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "This is a champagne color custom made ball gown off the shoulder wedding dress. It is made with quality material and great fitting to feature the best par of your body. The dress is a size 2-4, the back of the dress is adjustable so it can fit a range of body size without paying for the alterations.   The price is $400 and it includes: 1.\tBall Gown Off-the-Shoulder Champagne Color Tulle Wedding Dress 2.\tChampagne Color Veil 3.\tBall Gown 1 Tier Floor Length Wedding Dress Petticoats4.\tBag For The Dress"
             }
         ],
         "great condition": [

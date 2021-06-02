@@ -2,6 +2,24 @@
     "materials": {
         "gravel": [
             {
+                "id": "7320279035",
+                "name": "Glazed Porcelain Floor Tile - Gravel Road",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/brentwood-glazed-porcelain-floor-tile/7320279035.html",
+                "datetime": "2021-06-02 08:12",
+                "price": "$50",
+                "where": "brentwood / oakley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00l0l_fYE99AxwlGcz_084084_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00l0l_fYE99AxwlGcz_084084_600x450.jpg",
+                    "https://images.craigslist.org/00l0l_fYE99AxwlGcz_084084_50x50c.jpg",
+                    "https://images.craigslist.org/00404_6czJSeHaKGhz_0pO0jm_50x50c.jpg"
+                ],
+                "query": "gravel",
+                "category": "maa",
+                "description": "6 boxes of extras we didn't use.  $50 per box (9 tiles)Porch pickup in Brentwood.Cash, Venmo or Paypal.Daltile Saddle Brook XT 6 in. x 36 in. Glazed Porcelain Floor TileGravel Road XTSaddle Brook XT\u2122 is designed to defeat exterior challenges! This tile is slip-resistant and is easy to maintain and is great for commercial applications as well as any outdoor space. - Achieve the look of authentic hardwood in exterior spaces without the maintenance- Contains Daltile\u2019s patent-pending StepWise\u2122 technology for superior slip-resistance    Size: 6 x 36 Field Tile* - (5 7/8 x 35 7/16) - (15.00 cm x 90.00 cm)     Pieces Per Carton: 9    SQFT Per Carton: 13.05Info:https://floorzz.com/products/daltile-saddle-brook-xt-6-in-x-36-in-glazed-porcelain-floor-tile-gravel-road-xt"
+            },
+            {
                 "id": "7315926815",
                 "name": "Gravel",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/los-altos-gravel/7315926815.html",
@@ -16,24 +34,6 @@
                 "query": "gravel",
                 "category": "maa",
                 "description": "NO EMAILS PLEASETEXT Paul to arrange pickup on Aura Way in Los Altos:  Part of a whole house Estate salvage sale. Everything goes!Gravel is $1 /5 gallon bucket  $3/5 gallon bucket"
-            },
-            {
-                "id": "7320279035",
-                "name": "Glazed Porcelain Floor Tile - Gravel Road",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/brentwood-glazed-porcelain-floor-tile/7320279035.html",
-                "datetime": "2021-05-31 07:26",
-                "price": "$50",
-                "where": "brentwood / oakley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00l0l_fYE99AxwlGcz_084084_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00l0l_fYE99AxwlGcz_084084_600x450.jpg",
-                    "https://images.craigslist.org/00l0l_fYE99AxwlGcz_084084_50x50c.jpg",
-                    "https://images.craigslist.org/00404_6czJSeHaKGhz_0pO0jm_50x50c.jpg"
-                ],
-                "query": "gravel",
-                "category": "maa",
-                "description": "6 boxes of extras we didn't use.  $50 per box (9 tiles)Porch pickup in Brentwood.Cash, Venmo or Paypal.Daltile Saddle Brook XT 6 in. x 36 in. Glazed Porcelain Floor TileGravel Road XTSaddle Brook XT\u2122 is designed to defeat exterior challenges! This tile is slip-resistant and is easy to maintain and is great for commercial applications as well as any outdoor space. - Achieve the look of authentic hardwood in exterior spaces without the maintenance- Contains Daltile\u2019s patent-pending StepWise\u2122 technology for superior slip-resistance    Size: 6 x 36 Field Tile* - (5 7/8 x 35 7/16) - (15.00 cm x 90.00 cm)     Pieces Per Carton: 9    SQFT Per Carton: 13.05Info:https://floorzz.com/products/daltile-saddle-brook-xt-6-in-x-36-in-glazed-porcelain-floor-tile-gravel-road-xt"
             },
             {
                 "id": "7317467755",
@@ -136,73 +136,67 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7323593132",
-                "name": "Vintage I. Miller women's Shoe",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/saratoga-vintage-miller-womens-shoe/7323593132.html",
-                "datetime": "2021-06-02 07:53",
-                "price": "$49",
-                "where": "saratoga",
+                "id": "7325316777",
+                "name": "Vintage NY coach Tote bag",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-ny-coach-tote-bag/7325316777.html",
+                "datetime": "2021-06-02 08:21",
+                "price": "$99",
+                "where": "san mateo",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_d1DSeqsgtGU_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00k0k_d1DSeqsgtGU_600x450.jpg",
-                    "https://images.craigslist.org/00k0k_d1DSeqsgtGU_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_6gT0ZofH6n5_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_hg7g9Ci5eoH_50x50c.jpg"
+                    "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_eCvSSwRwE4rz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_64OfLarC68Ez_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_cXol6NPu4idz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_k4oIF230ke1z_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_fPrzXUUwhvRz_0gl0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage I. Miller women's brown leather 3 inch heel shoe in very good to excellent condition ( no odor ). Probably from the 1940's-50's. Marked inside  8/AA but remember these are vintage sizes. I am guessing a size 6 and narrow is close to the modern size. Shoes are about 9 inches long including sling back, and 2 3/4 inches at widest.Has original box but box is in only fair to poor condtion"
+                "description": "Vintage New York Coach Tote bag, very beautiful LN8-8214 . In wonderful condition normally going for $499 I'm asking $99Thank you"
             },
             {
-                "id": "7324935166",
-                "name": "Hanging Travel Suitcase/Vintage Hard Shell/Soft Shell Samsonite",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-hanging-travel-suitcase/7324935166.html",
-                "datetime": "2021-06-02 06:38",
-                "price": "$20",
-                "where": "sunset / parkside",
+                "id": "7325318358",
+                "name": "Vintage Sopheea tote bag",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-sopheea-tote-bag/7325318358.html",
+                "datetime": "2021-06-02 08:21",
+                "price": "$50",
+                "where": "san mateo",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_23myTi77n1B_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00q0q_23myTi77n1B_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_23myTi77n1B_50x50c.jpg",
-                    "https://images.craigslist.org/00303_85nUOtYHPR2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_kwyvZ6dvIea_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_29BJIESy2zJ_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_9QUCQX7XHn1_50x50c.jpg",
-                    "https://images.craigslist.org/01010_ghiYe3Wlwsy_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_cTooHXg3wRJ_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_doHDX835lD8_50x50c.jpg",
-                    "https://images.craigslist.org/00707_aepIrHCOGyc_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_ggXlhCjZUkh_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_wWgDOBlf3q_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_eiU7abRWP4e_50x50c.jpg"
+                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
+                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_bsYt2j2ELOWz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_apgAPIXTI9Nz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_hvgFOZ4giD3z_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_jFvcVnNZJvjz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_chpDoSJz5v1z_0gl0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Still for sale!cash only and firm price! 1. Hanging Travel Suitcase, excellent condition! $20.W 22.5H 42, fold down to 212. Beautiful Hard Shell Samsonite, like new condition! Lot of compartments! $70.L 22D 6.5H 17.53. Excellence condition of Soft Shell Samsonite. $40Lot of compartments!L 22D with expandable 9H 14"
+                "description": "Hello A very beautiful Sopheea classic, genuine leather tote bag. On line there asking a stupid price I won't even tell you I'm asking $50Thank you"
             },
             {
-                "id": "7326790419",
-                "name": "Vintage Original Doc Marten'sShoes",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-bruno-vintage-original-doc/7326790419.html",
-                "datetime": "2021-06-02 06:28",
-                "price": "$45",
-                "where": "san bruno",
+                "id": "7327315857",
+                "name": "(3) Vintage Leather Choker Necklaces w/Ceramic Pendants- Pretty! (NEW)",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-leather-choker/7327315857.html",
+                "datetime": "2021-06-02 08:18",
+                "price": "$10",
+                "where": "san jose south",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_9Zv40GIvDEpz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_1uETSRutzsAz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_3Y4E1lNeInfz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_4MJeogWxTJ9z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_eZXwMvmcBBMz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_8ts4uphqTn6z_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Doc Marten's 90's size 9 -9 1/2 MOriginalClean- great Condition"
+                "description": "Pretty colorful vintage 1960's leather corded choker necklaces with different ceramic beads/pieces. All in in new condition and unique and different. Asking $10 each or take all 3 with an extra pendant piece for only $20!"
             }
         ],
         "beaded": [
@@ -396,77 +390,73 @@
         ],
         "great condition": [
             {
-                "id": "7330510526",
-                "name": "Longchamp Le Pliage Large Bag GOOD CONDITION Great price !",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-longchamp-le-pliage-large/7330510526.html",
-                "datetime": "2021-06-01 23:26",
+                "id": "7327555486",
+                "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-authentic-coach-black-leather/7327555486.html",
+                "datetime": "2021-06-02 08:14",
                 "price": "$30",
-                "where": "santa clara",
+                "where": "san jose east",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00K0K_bULmeUvqr6bz_1320MM_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00K0K_bULmeUvqr6bz_1320MM_600x450.jpg",
-                    "https://images.craigslist.org/00K0K_bULmeUvqr6bz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_fplVpWtVjEjz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_4YOObx6BY05z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_crvrBARQ2kMz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00909_9KkWDzJarH4z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_ffJN1I3ghr8z_1320MM_50x50c.jpg"
+                    "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
+                    "https://images.craigslist.org/00E0E_alQnTb2seNO_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_3AuKuSn7N2e_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_6bBOQCLgFzB_50x50c.jpg",
+                    "https://images.craigslist.org/01111_feyWSZAZYb1_50x50c.jpg"
                 ],
                 "query": "great condition",
                 "category": "cla",
-                "description": "$140 VALUE!!Bag is authentic, good condition, very nice quality. Email me if you are interested."
+                "description": "My sister used 3 times. It looks great. You can check before you pay.Text or call at   ONLY when you are ready to pick up near 1600 Hopkins Drive, SAN JOSE"
             },
             {
-                "id": "7320428035",
-                "name": "Coach Genuine Leather Handbag Red in Great Condition",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-coach-genuine-leather-handbag/7320428035.html",
-                "datetime": "2021-06-01 13:15",
-                "price": "$30",
-                "where": "milpitas",
+                "id": "7327349936",
+                "name": "Men's/Women's Jackets- Great Condition- Lightweight & Comfy ($5-10 ea)",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-mens-womens-jackets-great/7327349936.html",
+                "datetime": "2021-06-02 08:10",
+                "price": "$0",
+                "where": "san jose south",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00r0r_1UyNU1bhFz1_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00O0O_17JNxo0fRKIz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00r0r_1UyNU1bhFz1_600x450.jpg",
-                    "https://images.craigslist.org/00r0r_1UyNU1bhFz1_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_5HLp5T45NDV_50x50c.jpg"
+                    "https://images.craigslist.org/00O0O_17JNxo0fRKIz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00O0O_17JNxo0fRKIz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_lo5xJ4Is2M5z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_huG5Pl8AK5nz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00707_4l5VeifDNYnz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_53yFmGQNT5rz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_58U6fOo6C53z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_9iu3AuIY2JMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_9dGYdcMaiEZz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_1A1pZnayEA2z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_7WyalXDp6YSz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00606_fbfx2ClTT4Yz_0t20CI_50x50c.jpg"
                 ],
                 "query": "great condition",
                 "category": "cla",
-                "description": "Coach Genuine Leather Handbag, gorgeous red color with the soft smooth leather top quality. Please call or tet me at   and take it today!"
+                "description": "Great selection of nice winter/fall jackets and coats that are universal, men's or women's. They are all in great condition and some like new. Some brand names as well, one Izod and one Cabela's jacket. 1 women's warm puffy jacket is like new and a beautiful teal color. The sizes are all XL and a few are XXL or 1x-2x.The medium/heavy fall or winter coats and brand names jackets are $10 each and the other lighter weight or fleece coats/jackets are $5 eachI also have a vintage camel hair beige coat that is pictured last in great condition for $10I have a nice soft brown suede jacket as well, medium size in great condition- $15If you take all of them I will let them all go for $60!!"
             },
             {
-                "id": "7328034881",
-                "name": "Spring Cleaning Sale | All the Items $180 | Great condition",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-spring-cleaning-sale-all/7328034881.html",
-                "datetime": "2021-06-01 08:23",
-                "price": "$180",
-                "where": "nob hill",
+                "id": "7323657423",
+                "name": "Really Cute Red GUESS 4 1/2\" Platform Shoes, Size 8, Great Condition!",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-really-cute-red-guess/7323657423.html",
+                "datetime": "2021-06-02 07:58",
+                "price": "$35",
+                "where": "half moon bay",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00D0D_3NIlmdjcJTQz_0MM132_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00D0D_3NIlmdjcJTQz_0MM132_600x450.jpg",
-                    "https://images.craigslist.org/00D0D_3NIlmdjcJTQz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_8aCoqQoGx9Yz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_e6bNowJ7oz0z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_fECJuvnHOW5z_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_438Y7Zd4iLdz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_isarj0bCuNZz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_69xasm2CLNVz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_2k5R3cewQUZz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_bofyJ1ISetSz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_ioIyoVgVURoz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_eofaEBlwAltz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_2ggt0btFxs9z_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_i5q8vRpUJ7Dz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/01515_6pPVBgK9pYyz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_162MT7Vj9QNz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_kx5ISbFzeWUz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_H5R9OeLNf2z_0MM132_50x50c.jpg"
+                    "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_4sBAbbvXj63z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_hUttjYR95Tzz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_i6IyXo8x2Niz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_dBeGtYxO1c4z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_dDrULSNCDt5z_0t20CI_50x50c.jpg"
                 ],
                 "query": "great condition",
                 "category": "cla",
-                "description": "Spring Cleaning Sale | All the Items $220 | Great condition - like new!Please PM for more details or more pictures. Available for a pick up only (all the items)!Anna"
+                "description": "I am selling a pair of really cute GUESS 4 1/2  Platform shoes, in GREAT Condition. The shoes are a shiny red collar, with a tan bow, very Betty Boop like. The platform itself, is 1. They are a size 8, and have only been worn twice. If you have any questions, please feel free to email me. I live on the coast, in El Granada (approx. 5 miles North of Half Moon Bay), but can easily ship to anywhere at a normal cost. Thank you for your interest."
             }
         ]
     },
@@ -645,37 +635,10 @@
                 "description": "Needs repair:-passenger tail light doesn't stay on but blinker and brake light works -leaking gas pan-cracked valve cover -needs new clear coat or paint job"
             },
             {
-                "id": "7329074791",
-                "name": "350z 2006 REV UP",
-                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-350z-2006-rev-up/7329074791.html",
-                "datetime": "2021-05-29 17:04",
-                "price": "$12,500",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_74vsT8uHoGZz_0ne0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00k0k_74vsT8uHoGZz_0ne0t2_600x450.jpg",
-                    "https://images.craigslist.org/00k0k_74vsT8uHoGZz_0ne0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_lOabcWt1FFNz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01313_gKONHTG6n99z_0CI0pP_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_aIqzBdqYDsMz_0ne0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_2oxtDIP3FOWz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_1wrJzVF951Bz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_cQ1wcqDmMozz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_fdCRAzlXpcFz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_iSn3PhknphXz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_5kw1LUTDVz5z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00606_6RRXJizMQcqz_0t20CI_50x50c.jpg"
-                ],
-                "query": "fix* up*",
-                "category": "cta",
-                "description": "I'm testing waters on my 2006 Nissan 350z. 12,750 OBOI have had my 350z for just about a year now. I bought it almost completely stock other than wheels.I have babied the car my whole ownership never driven hard no CEL Mods Exterior Wheels-Tenzo R Wheels front-19/9 rear-19/10Tires- Hankook Evo 12`s all the way around Front-19/9/255ZR Rear-19/10/295ZR about 10,000 miles oldDrilled and Slotted rotorsN4 Style Fiberglass rear bumper professionally installed at Anderson Behel body shopFront Chin spoiler Black Door handles(more of a replacement but went with flow of car better)Mods PerformanceExhaust-Topspeed(with the custom intake setup sounds great not too loud but very noticable)Custom Intake setup (will explain in person runs great sounds great, still have stock box and am running stock z tube)Motordyne Plenum spacer 5/16Mods Interior Kentwood double din stereoNew speakers all aroundLeather seat coversPulled and repainted center console to fix Nissans plastic based paint looks better and way more durableMishimoto weighted shift knobRed shift bootI have a digital rear view but it stopped working all the wiring with backup cam and everything is still intact and operational I will throw the mirror in at no extra cost but may require custom mounting brackets.Maintenance within my ownershipReplaced both front solenoidsClutch replaced less than 15k miles ago (OEM Replacement)Master and slave cylinders done with clutchReplaced Throttle Body less than 5k miles ago (OEM replacement)Replaced door handlesReplaced weather strippingoil always changed full synthetic at 3k mile intervals(Last change done at 140k miles) Trunk struts replaced for hatchDisclaimers Good/BadCar has been involved in one minor fender bender that is reason for the new modified bumper Fixed Via insurance all work and paint done by Anderson Behel Body shopCars Odometer does read at 142,000 miles but is actually lower because of the size of the rims, Stock setup is a 17/18 staggered setup and I am running 19/9 by 19/10 so the miles are clocking as more than motor really has. Like I've stated before I bought the car with these wheels on so I'm not sure how many miles the motor has but is lower than what is on odometer (I've priced accordingly to the 140k Mile reading)  I am the 3rd owner of the car I bought it from the previous owner who had it sense 20k miles Tire pressure light is on because the 19s have no sensors cheap fix if you want but always kept air in them and never bothered me Clean Title Car runs perfectly I am selling because of job opportunity I've came across in SF need something better on gas and automatic You can contact me at 408 204 90 two nine Thanks - MichaelI do not need help sellingNo trades Lowballers will be ignored"
-            },
-            {
-                "id": "7327328168",
+                "id": "7330632532",
                 "name": "2016 VW e-GOLF SE*ELECTRIC VEHICLE*45K MILES*AUTO*BACK UP CAMERA",
-                "url": "https://sfbay.craigslist.org/pen/ctd/d/half-moon-bay-2016-vw-golf-seelectric/7327328168.html",
-                "datetime": "2021-05-26 08:18",
+                "url": "https://sfbay.craigslist.org/pen/ctd/d/half-moon-bay-2016-vw-golf-seelectric/7330632532.html",
+                "datetime": "2021-06-02 08:18",
                 "price": "$13,999",
                 "where": "half moon bay",
                 "deleted": false,
@@ -704,6 +667,33 @@
                 "query": "fix* up*",
                 "category": "cta",
                 "description": "Impressively clean Electric Hatchback VW Golf!  This is a great commute vehicle and rides very smoothly!  We practice social distancing and require masks be worn on premises.  Thank you.STK#4487Mileage: 45,791Year: 2016Make: VolkswagenModel: e-GolfTrim: SE Hatchback Sedan 4DEngine: Electric MotorTrans: Single-Speed Fixed GearDrivetrain: FWDExt. Color: BlueOptional EquipmentHill Hold Assist Control, Electronic Stability Control, ABS (4-Wheel), Alarm System, Keyless Entry, Keyless Start, Air Conditioning, Power Windows, Power Door Locks, Electromechanical Steering, Tilt & Telescoping Wheel, AM/FM Stereo, CD/MP3 (Single Disc), SiriusXM Satellite, Bluetooth Wireless, Backup Camera, Dual Air Bags, Side Air Bags, F&R Head Curtain Air Bags, Heated Seats, Dual Power Seats, Daytime Running Lights, Rear Spoiler, Alloy WheelsFree 3 Month/3K Mile Warranty for Eligible Vehicles!Give us a call at the number below for more information about this vehicle, or how we can help you with FINANCING(we have many financing options to offer you!) and/or extended service contracts!!!We also have many other cars and trucks in stock!BK Motors Inc (650) 726-8220108 N Cabrillo HwyHalf Moon Bay, CA 94019(Google Map)Check us out on YELP!www.bkmotors.comDisclaimer: While B.K. Motors, Inc. strives to include the correct information pertaining to itsconsignment vehicles, it is not responsible for any errors or omissions in its vehicle descriptions.The vehicle may include more or less equipment, and vary in exact color from what is listed.do NOT contact me with unsolicited services or offers"
+            },
+            {
+                "id": "7329074791",
+                "name": "350z 2006 REV UP",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-350z-2006-rev-up/7329074791.html",
+                "datetime": "2021-05-29 17:04",
+                "price": "$12,500",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00k0k_74vsT8uHoGZz_0ne0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00k0k_74vsT8uHoGZz_0ne0t2_600x450.jpg",
+                    "https://images.craigslist.org/00k0k_74vsT8uHoGZz_0ne0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_lOabcWt1FFNz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01313_gKONHTG6n99z_0CI0pP_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_aIqzBdqYDsMz_0ne0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_2oxtDIP3FOWz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_1wrJzVF951Bz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00909_cQ1wcqDmMozz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_fdCRAzlXpcFz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_iSn3PhknphXz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/01212_5kw1LUTDVz5z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00606_6RRXJizMQcqz_0t20CI_50x50c.jpg"
+                ],
+                "query": "fix* up*",
+                "category": "cta",
+                "description": "I'm testing waters on my 2006 Nissan 350z. 12,750 OBOI have had my 350z for just about a year now. I bought it almost completely stock other than wheels.I have babied the car my whole ownership never driven hard no CEL Mods Exterior Wheels-Tenzo R Wheels front-19/9 rear-19/10Tires- Hankook Evo 12`s all the way around Front-19/9/255ZR Rear-19/10/295ZR about 10,000 miles oldDrilled and Slotted rotorsN4 Style Fiberglass rear bumper professionally installed at Anderson Behel body shopFront Chin spoiler Black Door handles(more of a replacement but went with flow of car better)Mods PerformanceExhaust-Topspeed(with the custom intake setup sounds great not too loud but very noticable)Custom Intake setup (will explain in person runs great sounds great, still have stock box and am running stock z tube)Motordyne Plenum spacer 5/16Mods Interior Kentwood double din stereoNew speakers all aroundLeather seat coversPulled and repainted center console to fix Nissans plastic based paint looks better and way more durableMishimoto weighted shift knobRed shift bootI have a digital rear view but it stopped working all the wiring with backup cam and everything is still intact and operational I will throw the mirror in at no extra cost but may require custom mounting brackets.Maintenance within my ownershipReplaced both front solenoidsClutch replaced less than 15k miles ago (OEM Replacement)Master and slave cylinders done with clutchReplaced Throttle Body less than 5k miles ago (OEM replacement)Replaced door handlesReplaced weather strippingoil always changed full synthetic at 3k mile intervals(Last change done at 140k miles) Trunk struts replaced for hatchDisclaimers Good/BadCar has been involved in one minor fender bender that is reason for the new modified bumper Fixed Via insurance all work and paint done by Anderson Behel Body shopCars Odometer does read at 142,000 miles but is actually lower because of the size of the rims, Stock setup is a 17/18 staggered setup and I am running 19/9 by 19/10 so the miles are clocking as more than motor really has. Like I've stated before I bought the car with these wheels on so I'm not sure how many miles the motor has but is lower than what is on odometer (I've priced accordingly to the 140k Mile reading)  I am the 3rd owner of the car I bought it from the previous owner who had it sense 20k miles Tire pressure light is on because the 19s have no sensors cheap fix if you want but always kept air in them and never bothered me Clean Title Car runs perfectly I am selling because of job opportunity I've came across in SF need something better on gas and automatic You can contact me at 408 204 90 two nine Thanks - MichaelI do not need help sellingNo trades Lowballers will be ignored"
             }
         ],
         "fast": [
@@ -834,23 +824,24 @@
                 "description": "This is a Thump12BST 1300W 12Advanced Loud Speaker It's in very good condition, Like New.  It has only seen 4 or 5 gigs.  Pick up only in Scotts Valley."
             },
             {
-                "id": "7325653920",
-                "name": "1960's Vintage Cowbell Unmarked cow bell",
-                "url": "https://sfbay.craigslist.org/pen/msg/d/south-san-francisco-1960s-vintage/7325653920.html",
-                "datetime": "2021-06-02 07:42",
-                "price": "$20",
-                "where": "south san francisco",
+                "id": "7330632971",
+                "name": "Weber Ceramic California 12\u201d speaker 4 ohms",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/san-mateo-weber-ceramic-california-12/7330632971.html",
+                "datetime": "2021-06-02 08:22",
+                "price": "$55",
+                "where": "san mateo",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00H0H_4dL4Ne0U3oFz_0OQ0Cg_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00606_4JGjFST1WLLz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00H0H_4dL4Ne0U3oFz_0OQ0Cg_600x450.jpg",
-                    "https://images.craigslist.org/00H0H_4dL4Ne0U3oFz_0OQ0Cg_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_8EEBNQzR2Auz_0P20ys_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_eRydlFSsgQAz_0Pq0EE_50x50c.jpg"
+                    "https://images.craigslist.org/00606_4JGjFST1WLLz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00606_4JGjFST1WLLz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00303_ekUnpBLRWPTz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_9uD2dZi2QG0z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_bsma3UGl2ABz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Vintage cowbellLarge7 x 6 x 2LoudRivetedhas one small crack which doesn't affect performance"
+                "description": "This is a clone of the JBL D120. Buying these new I think is a 124 + 20 shipping.Favorite for Twin Reverb, or any amp required an extremely clean tone.For Twins JBL D120F tone with ceramic punch. 12\u2033, 60oz ceramic magnet, 80 watt, 2\u2033 voice coil, curved cone. Loud, smooth, uncolored.This has a paper cone for smoother tone and is 4 ohm. It's been used (broken in) but it's in great shape. No issues and ready to rock.Send me an email with a phone number. No hassle, socially distant pickup only at my house in San Mateo, right off 280 and 92."
             }
         ],
         "famous": [

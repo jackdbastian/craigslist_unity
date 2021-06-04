@@ -38,6 +38,43 @@
         ],
         "wood": [
             {
+                "id": "7320998969",
+                "name": "Wood Slabs for sale single or bulk, very dry, ready to use!",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/sacramento-wood-slabs-for-sale-single/7320998969.html",
+                "datetime": "2021-06-04 10:54",
+                "price": "$123",
+                "where": "Sacramento",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00C0C_jR47e0XLonJz_08P0ev_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00C0C_jR47e0XLonJz_08P0ev_600x450.jpg",
+                    "https://images.craigslist.org/00C0C_jR47e0XLonJz_08P0ev_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_aHcahp5aPs1z_09T0fP_50x50c.jpg",
+                    "https://images.craigslist.org/01717_ltGM4Og7bgzz_04i0d0_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I have dry slabs ready to work for sale at fair prices. 7-16 years dry, covered! Lots of Redwood, walnut, oak, Deadore cedar, tulip poplar, poplar, alder, sycamore, iron bark eucalyptus boards, etc. Etc. Misc. Other smaller and mixed wood.   2 species of large slabs, redwood and wych elm. Around 44x12'  Some exotics, 300' madrone cabinet grade, Iroko, Iron wood slabs, Touch base for sizes needed and price. Some burl slabs, and other great project lumber, nat. edge walnut. And other.. Bulk deals Also selling some veey nice slightly used, cabinet shop machinery. Inquire!   Thanks"
+            },
+            {
+                "id": "7331741703",
+                "name": "Eucalyptus Wood Slab",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/el-cerrito-eucalyptus-wood-slab/7331741703.html",
+                "datetime": "2021-06-04 10:50",
+                "price": "$500",
+                "where": "albany / el cerrito",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00A0A_7SAxIrrqVyaz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00A0A_7SAxIrrqVyaz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00A0A_7SAxIrrqVyaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_evFZoC4SqdMz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "About 9 W x 55 H x 2 D"
+            },
+            {
                 "id": "7330143863",
                 "name": "Brand new unpainted wood cabinet doors, approx 12\" x 16\"",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/mountain-view-brand-new-unpainted-wood/7330143863.html",
@@ -55,42 +92,6 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "paint grade door frontsI believe these are mapleinset panels12.25 x 16I only have one of this style.  I have another one, same size but slightly different style.   They are both similar and differences can only be seen close up.  I can send a picture if you are interested.CASH only"
-            },
-            {
-                "id": "7323456870",
-                "name": "BEHR 5 Gallon Paint Interior Exterior Elastomeric Water Proofing Wood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-behr-gallon-paint-interior/7323456870.html",
-                "datetime": "2021-06-04 10:20",
-                "price": "$80",
-                "where": "alameda",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00303_kM7BjyBU3hp_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00303_kM7BjyBU3hp_600x450.jpg",
-                    "https://images.craigslist.org/00303_kM7BjyBU3hp_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_kzx5TIyipQP_50x50c.jpg",
-                    "https://images.craigslist.org/00404_bxJTBBSbnb1_50x50c.jpg",
-                    "https://images.craigslist.org/00404_jWh4wwa7l4F_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "BEHR 5 Gallon Paint Interior Exterior Elastomeric Water Proofing Wood Protector. Never been used. This will cost $150 - $200 in store. The colors show in the pictures are the ones available.  One bucket white color available. $80 each. Price is firm."
-            },
-            {
-                "id": "7326710498",
-                "name": "Pine board and wood closet pole",
-                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-pine-board-and-wood/7326710498.html",
-                "datetime": "2021-06-04 10:04",
-                "price": "$20",
-                "where": "richmond / seacliff",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_ca55OFgnY1Zz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00o0o_ca55OFgnY1Zz_0t20CI_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I am redoing my closet and have this 3/4-in x 11-1/4-in x 92 board, as well as this closet pole that is ~89.5. I also have the 1x4 cleats to support the shelf piece.Thanks for your interest."
             }
         ]
     },

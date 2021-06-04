@@ -38,6 +38,47 @@
         ],
         "wood": [
             {
+                "id": "7320563373",
+                "name": "Old  wood framed windows 15.00 to 30.00",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-old-wood-framed-windows-1500/7320563373.html",
+                "datetime": "2021-06-04 16:14",
+                "price": "$30",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Z0Z_fSVeMGQdMBTz_0CI0pl_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Z0Z_fSVeMGQdMBTz_0CI0pl_600x450.jpg",
+                    "https://images.craigslist.org/00Z0Z_fSVeMGQdMBTz_0CI0pl_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_j50cgxgy7BIz_0A90t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_lO8sNzOi43uz_0BI0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Old wood framed windows, various sizes. Most have missing glass panes.15.00 to 30.00 depending on size and kind.Cash only, I do not deliver.Social Distancing you will have to load yourself what you buy.Livermore"
+            },
+            {
+                "id": "7318581448",
+                "name": "Miscellaneous barn wood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-miscellaneous-barn-wood/7318581448.html",
+                "datetime": "2021-06-04 16:14",
+                "price": "$150",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_5K4mrMovwsaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_llXTfe0hsvuz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_51b4U46Szdrz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_kYnYBXOqy5tz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_2X6Z7kGAN4Nz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I have some miscellaneous barn wood. I have boards, 2x3s, 2x4s, couple 2x6s and 4x4s. They range from 2-16 feet long. Most is Doug fir some redwood. All have nail holes some have splits and notches. Price will depend on what type of wood and how much you are buying or $150 for all. Located in Livermore. I don\u2019t deliver. Cash only. No holds."
+            },
+            {
                 "id": "7318854521",
                 "name": "Wood beams S4S Redwood, Douglas Fir, structural",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/san-rafael-wood-beams-s4s-redwood/7318854521.html",
@@ -57,120 +98,95 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Purchased new in August 2020, stored indoors with primed ends. These surplus beams are straight and true.$480 for both!OR:6x10 Douglas Fir No. 1, surfaced 4 sides (actual 5.5 x 9.5) excellent conditionLength= 12' 2-3/4$2404x12 Con Heart Redwood - clear grain (2 knots ~3/4 dia.) originally surfaced 4 sides to 3.5 x 11.25 zero cracks! undamaged, with surface discoloration and a shoe print (discounted accordingly) Length= 10' 6$290Also selling 1.75ea large 9' rolls of Barricade Wrap, similar to Tyvek house wrap. $30 for all. Prices are FIRM.Please say why you're buying beams so I know if you're a human, to get a response.Barn reclaimed salvaged rustic craftsman table mantel bench siding deck pergola arbor"
-            },
-            {
-                "id": "7330561053",
-                "name": "Wood rods",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7330561053.html",
-                "datetime": "2021-06-04 13:56",
-                "price": "$5",
-                "where": "south san francisco",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Round wooden rods. Possibly could be used for furniture or closet.They are 1.5 inches in diameter. Knob in middle is 2.5 inches in diameter.7 are about 38 inches  long.1 is about 32.5 inches long.$5 each.Leave a number if you want a reply."
-            },
-            {
-                "id": "7317878329",
-                "name": "Epoxy Resin - Table Top Epoxy - Live Edge Wood Slabs",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/sebastopol-epoxy-resin-table-top-epoxy/7317878329.html",
-                "datetime": "2021-06-04 12:40",
-                "price": "$80",
-                "where": "sebastopol",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00a0a_jEbrPaSErmkz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00a0a_jEbrPaSErmkz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00a0a_jEbrPaSErmkz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_b0cEThqYYTKz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_8bFV2gmTjBwz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Table Top Epoxy Resin2 Gallon Kits available - Food grade- 1:1 ratio- Great for coating live edge wood slabs$80 per kit"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7330891877",
-                "name": "NOS Vintage New Old Stock 1990s Wilsons Leather Suede Tan XL Jacket",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-nos-vintage-new-old-stock/7330891877.html",
-                "datetime": "2021-06-04 15:46",
-                "price": "$150",
-                "where": "rohnert pk / cotati",
+                "id": "7320581516",
+                "name": "Vintage purses/bags",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/livermore-vintage-purses-bags/7320581516.html",
+                "datetime": "2021-06-04 16:12",
+                "price": "$3",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00606_dJOmXudLy3Yz_0t20t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00M0M_jdT5bLRDPTG_0lM0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00606_dJOmXudLy3Yz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00606_dJOmXudLy3Yz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_9cSvUEDJ7G7z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_1G5XxKpHQ2uz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_1SHLyZnt2T6z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_gRqzTrJkzs5z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_4ultlUM6hDQz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_kRtrjZOs8I6z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_5Y3H1e64uw7z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_kiHz7ZGv4yfz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_9oLUGXLwe1Iz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_efoGfW6iRXPz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_bccnBJTbBLmz_0t20t2_50x50c.jpg"
+                    "https://images.craigslist.org/00M0M_jdT5bLRDPTG_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00M0M_jdT5bLRDPTG_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_ghvKHXvSS4g_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_f2wIz86OGa1_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_5HmmAc1vk8w_0tB0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_hkrhRba5JnW_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_l1LKJOVsS8B_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_lsG7klI3Qab_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_cDaIz8tOEmi_0q00t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_2b41D1WZHMZ_0xV0py_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_bACFEN4xU31_0lM0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This is a new old stock (circa early 1990s), with original store tags, Wilsons Leather M. Julian tan suede zip-up jacket. This is a men's XL with an underarm to underarm measurement of approximately 21 for a total of 42 around and a length of approximately 31 from shoulder to hem. There are 2 exterior chest pockets on either side as well as 2 interior pockets (one zip closure and one snap) on the left side. This jacket has never been worn and is in mint condition, completely free of flaws. It's weighty and will keep you warm this winter.Please call, text, or email anytime.Thank you,Ed"
+                "description": "3.00 EACHSakroots  preowned Shoulder Bag/ Purse  Vintage Dofan of France leather handbag preowned has a little wear in the corners.  Studio 18 multi color beaded purse  Tropical Tantrum Purse Cash only, I do not deliver or ship no holds.Livermore"
             },
             {
-                "id": "7325080554",
-                "name": "Vintage Furthur Grateful Dead Men's 2X Long Sleeve Shirt Thermal Navy",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-furthur-grateful/7325080554.html",
-                "datetime": "2021-06-04 15:44",
+                "id": "7328191441",
+                "name": "Vintage American Hat Company 7 1/2  Gray Felt Cowboy Hat.",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/livermore-vintage-american-hat-company/7328191441.html",
+                "datetime": "2021-06-04 16:11",
                 "price": "$40",
-                "where": "rohnert pk / cotati",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_7PspBmsjAz9z_0t20t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00202_gl2JBc9GaPJz_0v10t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00j0j_7PspBmsjAz9z_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_7PspBmsjAz9z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_6rAPFpIakDyz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_cRSgaYCAmzdz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_2j1wG2Cj3owz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_gQXdNhsaW5lz_0t20t2_50x50c.jpg"
+                    "https://images.craigslist.org/00202_gl2JBc9GaPJz_0v10t2_600x450.jpg",
+                    "https://images.craigslist.org/00202_gl2JBc9GaPJz_0v10t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_5SC8yXsBYCaz_0A30t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_7W0UigMJqdhz_0zE0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_dk4MGNHOgb5z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_k7kZecrDgyez_0AK0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_3NIORoDGubwz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_egNakPHcFeNz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_lBdL6VXOWGgz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_8kqKpu91RBoz_0lM0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This is a previously owned, navy blue thermal long-sleeved shirt with an embroidered Furthur band applique on the left chest. It is a men's 2X with an underarm-underarm measurement of approximately 24 that stretches to 34. Length from shoulder-hem is approximately 29. There is one short, pulled thread on the front as shown. It is 100% cotton.------Please call, text, or email anytime.Thank you,Ed"
+                "description": "Vintage American Hat Company 7 1/2  Gray Felt Cowboy Hat.  Has a few spots on the hat that can be seen in the picture.  Over all good condition. 40.00.Cash only, I do not deliver or ship no holds.Livermore"
             },
             {
-                "id": "7325087889",
-                "name": "Vintage Wonderwool UK Patchwork Newsboy Cabbie Hat Cap Tweed 1940s",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-wonderwool-uk/7325087889.html",
-                "datetime": "2021-06-04 15:44",
-                "price": "$45",
-                "where": "rohnert pk / cotati",
+                "id": "7318268961",
+                "name": "VINTAGE BOOTS LEATHER 9 E go",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-boots-leather-e-go/7318268961.html",
+                "datetime": "2021-06-04 16:01",
+                "price": "$200",
+                "where": "sunnyvale",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00202_kFbMTxAb4HBz_0t20t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00P0P_a8c7R8gCsTF_0fe0bq_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00202_kFbMTxAb4HBz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00202_kFbMTxAb4HBz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_6IoRlEBKWmVz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_5wMNIdudLCIz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_luRXOc3O08z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_h5u2G2EhHeZz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_hOXmACGM9gEz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_4FvPGDlqnF8z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/01111_8UOyZP6UJ8Gz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_aGDtXq5oeNkz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_8t0sMkJK1atz_0t20t2_50x50c.jpg"
+                    "https://images.craigslist.org/00P0P_a8c7R8gCsTF_0fe0bq_600x450.jpg",
+                    "https://images.craigslist.org/00P0P_a8c7R8gCsTF_0fe0bq_50x50c.jpg",
+                    "https://images.craigslist.org/00303_2Cawb6sS7of_0fe0bq_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_eFlEatAvehd_08z0bq_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_bEh67tmjaMK_08z0bq_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_1L4O6BJYiVp_08z0bq_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_jgIXSVXIfqx_08z0bq_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_3e4WVG962I2_08z0bq_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_j5iyHQ6CpYR_0fe0bq_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_gHg7Yh8f0oz_08z0bq_50x50c.jpg",
+                    "https://images.craigslist.org/01414_1lbMMtF5dXS_08z0bq_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_cHygICmlYvf_08z0bq_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_9fW6VtCsleB_09g0cl_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_dvj7bfcUbi9_08S0bQ_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_ZDtKOwmZyO_08z0bq_50x50c.jpg",
+                    "https://images.craigslist.org/01212_9o8k4zl09zY_0gs0cl_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_6v4qXut2oig_08z0bq_50x50c.jpg",
+                    "https://images.craigslist.org/01616_h2yrXFHl3If_08z0bq_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_fcuIBzSb9qF_0fe0bq_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This is a Wonderwool pure British wool patchwork newsboy hat. The tag states Grown and manufactured in the UK. It is a size large. It is in vintage, previously owned/worn condition. There are some threadbare spots as shown as well as discoloration on the back and interior. The plastic over the sewn-in tag is cracking. However, none of this hinders its wearability!Measurements available upon request.------Please call, text, or email anytime.Thank you,Ed"
+                "description": "Beautiful old pair of leather work boots, leather is in fine condition, ready to wear...marked 9 e go. See tape measurements. if you want to pay with paypal, and I can mail them for $30 more. shoe shoes vnt antique person mens job rustic ranch boot western red wing Irish setter  p10pp style distressed hunt hunting fish fishing outdoor outdoors country USA TALL ! no steel toe"
             }
         ],
         "beaded": [
@@ -333,6 +349,50 @@
         ],
         "wedding dress": [
             {
+                "id": "7322828463",
+                "name": "Storybook Wedding or Lace Dress Size 14",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/livermore-storybook-wedding-or-lace/7322828463.html",
+                "datetime": "2021-06-04 16:11",
+                "price": "$5",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00K0K_iVg3jiESW8Lz_0ej0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00K0K_iVg3jiESW8Lz_0ej0t2_600x450.jpg",
+                    "https://images.craigslist.org/00K0K_iVg3jiESW8Lz_0ej0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_9cs6nZHTZoYz_0CI0mZ_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_iSlfyW4r0SYz_0As0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_dhAR2XFJUOsz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_7ijU47nGGGRz_0dB0t2_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Storybook Wedding or Lace Dress in good condition size 14 Cash only, I do not deliver or ship no holds.Livermore"
+            },
+            {
+                "id": "7320760198",
+                "name": "WEDDING DRESS & an Eve. Dress!",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7320760198.html",
+                "datetime": "2021-06-04 15:59",
+                "price": "$65",
+                "where": "sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                    "https://images.craigslist.org/01717_d6fzffAhkIk_50x50c.jpg",
+                    "https://images.craigslist.org/00101_bl8y1IxloeK_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_kVlMyl8ifyI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_f8WGDbKtwnN_50x50c.jpg",
+                    "https://images.craigslist.org/00000_tclh2W2lBh_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_9398GASL6Kf_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_airF1iyfhDD_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "2 Amazing dresses for your upcoming event!!!1. Beautiful wedding dress in excellent condition! Knee length!- $653. A LOVELY evening dress; Beautiful, smashing, unique dress/gown for prom, ball, graduation or any other occasion!Designer: Betsy and Adam. Size: 12Color: shades of coralStrapless. Heart shaped bodice decorated with jewels. Side zipper.Worn once. Excellent condition. See pictures.asking price: $65. Paid $380 for this amazing dress!!!TAKE THE 2 DRESSES FOR ONLY $110!!!"
+            },
+            {
                 "id": "7326994813",
                 "name": "Wedding Dress Beautiful Classic - Justin Alexander - Excellent Cond.",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/danville-wedding-dress-beautiful/7326994813.html",
@@ -355,41 +415,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "For sale is a beautiful ivory wedding dress with classic lines and modern contemporary details. In excellent condition.  From Justin Alexander's 2020 collection.Dress gown size 12. Altered to fit: bust 36/waist 30/hips 38Length was not altered.  From Designer's website: \u201cThis Mikado* ball gown with a sweetheart neckline is the perfect classic look with modern style details. Featuring a back cuff and illusion beading that your guests are sure to remember.\u201dDesigner: Justin Alexander Style #: 88110 See more photos and video on the designer\u2019s website:https://www.justinalexander.com/justin-alexander/collection/wedding-dresses/88110/ \u2022  Color - Ivory\u2022  Fabric: Mikado* and beading\u2022  Silhouette - Ball Gown \u2022  Neckline - Strapless, Sweetheart \u2022  Waistline - Natural \u2022  Trend - Clean and Modern, Preppy Chic \u2022  Train length - Chapel \u2022  Pockets - yes*Mikado fabric is an expensive blend of silk and nylon, which offers a smooth finish that has a slight grain in the texture. This is a durable material that creates wonderful structure and contours in wedding dresses. . Wedding dress is in excellent condition. It has been professionally dry cleaned and is ready for the next bride!Asking $950 (Retail = $1800)Located in Danville.  wedding, bride, brides, dress, dresses"
-            },
-            {
-                "id": "7331868448",
-                "name": "NEW Ralph Lauren Evening/Wedding dress",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-new-ralph-lauren-evening/7331868448.html",
-                "datetime": "2021-06-04 14:22",
-                "price": "$75",
-                "where": "santa cruz",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00r0r_HXEIz51lX7z_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00r0r_HXEIz51lX7z_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00r0r_HXEIz51lX7z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_23KbIQdVLsCz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00505_a7Pfl61vgCMz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "I bought this last year to go to a \u2018black & white\u2019 event that was canceled due to Covid. Never worn. I don\u2019t wanna drive back over the hill could be if it can be returned, as it has been over a year.Smoke free home.  pick up in Live Oak. Size 8. Cash or Venmo OK.Thank you"
-            },
-            {
-                "id": "7325507149",
-                "name": "Wedding Bridal Dress Tuxedo - Store Credit",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-wedding-bridal-dress-tuxedo/7325507149.html",
-                "datetime": "2021-06-04 14:06",
-                "price": "$1,000",
-                "where": "santa cruz",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_akYk30GsYzrz_0x90t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00o0o_akYk30GsYzrz_0x90t2_600x450.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "I have a store credit for Bridal Veil Fashions located in Capitola in the amount of $1166.00 that I would like to sell.Bridal Veil offers wedding dresses, accessories, shoes, bras, and tuxedo rentals.This is 100% authentic and can easily be verified by the store before purchase."
             }
         ],
         "great condition": [
@@ -803,6 +828,41 @@
     "musical instruments": {
         "loud": [
             {
+                "id": "7331916243",
+                "name": "Matchless HC-30 Amp Head 1998 (Sampson Era)",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/los-gatos-matchless-hc-30-amp-head-1998/7331916243.html",
+                "datetime": "2021-06-04 16:00",
+                "price": "$4,395",
+                "where": "los gatos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00E0E_8pjb8wDARebz_0t20t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00E0E_8pjb8wDARebz_0t20t2_600x450.jpg",
+                    "https://images.craigslist.org/00E0E_8pjb8wDARebz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00909_7RtLgcmgY5xz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_640XsV7fm0uz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_dwM0zdw3npz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_4gaMMTf4SU4z_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_k0xMfB5z5vNz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_9y14wtWl1pkz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_dlWTMj7mZ1Sz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_fs9KF08btn7z_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_jXb72pKDqjlz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_z2tDjeaJVnz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_2eJnbHEtXoOz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_iq3euxXlgqQz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_9CDV6Md0MbPz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_gYQnUbdbNuYz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_haNCtx2tgwJz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_kc1PK5anjQnz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_4LjSuu7UIsYz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_hzsUvBBV7jDz_0t20t2_50x50c.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "At Keith Holland Guitars in Los Gatos, CA, we painstakingly vet both our new and used instruments to make sure we only present instruments of the highest quality. All of our instruments, old and new, are set up in our world-class repair shop before we display them in our showroom or advertise them online. When you buy from Keith Holland Guitars, you can rest assured that you're in good hands and that your instrument will be ready to play out of the box.Matchless aficionados know that the 90's were a particularly great time for the company. These amps were painstakingly hand-made with high quality parts and insane attention to detail. This '98 HC 30 is a perfect example of the unmatched build quality. This amp is surprisingly loud for a 30watt amp. It has tons of headroom and the four EL84 tubes deliver a punchy Vox like chime. The Master knob, when activated via a push/pull, can be used to dial in additional tones. I like to turn the Master down low and crank the volume for some surprisingly gritty overdrive.Overall the Head is in Very Good Condition. There are some cosmetic imperfections such as dings and discoloration scattered around the tolex. The knob that adjusts the Ohms has been replaced at some point. Otherwise the amp is in perfect working condition.Power Adaptor Not Included"
+            },
+            {
                 "id": "7328376756",
                 "name": "Fender The Twin (Red Knob) 2x12 guitar amp",
                 "url": "https://sfbay.craigslist.org/nby/msg/d/boyes-hot-springs-fender-the-twin-red/7328376756.html",
@@ -844,29 +904,6 @@
                 "query": "loud",
                 "category": "msa",
                 "description": "Selling a 2005 Traynor YCV50 Blue in excellent conditions this is a tube amp very loud with a vintage 30 speaker and nice spring Reverb and effect loop"
-            },
-            {
-                "id": "7325906079",
-                "name": "Crate G212 XL Guitar Amp + Extras",
-                "url": "https://sfbay.craigslist.org/pen/msg/d/palo-alto-crate-g212-xl-guitar-amp/7325906079.html",
-                "datetime": "2021-06-04 14:38",
-                "price": "$100",
-                "where": "palo alto",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00z0z_1xmZLbmSurz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00z0z_1xmZLbmSurz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00z0z_1xmZLbmSurz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_dM51S9edJaLz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_ghhOxhYOaBIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_kul2Im0Jk83z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_9yv0tzeV0ohz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_72kTrw9fnJ1z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_irdoUBArMHTz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "For sale is a Crate G212 XL guitar amplifier. It's big, it's heavy, and importantly, it's loud. This is a 80W solid state amp with 2x12 speakers that certainly qualifies as vintage at this point, but nevertheless works well. The pots are a bit scratchy, but that can be fixed fairly easily if that's an issue. I'll throw in a few extra things along with the amp: the Crate FS-70 footpedal and a bunch of 1/4 cables that I had laying around that I won't need anymore. Asking $100 OBO, Venmo preferred."
             }
         ],
         "famous": [

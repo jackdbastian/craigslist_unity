@@ -113,6 +113,31 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7328997142",
+                "name": "Vintage Avirex Leather variety  jacket Skull Wings Punisher 4XL",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-avirex-leather-variety/7328997142.html",
+                "datetime": "2021-06-05 13:30",
+                "price": "$250",
+                "where": "oakland lake merritt / grand",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_526Zd2ZBW96_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_526Zd2ZBW96_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_526Zd2ZBW96_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_5yGHtluMxAy_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_64rE1DYLYCg_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_eCkA7jDl3ND_50x50c.jpg",
+                    "https://images.craigslist.org/00505_hqjMNASWkRv_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_3lc7AwaY4EX_50x50c.jpg",
+                    "https://images.craigslist.org/00404_crDmzDXsATw_50x50c.jpg",
+                    "https://images.craigslist.org/00707_an0TzGp0TDb_50x50c.jpg",
+                    "https://images.craigslist.org/01111_1GOq9pyui9E_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Beautiful vintage jacket from late 80's early 90's. Excellent condition. Size 4XL"
+            },
+            {
                 "id": "7332331247",
                 "name": "PRADA vintage",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-prada-vintage/7332331247.html",
@@ -150,26 +175,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Beautiful vintage hat has been stored in a smoke free, pet free home.  Wear it for church, summer garden parties or Kentucky Derby.The crown of the hat says Lancaster, 100% wool, made in USA.  It is trimmed with nylon horsehair and petersham ribbon.  It is not labeled with a size, but it is loose enough for a hairdo to fit under it, as I recall from when I wore it a couple of times years ago.  My best guess is that it's from the 1930s, but for sure it's at least vintage, since I found it at an estate sale over 20 years ago.Price is firm; please bring cash (or I would also trade for 100% silk yarn, or pear cider, let me know).  I can meet in Berkeley most days, and I can also sometimes meet in Alameda, San Leandro, Albany, or north Oakland.  We can meet outdoors for Covid safety.  Sending a plain text will get you a faster response than email.  thanks"
-            },
-            {
-                "id": "7332323952",
-                "name": "Vintage 80s San Francisco 49ers NFL Football Crewneck Sweatshirt",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-80s-san-francisco/7332323952.html",
-                "datetime": "2021-06-05 13:08",
-                "price": "$40",
-                "where": "sunset / parkside",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00D0D_ks2F8Xg8vtqz_0AM0ih_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00D0D_ks2F8Xg8vtqz_0AM0ih_600x450.jpg",
-                    "https://images.craigslist.org/00D0D_ks2F8Xg8vtqz_0AM0ih_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_frupGSyJU1lz_0fG0l3_50x50c.jpg",
-                    "https://images.craigslist.org/01212_42SBxcPAmckz_0fr0jj_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_696MfmVCfvNz_0Ap0je_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage 80s San Francisco 49ers NFL Football Crewneck SweatshirtSize: Large\u2022 You can pick this up in Sunset District SF \u2013 by Taraval St and 39th Ave\u2022 Or I can deliver to ALL San Francisco areas only.\u2022 I can also mail it to you if needed.\u2022 Best way to reach me, is by texting me back:  \u2022 I accept Venmo, and CASH.\u2022 Hablo Espanol tambien.\u2022 Please let me know in advance \u2013 Thank you."
             }
         ],
         "beaded": [

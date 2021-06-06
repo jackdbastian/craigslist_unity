@@ -100,6 +100,64 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7332589567",
+                "name": "Vintage Silk Factory Dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/danville-vintage-silk-factory-dress/7332589567.html",
+                "datetime": "2021-06-06 08:01",
+                "price": "$245",
+                "where": "danville / san ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01111_bwq6uGqOVCH_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01111_bwq6uGqOVCH_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01111_bwq6uGqOVCH_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_c94lGGDFvNG_0eA0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_5nSTO7qbPTG_08R0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_24ss2e6HBte_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_29sRBRHTr3y_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_7nTKiP0kZmb_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_hcHSJu0wBUy_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_fjuNuGY19em_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Beautiful, very rare, the nicest pattern this dress was made in, in new condition, I am the original owner, from the 1970's 100% silk, brand is Silk Factory by Icinoo, purchased at Sak's Fifth Avenue, worn once or twice and then carefully stored, the label says size 14 but that is a size 12 these days, the dress is a loose style so will fit a range of sizes, measurements: shoulder to waist 16 inches, waist up to 42 inches, waist to hem 39 inches, comes with original black underdress measurements: neckline to hem 46 1/2 inches, waist 44 inches, similar dresses are posted for higher prices missing this black underdress/slip, note the iconic bat sleeves, comes with original black silk tie belt, pick up Danville (between Walnut Creek and San Ramon in the East Bay), no shipping, cash only."
+            },
+            {
+                "id": "7332588966",
+                "name": "vintage LEATHER RIDING BOOTS black womans mid 60s",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-leather-riding-boots/7332588966.html",
+                "datetime": "2021-06-06 08:00",
+                "price": "$75",
+                "where": "sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_9X14CGXUhNv_0pO0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_9X14CGXUhNv_0pO0jm_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_9X14CGXUhNv_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_9pUKt902PMv_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_fWWo0aD5HdJ_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_cA62ItEAFF7_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00909_3cd00MD0pa0_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_6TknFnfFgmT_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/01616_1jltdr37bsC_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00505_iUTwwI9nVPA_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00303_bskOy1NGrpl_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_7oYBZjZujST_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00808_5bNfEBsyM4h_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_jiwBvu5JmcM_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_gTGZ1z1zbLY_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_bOTwHbbvx9H_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_2DbAx2qeG0U_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_gFdVUvUqffJ_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_f832xQlhvID_0pO0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_6UqeLZehDBg_0pO0jm_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Came from the estate of a woman who rode horses locally in the mid to late 60s. Beautiful distresses old leather, still soft and wearable...about a size 7.5 - 8. usa.$75ride horse equestrian trail barn rustic camp female woman womans girl girls boot shoe shoes clothing boots knee tall high vnt horses lady ladies west old western cowboy cowgirl ranch rancher"
+            },
+            {
                 "id": "7332581900",
                 "name": "Vintage Custom Opera Cape",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/danville-vintage-custom-opera-cape/7332581900.html",
@@ -119,46 +177,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Fabulous like new vintage reversible opera cape, one side is high end soft back velvet and the other is very fine narrow black corduroy, velvet for formal events, corduroy for more casual, an article I read in the SF newspaper in the 70's told about an upscale, only by appointment, shop on Union Street in SF that hand/custom made opera capes, these capes were popular with SF society ladies to wear to the opera, symphony, etc., it was a significant expense and indulgence but I went there and ordered a cape, I selected that it should be reversible rather than just lined, upgraded fabrics, hand slits, a single frog closure at the top and have a hood, the slits can be used to put your hands out of the cape or you can leave your hands inside, the hood is very decorative but also very functional, the frog closure works for both sides of the fabric, the cape is warm on chilly nights, it measures 46 inches from shoulder to bottom and will fit many different body sizes but generally I would say it is a medium size, the cape drapes beautifully, it is easy to put on and take off, I only wore this cape a maximum of 3 times and otherwise it has been stored hanging on a cape friendly curved shoulder hanger under a fabric clothing cover in a closed and dark closet, the cape looks exactly like the day I purchased it, I apologize for the poor photos, black is difficult to capture, pick up is in Danville, I will not ship it so please don't ask, cash only payment accepted."
-            },
-            {
-                "id": "7327240034",
-                "name": "VINTAGE HAT",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-hat/7327240034.html",
-                "datetime": "2021-06-06 07:27",
-                "price": "$13",
-                "where": "inner richmond",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_1Hw7mmLSQDV_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_iwixXoVxJtY_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "100% wool. Made in USA by Lancaster, Sonni of San Francisco.Dark beige veiled wool felt broad brimmed with tule"
-            },
-            {
-                "id": "7327240183",
-                "name": "VINTAGE DRESS FROM JESSICA MCCLINTOCK BRIDAL COLLECTION",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-dress-from/7327240183.html",
-                "datetime": "2021-06-06 07:27",
-                "price": "$20",
-                "where": "inner richmond",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_eTHcYPVscBF_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_eTHcYPVscBF_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_eTHcYPVscBF_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_impVe0VLRYN_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_9gq4H2WLu47_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_ilpiW9QAkK3_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_32kCVADAhGG_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Light sage. Made in USA. Size 5/6. 59% acetate, 41% rayon. Zipper in back."
             }
         ],
         "beaded": [
@@ -758,6 +776,27 @@
     "musical instruments": {
         "loud": [
             {
+                "id": "7329454761",
+                "name": "Fender Amp Hot Rod Deluxe 112",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/walnut-creek-fender-amp-hot-rod-deluxe/7329454761.html",
+                "datetime": "2021-06-06 08:07",
+                "price": "$475",
+                "where": "walnut creek",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00606_aFk0fWB4d22z_0ew0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00606_aFk0fWB4d22z_0ew0jm_600x450.jpg",
+                    "https://images.craigslist.org/00606_aFk0fWB4d22z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_jezqdeVPQ7Iz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_bKW6Snn1aUaz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00000_9IkRR3YDTIfz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_f3WDUSpR6lIz_0ew0jm_50x50c.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "Hot Rod Deluxe 3 channel 40 watt 1X12 combo amplifier.This amp sounds great!I have had this amp for a long time and it has barely had any playing time on it. Sadly it is just too loud for how I play but I haven\u2019t let it go because every time I play it I love it. It\u2019s in pristine condition and comes with foot switch and cover.Fender, Marshall, vox, orange, amplifier,"
+            },
+            {
                 "id": "7323448557",
                 "name": "Verellen 6x12 Guitar Cabinet For Sale/trade",
                 "url": "https://sfbay.craigslist.org/eby/msg/d/oakland-verellen-6x12-guitar-cabinet/7323448557.html",
@@ -801,27 +840,6 @@
                 "query": "loud",
                 "category": "msa",
                 "description": "Fender Concert 2-channel 60-watt 1x12 amplifier. This amp has been my go-to amplifier for a couple of years now for gigging and rehearsal. Gets loud, and has a great sound. The overdrive channel is my favorite part of this amplifier because it allowed me to dial in a bit of dirt at lower volumes for small venues. However, these amps are famously revered for their normal channel. Many many players love the clean channel and claim the overdrive is less than desirable, so I supposed everything is subjective.I'm selling it because I've somehow acquired four amplifiers (gasp), and I need to thin out the herd. As best I can tell, this amp was built between 1981 and 1987. It was part of the Rivera era at Fender. The amp has been good to me over the last couple years, but it's time to release it into the wild.Asking $700, or best offer. Amp has caster wheels which is great for gigging. I will also throw in a Mesa Boogie slip cover."
-            },
-            {
-                "id": "7328488845",
-                "name": "Ludwig Drum Blue Olive Badge 12\" Concert Tom White Cortex",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-ludwig-drum-blue-olive-badge/7328488845.html",
-                "datetime": "2021-06-05 15:58",
-                "price": "$100",
-                "where": "san jose west",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00101_abm4dT1Zbuhz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00101_abm4dT1Zbuhz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00101_abm4dT1Zbuhz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01111_3pgCJZaDzvuz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_7b5gn3VeFXWz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01212_bpyYazP1NVzz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01717_fnd6lmq115Wz_0t20CI_50x50c.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "Ludwig Drum Blue Olive Badge 12 Concert Tom White CortexGreat loud concert stage sound. New Aquarian Modern Vintage II Batter Head.Nice to add to your drum set collection."
             }
         ],
         "famous": [

@@ -127,6 +127,41 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7322668146",
+                "name": "ray bans (vintage)",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-ray-bans-vintage/7322668146.html",
+                "datetime": "2021-06-06 10:37",
+                "price": "$125",
+                "where": "USF / panhandle",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00G0G_gmReGe1ARbOz_0wJ0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00G0G_gmReGe1ARbOz_0wJ0t2_600x450.jpg",
+                    "https://images.craigslist.org/00G0G_gmReGe1ARbOz_0wJ0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_aCuT7U38gY7z_0qk0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_ejtRp8I2GYgz_0p20t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "3 pairs for sale1 Olympian II DLX L0599 4-3/4 gold frame with green/gray lenses and vinyl case $200.001 Olympian II G-1 l1005 5-1/4 gold frame with green/gray lenses and vinyl case $125.001 Ray Ban 5-1/4 gold/brown frame with green/gray lenses and vinyl case  $150.00Ray Bans circa 1990'sPlease TEXT only. If ad is still here,  they are still available."
+            },
+            {
+                "id": "7332665121",
+                "name": "Vintage White Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7332665121.html",
+                "datetime": "2021-06-06 10:33",
+                "price": "$25",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "2 pairs, price is for both.  Great condition."
+            },
+            {
                 "id": "7323417939",
                 "name": "Vintage Western Boots",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/healdsburg-vintage-western-boots/7323417939.html",
@@ -148,62 +183,65 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage Western Boots Women size 7"
-            },
-            {
-                "id": "7325427741",
-                "name": "Vintage Nike Air Max SB Collection",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-vintage-nike-air-max-sb/7325427741.html",
-                "datetime": "2021-06-06 09:51",
-                "price": "$0",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_j8PhqpgtYhRz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00q0q_j8PhqpgtYhRz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_j8PhqpgtYhRz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_9qN3G8QcDjIz_0dm0a2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_nt9XqpncXMz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_ar3LD2xKrOQz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_xBHbLco5tVz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00101_l8TFGmt45k6z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00404_97C4jgpOTW5z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_12gOZLd3xIGz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01717_8Cojd9ocOZVz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_goQITl413nPz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_1EwDYV32Snwz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_dcxvfs6eGigz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_hzCMGCY2aDFz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01414_bXeHxTyUsMoz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01616_7RLWgcpMEF0z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_hgFbXXf4Bd3z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_efGjEEZFmBAz_0CI0lM_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Selling my Air Max/SB collection. Have more dunks I\u2019m selling here-https://sfbay.craigslist.org/eby/clo/d/fremont-nike-dunk-collection/ .html?lang=en&cc=gbSome shoes are located in Fremont and some in Union city. -Meet up will only be done in the city next to the shoe.-Meet ups are my time and place.-Everything is 100% Authentic. -Everything is available unless stated \u2018sold\u2019.-Please only contact me if you\u2019re ready to meet.-Please put in you reply what you want to buy and when you can meet.Only trades:Nike Kobe 4 Protro Del Sol size 8.5Nike Kobe 5 Zebra size 9 Nike Air Max 98 Gundam size 8-8.5Air Jordan HGG 13 size 8.51. 2006 VNDS Nike Air Max 1 Truques Pack size 9 (Fremont) $450 OBO2. 2004 VNDS Nike Air Max 1 Ones size 9 (Fremont) SOLD3. 2009 VNDS Nike Air Max 1 Premium SP Safari Size 9 (UC) $750 OBO 4. 2007 VNDS Nike Air Max Skulls Pack size 9 (UC) $500 OBO5. DS 2003 Nike Women\u2019s Dunk Low ProSize 10 (UC) $8506. DS 2003 Nike Dunk Low Team Red Size 9 (UC) $575 OBO7. DS 2004 Nike Dunk \u201cLA\u201d Size 9 ( UC) $900 OBO  8. DS 2004 Nike Kickshawaii x Dunk Low Aloha Size 9 $975 OBO9. DS Nike Dunk Low Pro SB Tiffany size 9 (UC) H/O:$250010. DS 2008 Nike Dunk Low SB Newcastle Size 9 (UC) $1200 OBO11. DS 2006 Nike Dunk Premium Sertig Pack size 9 (UC) $500 OBO12. DS 2006 Nike Dunk LowSize 9 (UC) $375 OBO13. DS Nike High Premium Samurai Pack Size 9 (UC)14. DS Nike Dunk High Light BoneSize 9 (UC) $350 OBO15. DS 2007 Nike SB Blazer Milk CrateSize 9 (UC) H/O: $160016. DS 2007 Nike SB Blazer Vanilla IceSize 9 (UC) $475 OBO17. DS 2007 Nike SB Blazer Thrasher Size 9 (UC) $550 OBO"
-            },
-            {
-                "id": "7322079311",
-                "name": "vintage leather bag / tote from the 1970's",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-bag-tote/7322079311.html",
-                "datetime": "2021-06-06 09:38",
-                "price": "$25",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_600x450.jpg",
-                    "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_4DJmQPkFcDGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_4lggMJVhmmBz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_5xCPLLRXPkQz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "vintage leather bag / tote from the 1970'sa total outfit completer!in excellent shape. 14 x 11pics of both sides - both sides have the great design....for other treats, check the more ads by this user link"
             }
         ],
         "beaded": [
+            {
+                "id": "7332677200",
+                "name": "S.L. Fashions Dress Size 12 Black Chiffon Green Liner Jewel Beaded LNC",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/los-altos-sl-fashions-dress-size-12/7332677200.html",
+                "datetime": "2021-06-06 10:56",
+                "price": "$25",
+                "where": "los altos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00h0h_dCYKswlrizYz_0jp0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00h0h_dCYKswlrizYz_0jp0t2_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_dCYKswlrizYz_0jp0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_2cphwGDI6WJz_0mG0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_jR7rCuYXGRpz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_kn4fggcT0gpz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01212_hPIdt2ec3PZz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_2NLiYI4c9kMz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_jMhhTWESrwyz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_kS2ZkteNu9Vz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_9AwHlfhxnSQz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_ky1qP5U1fNMz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_1LDK8yKgwYIz_0re0st_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "S.L.Fashions Dress Size 12 Black Chiffon Green Liner Jewel Beaded Neck Pleated Halter ShiftLike new condition, worn only once. Absolutely no defects. Appears new and unworn.Elegant sleeveless dress, great for formal/semi-formal occasions. Beaded embellishments make this dress the perfect choice for your next event.Loosely forgiving and very comfortable.  Black pleated shifting chiffon over green lining. Jeweled / beaded embellishments on the neckline. Chiffon tie on the back.  Hits at knee.Size 12 - dress length 35 1/2"
+            },
+            {
+                "id": "7332677303",
+                "name": "b.bennett Pant Suit 2 Piece Black Size 12 Zipper Dressy Beaded Embelli",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/los-altos-bbennett-pant-suit-piece/7332677303.html",
+                "datetime": "2021-06-06 10:56",
+                "price": "$60",
+                "where": "mountain view",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00E0E_2ZvhQUCdZbm_0fN0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00E0E_2ZvhQUCdZbm_0fN0t2_600x450.jpg",
+                    "https://images.craigslist.org/00E0E_2ZvhQUCdZbm_0fN0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_96qHJeoXS0D_0i80t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_4DGncIJ3zDP_0ny0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_2Tr7C1frpLg_0mH0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_dvHyQuRpTT7_0mG0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_jwXXmcPNAxN_0ui0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_auMyY0HsA8K_0CI0jX_50x50c.jpg",
+                    "https://images.craigslist.org/00606_cRvEF1Qts8w_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_jdJupJu0N3P_0kI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_3FzZNPLN4c2_0CI0kE_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_eiC8tvkDCuj_0ea0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_hoNsuASNzno_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_6dsZfAJNWbC_0CI0lM_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "This elegant pants suit is perfect for any special or formal occasion. Gorgeous deep black color and texture, premium quality. Originally purchased from Nordstrom.Excellent pre-owned condition. Worn only twice.No defects - no stains, no holes, rips, or tears in the fabric. Dry clean only.Size 12. Jacket and pants are fully lined. Jacket - stand collar, zipped front, no pockets, no vents, features built-in shoulder padding. Pants - high waisted pleated front with 2 side pockets, front zipper.Approximate measurements taken flat (double where necessary) :Pants -waist: 16 hips: 23 1/2front rise: 15back rise: 17inseam: 31leg opening: 9 1/4Jacket -Armpit to armpit: 21\u201dArmpit to bottom hem: 11\u201dArmpit to cuff: 16 1/2\u201dCenter back length 20 1/2Shoulder to shoulder: 17 1/2\u201dShoulder to cuff: 24 1/2Shoulder to bottom hem: 20\u201dBottom hem line: 19 1/2\u201dCuff line: 5 1/2Smoke-free, pet-free, fragrance-free household."
+            },
             {
                 "id": "7329950001",
                 "name": "Beaded Drama Sleeveless Dress",
@@ -223,47 +261,25 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "Selling a used Beaded Drama Sleeveless Dress in great condition size is 14 made off 100% Polyester Color is dark grey. If you have any questions or interested email me with your contact info and I will get back to you.Thanks For LookingDan"
-            },
-            {
-                "id": "7319024094",
-                "name": "Vintage Native American Style Tooled Beaded Leather Women's Belt - 30",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-native-american/7319024094.html",
-                "datetime": "2021-06-05 20:42",
-                "price": "$40",
-                "where": "mission district",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00H0H_eESAOj7awJHz_0ne0gv_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00H0H_eESAOj7awJHz_0ne0gv_600x450.jpg",
-                    "https://images.craigslist.org/00H0H_eESAOj7awJHz_0ne0gv_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_decM9m3oUHFz_0ne0gz_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_51gdXjWPGyWz_0ne0gt_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_lkv0y437NXuz_0ne0ht_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Vintage Native American Style Tooled Beaded Leather Women's Belt - 30Beautiful vintage beaded leather belt with tooled leather, metal buckle and vinyl wrap border around the excellent beadwork..Sturdy yet very supple...MEASUREMENTSSIZE - 30TOTAL LENGTH - 34 1/4WIDTH - 7/8 CONDITION:.Very Good Vintage Condition.The front shows very minimal wear but some aging to the leather and buckle appropriate for its age..Beadwork looks great.. Photos show items current  condition..Sold As is..SHIPPING AVAILABLE*****PLEASE include a phone number with your response 936."
-            },
-            {
-                "id": "7329110881",
-                "name": "Beautiful Handmade Beaded Bracelets (by Roxanne Assoulin)",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-beautiful-handmade-beaded/7329110881.html",
-                "datetime": "2021-06-05 18:03",
-                "price": "$10",
-                "where": "emeryville",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_600x450.jpg",
-                    "https://images.craigslist.org/00a0a_gR22uGJwXjvz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00808_hAmRWT0KoTpz_0ak07K_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "BRAND NEW CONDITION IN ORIGINAL PACKAGING!Great for personal wear or perfect for a gift to someone special.This set of 10 gorgeous and colorful handmade beaded bracelets is ideal for any occasions. Each bracelet is durable and stretchy to fit any wrist size for comfortable wear. They can be worn as separately, together, or in any combination, giving you full flexibility.CASH ONLY & PICKUP ONLY"
             }
         ],
         "gloves": [
+            {
+                "id": "7332665121",
+                "name": "Vintage White Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7332665121.html",
+                "datetime": "2021-06-06 10:33",
+                "price": "$25",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "2 pairs, price is for both.  Great condition."
+            },
             {
                 "id": "7324876837",
                 "name": "Shawl and Dress Gloves",
@@ -297,27 +313,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "NEW hat + scarf +  gloves set ............... $9Very soft and niceCollect in Pleasanton"
-            },
-            {
-                "id": "7332502844",
-                "name": "Youth Goalie Pants and Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-youth-goalie-pants-and-gloves/7332502844.html",
-                "datetime": "2021-06-05 23:05",
-                "price": "$25",
-                "where": "San Ramon",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_ZWMPaNMDYbz_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_dXBI0iFkE4az_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_f8ZSrpnSwmHz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_lLS2Q5zuAFEz_0t20CI_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "\ufffcReusch pants - YLVizari Gloves - Youth$25 for bothYouth large goalie pants and gloves, used only 1 season indoors before the pandemic. Our son has grown out of the clothing and is good quality, while only used for indoor soccer."
             }
         ],
         "wedding dress": [

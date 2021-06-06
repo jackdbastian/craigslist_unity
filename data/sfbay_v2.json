@@ -5,7 +5,7 @@
                 "id": "7320279035",
                 "name": "Glazed Porcelain Floor Tile - Gravel Road",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/brentwood-glazed-porcelain-floor-tile/7320279035.html",
-                "datetime": "2021-06-02 08:12",
+                "datetime": "2021-06-06 07:06",
                 "price": "$50",
                 "where": "brentwood / oakley",
                 "deleted": false,
@@ -100,6 +100,50 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7332568839",
+                "name": "Vintage Pendelton 100% Wool shirt Size Medium",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/albany-vintage-pendelton-100-wool-shirt/7332568839.html",
+                "datetime": "2021-06-06 07:06",
+                "price": "$60",
+                "where": "albany / el cerrito",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01414_iRloS2PdpB0_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01414_iRloS2PdpB0_600x450.jpg",
+                    "https://images.craigslist.org/01414_iRloS2PdpB0_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_g7V19Dgyu9o_50x50c.jpg",
+                    "https://images.craigslist.org/00707_63yJI5MHQV8_50x50c.jpg",
+                    "https://images.craigslist.org/01212_6DK9R8tMjMG_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_ek26cjEYaSX_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Pendleton 100% Wool Shirt in excellent condition. Original owner - Made in the U.S.A. Size MediumCall home phone  No texting thanks"
+            },
+            {
+                "id": "7332568979",
+                "name": "Vintage Pendelton 100% Wool shirt Size Medium",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/albany-vintage-pendelton-100-wool-shirt/7332568979.html",
+                "datetime": "2021-06-06 07:06",
+                "price": "$60",
+                "where": "albany / el cerrito",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_eVdJ3NYZUVa_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_eVdJ3NYZUVa_600x450.jpg",
+                    "https://images.craigslist.org/01010_eVdJ3NYZUVa_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_6yIPe8E6ygS_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_1qDBbbInPFf_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_kH5utudBDre_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_da48uybgvQt_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_cYXGLZKniOo_50x50c.jpg",
+                    "https://images.craigslist.org/00707_1t8Z7uAgaSl_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Pendleton 100% Wool Shirt in excellent condition. Original owner - Made in the U.S.A. Size MediumCall home phone  No texting thanks"
+            },
+            {
                 "id": "7326764206",
                 "name": "Nike ACG vintage Hi Teck hiking boots",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-nike-acg-vintage-hi-teck/7326764206.html",
@@ -119,49 +163,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage Nike acg size 13 $70Hi Tekk hiking boots size 12 (fit big) $25 dunk, jordan, sb, cons, af1, vintage, timberland, hiking, acg, rare nike dunk jordan SB vans ACG vintage streetwear"
-            },
-            {
-                "id": "7328754336",
-                "name": "Vans Sk8 hi size 13 vintage",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-francisco-vans-sk8-hi-size-13/7328754336.html",
-                "datetime": "2021-06-06 06:56",
-                "price": "$65",
-                "where": "san bruno",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00x0x_hB1KQj9fsFMz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00x0x_hB1KQj9fsFMz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00x0x_hB1KQj9fsFMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_9nlUmYCOQu9z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_fVIUaKLmTgwz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage sk8 hi\u2019s. Used condition. Rare off the wall tag. Desert camo. Beautiful vintage vans."
-            },
-            {
-                "id": "7325798131",
-                "name": "Liz Claiborne, Charter Club, Brighton and Vintage Dress Purse",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-liz-claiborne-charter-club/7325798131.html",
-                "datetime": "2021-06-06 06:40",
-                "price": "$10",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01212_eQNDNQf9QYW_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01212_eQNDNQf9QYW_600x450.jpg",
-                    "https://images.craigslist.org/01212_eQNDNQf9QYW_50x50c.jpg",
-                    "https://images.craigslist.org/00101_a2D7hTpS2FW_50x50c.jpg",
-                    "https://images.craigslist.org/01212_8MSzHsqo9ae_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_4kE4ORScBe2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_NQ4XQnqp1k_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_fVzXguT9kW9_50x50c.jpg",
-                    "https://images.craigslist.org/00404_eSiv2XOloby_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_bjsajKKECSh_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Liz Claiborne purse - $10Charter Club purse - $8Vintage Dress purse - $10Liz Claiborne Navy Evening Purse with Gold Strap (brand new) - $10Brighton Leather Purse - $25Cash only and please arrange for pickup in Dublin."
             }
         ],
         "beaded": [

@@ -101,6 +101,45 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7333158361",
+                "name": "Vintage Harley-Davidson Leather Chaps",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/redwood-city-vintage-harley-davidson/7333158361.html",
+                "datetime": "2021-06-07 10:49",
+                "price": "$150",
+                "where": "redwood city",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00A0A_5J8Q1rz0ci6z_0gd0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00A0A_5J8Q1rz0ci6z_0gd0t2_600x450.jpg",
+                    "https://images.craigslist.org/00A0A_5J8Q1rz0ci6z_0gd0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_849QjjyoM1oz_0fo0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_eLhb4CQvOo8z_0CI0mh_50x50c.jpg",
+                    "https://images.craigslist.org/00101_cfkeAUUaj8Fz_0Cm0mr_50x50c.jpg",
+                    "https://images.craigslist.org/00404_3JStZdcn55Pz_0CI0hL_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_iCSnezqh6Irz_0CI0ff_50x50c.jpg",
+                    "https://images.craigslist.org/01515_c9YnbTiwrViz_0CI0su_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Harley-Davidson Leather Chaps1990 eraSize: large"
+            },
+            {
+                "id": "7324283825",
+                "name": "vintage leather caramel color boots 6 - 6.5 women - a bargain!",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-caramel/7324283825.html",
+                "datetime": "2021-06-07 10:28",
+                "price": "$8",
+                "where": "nob hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00X0X_93C2hIwpQ0Wz_03003r_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00X0X_93C2hIwpQ0Wz_03003r_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "vintage leather caramel color boots 6 - 6.5 women - a bargain!for more deals, check the more ads by this user link"
+            },
+            {
                 "id": "7333133498",
                 "name": "Vintage Pendleton Board Shirt Made in USA",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-pendleton-board-shirt/7333133498.html",
@@ -120,53 +159,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Selling a vintage Pendleton shirt size M. Shirt is in good vintage condition. There is one small tear / hole on the right sleeve (4th photo) which looks like it was remedied by some topical adhesive (looks like a small paint stain). One small stain under the left collar (last photo). $25 oboTags menswear work wear workwear wool flannel mens"
-            },
-            {
-                "id": "7333133741",
-                "name": "Vintage Pendleton Shirt Made in USA",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-pendleton-shirt-made-in/7333133741.html",
-                "datetime": "2021-06-07 10:12",
-                "price": "$35",
-                "where": "Hayward",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00g0g_iHq7vmgODJt_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00g0g_iHq7vmgODJt_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00g0g_iHq7vmgODJt_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_kXYNVl17GB8_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_98JX73GJ2w4_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01717_9TXJS4pUKxc_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00505_QiwDZ4vKim_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Selling a vintage Pendleton shirt size M. Shirt is in good vintage condition. There is one small moth hole on the right sleeve (4th photo). One small moth hole below collar on the upper back side (last photo). Sorry the holes are so small they barely appear in the photos. $35 oboTags menswear work wear workwear wool flannel mens"
-            },
-            {
-                "id": "7320581516",
-                "name": "Vintage purses/bags",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/livermore-vintage-purses-bags/7320581516.html",
-                "datetime": "2021-06-07 10:10",
-                "price": "$3",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00M0M_jdT5bLRDPTG_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00M0M_jdT5bLRDPTG_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00M0M_jdT5bLRDPTG_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_ghvKHXvSS4g_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_f2wIz86OGa1_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_5HmmAc1vk8w_0tB0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_hkrhRba5JnW_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_l1LKJOVsS8B_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_lsG7klI3Qab_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_cDaIz8tOEmi_0q00t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_2b41D1WZHMZ_0xV0py_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_bACFEN4xU31_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "3.00 EACHSakroots  preowned Shoulder Bag/ Purse  Vintage Dofan of France leather handbag preowned has a little wear in the corners.  Studio 18 multi color beaded purse  Tropical Tantrum Purse Cash only, I do not deliver or ship no holds.Livermore"
             }
         ],
         "beaded": [
@@ -490,6 +482,39 @@
     "cars": {
         "drives great": [
             {
+                "id": "7333152727",
+                "name": "1998 Toyota Tacoma Regular Cab (5 Spd) Pick up Truck 2D \u201cDrives Great\"",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/campbell-1998-toyota-tacoma-regular-cab/7333152727.html",
+                "datetime": "2021-06-07 10:37",
+                "price": "$7,800",
+                "where": "campbell",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00S0S_dfwhORsg82uz_0ww0oo_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00S0S_dfwhORsg82uz_0ww0oo_600x450.jpg",
+                    "https://images.craigslist.org/00S0S_dfwhORsg82uz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_86sG7sSXA7Cz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_4tvubuFNiCUz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/01010_dHo7A714HElz_0kE0ft_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_84QAs7o6AAvz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_61TwivzuWtAz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_5iRyvCkRHqZz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_iyc99LnAfYRz_0kE0ft_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_4QP4phypbYEz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_3pz4BGXrQfmz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/01010_jrNybdYZzGTz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_anoD2b7gzljz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00303_4AkSz8SmURdz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_5PLLxxSTDwJz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_j6pB34WHhWrz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_5b9omzxxC9fz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_6QfzenOLiZKz_0ww0oo_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "1998 Toyota Tacoma Regular Cab Short Bed 2DPick up TruckManual 5-Spd 4-Cyl, 2.4 Liter 2WD204,000 MilesClean Title (Clean History)Smog Certificate ready Registration paid Sep 2021This is a clean great running truck that served me well, garage kept mostly. It's pretty clean inside and outside, I bought it and used it as a second car, has Small 2.4 liter engine and gets excellent gas mileage for a light duty truck. This is a Well Serviced Truck, Excellent Mechanical, Drives Great, Strong engine. Services done on regular basis as recommend. It was serviced last month and all checked out fine. This car is perfectly fine for long commute every day and has long life left on it. * Has Upgraded Pioneer stereo with AUX jack, comes with all basic options plus Air conditioning, ABS 4 wheels , Dual airbagsRecent services:- New Ignition Wire set- 2 New belts- New Spark plugs - Oil change done If interested in the Truck please CALL  4 0 8 . 7 2 1 . 2 7 8 1, Serious inquires please, $7,800 priced to sell"
+            },
+            {
                 "id": "7333144769",
                 "name": "2007 FORD EDGE SE  AWD.  CLEAN TITLE. SMOG.  DRIVES GREAT***",
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2007-ford-edge-se-awd-clean/7333144769.html",
@@ -547,46 +572,6 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2006 vw beetle. clean title. smog check.112,xxx miles.  lot to godrives great.  cold a/c.  leather seats.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
-            },
-            {
-                "id": "7330272496",
-                "name": "2004 HONDA ELEMENT EX AUTOMATIC.. CLEAN TITLE. SMOG* DRIVES GREAT.",
-                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2004-honda-element-ex-automatic/7330272496.html",
-                "datetime": "2021-06-01 12:23",
-                "price": "$6,995",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_g2dJt8VEp8sz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_iEngCNZBCQwz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_bwJLt8dUH6yz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_8OdH5pCbZY9z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_lQtn6zNcOo9z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_3zwukfZiVtaz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_5qknxQ09Z3Fz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_cIyH3639wHnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_76a89jqUjJxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_8XgSTjsuSAnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_wtidrP6esIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_3RqFV52Y6vxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_cMX1blec4AOz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_fXzREF7X5ekz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_jCrZJz5KURz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_eGBb64oZQRIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_bPMhxIjmsU7z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_1ZlvsrmzbmEz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_7dCLiih6Cagz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01111_bc9fLUm1L2uz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_3lAorK7ntpDz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_iP8dtGZXHZZz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_456kablgFV5z_0CI0t2_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2004 Honda Element ex 2wdclean title. smog check.183,xxx miles.  lots to go.4-cylinder.  gas saver!!!drives great. clean in and out.automatic, shifts smooth.cold a/c.    Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [

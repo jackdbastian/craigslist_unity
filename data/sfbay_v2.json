@@ -38,6 +38,25 @@
         ],
         "wood": [
             {
+                "id": "7333205962",
+                "name": "Concrete or Foundation wood forms",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-concrete-or-foundation-wood/7333205962.html",
+                "datetime": "2021-06-07 12:04",
+                "price": "$2,700",
+                "where": "san jose east",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00l0l_1e22yNDE6O8z_0cU09G_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00l0l_1e22yNDE6O8z_0cU09G_600x450.jpg",
+                    "https://images.craigslist.org/00l0l_1e22yNDE6O8z_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_8eqNLpCHmkhz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00606_dIrOox3IX2gz_0cU09G_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "CD X plywood size is 2, 3 and 4 foot wide $2700 or best offer. If you were to buy just the plywood it will cost you 4000 not including assembling.Roger"
+            },
+            {
                 "id": "7333198399",
                 "name": "steel and wood Coffee table / side table tops",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/petaluma-steel-and-wood-coffee-table/7333198399.html",
@@ -95,127 +114,74 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Hundreds of Live Edge Slabs, Hundreds of sizes!Prices Start @ $70 and go up from there.Price is based on many factors including -Size - Species - Figure etcMeasure your space and COME LOOK!BEST TO CALL BEFORE COMING.5325 Gravenstein Highway North Sebastopol 95472CALL - DO NOT EMAIL"
-            },
-            {
-                "id": "7331109774",
-                "name": "Redwood Slabs - Live Edge Wood Slabs",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/graton-redwood-slabs-live-edge-wood/7331109774.html",
-                "datetime": "2021-06-07 11:29",
-                "price": "$100",
-                "where": "sebastopol",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Q0Q_f75HNth8jmo_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Q0Q_f75HNth8jmo_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00Q0Q_f75HNth8jmo_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_3EM0lpaJOfz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_b6Hj1mXbcec_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_2k8isfjT8mJ_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_fT4mir8qAnG_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_laDyLHW4crw_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_gDps8r1qhL2_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_7NMSw7aFjEo_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01616_ffRVGWyiI43_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_43aLDfjZ8oS_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_375J4cKTkwG_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_hH8y1x0CbzX_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_2nen7GOyrMu_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_3DXLltayRcB_0dm0sU_50x50c.jpg",
-                    "https://images.craigslist.org/00404_d2r6G67djrt_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_21zuU80S3CC_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_1dqVYpCMvCv_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_8mEskZnRPI9_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_bNWo8riilIH_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_9ySqaopg4Vh_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01313_8oYq3kydNdR_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_2mNMOGY8SqY_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_kbGyJTFvL70_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_bHV6M3xpUuY_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Hundreds of live edge slabs available SML, MED, LRG, XL, & XXL sizes..STARTING @ $50 and goes up from therePrice is based on:-Size (volume aka board foot) -Species-Figure-Moisture content.  The equity you gain from creating your own slab heirloom is not something that can be measured on a scale but it is something you can definitely feel. I can walk you through the entire process. First timers no need to be anxious, this is supposed to be FUN. The #1 comment customers say is \u201cWow it wasn\u2019t as hard as I thought, I\u2019m glad you told me to try it\u201d  We aren\u2019t in the furniture business. We are in the heirloom conversation piece business. Each and every slab is unique in it\u2019s own way...5325 Gravenstein Hwy NSebastopol CA 95472"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7322439425",
-                "name": "Vintage 60\u2019s Clothing",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-vintage-60s-clothing/7322439425.html",
-                "datetime": "2021-06-07 11:36",
-                "price": "$40",
-                "where": "half moon bay",
+                "id": "7322224154",
+                "name": "Tumi vintage briefcase",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-tumi-vintage-briefcase/7322224154.html",
+                "datetime": "2021-06-07 12:24",
+                "price": "$35",
+                "where": "cole valley / ashbury hts",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00v0v_fW9EkvFebMV_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_itNQmuSjO3Pz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01313_dopaBjrbTU6z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01616_64AgPWnmMwKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_7K6Oky2vzSnz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_lkXQGu2Q4Jz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00606_lxp9nxcgpHtz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_hVgRBkOD6Mgz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_giS6xVQjCT6z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_isdjhcdSKNWz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_lpGbztOjL3Qz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_7KM144xAwuiz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00v0v_fW9EkvFebMV_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00v0v_fW9EkvFebMV_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_g2s9OeSOTS5_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_hYp1Qjj4XQf_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_9vACHYl4WpA_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_iCBBPvjY2sr_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_7SyAE8TDGBQ_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_lGLqJG5Zf3F_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage 60\u2019s - 80\u2019s Clothing $10-$40"
+                "description": "Good condition Tumi expandable leather briefcase. No rips or stains.Cash only. Meet in SF. No trades. Price is firm. Thanks."
             },
             {
-                "id": "7330891877",
-                "name": "NOS Vintage New Old Stock 1990s Wilsons Leather Suede Tan XL Jacket",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-nos-vintage-new-old-stock/7330891877.html",
-                "datetime": "2021-06-07 11:26",
-                "price": "$150",
-                "where": "rohnert pk / cotati",
+                "id": "7333215323",
+                "name": "VINTAGE DUTCH NAVY PEA COAT",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-vintage-dutch-navy-pea-coat/7333215323.html",
+                "datetime": "2021-06-07 12:19",
+                "price": "$50",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00606_dJOmXudLy3Yz_0t20t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00606_dJOmXudLy3Yz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00606_dJOmXudLy3Yz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_9cSvUEDJ7G7z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_1G5XxKpHQ2uz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_1SHLyZnt2T6z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_gRqzTrJkzs5z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_4ultlUM6hDQz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_kRtrjZOs8I6z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_5Y3H1e64uw7z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_kiHz7ZGv4yfz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_9oLUGXLwe1Iz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_efoGfW6iRXPz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_bccnBJTbBLmz_0t20t2_50x50c.jpg"
+                    "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_bD3JISmRpQlz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_a0e3b89fmIXz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_a0e3b89fmIXz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_eRzCDEJ1V6Wz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_jW6YJ9LYBy3z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00909_kILusHWw9wwz_0lM0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This is a new old stock (circa early 1990s), with original store tags, Wilsons Leather M. Julian tan suede zip-up jacket. This is a men's XL with an underarm to underarm measurement of approximately 21 for a total of 42 around and a length of approximately 31 from shoulder to hem. There are 2 exterior chest pockets on either side as well as 2 interior pockets (one zip closure and one snap) on the left side. This jacket has never been worn and is in mint condition, completely free of flaws. It's weighty and will keep you warm this winter.Please call, text, or email anytime.Thank you,Ed"
+                "description": "Added image with size information.  Very rare, heavy vintage pea coat.  needs dry cleaning as it has been hanging in my closet for a while and is dusty more than anything.Date says 1955, and I assume that is the mfg. date.  I bought it in the 70's and it served me well.  One pocket lining is torn, but you can't see it from the outside.  also there are some wear marks in the collar.  the pictures make it look more gray than it actually is.  It is very dark blue almost black.  I would call it a mens large."
             },
             {
-                "id": "7325080554",
-                "name": "Vintage Furthur Grateful Dead Men's 2X Long Sleeve Shirt Thermal Navy",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-furthur-grateful/7325080554.html",
-                "datetime": "2021-06-07 11:22",
-                "price": "$40",
-                "where": "rohnert pk / cotati",
+                "id": "7333215376",
+                "name": "Nike Air Max Light Vintage QS, Size 11.5",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-nike-air-max-light-vintage-qs/7333215376.html",
+                "datetime": "2021-06-07 12:19",
+                "price": "$100",
+                "where": "san jose downtown",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_7PspBmsjAz9z_0t20t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00p0p_96N2BRuMepO_0ac06M_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00j0j_7PspBmsjAz9z_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_7PspBmsjAz9z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_6rAPFpIakDyz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_cRSgaYCAmzdz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_2j1wG2Cj3owz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_gQXdNhsaW5lz_0t20t2_50x50c.jpg"
+                    "https://images.craigslist.org/00p0p_96N2BRuMepO_0ac06M_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_96N2BRuMepO_0ac06M_50x50c.jpg",
+                    "https://images.craigslist.org/00808_3VgaInhAZGM_0e006b_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This is a previously owned, navy blue thermal long-sleeved shirt with an embroidered Furthur band applique on the left chest. It is a men's 2X with an underarm-underarm measurement of approximately 24 that stretches to 34. Length from shoulder-hem is approximately 29. There is one short, pulled thread on the front as shown. It is 100% cotton.------Please call, text, or email anytime.Thank you,Ed"
+                "description": "These shoes have never been worn outside of trying them on.  Slightly wrong size for me and have been sitting in a closet ever since.  Comes in original shoe-box.Air Max Light Vntg QS in 11.5White/Midnight Navy-Ntrl Grey Blanc/Navy-GrisProduct ID: 482932 101Shoe product page for reference:https://www.goat.com/sneakers/air-max-light-vntg-qs-482932-101$100 obo"
             }
         ],
         "beaded": [
@@ -342,6 +308,28 @@
         ],
         "wedding dress": [
             {
+                "id": "7329885750",
+                "name": "NEW La Sposa Wedding Dress - Never Worn",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-new-la-sposa-wedding-dress/7329885750.html",
+                "datetime": "2021-06-07 12:21",
+                "price": "$200",
+                "where": "san jose west",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
+                    "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_kbTSWex9WdDz_0id0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_hXOrLJW4j1tz_0gN0o6_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_1V69cjnhvsrz_0gw0pA_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_iAInrIzHZRSz_0fF0iv_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_i9Pu9FVbNnxz_08V0hr_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Taffeta La Sposa Fuego Traditional Wedding Dress (was $1415)Size: US 10This dress is brand new, never worn. Could be hemmed and altered to fit any smaller size.Color is Off White.For more information or pictures, message us. Neckline: Strapless Silhouette: A-line Train: Chapel Height With Heels: dress not hemmed.Note:SIZES ARE BRIDAL SIZE, NOT STREET SIZE!"
+            },
+            {
                 "id": "7333191726",
                 "name": "Wedding dress",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/concord-wedding-dress/7333191726.html",
@@ -391,24 +379,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Storybook Wedding or Lace Dress in good condition size 14 Cash only, I do not deliver or ship no holds.Livermore"
-            },
-            {
-                "id": "7333033342",
-                "name": "Never Worn Wedding Dress",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-never-worn-wedding-dress/7333033342.html",
-                "datetime": "2021-06-07 07:40",
-                "price": "$200",
-                "where": null,
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00D0D_kg8CEMmEblWz_0ak0dL_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00D0D_kg8CEMmEblWz_0ak0dL_600x450.jpg",
-                    "https://images.craigslist.org/00D0D_kg8CEMmEblWz_0ak0dL_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_lMFtuxy18KYz_0ak0dL_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Trumpet/Mermaid style, V- neck, court train, lace overlay in ivory. Very pretty. Hard to take good photo as it is so long. Size 14 but does not look like a 14 (selling for friend)."
             }
         ],
         "great condition": [
@@ -835,6 +805,54 @@
     "musical instruments": {
         "loud": [
             {
+                "id": "7327640041",
+                "name": "Hondo 5 String Banjo",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/santa-rosa-hondo-string-banjo/7327640041.html",
+                "datetime": "2021-06-07 12:08",
+                "price": "$199",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00q0q_c8mQh99gL3lz_0i90oc_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00q0q_c8mQh99gL3lz_0i90oc_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_c8mQh99gL3lz_0i90oc_50x50c.jpg",
+                    "https://images.craigslist.org/00000_d6c6LcJOsdsz_0i90oc_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_cNEqSbhVHrpz_0i90oc_50x50c.jpg",
+                    "https://images.craigslist.org/01414_3Hm31KxgoCZz_0i90oc_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_gM3nTYHq7VMz_0oc0i9_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_jKyv7akj3U3z_0oc0i9_50x50c.jpg",
+                    "https://images.craigslist.org/00505_gkpqdl3C8Fmz_0oc0i9_50x50c.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "Hondo II 5 string BanjoMade in Korea in the 1970sBody/Rim is cast aluminum, Neck is Mahogany, ply-veneer resonator.New 4:1 tuners and geared 5th string tuner. New strings and bridge.I disassembled cleaned, re-assembled and set up the banjo so it's ready to play. This a very good starter banjo that plays well is as loud as expected and plenty sturdy for gigging.Comes with a chipboard case from the era."
+            },
+            {
+                "id": "7327641821",
+                "name": "Strad-O-Lin 5 String Banjo",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/santa-rosa-strad-lin-string-banjo/7327641821.html",
+                "datetime": "2021-06-07 12:08",
+                "price": "$199",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_7BC9llXXtQZz_0i90oc_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_7BC9llXXtQZz_0i90oc_600x450.jpg",
+                    "https://images.craigslist.org/01010_7BC9llXXtQZz_0i90oc_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_96xfLz59QzVz_0i90oc_50x50c.jpg",
+                    "https://images.craigslist.org/00404_fPPexk4fhZsz_0i90oc_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_ezPVLs8FVLez_0i90oc_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_MjpgSb2oFdz_0oc0i9_50x50c.jpg",
+                    "https://images.craigslist.org/01414_5wRxV9e1Qlbz_0oc0i9_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_lfbwRdnX8igz_0i90oc_50x50c.jpg",
+                    "https://images.craigslist.org/01717_2WljS9BKkxaz_0i90oc_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_boE2mRf2YIbz_0i90oc_50x50c.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "Strad-O-Lin 5 String BanjoMade in Korea in the 1970s.Body/Pot is cast aluminum, Mahogany neck, ply-veneer resonator.New Grover 18:1 tuners and geared 5th string tuner. New Bridge. New strings.I disassembled, cleaned and reassembled the banjo and set it up for the new owner.This a very good starter banjo that plays well is as loud as expected and plenty sturdy for gigging.Comes with a chipboard case from the era."
+            },
+            {
                 "id": "7333181621",
                 "name": "Crate half stack with Celestions for sale or trade - MUST SELL!!",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-crate-half-stack-with/7333181621.html",
@@ -855,40 +873,6 @@
                 "query": "loud",
                 "category": "msa",
                 "description": "Made in USA loud Solid State Half Stack for sale or trade. Need the room and done use it any more so bring offers. Looking for smaller tube amps and usa guitars. Could add cash to the right deal.Crate head gxt-100h 2 channel, reverb, Fx loopCrate Cabinet gxt-412s with 4 x 12 Celestion speakersSee pics"
-            },
-            {
-                "id": "7327155688",
-                "name": "Sabian HHX Groove Ride 21\" Amazing Sounding ride drum cymbal orig $509",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/castro-valley-sabian-hhx-groove-ride-21/7327155688.html",
-                "datetime": "2021-06-07 10:10",
-                "price": "$290",
-                "where": "hayward / castro valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01414_bg5gwSaXMye_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01414_bg5gwSaXMye_600x450.jpg",
-                    "https://images.craigslist.org/01414_bg5gwSaXMye_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_bD24oxoWxbM_50x50c.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "Amazing lightly used, one of the best crash rides out in existence, ive had 3 of these, and this is the best sounding of the 3!The Sabian HHX 21 Groove Ride is a remarkable sounding cymbal -- one of the darkest in the HHX line and with seriously musical overtones and an ultra-sensitive response. With a good amount of stick attack, the Groove Ride produces some nice definition but stays away from the ping sound found in many rides. The Groove Ride is all about the wash and sustain. Even when you strike the bell, which is loud without being overpowering, you'll notice some bleed into the bow which adds a great harmonic character to this versatile cymbal."
-            },
-            {
-                "id": "7323396241",
-                "name": "Accordion Pigini",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-accordion-pigini/7323396241.html",
-                "datetime": "2021-06-07 09:34",
-                "price": "$1,650",
-                "where": "san jose east",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00303_35VVIuzw68O_09O0hq_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00303_35VVIuzw68O_09O0hq_600x450.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "UP  FOR SALE IS A VINTAGE 4/5 PIGINI ACCORDION. THE INSTRUMENT  SOUNDS GOOD, IN TUNE AND LOUD WHEN PLAYED. ACCORDION IS IN GOOD SHAPE INCLUDING THE BELLOWS AND  WOULD MAKE A FINE ADDITION TO A PLAYER WHO COULD APPRECIATE IT. THERE IS A CARRYING CASE WITH WORKING LATCHES . PLEASE CONTACT ME WITH ANY QUESTIONS."
             }
         ],
         "famous": [

@@ -2,6 +2,22 @@
     "materials": {
         "gravel": [
             {
+                "id": "7334330772",
+                "name": "Gravel",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/los-altos-gravel/7334330772.html",
+                "datetime": "2021-06-16 13:59",
+                "price": "$0",
+                "where": "los altos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg"
+                ],
+                "query": "gravel",
+                "category": "maa",
+                "description": "NO EMAILS PLEASETEXT Paul to arrange pickup on Aura Way in Los Altos:  Part of a whole house Estate salvage sale. Everything goes!Gravel is $1 /5 gallon bucket  $3/5 gallon bucket"
+            },
+            {
                 "id": "7333197493",
                 "name": "Gate Loops Direct Burial EL 36-100",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/camp-meeker-gate-loops-direct-burial-el/7333197493.html",
@@ -16,77 +32,183 @@
                 "query": "gravel",
                 "category": "maa",
                 "description": "The EL 36-100 Direct Burial Exit Loop is used in installations under concrete, asphalt or gravel roads and the wire used is UL 493 certified and designed for burial application. BD Loops - Exit Loop - 6' X 12' Direct Burial Performed Loops with 100' Lead  Used for installations under concrete, asphalt, pavers, or gravel roads. The most common installation is the loop tied directly to the rebar before concrete is poured. Wire is UL 493 certified designed for a direct burial application.Unlike loops wrapped through PVC, The BD Loops Direct Burial Loop does not have an air pocket resulting in fewer repeat service calls due to phantom detections caused by ground vibration. Built with a high quality solid 14AWG wire out performing other preformed loops with twice as much copper per foot and increased tensile strength.Solid 14AWG wire also results in the direct burial loop being very ridged giving the installer the opportunity to easily set-up and layout the loop and prevents the loop from falling in-between the rebar patter. Twisted jacketed lead-in prevents \u201ccoil back\u201d from normal twisted lead-in, preventing wasted time untangling lead-in wires. The loop wire has arrows indicating the direction of current allowing easy understanding of phasing.Each direct burial loop comes with an installation kit including easy to understand instructions, cable ties for installation on top of redbar, ground stakes for under gravel roads, and stickers for easy identification after the loops have been installed.            Feature\tBenefitsThicker 14-gauge loop wire, 4 times more copper than 20-gauge wire.\tMore copper means a better performing loop and increased tensile strength.UL 493 Direct burial rated loop wire.\tInsurance the right product is being used for the job resulting in an immense lifespanLoops sold as a kit.\tSupplied instructions, ground stakes, cable ties, and loop labels.Pre-phased at the factory.\tSaves time and prevents confusion when installing two loops to one detector.Soldered connections\tEnsure top performance over time.Flex yoke design pre-fitted with \u00bd inch PVC coupler.\tSaves installation time and material cost.No air pocket in loop wire design.\tWill not float to surface during a concrete pour and also eliminates faults trips due to ground vibrations.Compact size and reduced weight.\tSaves on shipping cost and warehouse space."
+            },
+            {
+                "id": "7332682561",
+                "name": "Retired Concrete Railroad Ties | Located In Iowa | Local Pick Up",
+                "url": "https://sfbay.craigslist.org/sfc/mad/d/retired-concrete-railroad-ties-located/7332682561.html",
+                "datetime": "2021-06-06 11:02",
+                "price": "$0",
+                "where": "We Ship Nationwide",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00r0r_dkp6M2bIFy5z_0jm0ew_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00r0r_dkp6M2bIFy5z_0jm0ew_600x450.jpg",
+                    "https://images.craigslist.org/00r0r_dkp6M2bIFy5z_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_bJPYiW2OQbnz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_6ul2jG3Z3K9z_0jm0ei_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_bDj6Np4tvj0z_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00808_3bWQilAefuwz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_enrpLNKcIc7z_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_5nQSr7Tmn3Ez_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00808_js2RWtWIk0xz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/01717_5eibaE5nIKyz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_bkCzH26YREoz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/01414_3Ib2EctZaloz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_fgmhyB15nOdz_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_bYmGL5rElc2z_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_c1XJLU1PFyjz_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/01212_2flqQg0pfBtz_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_4e0E0jJ3AJRz_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_dQ3llhXcUYiz_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_ke0Yru4ljowz_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_c67affZ2hqLz_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_9fupjCBWlKVz_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_fJ58bGaWeh1z_0jm0pO_50x50c.jpg"
+                ],
+                "query": "gravel",
+                "category": "maa",
+                "description": "Check Out Our Website>> https://www.repurposedmaterialsinc.com/concrete-railroad-ties/Concrete Railroad Ties**Quantities are limited and subject to inventory availability**backSTORY: Retired concrete railroad ties. Dimensions:  Length- 102',  Width- 11, Height- 8.5  Weight: 795 lbs. Each, Truckload Weight: Approx.  47,700 lbsPrice: $20Quantity Sold: IndividuallyLocation: Iowa WarehouseShipping Method: Local Pick-Up Only. Shipping is not offered on this item. Please visit Warehouse to pick-up.****************************************************************************************Concrete Railroad Ties -TRUCKLOAD Quantity**Truckload quantities are limited and subject to inventory availability**backSTORY: Retired concrete railroad ties. Dimensions:  Length- 102,  Width- 11, Height- 8.5  Weight: 795 lbs. Each, Truckload Weight: Approx.  47,700 lbsPrice: $1,080.00Quantity Sold: Truckload of 60 unitsLocation: Iowa WarehouseShipping Method: Flatbed. Call for quote 877-282-USED (8733)Shipping must be quoted on this item. Please call for quote.*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*Questions?? Call Us @ 877-282-USED (8733)Come view this item and SO MUCH MORE----repurposedMATERIALS1725 E Maple St, Maquoketa, IA 52060 OPEN to the PUBLIC | Hours: 9-5 pm | Monday -FridayWe Accept Cash, Check and ALL Major Credit CardsNo Appointment NecessaryWe Have Equipment to Load on SiteSign-Up for our Widely Followed \u201crepurposing\u201d E-Newsletter>> https://www.repurposedmaterialsinc.com/newsletter-sign-up _____________________________________________________________________________________We BUY \u2013 SELL \u2013 TRADE all kinds of materials! If you don\u2019t want it, WE MIGHT!Got Stuff? We're interested in your obsolete stuff...eg: materials, equipment, inventory, chemicals, machinery, product, etc...anywhere in the United States. If you don't want it, we might! Call Damon w/ details @ 303.321.1471.Learn more>> https://www.repurposedmaterialsinc.com/gotSTUFF_____________________________________________________________________________________Guard rail timbers, landscape timbers, landscape timber, land scape timber. landscape wood, landscape posts, post, posts, Railroad ties, rail road ties, rail road logs, railroad logs, los, telephone pole, telephone poles, retaining wall, landscape edging, landscape wood, fence post, fence posts, weathered wood, timbers, mantel, forest products, highway posts, highway timbers, pressure treated landscape timbers, pressure treated, green treated, green-treated, garden timber, garden wood, garden edging, recycled plastic railroad ties, 8ft, 8', 8 feet, 8 foot, treated timbers, Landscape timber edging, lumber, treated lumber, tractor supply landscape timbers, landscape timbers menards, 6x6 landscape timbers lowes, 8x8 landscape timbers, 6x6 landscape timbers price, landscape timbers home depot, landscape timbers for sale, landscape timbers walmart, Universal Forest Products: Wood Landscape Timbers, Landscape Timbers & Ties at Sutherlands, Fort Collins, Colorado Landscape Timber: Cedar Supply, guard rail, Searches related to guard rail timber, timber guardrail detail steel backed timber guardrail wood guardrail posts for sale wood guard rail details wooden guardrail suppliers timber guardrail cost steel backed timber guardrail details wood guard rail fence, Mantel, Mantle, Beams, Wood Mantel, Wood Fireplace Mantel, Fireplace Mantle, Timber Beams, Rustic Mantel, Fireplace Surrounds, Custom Mantels, Mantel Shelves, Corbels, Timber Mantles, Old Wood, Old Rustic Wood, Antique Mantels, Vintage Mantels, Reclaimed Wood, creosote, fence post, fencing, gate, chain link, corals, corrals, corner post, pens, cattle, post, posts, t post, tpost, pipe router table saw clamp woodworking delta rockler craftsman dewalt drill press jig blade woodworking sandermiter saw chop planer jointer shopsmith vice vacuum nail gun bandsaw scroll shaper circular lathe Rockwell ryobidisc ash walnut maple oak pine mahogany douglas fir hardwood cedar birch cherry dremel bosch cordless, Maderas protectoras, maderas de paisaje, madera de paisaje, madera de tierra. madera de paisaje, postes de paisajismo, postes, postes, amarres de ferrocarril, lazos de ferrocarril, troncos de ferrocarril, troncos de ferrocarril, los, poste de tel\u00e9fono, postes de tel\u00e9fono, muro de contenci\u00f3n, ribete de paisaje, madera de paisaje, poste de cerca, postes de cerca, madera desgastada, maderas, repisas, productos forestales, postes de carreteras, maderas de carreteras, maderas de paisaje tratadas a presi\u00f3n, tratadas a presi\u00f3n, tratadas en verde, tratadas en verde, madera de jard\u00edn, madera de jard\u00edn, ribete de jard\u00edn, amarres de pl\u00e1stico reciclados, 8 pies, 8 ', 8 pies, 8 pies, maderas tratadas, bordes de madera de paisaje, madera aserrada, madera tratada, suministro de tractores macetas de paisajismo, jardines de maderas paisaj\u00edsticas, 6x6 lowes de maquinarias de paisaje, maderas paisaj\u00edsticas de 8x8, precio de maderas paisaj\u00edsticas de 6x6, dep\u00f3sito de viviendas de maquinarias de jardiner\u00eda, macetas paisaj\u00edsticas en venta, maderas paisaj\u00edsticas Walmart, Buffalo Rancher, Bridge Timbers, Relayed, Concrete Blocks, barriers, barricade, jersey barriers, parking stops, signs, anchors, truck stop, retaining wall, sand pit, pit, gravel, stones, guard, guard rail Concrete \u2013 barrier, block, sidewalk, precast, Portland, cement, mixer, retaining, wall, traffic, barricade, traffic, jersey, krail, k-rail, panel, jj hooks, j-j hooks, clamp, highway,Barrier, barricade, block, truck stop, retaining wall, Concrete Blocks, barriers, barricade, jersey barriers, parking stops, signs, anchors, truck stop, retaining wall, sand pit, pit, gravel, stones, guard, guard rail Concrete - barrier, block, sidewalk, precast, Portland, cement, mixer, retaining, wall, traffic, barricade, traffic, jersey, krail, k-rail, panel, jj hooks, j-j hooks, clamp, highway, concrete highway barriers for sale concrete barriers cost concrete barriers weight concrete barrier blocks for sale stackable concrete barriers concrete barriers for sale near me cement barrier blocks concrete barriers for rent, parking stop, parking blocks, retaining wall,Shipping AvailableIndustrial Thrift StoreBelow is a bit of about our mission/concept of repurposing.First off, what are some examples of repurposing? It is taking a byproduct or waste stream such as a retired street sweeper brush and giving it a 2nd life as a back scratcher for horses or cattle. It is taking a decommissioned fire hose and giving it an extended life as a boat dock fender. It is taking an obsolete ski lift cable and giving it a second life as hand railing in a luxury condo building. In your efforts to reach Zero Waste, do you have any byproducts or waste from projects now, or coming up, that would be a candidate for repurposing? Or, do you have any surplus/obsolete inventories or idle equipment you'd like to deal on. . . maybe items that have been depreciated out, over orders on a job, inventory from a project that got cancelled, etc.?We look forward to being a resource on any byproducts, waste, inventories, or equipment that would be a candidate for repurposing! To date, our company has helped a number of organizations through repurposing: US Army, Denver Broncos, City of Chicago, Nestles, BNSF Railroad, Oklahoma State University, Purina, US National Forest Service, Campbells Soup, State of Wyoming, Paramount Pictures, and many, many more!_________________________________________________________________________________________________________________________________________________We are America's largest Industrial Thrift Store! We have yards in Denver, Chicago, Atlanta, Dallas, and Philadelphia. Our main office is in Denver 303.321.1471_________________________________________________________________________________________________________________________________________________Items we deal in- marine, stock, bar, guide rails, wear plates, rollers, conveyor augers, bin and hopper lines, chutes, bearings, bushings and gears, paver, rock, stone, siding, glass, tile, wood, lumber, timber, vinyl, floor, window, light, carpet, paint, epoxy, pallet, shelf, stain, plywood, oak, deck, decking, shingle, roof, concrete, cement, rubber, door, countertop, cabinet, plumb, electric, granite, marble, hose, brick, John deere, toro, lawn, mower, grass, hay, alfalfa, dog, cat, chicken, pig, bird, cow, horse, cattle, goat, honda, snow, blower, gate, fence, baler, tractor, plow, trailer, saddle, combine, chain, saw, New Holland, Case, Ford, Kubota Massey Ferguson welder dump, tool, stock, tank, bobcat, skidsteer, scraper, bulldozer, fork lift, telehandler, trailer, tractor, freightliner, mack, peterbuilt, bridge, crane, winch, lift, beam, steel, joist, truss, Volvo, crane, generator, tank, fuel, gas, diesel, ford, Chevrolet, lift, bucket, 4x4, tire, wheel, loader, road, grader, excavator, track, hoe, front, end, genset, hydraulic, phase, Caterpiller, John Deere, Komatsu, power, unit, kw, tool, plow, blade, bed, steel, aluminum, portable, engine, compressor, truck, Kenworth, washer, box, axle, paint, GMC, chipper, pump, concrete, backhose, grapple, attachment, spreader, natural gas, propane, heavy, light, belly, dump, flat, dual, scissor, terrain, rough, motor, battery, transmission, pressure, genie, Vermeer, international, cummins, Detroit, drill, rig, water, used, volt, phase, plant, module, container, hyster, reefer, shape, condition, repair, gallon, pound, ton, mini, boom, lease, spray, power, air, electrical, press, drill, mill, lp, fiberglass, plate, block, part, vacuum, scale, vinyl, cover, rack, system, gym, court, gymnasium, basketball, volleyball, floor, protect, school, wood, level, probe, tank, back scratcher, container, Cable, fencing, coral, pens, farm, ranch, guy wire, guide wire, post, cow, barrier, stop, Soaker, portable tire wash, concrete tire wash, Monster wash, Washer, Stanton systems, wheel , industrial, mine, quarry, dirt, dirty, car wash, cleaner, aggregate, pit, boat, dock, pvc membrane welder, hot air welder, BAK welders, TPO membrane, Hypalon, EPDM, roofon, weldmaster, Miller, seamrover, elite air, Fencing, Wire, Mesh, remesh, structural mesh, standard welded wire reinforcement and concrete pipe reinforcement, reinforcing mesh, welded wire"
             }
         ],
         "wood": [
             {
-                "id": "7336435331",
-                "name": "Old Growth Sinker Redwood Red Wood Boards Slab Slabs Timbers",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-old-growth-sinker-redwood-red/7336435331.html",
-                "datetime": "2021-06-16 13:56",
-                "price": "$26",
-                "where": "richmond / point / annex",
+                "id": "7337720481",
+                "name": "Compass Oak 7 Inch Wide Engineered Wood Flooring",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/windsor-compass-oak-inch-wide/7337720481.html",
+                "datetime": "2021-06-16 14:11",
+                "price": "$2",
+                "where": "healdsburg / windsor",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_btv6YxY9cm5_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00m0m_7T5k6RiWxTSz_04O02J_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00C0C_btv6YxY9cm5_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_btv6YxY9cm5_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_4OQ6X8nv8lm_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_8KDTzDYoGe9_50x50c.jpg"
+                    "https://images.craigslist.org/00m0m_7T5k6RiWxTSz_04O02J_600x450.jpg",
+                    "https://images.craigslist.org/00m0m_7T5k6RiWxTSz_04O02J_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_j3EkO3l3w6Tz_0cU0cU_50x50c.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "We have some very nice sinker redwood and old growth redwood in stock with thousands of board feet yet to be milled to your specifications.  The sinker redwood was harvested out of the Klamath on the reservation and is absolutely stunning.  All of my wood is sustainably salvaged.  I will be happy to show you what's available if you care to browse.  No minimum purchase.  Reply with your contact info and we'll schedule a time that's best for you.  My warehouse is located just off of 580 in Richmond.Other species in stock:  Giant Sequoia, , Redwood, Black Walnut, Claro Walnut, Poplar, Red Gum Eucalyptus, Black Acacia, Black Locust, Honey Locust, Cherry, White Oak, Sycamore, Cedar, Juniper, Old Growth and Sinker Redwood, Cottonwood, Cypress, Maple, Bay Laurel, Douglas Fir, Grey Elm, American Elm and more"
+                "description": "Coastal Couture Compass Oak Wire Brushed Matte Finish Engineered Wood Flooring , 9/16 inch thick , 7 inch wide White Oak , 1500 square feet available , all new in factory cartons , made in USA , $1.99 per square foot . Call   or 836-7221."
             },
             {
-                "id": "7336435463",
-                "name": "Barnwood Reclaimed Wood Hardwood Beam Mantel Boards Siding Lumber",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-barnwood-reclaimed-wood/7336435463.html",
-                "datetime": "2021-06-16 13:56",
-                "price": "$6",
+                "id": "7325101601",
+                "name": "Dry Black Walnut and Claro Walnut Live Edge Wood Slabs",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-dry-black-walnut-and-claro/7325101601.html",
+                "datetime": "2021-06-16 13:58",
+                "price": "$15",
                 "where": "richmond / point / annex",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_4b95z4CpzpT_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00a0a_1p750yrelan_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00e0e_4b95z4CpzpT_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_4b95z4CpzpT_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_cGvbHjg13wR_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_bxcsjRlJ3Yt_50x50c.jpg"
+                    "https://images.craigslist.org/00a0a_1p750yrelan_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_1p750yrelan_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_9A7zvooeAW8_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_30KFpSkiok0_50x50c.jpg",
+                    "https://images.craigslist.org/00101_kS0HA5ziwFr_50x50c.jpg",
+                    "https://images.craigslist.org/00606_hoos4Ebs5dj_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_3ru7z1RMI7F_50x50c.jpg",
+                    "https://images.craigslist.org/01414_flTEi1gWZDE_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_sVcUKyCM9t_50x50c.jpg",
+                    "https://images.craigslist.org/00707_jhbbfQKpmLs_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_dVoOPiX4p1U_50x50c.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "My warehouse is located just off of 580 in Richmond (previously located just off of Harbour Way near the ferry).   I have a large selection of 100+ year old hardwood from vintage houses and barns and a plethora of salvaged local wood."
+                "description": "Air dried and kiln dried slabs.  Some are surfaced and sanded to 80 grit, others are rough sawn, ready for you to take it to the next level."
             },
             {
-                "id": "7337713739",
-                "name": "Douglas Doug Fir Live Edge Wood Slab Slabs Reclaimed",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-douglas-doug-fir-live-edge/7337713739.html",
-                "datetime": "2021-06-16 13:56",
-                "price": "$8",
+                "id": "7327472254",
+                "name": "Live Edge Wood Slabs And Rough Sawn Lumber Walnut Oak Sycamore Redwood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-live-edge-wood-slabs-and-rough/7327472254.html",
+                "datetime": "2021-06-16 13:58",
+                "price": "$40",
                 "where": "richmond / point / annex",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_84fLSxRb3Xy_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00T0T_2q3R5EyNnh3_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00h0h_84fLSxRb3Xy_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_84fLSxRb3Xy_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_6pym3sLxKKb_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_35fa1qO9eHp_50x50c.jpg",
-                    "https://images.craigslist.org/00303_eUjIOhzDzlq_50x50c.jpg",
-                    "https://images.craigslist.org/01212_jxbghlHIM66_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_du4zISe1Nsk_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_cV3hESN5eN8_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_86AXJvJHCJu_50x50c.jpg",
-                    "https://images.craigslist.org/00707_lszMM6nEbyJ_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_kttYanj4F0K_50x50c.jpg"
+                    "https://images.craigslist.org/00T0T_2q3R5EyNnh3_600x450.jpg",
+                    "https://images.craigslist.org/00T0T_2q3R5EyNnh3_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_2n2BsUQdxjy_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_b2hnUpdjYl9_50x50c.jpg",
+                    "https://images.craigslist.org/00909_jnRId8kA9vD_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_etzJKGNUO9h_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_2WpBSiv6UcJ_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_aolhWfmoHzr_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_ywMywWpoSO_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_6jHid358Qtb_50x50c.jpg",
+                    "https://images.craigslist.org/00505_kEDVjzWEkoO_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_dF2HD4Y9GYz_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_j37rIkiMPur_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_ev7t7cj3C59_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_4uWwvePUDQv_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_bNuyludiFQj_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_1NgF3EpP2f_50x50c.jpg",
+                    "https://images.craigslist.org/00303_auqfjSqlThF_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_eHaTL3EOVTH_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_3nGPT66lsdl_50x50c.jpg",
+                    "https://images.craigslist.org/00202_4gArmX0X9nc_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_Yz92kEIXkY_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_dQCNdzvVFgn_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_7kPIOH84srs_50x50c.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "Lengths from 6'-15' and widths up to 15'. This came from a 110 year old tree that fell in a storm and was then lovingly cared for for nearly 2 years while it was air drying.  Most of the slabs were then kiln dried to finish them off.  Located just off of 580 in Richmond.  Hundred of other slabs and reclaimed wood to choose from!  Flattening, sanding, finishing services also available."
+                "description": "Come out and see my warehouse full of reclaimed and salvaged wood from our back door and from around the world.  Live edge slabs, rough sawn lumber, fireplace mantels, barnwood, siding, flooring, shelves, beams, timbers, furniture, shelving, rustic barn wood, and much more.   112 Ohio Ave, Unit 1, Richmond.  10-5 Monday-Saturday.  If the gate is closed, call the number on the sign and I'll open it for you.Species Generally in Stock: Black Acacia, Sycamore, Eucalyptus, American Elm, Giant Sequoia, Poplar, Cottonwood, Black Locust, Black Walnut, Cedar, Honey Locust, Sugar Maple, White Oak, Butternut, White Walnut, Hickory, Grey Elm, Redwood, Claro Walnut, Bay Laurel, Nutmeg, Ash, Old Growth Redwood, Sinker Redwood, Douglas Fir, Cherry, Peroba Rosa, Ipe, Itauba"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7326456920",
+                "name": "Vintage 1940's Post World War II Heavy Wool Army Coat",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/pacifica-vintage-1940s-post-world-war/7326456920.html",
+                "datetime": "2021-06-16 14:12",
+                "price": "$90",
+                "where": "pacifica",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00n0n_4we7WigMFX0z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00n0n_4we7WigMFX0z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00n0n_4we7WigMFX0z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_hAMbzdvOSpIz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_7bOzvmPKNcaz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_4o4UcvGpUYMz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_aUZbApRchkxz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/01111_5HP2e9omN2Zz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_fPZl76Hz6iIz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00202_4r6Ytog7yjjz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/01010_jl3UbXGXGkKz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_9BXGatGa2Ssz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/01414_2mzM2aH3pxsz_0ak07K_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage 1940's Post WWII Heavy Wool Army Coat.  Size 40 L.  Good condition, recently vacuumed, smells good.  Small hole on back right sleeve and one on right side chest.  $90Also have an Army garrison cap with pin.  Good condition.  $20Near Skyline Blvd.jacket trench coat hat war military uniform militaria collectibles"
+            },
+            {
+                "id": "7337718809",
+                "name": "Greens Bar Kinvara Galway Ireland Vintage Ceol Agus 2001 White T Shirt",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-greens-bar-kinvara-galway/7337718809.html",
+                "datetime": "2021-06-16 14:06",
+                "price": "$30",
+                "where": "alameda",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00D0D_hiEHyMLva99z_0s70t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00D0D_hiEHyMLva99z_0s70t2_600x450.jpg",
+                    "https://images.craigslist.org/00D0D_hiEHyMLva99z_0s70t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_kcXupyVSye1z_0v20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_dv4rcJGsTiTz_0z60qk_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_c8XrMElhOXTz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_5tMs2QjS0Yrz_0xy0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_V7E4bqSRA7z_0rw0jS_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_ipsIA5Zv3Wz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "\u2022\tIn very good condition and has cool image of Greens Bar.\u2022\tLaying flat measures around: Armpit to armpit - 22\u201dCollar to bottom hem \u2013 27\u201dShoulder to shoulder \u2013 21\u201dTo avoid spam and stay safe, it\u2019s still available and can be purchased at Call Jannie on eBay"
+            },
             {
                 "id": "7336340640",
                 "name": "Vintage Ladies San Jose State University Vest (Size Large)",
@@ -102,44 +224,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage Ladies San Jose State University Fleece VestSize LargeNever Worn!! Excellent Condition!!Perfect for the San Jose State University Fan!!Price = $20If you are reading this listing, the vest is still available.Email if interested."
-            },
-            {
-                "id": "7333819806",
-                "name": "Vintage Bob Ross T Shirt",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-bob-ross-shirt/7333819806.html",
-                "datetime": "2021-06-16 13:41",
-                "price": "$25",
-                "where": "scotts valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00F0F_cromytPyhG9_0bS0em_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00F0F_cromytPyhG9_0bS0em_600x450.jpg",
-                    "https://images.craigslist.org/00F0F_cromytPyhG9_0bS0em_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_53RnIx1XNTR_0hJ0sD_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Bob Ross T ShirtHappy TreesSize:  LargeLike New Condition!!  Are You A Fan?Price = $25If you are reading this listing, the shirt is still available.Email if interested."
-            },
-            {
-                "id": "7331199421",
-                "name": "Vintage Clothes Steamer",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-clothes-steamer/7331199421.html",
-                "datetime": "2021-06-16 13:30",
-                "price": "$25",
-                "where": "scotts valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_HQv82kiVHs_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_fyEhLUeQkIM_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_fG0BDl6Bk2H_07K0ak_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Clothes SteamerMade By:  Franzus, Model WA-111SEThe original Wrinkles Away Electric Clothes Steamer, steams out wrinkles quickly and easily.  Ideal for traveling or for home use.Only Used A Few Times! Excellent Condition!Price = $25.00If you are reading this listing, the steamer is still available.Email if interested."
             }
         ],
         "beaded": [
@@ -788,43 +872,39 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
-                "id": "7337696665",
-                "name": "Ampeg Bass Amp 1x15 100R",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-ampeg-bass-amp-1x15-100r/7337696665.html",
-                "datetime": "2021-06-16 13:25",
-                "price": "$150",
-                "where": "san jose west",
+                "id": "7337727206",
+                "name": "Used CRATE AUDIO GX-15 Electric Guitar Amplifier (QUC009233)",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/hayward-used-crate-audio-gx-15-electric/7337727206.html",
+                "datetime": "2021-06-16 14:21",
+                "price": "$30",
+                "where": "hayward / castro valley",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_lVFSiMeowJFz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00B0B_gdhcYnX8dI5z_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00c0c_lVFSiMeowJFz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_lVFSiMeowJFz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01212_3GsVfJfXVvXz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_5kpiQsSFOtTz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_a7uKkCsHQlSz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00B0B_gdhcYnX8dI5z_0t20CI_600x450.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Used but lightly played solid state bass amp (I'm a guitarist).  This is loud enough to pay with an acoustic drummer, but still good at bedroom levels.  Has a direct out and headphone jack.Here's the specs:https://reverb.com/p/ampeg-rocket-bass-model-b-100r-100-watt-1x15-bass-combo"
+                "description": "This Crate GX-15 15 Watt Combo Amp for guitar is in excellent condition.  It has two channels, one for distortion and one for clean.  It is surprisingly loud for a solid state amp of this size.  Great for practice, small gigs and an awesome amp for a beginner.  I have 2 of these. Will sell 1 for $30 or both for $50"
             },
             {
-                "id": "7337645626",
-                "name": "Peavey Series 300 Bass rare 70s amp",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-peavey-series-300-bass/7337645626.html",
-                "datetime": "2021-06-16 11:56",
-                "price": "$200",
-                "where": "SOMA / south beach",
+                "id": "7325692181",
+                "name": "JHS Little Black Amp Box Passive Attenuator",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/san-leandro-jhs-little-black-amp-box/7325692181.html",
+                "datetime": "2021-06-16 14:17",
+                "price": "$40",
+                "where": "san leandro",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01515_a7D4kMuh6H6z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00x0x_4rvrIOvhFAYz_0jm0ew_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01515_a7D4kMuh6H6z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/01515_a7D4kMuh6H6z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_1H4yD9If3avz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_8bjJkwNg6LFz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00x0x_4rvrIOvhFAYz_0jm0ew_600x450.jpg",
+                    "https://images.craigslist.org/00x0x_4rvrIOvhFAYz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_INkUKWjEb3z_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00404_aPua9K2btI7z_0jm0ew_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Really cool LOUD bass amp I rescued. Had it gone over by a tech who gave it a full bull of health, and installed a three prong power cable so you don\u2019t kill yrself. Missing some tolex. This things got tone for days and volume for even more. Get that new sound you been looking for."
+                "description": "If you have a tube amp and want to push those tubes but can't because the amp is just too darn loud, this little beauty might be the thing you need. Plug this device into your effects loop and go ahead and turn up your amp to get those tubes pumping while keeping the volume at a comfortable, room level. Bought this brand new about 2 months ago but sold my tube amp so I no longer need it. Maybe you do?No trades. Cash, PayPal, Venmo, or CashApp accepted. Local buyers only. Good luck!"
             }
         ],
         "famous": [
@@ -850,6 +930,28 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
+                "id": "7328163998",
+                "name": "MXR CSP102SL Script Dyna Comp Reissue",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/san-leandro-mxr-csp102sl-dyna-comp/7328163998.html",
+                "datetime": "2021-06-16 14:17",
+                "price": "$130",
+                "where": "san leandro",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01111_8LOfxW2vQprz_0mA0cI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01111_8LOfxW2vQprz_0mA0cI_600x450.jpg",
+                    "https://images.craigslist.org/01111_8LOfxW2vQprz_0mA0cI_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_gPNU14yWv0Jz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_whNYhF6w19z_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00707_5WWihC1M0eTz_0mA0cH_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_kt63dgzGK8iz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_9UYnWlYBAsPz_0jm0ew_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Selling a mint-condition MXR CSP102SL Script Dyna Comp Reissue pedal in original box. This was a very recent purchase but I no longer have the need for a compression pedal. Below is the official information on the pedal:The Dyna Comp Compressor is famous for first-rate, no-nonsense approach to tightening up your guitar signal and creating rich, full-bodied sustain. Like the Phase 90, this little red gem is a legend among its kind. The pedals produced in the mid-\u201970s are particularly prized for their unqiue sound and performance.The Script Dyna Comp Compressor combines that old-school sound with a couple of upgrades for modern gigging convenience. Spec\u2019d from our own 1976 Dyna Comp Compressor, this pedal is built around the rare CA3080 metal can integrated circuit (IC), which yields quieter operation, greater transparency, and increased dynamic range. Thanks to its bypass status LED and AC power jack, you can put this pedal right on your board without worrying over whether the pedal is on or about to lose power.Features    Classic sound with modern upgrades    Quieter operation, greater transparency, and increased dynamic range    Bypass status LED and AC power jackNo trades. Will accept cash, PayPal, or Venmo. Local buyers only. Good luck"
+            },
+            {
                 "id": "7332453597",
                 "name": "Vintage '65 Fender Super Reverb 45-Watt 4x10\" Guitar Combo Amp",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-vintage-65-fender-super-reverb/7332453597.html",
@@ -871,25 +973,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Selling a vintage '65 Fender Super Reverb 2 Channel 40-Watt 4x10 Guitar Combo Amp.This is an incredibly clean example of this amp.The amp is in fantastic working condition and has that classic warm super reverb tone that you can only really get with an all original vintage amp like this.Was recently went through by an amp tech and has a clean bill of health with a 3 prong power cord also installed!Built in July of 1965 in Fullerton, California.Comes loaded with 4 - '65/'66 Jensen C10Q speakersLoaded with NOS Vintage GE 6L6 power tubes, Rectifier tube, and reissue mix of Groove and EHX preamp tubesOriginal Vinyl Cover and Footswitch included!Please, serious inquiries only!Will only respond to emails with a name and phone number!No Trades!Thanks!OverviewThe Fender Super Reverb 45-watt tube combo guitar amplifier was offered in a blackface finish between 1964 and 1967, although some early silverface finished units still had blackface circuitry. Well-known for its scooped mids, the Super Reverb features the same design as the Fender Super, but with the addition of built-in reverb and tremolo effects as well as four 10 speakers. Famous Super Reverb players include Johnny Marr, Stevie Ray Vaughan, Robben Ford, and Derek Trucks."
-            },
-            {
-                "id": "7336344014",
-                "name": "Wampler Tumnus Overdrive Pedal",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/el-cerrito-wampler-tumnus-overdrive/7336344014.html",
-                "datetime": "2021-06-16 11:17",
-                "price": "$130",
-                "where": "albany / el cerrito",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_bSnUSopMFrKz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00R0R_bSnUSopMFrKz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00R0R_bSnUSopMFrKz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_6N9hCAvinbkz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_h9CIZ5qQP7Ez_0t20CI_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Like new condition, purchased just one month ago, never taken outside the home office/studio.And happy to throw in a patch cable.Wampler Tumnus Overdrive guitar Pedal. Modeled after the famous Klon Centaur that costs thousands more dollars, and this pedal from Wampler nails it.Compact Overdrive Pedal with Gain, Level, and Treble ControlsWampler's Take on a Legendary OverdriveIt delivers incredible overdrive tones. Plenty of tonal flexibility, and you can use this versatile pedal as a subtle boost to push other pedals, a slightly dirty boost to push your amp, or as a full-on overdrive pedal. Its small footprint and simple three knob layout make it ideal for any pedalboard."
             }
         ]
     }

@@ -62,74 +62,110 @@
         ],
         "wood": [
             {
-                "id": "7329716051",
-                "name": "BRAND NEW MAHOGANY SOLID WOOD",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-mahogany-solid-wood/7329716051.html",
-                "datetime": "2021-06-16 16:48",
-                "price": "$0",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_1KGex0B3bzkz_0x40oM_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_arQXh4bYblEz_0xT0po_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_80e2zp3lXOsz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_3duzSuf9UgOz_0lL0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I HAVE MANY MANY PIECES AND BOARDS OF MAHOGANY WOOD SIZE AS PICTURES AVAILABLE FOR SALE ONLY $.99 AND UP I ONLY RESPOND EMAILS WITH PHONE NUMBER"
-            },
-            {
-                "id": "7329716882",
-                "name": "BRAND NEW PVC AND WOOD EDGES BAND FOR CABINETS MAKERS",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-pvc-and-wood-edges/7329716882.html",
-                "datetime": "2021-06-16 16:48",
-                "price": "$0",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00N0N_ejRg85sYQ31z_0x20oM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00N0N_ejRg85sYQ31z_0x20oM_600x450.jpg",
-                    "https://images.craigslist.org/00N0N_ejRg85sYQ31z_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_crIVqpuV0Lzz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_bfLUtRSr4Uoz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/01111_6KwchnvQDDTz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_bPeCAJeR4mWz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_cGMuFovqRrNz_0x20oM_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I HAVE MANY BRAND NEW ROLLS OF WHITE AND COLOR OF PVC EDGE BANDING AND REAL WOOD EDGE BANGING FOR SALE ONLY $15 PER ROLLI ONLY RESPOND EMAILS WITH PHONE NUMBER PLEASE"
-            },
-            {
-                "id": "7332084006",
-                "name": "TEAK WOOD",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-teak-wood/7332084006.html",
-                "datetime": "2021-06-16 16:49",
+                "id": "7337803672",
+                "name": "WHITE OAK SOLID WOOD",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-white-oak-solid-wood/7337803672.html",
+                "datetime": "2021-06-16 17:16",
                 "price": "$1",
                 "where": "San Jose",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00N0N_kLDIylZL35Kz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00j0j_74s4Y6kw0fIz_0lM0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00N0N_kLDIylZL35Kz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00N0N_kLDIylZL35Kz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_ZByjfzLJTgz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_5F350VWD9Ybz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_bWgDjZGqjeez_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_1Cr8mYj7mXtz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_2eIzPwZy7Z2z_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00j0j_74s4Y6kw0fIz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00j0j_74s4Y6kw0fIz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_5ksweWVLg7lz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_feVpDWCbCHrz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_2IQXxeWdL6ez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_6ufI0It6hvLz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_5X3ZmVEJHmQz_0t20CI_50x50c.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "I HAVE MANY MANY PIECES OF 1/4\u201d, 5/16\u201d, 3/8\u201d, 7/16\u201d,1/2\u201d, 5/8\u201d, 3/4\u201d, 1\u201d AND 1.5\u201d THICK BY 1.5\u201d WIDE BY 50\u201d TO 120\u201d LENGTH TEAK WOOD AS PICTURES AVAILABLE FOR SALE ONLY $.75 AND UP PER LINEAR FOOT I ONLY RESPOND EMAILS WITH PHONE NUMBER"
+                "description": "I HAVE MANY MANY PIECES AND BOARDS OF SOLID WHITE OAK WITH DIFFERENT SIZE AVAILABLE FOR SALE ONLY $.99 AND UP PER LINEAR FOOT I ONLY RESPOND EMAILS WITH PHONE NUMBER PLEASE THANKS"
+            },
+            {
+                "id": "7337796981",
+                "name": "BRAND NEW SOLID WOOD MOLDING AND BASEBOARDS",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-solid-wood-molding/7337796981.html",
+                "datetime": "2021-06-16 17:07",
+                "price": "$0",
+                "where": "San Jose",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00a0a_cs9FGGl2HF2z_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00a0a_cs9FGGl2HF2z_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_cs9FGGl2HF2z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_if0rkj9s4w8z_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_dTonzfv51aez_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_6YF3OQM2fBCz_0t20t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I HAVE MANY MANY PIECES OF SOLID WOOD MAPLE WALNUT CHERRY WHITE OAK MAHOGANY CROWN MOLDING AND BASEBOARD AS PICTURES AVAILABLE FOR SALE ONLY $.75 AND UPI ONLY RESPOND EMAILS WITH PHONE NUMBER"
+            },
+            {
+                "id": "7337798880",
+                "name": "SOLID WOOD FOR CUTTING BOARDS",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-solid-wood-for-cutting-boards/7337798880.html",
+                "datetime": "2021-06-16 17:04",
+                "price": "$1",
+                "where": "San Jose",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00n0n_dg0rlSslukXz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00n0n_dg0rlSslukXz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00n0n_dg0rlSslukXz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_k0S6usq1X6Yz_0x20oM_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_adpCvfDxJQ5z_0xS0pp_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_4ME9CQwo49Mz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I HAVE MANY MANY PIECES AND BOARDS WITH DIFFERENT SIZE AND DIFFERENT KIND OF WOOD READY FOR MAKING CUTTING BOARDS FOR HOLIDAYS AVAILABLE FOR SALE ONLY $.99 AND UP PER LINEAR FOOT (SEE PICTURES FOR EXAMPLE)I ONLY RESPOND EMAILS WITH PHONE NUMBER PLEASE"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7336794397",
+                "name": "26 Pairs of Vintage Men's Jeans, 30 - 36 Waist, 30 - 34 length",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-26-pairs-of-vintage-mens/7336794397.html",
+                "datetime": "2021-06-16 17:25",
+                "price": "$3",
+                "where": "sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00u0u_fDk9Q9YSAwzz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00u0u_fDk9Q9YSAwzz_0CI0t2_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "for sale: 26 Pairs of Vintage Men's Jeans, 30 - 36 Waist, 30 - 34 length, all kinds of styles and brands. Come and look through them to see what you can use. Only $3 each, or buy them all and get a discount."
+            },
+            {
+                "id": "7330151389",
+                "name": "Vintage Skin Gear Leather Trench Coat",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-skin-gear-leather/7330151389.html",
+                "datetime": "2021-06-16 17:05",
+                "price": "$6",
+                "where": "sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00j0j_jJGYUwb7uuEz_0ew0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00j0j_jJGYUwb7uuEz_0ew0jm_600x450.jpg",
+                    "https://images.craigslist.org/00j0j_jJGYUwb7uuEz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_gZ0bKNhq9J3z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_6KM5bKsPCmqz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_gGm3jGH2jfiz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/01313_djzrRELCkjz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_iJD5No1Qufoz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_aidK6HP8vHqz_0ew0jm_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Skin Gear Leather Trench Coat45\u201d long20\u201d across the back, seam to seam at chest hight"
+            },
             {
                 "id": "7335288643",
                 "name": "Vintage Pendleton Men's XL Classic Bomber Jacket 100% Virgin Wool",
@@ -155,60 +191,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "This is a vintage, men's XL classic bomber jacket from Pendleton. I believe the collar tag is a 1960s design, however I could be mistaken. It is in good, previously owned condition with some flaws as circled in the photos. There are some black marks on the chest and sleeves. The sleeves also have a few tiny threadbare spots as does the back right in the middle. The hem does have some piling. The chest measures approximately 24 across (48 all around) and shoulder to hem length is 27.------Please call/text   or email anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
-            },
-            {
-                "id": "7335303439",
-                "name": "Vintage Dallara Racing Italy Antelope Brown Leather Women's S Jacket",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-dallara-racing/7335303439.html",
-                "datetime": "2021-06-16 16:53",
-                "price": "$225",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00b0b_6hSxWk425VQz_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00b0b_6hSxWk425VQz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00b0b_6hSxWk425VQz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_9HqWUFZDOqNz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_48YnaG7Db7zz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_eJAjoHaUc4xz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_idizW06bxmvz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_bAi00uWOyDrz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_jEOD9UpbCbmz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_h5uucV7j0m4z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_ls1B5sdqNp4z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_fmU0oFzoZEqz_0t20t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "This is a vintage women's jacket by Dallara. Dallara is an Italian racecar manufacturer and these jackets were made with racing enthusiasts in mind. It is fully lined, buttons up, has a removable belt with 4 exterior and 1 interior heart-shaped pockets. This is previously owned and worn, which is evident in the photos, however the leather is so supple and buttery soft, you'll forget about the signs of wear and overstretched-button holes. The lining has an iridescent sheen that shifts from a light forest green to a golden tan. 1 of the small plastic buttons inside has come off but it will be sent with an extra exterior button. There are no size or material tags. From the measurements, I believe this is a women's small or small/medium. Underarm-underarm is approximately 18 across, no stretch (36 around), shoulder seam to sleeve hem is 22, and shoulder to hem length is 31.------Please call/text   or email anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
-            },
-            {
-                "id": "7330891877",
-                "name": "NOS Vintage New Old Stock 1990s Wilsons Leather Suede Tan XL Jacket",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-nos-vintage-new-old-stock/7330891877.html",
-                "datetime": "2021-06-16 16:50",
-                "price": "$150",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00606_dJOmXudLy3Yz_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00606_dJOmXudLy3Yz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00606_dJOmXudLy3Yz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_9cSvUEDJ7G7z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_1G5XxKpHQ2uz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_1SHLyZnt2T6z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_gRqzTrJkzs5z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_4ultlUM6hDQz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_kRtrjZOs8I6z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_5Y3H1e64uw7z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_kiHz7ZGv4yfz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_9oLUGXLwe1Iz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_efoGfW6iRXPz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_bccnBJTbBLmz_0t20t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "This is a new old stock (circa early 1990s), with original store tags, Wilsons Leather M. Julian tan suede zip-up jacket. This is a men's XL with an underarm to underarm measurement of approximately 21 for a total of 42 around and a length of approximately 31 from shoulder to hem. There are 2 exterior chest pockets on either side as well as 2 interior pockets (one zip closure and one snap) on the left side. This jacket has never been worn and is in mint condition, completely free of flaws. It's weighty and will keep you warm this winter.Please call, text, or email anytime.Thank you,Ed"
             }
         ],
         "beaded": [
@@ -567,6 +549,34 @@
                 "description": "1998 Toyota Tacoma Regular Cab Short Bed 2DPick up TruckManual 5-Spd 4-Cyl, 2.4 Liter 2WD204,000 MilesClean Title (Clean History)Smog Certificate ready Registration paid Sep 2021This is a clean great running truck that served me well, garage kept mostly. It's pretty clean inside and outside, I bought it and used it as a second car, has Small 2.4 liter engine and gets excellent gas mileage for a light duty truck. This is a Well Serviced Truck, Excellent Mechanical, Drives Great, Strong engine. Services done on regular basis as recommend. It was serviced last month and all checked out fine. This car is perfectly fine for long commute every day and has long life left on it. * Has Upgraded Pioneer stereo with AUX jack, comes with all basic options plus Air conditioning, ABS 4 wheels , Dual airbagsRecent services:- New Ignition Wire set- 2 New belts- New Spark plugs - Oil change done If interested in the Truck please CALL  4 0 8 . 7 2 1 . 2 7 8 1, Serious inquires please, $7,600 priced to sell"
             },
             {
+                "id": "7335911788",
+                "name": "2005 Nissan Murano 190k Miles Nice Car Drives Great",
+                "url": "https://sfbay.craigslist.org/sfc/cto/d/rancho-cordova-2005-nissan-murano-190k/7335911788.html",
+                "datetime": "2021-06-12 19:43",
+                "price": "$5,800",
+                "where": "bayview",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
+                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_eoA9STr0z7hz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_eeaTZZkpzJCz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_9BAxg4O5oh8z_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_loPwGKk7uLEz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_8zPYATp1rgOz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_dRl1qxSEysZz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00505_azIdCJjsQryz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_dRT3RSWD4XXz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_4fYjXCdMJSez_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_50SWuKNMmegz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_gbCwWgmdEkrz_0QE0tC_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "Speak Russian Call Any Time Speak EnglishText For PicturesFor Sale is my Nissan MuranoGold colormiles 190 Khas new battery new alternatornew lower control armkey words murano sentra titan nissan2000 2002 2005 2007 2009 1995"
+            },
+            {
                 "id": "7333144769",
                 "name": "2007 FORD EDGE SE  AWD.  CLEAN TITLE. SMOG.  DRIVES GREAT***",
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2007-ford-edge-se-awd-clean/7333144769.html",
@@ -594,46 +604,6 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2007 Ford Edge se awd.clean title. smog check.164,xxx miles. drives great.cold a/c.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
-            },
-            {
-                "id": "7330272496",
-                "name": "2004 HONDA ELEMENT EX AUTOMATIC.. CLEAN TITLE. SMOG* DRIVES GREAT.",
-                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2004-honda-element-ex-automatic/7330272496.html",
-                "datetime": "2021-06-01 12:23",
-                "price": "$6,995",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_g2dJt8VEp8sz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_iEngCNZBCQwz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_bwJLt8dUH6yz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_8OdH5pCbZY9z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_lQtn6zNcOo9z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_3zwukfZiVtaz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_5qknxQ09Z3Fz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_cIyH3639wHnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_76a89jqUjJxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_8XgSTjsuSAnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_wtidrP6esIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_3RqFV52Y6vxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_cMX1blec4AOz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_fXzREF7X5ekz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_jCrZJz5KURz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_eGBb64oZQRIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_bPMhxIjmsU7z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_1ZlvsrmzbmEz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_7dCLiih6Cagz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01111_bc9fLUm1L2uz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_3lAorK7ntpDz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_iP8dtGZXHZZz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_456kablgFV5z_0CI0t2_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2004 Honda Element ex 2wdclean title. smog check.183,xxx miles.  lots to go.4-cylinder.  gas saver!!!drives great. clean in and out.automatic, shifts smooth.cold a/c.    Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [
@@ -862,50 +832,46 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
-                "id": "7324551866",
-                "name": "Hohner Organola Accordion 140 bass Mussette",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/santa-clara-hohner-organola-accordion/7324551866.html",
-                "datetime": "2021-06-16 16:55",
-                "price": "$1,500",
-                "where": "santa clara",
+                "id": "7334050831",
+                "name": "Rare Fender Champ II Combo 1981 w/extras",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-rare-fender-champ-ii/7334050831.html",
+                "datetime": "2021-06-16 17:21",
+                "price": "$1,200",
+                "where": "SOMA / south beach",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00g0g_e4ADfz2b1oG_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00g0g_e4ADfz2b1oG_600x450.jpg",
-                    "https://images.craigslist.org/00g0g_e4ADfz2b1oG_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_ginqiM2Ul01_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_ctBprnzZLcX_50x50c.jpg",
-                    "https://images.craigslist.org/00909_hcx4tNq1ZlO_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_4Ib6LGlW4uZ_50x50c.jpg",
-                    "https://images.craigslist.org/00909_2BhuGQCAxnv_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_jrFnInkEpKh_50x50c.jpg",
-                    "https://images.craigslist.org/01414_hF4uXPSwr3w_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_dzONeo447aL_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_1Zr0aUUYBov_50x50c.jpg"
+                    "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_600x450.jpg",
+                    "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_2OqXvNNjCUz_0xe0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_4qvL3CvZgH8z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_aOOH7atEmFuz_0A10r1_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_55ySh7wQa2xz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_io0Yl7KyiSWz_0tq0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_7q7OzbiAX7Zz_0lM0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Hohner Organola piano accordion Made in Germany serial no. 246599Organola is one step down from the Hoher Morino (one of the two top Hohner accordions, number is Hohner Gola ).This accordion has just been completely gone thru by a professional accordion restorer, one of themost experienced. Kind of rare model. Has 13 shifts treble side and 6 shifts bass side.VERY RARE SPECIAL EDITION 140 BASS buttons. Treble side 4 reeds and bass side 5 reeds.all new treble pads. shallow key travel for fast and easy play.very nice Mussette sound. beautiful to listen to. plays easy and loud.all reeds and leathers checked to A-1 condition. Electronically tuned.Reeds L-M-M-H. adjustable base strap.Hard case is in good condition.Air tight, very nice bellows. Super nice condition.Keyboard size 20 inches which is little longer than the full size accordion of 19.5 inches. Manufacture date, unknown.Please read the description carefully before you ask me questions. Thanks!$1500 Serious buyer contact me with phone number."
+                "description": "$1200 - Fender Champ II 18-Watt 1x10 Guitar Combo.  These were only made for a short time: 1981 - 1983It was serviced by Pete Cage last year, he replaced the hard-wired speaker cable with a 'proper' speaker out  which looks factory. Has the original vinyl Cover and original speaker. There are no rips, stains, tears.  The preamp tubes are GE 12ax7a's.  Pete said the power tubes are Sylvania 6VGT's with the Fender Logo.  When I had it serviced he put everything he replaced in a baggie and gave it back to me.  Once I got it back from him it sounded better than ever - it's a very complex clean tone with no noise or hash.Such a great clean tone at comfortable home volumes and it will also get loud. Doesn't break up much beyond crunch with my Les Paul unless you pull the mid boost.$70 - Eminence GA10-SC64 10 20-Watt 8 Ohm Replacement Speaker          This speaker is in pristine condition. It was installed for a couple of weeks and carefully taken out          (stored in a box). No issues of any kind."
             },
             {
-                "id": "7337766155",
-                "name": "Tambourine: Black Swamp SoundArt",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/el-sobrante-tambourine-black-swamp/7337766155.html",
-                "datetime": "2021-06-16 15:43",
-                "price": "$125",
-                "where": "richmond / point / annex",
+                "id": "7336052922",
+                "name": "Newcomb E-10B tube amp / PA head",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/pleasanton-newcomb-10b-tube-amp-pa-head/7336052922.html",
+                "datetime": "2021-06-16 17:09",
+                "price": "$200",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00Z0Z_c6EO4k0b4X1z_0ww0oo_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00a0a_gnb8xlxINbYz_0lM0CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00Z0Z_c6EO4k0b4X1z_0ww0oo_600x450.jpg",
-                    "https://images.craigslist.org/00Z0Z_c6EO4k0b4X1z_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/01616_lojiwpDDykdz_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00404_4mOV3xcie4Tz_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_gmufNQEUyR8z_0oo0ww_50x50c.jpg"
+                    "https://images.craigslist.org/00a0a_gnb8xlxINbYz_0lM0CI_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_gnb8xlxINbYz_0lM0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00404_9RoriDskyoNz_0lM0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_YLSd8kdAvCz_0CI0lM_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Black Swamp Percussion SoundArt Series Double-Row 10 Professional Tambourine With Calf Head  10 in. German Silver. Currently listed on Percussion Source for $205. Beautiful condition, loud and chimey. Very lightly played. No visible wear. Soft case and thumb-roll beeswax included."
+                "description": "Newcomb E-10B tube amp / PA headFrom the 1960s10 watts output2 6v6 output tubes Loud-lush-clean-punchy sounding$200 OBO"
             }
         ],
         "famous": [

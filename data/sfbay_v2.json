@@ -62,6 +62,22 @@
         ],
         "wood": [
             {
+                "id": "7337879615",
+                "name": "Wood Decking / Outdoor Flooring - Snapfit",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/los-altos-wood-decking-outdoor-flooring/7337879615.html",
+                "datetime": "2021-06-16 22:06",
+                "price": "$90",
+                "where": "los altos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00T0T_kMLUbN2aK0z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00T0T_kMLUbN2aK0z_0t20CI_600x450.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Snapfit wood outdoor floor deckingPerfect for balconiesCovers roughly 55 sq ftPatio chairs & table also for sale: https://sfbay.craigslist.org/pen/fuo/d/los-altos-outdoor-patio-chairs-wicker/ .html"
+            },
+            {
                 "id": "7337866165",
                 "name": "Oak wood for fire pit",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/redwood-city-oak-wood-for-fire-pit/7337866165.html",
@@ -96,29 +112,30 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "one size: 3/4 x 4 x 8 $30other one size : 11/16 x 4 x 8  $ 30"
-            },
-            {
-                "id": "7337853703",
-                "name": "random wood (redwood, pt, etc)",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-random-wood-redwood-pt-etc/7337853703.html",
-                "datetime": "2021-06-16 19:57",
-                "price": "$0",
-                "where": "Berkeley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00P0P_2o2b6oOfqZ7z_0om0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00P0P_2o2b6oOfqZ7z_0om0CI_600x450.jpg",
-                    "https://images.craigslist.org/00P0P_2o2b6oOfqZ7z_0om0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_65aSOC6fynYz_0om0CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "wood is $$$ now. This is free. 1x1  (1)5\u2019+ (2) 3\u20191x2  (3) 8\u20194x4 (1) pt 6\u20191x5 (2) redwood 4+\u2019"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7328286818",
+                "name": "COWBOY BOOTS/ Vintage",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/vineburg-cowboy-boots-vintage/7328286818.html",
+                "datetime": "2021-06-16 22:07",
+                "price": "$35",
+                "where": "sonoma",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00I0I_bVV35jqukYuz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00I0I_bVV35jqukYuz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00I0I_bVV35jqukYuz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_iS2dvRFMsdz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_fcaQntI14YGz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Cowboy Boots by CORSINAColor: BlackSays Size 9, but fits like 8-8 1/2 Women\u2019sAwsome Vintage 80\u2019s CORSINA flat Western style bootsPull on Style with minimal stacked heel12\u201d high from ground to topEmbossed snake skin Print Leather InsertsGreat looking and Very Comfortable"
+            },
             {
                 "id": "7327074531",
                 "name": "vintage mens Adidas ATP tennis jacket mens's Large",
@@ -175,30 +192,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Beautiful old pair of leather work boots, leather is in fine condition, ready to wear...marked 9 e go. See tape measurements. if you want to pay with paypal, and I can mail them for $30 more. shoe shoes vnt antique person mens job rustic ranch boot western red wing Irish setter  p10pp style distressed hunt hunting fish fishing outdoor outdoors country USA TALL ! no steel toe"
-            },
-            {
-                "id": "7335038604",
-                "name": "14 BOOTS MENS LEATHER black motorcycle steel toe vintage pull on ridin",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-14-boots-mens-leather-black/7335038604.html",
-                "datetime": "2021-06-16 21:10",
-                "price": "$140",
-                "where": "sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_50x50c.jpg",
-                    "https://images.craigslist.org/01010_avsCnS76flg_084063_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_9hzxHEjWxZH_063084_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_9DvG96TOiGP_063084_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_cH5mxZMBNQ8_063084_50x50c.jpg",
-                    "https://images.craigslist.org/00101_5Xeyn0nBfNs_084063_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_gzchrzWuNfT_084063_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_2JCWUrJlTYp_084063_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "steel toe, good for riding, or just as work safety boots.14 BOOTS MENS LEATHER black motorcycle steel toe vintage pull on riding work old work ride riding shop garage gear clothing shoe shoes  boot men mens western cowboy large p10pp xl size ren faire costume cosplay larp sca guildbiker bike ride riding goth sca"
             }
         ],
         "beaded": [
@@ -841,6 +834,26 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
+                "id": "7337880406",
+                "name": "Tweed Fender Blues Jr.",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/union-city-tweed-fender-blues-jr/7337880406.html",
+                "datetime": "2021-06-16 22:10",
+                "price": "$450",
+                "where": null,
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00h0h_gM3UtumNMJGz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00h0h_gM3UtumNMJGz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_gM3UtumNMJGz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01313_bW9ngspFzrlz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_4iBbGK6ppHNz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_d7neqfTfRz9z_0lM0t2_50x50c.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "Fender Blues Jr in Lacquered Tweed for sale. I recently got a Two Rock so I have no use for this amp anymore. It's honestly a really good amp and it can get pretty loud. Reverb is super nice and pairs with pedals very nicely. It's in excellent condition but the input jack is a little loose. Still sounds great though. Bought it brand new for 599+ tax at Guitar Center."
+            },
+            {
                 "id": "7337868030",
                 "name": "Fender M-80 combo amp",
                 "url": "https://sfbay.craigslist.org/eby/msg/d/alameda-fender-80-combo-amp/7337868030.html",
@@ -864,29 +877,6 @@
                 "query": "loud",
                 "category": "msa",
                 "description": "Fender M-80 solid state amplifier Features: spring reverb, channel switching, and a 12\u201d speaker. Also has extention speaker jack. The cabinet has slight damage on bottom. It does\u2019nt affect the performence of the amp. This amp is very loud and will keep up with a drummer. Great amp for the price. Bring your guitar and check it out .leave phone # with email or no reply.thanks"
-            },
-            {
-                "id": "7334050831",
-                "name": "Rare Fender Champ II Combo 1981 w/extras",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-rare-fender-champ-ii/7334050831.html",
-                "datetime": "2021-06-16 17:21",
-                "price": "$1,200",
-                "where": "SOMA / south beach",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_600x450.jpg",
-                    "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_2OqXvNNjCUz_0xe0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_4qvL3CvZgH8z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_aOOH7atEmFuz_0A10r1_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_55ySh7wQa2xz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_io0Yl7KyiSWz_0tq0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_7q7OzbiAX7Zz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "$1200 - Fender Champ II 18-Watt 1x10 Guitar Combo.  These were only made for a short time: 1981 - 1983It was serviced by Pete Cage last year, he replaced the hard-wired speaker cable with a 'proper' speaker out  which looks factory. Has the original vinyl Cover and original speaker. There are no rips, stains, tears.  The preamp tubes are GE 12ax7a's.  Pete said the power tubes are Sylvania 6VGT's with the Fender Logo.  When I had it serviced he put everything he replaced in a baggie and gave it back to me.  Once I got it back from him it sounded better than ever - it's a very complex clean tone with no noise or hash.Such a great clean tone at comfortable home volumes and it will also get loud. Doesn't break up much beyond crunch with my Les Paul unless you pull the mid boost.$70 - Eminence GA10-SC64 10 20-Watt 8 Ohm Replacement Speaker          This speaker is in pristine condition. It was installed for a couple of weeks and carefully taken out          (stored in a box). No issues of any kind."
             }
         ],
         "famous": [

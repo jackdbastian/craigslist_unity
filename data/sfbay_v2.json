@@ -62,6 +62,25 @@
         ],
         "wood": [
             {
+                "id": "7331180974",
+                "name": "Wood Post Spindles",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/lafayette-wood-post-spindles/7331180974.html",
+                "datetime": "2021-06-17 05:41",
+                "price": "$39",
+                "where": "lafayette / orinda / moraga",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00J0J_g9tTG8w81zf_0CI0lH_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00J0J_g9tTG8w81zf_0CI0lH_600x450.jpg",
+                    "https://images.craigslist.org/00J0J_g9tTG8w81zf_0CI0lH_50x50c.jpg",
+                    "https://images.craigslist.org/00606_e3sUOcLbxjT_0CI0lH_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_hyEDenRxxxL_0CI0lH_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "- Brand New in Original Package- 3 Dia. x 5' Long- 2 Available- Original Price: $79.95 each- Asking: $39 each"
+            },
+            {
                 "id": "7334453036",
                 "name": "FLASH SALE!! 3\u201dx46\u201d stained wood post",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/cupertino-flash-sale-3x46-stained-wood/7334453036.html",
@@ -92,27 +111,51 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Wood fireplace mantel: $125Pick up in Atherton by appointment, mention De Bell when inquiring. Text Paul  .Part of a whole house salvage sale! Everything goes!"
-            },
-            {
-                "id": "7337879615",
-                "name": "Wood Decking / Outdoor Flooring - Snapfit",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/los-altos-wood-decking-outdoor-flooring/7337879615.html",
-                "datetime": "2021-06-16 22:06",
-                "price": "$90",
-                "where": "los altos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_kMLUbN2aK0z_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00T0T_kMLUbN2aK0z_0t20CI_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Snapfit wood outdoor floor deckingPerfect for balconiesCovers roughly 55 sq ftPatio chairs & table also for sale: https://sfbay.craigslist.org/pen/fuo/d/los-altos-outdoor-patio-chairs-wicker/ .html"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7337931069",
+                "name": "Men, Women Vintage Clothing 1930s WWII 1940s to 60's Military",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-men-women-vintage-clothing/7337931069.html",
+                "datetime": "2021-06-17 05:30",
+                "price": "$20",
+                "where": "sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00X0X_2798Ka9uQAL_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00X0X_2798Ka9uQAL_600x450.jpg",
+                    "https://images.craigslist.org/00X0X_2798Ka9uQAL_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_i6xUdorvmSb_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_iFI17Kj0BjM_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_73Aol09TfP9_0CI0o4_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_5dWnb7cqJtS_50x50c.jpg",
+                    "https://images.craigslist.org/00707_qIzg5mK6uG_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_dWIjPP4Bl3R_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_jgG40BJAfqH_0jk0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_88k4QEU8JhC_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_kIFwiiFpF90_50x50c.jpg",
+                    "https://images.craigslist.org/00909_bkBsEYq3jrv_50x50c.jpg",
+                    "https://images.craigslist.org/00404_8da00NpPNLj_50x50c.jpg",
+                    "https://images.craigslist.org/01717_kckZTCqmr7t_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_jUXGci69TX7_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_4PMKbrWSofm_50x50c.jpg",
+                    "https://images.craigslist.org/01313_lq6q1i0rzxr_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_7HRWk0RYl07_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_9ZSSUU22KLh_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_ePTp7RN2BJZ_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_2jhBPlCvjXq_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_iaqyk6Nf1cg_0ew0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_cwLnOrcYjaU_0cI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_6U9JPm8SGsQ_0fA0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_7KDsA7wBx0U_0CI0om_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Halloween Costumes that are the real thing. Men's size 40R Leather jackets $45Men and Women's jackets and cloths. They are all in Nice condition and most look like brand new since really not worn.They start at 39. for vintage 80's black leather and most other $49. but if you want all, I could make slight reduction in price.Note that lady model is small size and only 4'9 tall so dresses will be much higher on others .There are also many 1940's - 1980's Vintage Men's and Women's Clothes, Dresses, US Navy Military Uniforms dated 1939 through WWII US Navy Dress Uniform. I even have my Uncle's Seersucker Jacket and many Vintage Hats. Many different Vintage Clothing or Period Clothing and 20 pairs of around size 6.5 to 8 Women's vintage shoes new in original boxes from Italy and France and USA from 1940-50's. Russian Military Jacket, or Soviet Army Coat.Revolutionary War Period Coat Jacket. Frock Coats, Capes, Tail Coat.Prices for most single items are $39. up to $125. and up, for Men's full uniform sets of Jacket and pants.Email, but call or text is faster."
+            },
             {
                 "id": "7327240034",
                 "name": "VINTAGE HAT",
@@ -152,29 +195,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Light sage. Made in USA. Size 5/6. 59% acetate, 41% rayon. Zipper in back."
-            },
-            {
-                "id": "7333171234",
-                "name": "Vintage Fancy Hats Peacock Lace",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-fancy-hats/7333171234.html",
-                "datetime": "2021-06-17 01:46",
-                "price": "$0",
-                "where": "San Francisco",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01313_jMDsgFsgwoUz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01313_jMDsgFsgwoUz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/01313_jMDsgFsgwoUz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_k3yspbFxJPYz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00505_hkpVHWPGGhaz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_g4IwqYNg29Iz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_kyhLxfdd4zjz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_O30JE8z792z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01010_65taX5lSLkNz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "two fabulous vintage hats, 15 each or both for 20!"
             }
         ],
         "beaded": [

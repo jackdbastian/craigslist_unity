@@ -128,83 +128,79 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7338178504",
-                "name": "Vintage Snakeskin wallet",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-snakeskin-wallet/7338178504.html",
-                "datetime": "2021-06-17 13:13",
+                "id": "7338198415",
+                "name": "1999 Vintage Southern Alberta Calgary Tournament Belt Buckle",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-1999-vintage-southern-alberta/7338198415.html",
+                "datetime": "2021-06-17 13:46",
+                "price": "$40",
+                "where": "alameda",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00101_8R4dcODjMtjz_0CI0sl_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00101_8R4dcODjMtjz_0CI0sl_600x450.jpg",
+                    "https://images.craigslist.org/00101_8R4dcODjMtjz_0CI0sl_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_im0WtE6gP6Sz_0z30t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_lqIuqV9GHsnz_0xt0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_h081N4he6C6z_0zP0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_6rJDsc02KgIz_0xg0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00303_j6sWvOfvt7Qz_0CI0qH_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_jNpkfhPeB04z_0yy0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_1PUNnlREr5kz_0vr0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_1iWWgwCe2suz_0q50on_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Alberta Selects Calgary Tournament of Selects Champions Belt Buckle Pewtertone \u2022\tQuality buckle, with raised lettering, perfect to wear or for your collection.\u2022\tIn good vintage condition, has minor wear with use.\u2022\tMeasures around 3.2\u201d wide and 2.2\u201d tallTo avoid spam and stay safe, it\u2019s still available and can be purchased at Call Jannie on eBay"
+            },
+            {
+                "id": "7338196239",
+                "name": "Vintage Belt Buckle 1980 Semi Truck Driver The Great American Buckle",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-belt-buckle-1980-semi/7338196239.html",
+                "datetime": "2021-06-17 13:42",
                 "price": "$25",
-                "where": "castro / upper market",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_9KoOBO3J1dsz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_9KoOBO3J1dsz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_9KoOBO3J1dsz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_55PrkVaTmVGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_2Cy0pxKDXzlz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_4sIURJiWQ9Vz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_4WkF1X2nepzz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_8o6PyoxGfp4z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_j5iTHVuky3z_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Handmade, no brand 5 3/4\u201d long by 3 1/2\u201d wide ( folded )Leather is slightly stiff due to age"
-            },
-            {
-                "id": "7338164248",
-                "name": "Vintage Textured Faux Leather Large Black Wallet",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-textured-faux-leather/7338164248.html",
-                "datetime": "2021-06-17 12:41",
-                "price": "$40",
                 "where": "alameda",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_2qy7NEc3nUTz_0vd0n1_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00B0B_kgAJOvn7PQ6z_0xD0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00U0U_2qy7NEc3nUTz_0vd0n1_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_2qy7NEc3nUTz_0vd0n1_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_8Ht47sytiiQz_0Aq0m4_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_5k62JBdhtQmz_0os0jP_50x50c.jpg",
-                    "https://images.craigslist.org/01515_92JLEp4PL7jz_0CI0oh_50x50c.jpg",
-                    "https://images.craigslist.org/01313_1vhIWrDGP0qz_0os0m6_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_1J1qI8iFQN9z_0CI0iM_50x50c.jpg",
-                    "https://images.craigslist.org/01515_zOo3oy6aTsz_0rE0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_1AORbcZG2zPz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_8W87O4IYUGWz_0va0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_8FuCwPi8wJCz_0CI0mm_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_2CBm9qGSF8Ez_0BI0od_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_fH30D1C0PSbz_0xw0o6_50x50c.jpg"
+                    "https://images.craigslist.org/00B0B_kgAJOvn7PQ6z_0xD0t2_600x450.jpg",
+                    "https://images.craigslist.org/00B0B_kgAJOvn7PQ6z_0xD0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_9MeAe1aF60xz_0tU0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_kCh18pPNSlxz_0wL0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_f1zrFMbHv4Uz_0wE0px_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_crR2gvDPnbEz_0r90pR_50x50c.jpg",
+                    "https://images.craigslist.org/00606_6OAOl0hpO6Oz_0pC0ni_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_iyuWmemunMZz_0rD0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01212_jnjERYI11zpz_0zU0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_g4xvorfBM0zz_0CI0sl_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_4mtQwYtiacIz_0Ac0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_4jV7MxtjtBBz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_hxH8VlicfU2z_0te0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Soft Faux Suede Interior Stitch TrimIn very good condition, sturdy construction, its thick (around 1.25\u201d), Measures around 4.25\u201d tall and 7.5\u201d wide, snap closure, has a several compartment, two inserts and small mirror.To avoid spam and stay safe, it\u2019s still available and can be purchased at Call Jannie on eBay"
+                "description": "Chicago USA No. 240\u2022\tIn fair to good vintage condition and measures around 4\u201d wide and 2.5\u201d tall. To avoid spam and stay safe, it\u2019s still available and can be purchased at Call Jannie on eBay"
             },
             {
-                "id": "7338161803",
-                "name": "Vintage Leather Wallet MTC 1992 w Elephant Red Tan Tooled Design India",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-leather-wallet-mtc-1992/7338161803.html",
-                "datetime": "2021-06-17 12:37",
-                "price": "$40",
-                "where": "alameda",
+                "id": "7325169694",
+                "name": "Designer Vintage Check Cotton Tote Bag With Genuine Leather Straps",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-designer-vintage-check-cotton/7325169694.html",
+                "datetime": "2021-06-17 13:41",
+                "price": "$20",
+                "where": "San Mateo",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_izyBAv9PIoZ_0sy0pb_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00505_izyBAv9PIoZ_0sy0pb_600x450.jpg",
-                    "https://images.craigslist.org/00505_izyBAv9PIoZ_0sy0pb_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_koSIFdaj776_0rE0q4_50x50c.jpg",
-                    "https://images.craigslist.org/00303_9bxRLkZlAzf_0zk0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_fHGLiwFD1Hb_0uf0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_9ar8SPw7yYw_0CI0nd_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_4rQFWFOzNo1_0tB0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_1cGWUb3M1y_0xs0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_ckuYjF14AOD_0sg0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_5NJC38gxSZH_0z30t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_jVBlUsdJIfU_0CI0pa_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_a6nwDGzIvQ6_0CI0nL_50x50c.jpg",
-                    "https://images.craigslist.org/01313_5GQ4lFceAVI_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_5EW8Lrdli1Lz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_aL8VuXGET5Bz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_dJOFxZRzcJEz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_hkGpi2K2Fmiz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_eQN3lnxydxfz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "\u2022\tFabric lined, snap closure and two paper money areas and zip coin compartment, \u2022\tIn good vintage condition, natural wear with age,  has loose and missing stitching on left side.   \u2022\tMeasures around 4.25\u201d tall and 8\u201d wide.  To avoid spam and stay safe, it\u2019s still available and can be purchased at Call Jannie on eBay"
+                "description": "New condition! Local pick up and cash only!Very good quality!Size: 35cm x 37.5cm"
             }
         ],
         "beaded": [
@@ -552,6 +548,28 @@
     "cars": {
         "drives great": [
             {
+                "id": "7338200407",
+                "name": "1999 Toyota Camry Le Runs And Drives Great",
+                "url": "https://sfbay.craigslist.org/sfc/cto/d/san-francisco-1999-toyota-camry-le-runs/7338200407.html",
+                "datetime": "2021-06-17 13:46",
+                "price": "$1,550",
+                "where": "inner sunset / UCSF",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00k0k_49YRQyFpPCOz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00k0k_49YRQyFpPCOz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00k0k_49YRQyFpPCOz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_2dB4ZFzu6JMz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_bBdk17en77nz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_cKTyw2XFc6bz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_kSPRkXlqNlJz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_6jsbwFJpgIDz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "Selling my 1999 Toyota Camry Le Automatic Transmission Runs And Drives Great No Mechanical Issues Always Serviced It On Time Oil Changes Every 3k Miles Tune Up Done On Time Recently replaced Timing Belt Water Pump Coils Spark Plugs Battery Serpentine Belt Breaks And Tires Have All Receipts To Verify Clean Title Current Smog And Registration Great For SomeOne Looking To Commute Great For A Student Has 220k Miles Mostly Highway Great Gas Saver Excellent Gas Milage Call If Interested   thanks"
+            },
+            {
                 "id": "7336626731",
                 "name": "1998 Toyota Tacoma Regular Cab 2D (5 Spd) Pick up Truck \u201cDrives Great\"",
                 "url": "https://sfbay.craigslist.org/sby/cto/d/campbell-1998-toyota-tacoma-regular-cab/7336626731.html",
@@ -611,35 +629,6 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "Speak Russian Call Any Time Speak EnglishText For PicturesFor Sale is my Nissan MuranoGold colormiles 190 Khas new battery new alternatornew lower control armkey words murano sentra titan nissan2000 2002 2005 2007 2009 1995"
-            },
-            {
-                "id": "7333144769",
-                "name": "2007 FORD EDGE SE  AWD.  CLEAN TITLE. SMOG.  DRIVES GREAT***",
-                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2007-ford-edge-se-awd-clean/7333144769.html",
-                "datetime": "2021-06-07 10:24",
-                "price": "$6,499",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_e8zDrXiZmExz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00G0G_e8zDrXiZmExz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_e8zDrXiZmExz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_jmf8pkUZg42z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_lSRUfM1Mlnnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_beV6xhH8T6sz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_hWMNpf1e6Y2z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_f4pDffQqsqIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_5QksvqudPsz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_gpMXxicsR4bz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_l4UjcJiYmTDz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_esosZ4PC0Y3z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_8eX4FHH7jK1z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_4n4eRHdYpDoz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_fabhh5MZzLEz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2007 Ford Edge se awd.clean title. smog check.164,xxx miles. drives great.cold a/c.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [
@@ -868,6 +857,27 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
+                "id": "7334878754",
+                "name": "Fender Bassman 60 Combo Amp",
+                "url": "https://sfbay.craigslist.org/scz/msg/d/watsonville-fender-bassman-60-combo-amp/7334878754.html",
+                "datetime": "2021-06-17 13:39",
+                "price": "$145",
+                "where": "aptos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_bzbYKTDveo0z_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_bzbYKTDveo0z_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00F0F_bzbYKTDveo0z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_4eIJrREl9VFz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_cYJ3PLIqh37z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_3m8etlBsaxMz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_cW1lA9fDWx4z_0lM0t2_50x50c.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "Fender Bassman 60 Combo Amp for sale, perfect conditions.I can sell you this item with a bass I also put on sale here, with a discount: https://sfbay.craigslist.org/scz/msg/d/watsonville-schecter-studio-bass-active/ .htmlDescription:Featuring Fender's famous tone in a portable, affordable package, it delivers 60W into 8 ohms to drive a 12 Eminence speaker and piezo horn. Unusually loud for its wattage and size, it can hold its own for just about any daily situation. Features active/passive input pad selector, gain and master volume controls, tuner out jack, effects loop, XLRFeatures:60 watts of power12 Eminence bass driver and piezo hornActive/passive input pad selectorGain and master controlsTuner out jackEffects loopMetal grilleBass, treble, and parametric-mid tone controlsTone enhance switchXLR out jackTuner mute switch with flashing indicatorPower amp and preamp clip indicatorsA limiter select switchWedge cab design"
+            },
+            {
                 "id": "7338178248",
                 "name": "Collings C-10 custom sunburst acoustic guitar",
                 "url": "https://sfbay.craigslist.org/pen/msg/d/san-carlos-collings-10-custom-sunburst/7338178248.html",
@@ -887,34 +897,6 @@
                 "query": "loud",
                 "category": "msa",
                 "description": "Up for sale is an amazing sounding Collings C10 with a custom sunburst.  Bought it at Gryphon a couple of years ago.  It is spruce and mahogany with 1 11/16 nut.  Very loud for its size and sounds great.  Comes with OHSC.  You have to hear this to appreciate how good it really sounds.  Selling to make room for a dream guitar purchase otherwise I would sell it.If the ad is up it is available but I wont respond to any ridiculous offers so dont bother."
-            },
-            {
-                "id": "7327907224",
-                "name": "Fender The Twin \"Red Knob\" tube guitar amp",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/vallejo-fender-the-twin-red-knob-tube/7327907224.html",
-                "datetime": "2021-06-17 13:06",
-                "price": "$500",
-                "where": "vallejo / benicia",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_k1ffOCW6GpY_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_k1ffOCW6GpY_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_k1ffOCW6GpY_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_25s0Z7ok16B_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_i4kj0gEpkOn_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_7ERqqVJbetY_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_jAyXK0bWuG3_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_ikJ1O9pd6Si_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_bdP3A6XQgHp_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_dzTGiTPG4AD_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_5NUGgY0rLrA_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_83JL2pDpHkw_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_9zePiPXwJcF_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_9nTWFMyfaDO_0CI0t2_50x50c.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "Thoroughly tested and works great. Sounds terrific. Very loud! Includes foot switch and cable.Text or call"
             }
         ],
         "famous": [
@@ -940,6 +922,27 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
+                "id": "7334878754",
+                "name": "Fender Bassman 60 Combo Amp",
+                "url": "https://sfbay.craigslist.org/scz/msg/d/watsonville-fender-bassman-60-combo-amp/7334878754.html",
+                "datetime": "2021-06-17 13:39",
+                "price": "$145",
+                "where": "aptos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_bzbYKTDveo0z_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_bzbYKTDveo0z_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00F0F_bzbYKTDveo0z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_4eIJrREl9VFz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_cYJ3PLIqh37z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_3m8etlBsaxMz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_cW1lA9fDWx4z_0lM0t2_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Fender Bassman 60 Combo Amp for sale, perfect conditions.I can sell you this item with a bass I also put on sale here, with a discount: https://sfbay.craigslist.org/scz/msg/d/watsonville-schecter-studio-bass-active/ .htmlDescription:Featuring Fender's famous tone in a portable, affordable package, it delivers 60W into 8 ohms to drive a 12 Eminence speaker and piezo horn. Unusually loud for its wattage and size, it can hold its own for just about any daily situation. Features active/passive input pad selector, gain and master volume controls, tuner out jack, effects loop, XLRFeatures:60 watts of power12 Eminence bass driver and piezo hornActive/passive input pad selectorGain and master controlsTuner out jackEffects loopMetal grilleBass, treble, and parametric-mid tone controlsTone enhance switchXLR out jackTuner mute switch with flashing indicatorPower amp and preamp clip indicatorsA limiter select switchWedge cab design"
+            },
+            {
                 "id": "7326874060",
                 "name": "1964 Selmer Mark VI Alto Saxophone",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-1964-selmer-mark-vi-alto/7326874060.html",
@@ -963,26 +966,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Do not pass on this instrument, if you are looking at this, then you know the reputation of the Mark VI, and this one is a good example. This would also be a great investment unlike a new sax that would depreciate in value.This sax plays nice and has that tone the Mark VI is famous for. Original finish but does show slight wear, but very nice for it\u2019s age. No dents & the serial numbers do match, and the original case is in very good condition. Please email with any questions."
-            },
-            {
-                "id": "7337881158",
-                "name": "Chickering upright, 1970s. Super low price",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/sunnyvale-chickering-upright-1970s/7337881158.html",
-                "datetime": "2021-06-16 22:31",
-                "price": "$550",
-                "where": "sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_yFn8lm3XQNz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_yFn8lm3XQNz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_yFn8lm3XQNz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_3qrWHi7Dz76z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_2hHHZ3zKGW2z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_e3Fd1ImNWSkz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Greetings. You have a chance to buy a great upright piano manufactured by a world-famous Chickering company,  that has been founded BEFORE Steinway.  This upright piano is from 1970s. We are consolidating rooms at our small music school, and now there are too many instruments in one office. Imagine that the piano has been recently TUNED and regulated.  You'll only need to hire your movers. No stairs in the building Chickering has been  famous for many decades before getting sold.https://www.youtube.com/watch?v=L4yfS1bEHz8https://www.youtube.com/watch?v=SylNUF5510E By the way, in the same room, we have also two Chickering grand pianos, which we use for teaching. You can see how much we are fond of this make!"
             }
         ]
     }

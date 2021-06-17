@@ -125,6 +125,46 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7327240034",
+                "name": "VINTAGE HAT",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-hat/7327240034.html",
+                "datetime": "2021-06-17 04:44",
+                "price": "$13",
+                "where": "inner richmond",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_1Hw7mmLSQDV_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_iwixXoVxJtY_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "100% wool. Made in USA by Lancaster, Sonni of San Francisco.Dark beige veiled wool felt broad brimmed with tule"
+            },
+            {
+                "id": "7327240183",
+                "name": "VINTAGE DRESS FROM JESSICA MCCLINTOCK BRIDAL COLLECTION",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-dress-from/7327240183.html",
+                "datetime": "2021-06-17 04:44",
+                "price": "$20",
+                "where": "inner richmond",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00h0h_eTHcYPVscBF_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00h0h_eTHcYPVscBF_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_eTHcYPVscBF_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_impVe0VLRYN_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_9gq4H2WLu47_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_ilpiW9QAkK3_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_32kCVADAhGG_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Light sage. Made in USA. Size 5/6. 59% acetate, 41% rayon. Zipper in back."
+            },
+            {
                 "id": "7333171234",
                 "name": "Vintage Fancy Hats Peacock Lace",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-fancy-hats/7333171234.html",
@@ -146,44 +186,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "two fabulous vintage hats, 15 each or both for 20!"
-            },
-            {
-                "id": "7331196879",
-                "name": "Shirt - American Eagle - Outfitters - Vintage Fit - Size M",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-shirt-american-eagle/7331196879.html",
-                "datetime": "2021-06-17 01:09",
-                "price": "$12",
-                "where": "santa clara",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00m0m_2SiomL3YS3oz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00m0m_2SiomL3YS3oz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00m0m_2SiomL3YS3oz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_lBPm51puoyYz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_jVh8uhLcorRz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "ShirtAmerican EagleOutfitters - Vintage FitSize MUsed - In very good conditionClick the more ads by this user link to see other items I have for saleNo warranty given or implied"
-            },
-            {
-                "id": "7328286818",
-                "name": "COWBOY BOOTS/ Vintage",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/vineburg-cowboy-boots-vintage/7328286818.html",
-                "datetime": "2021-06-16 22:07",
-                "price": "$35",
-                "where": "sonoma",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00I0I_bVV35jqukYuz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00I0I_bVV35jqukYuz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00I0I_bVV35jqukYuz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_iS2dvRFMsdz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_fcaQntI14YGz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Cowboy Boots by CORSINAColor: BlackSays Size 9, but fits like 8-8 1/2 Women\u2019sAwsome Vintage 80\u2019s CORSINA flat Western style bootsPull on Style with minimal stacked heel12\u201d high from ground to topEmbossed snake skin Print Leather InsertsGreat looking and Very Comfortable"
             }
         ],
         "beaded": [
@@ -535,6 +537,34 @@
                 "description": "1998 Toyota Tacoma Regular Cab Short Bed 2DPick up TruckManual 5-Spd 4-Cyl, 2.4 Liter 2WD204,000 MilesClean Title (Clean History)Smog Certificate ready Registration paid Sep 2021This is a clean great running truck that served me well, garage kept mostly. It's pretty clean inside and outside, I bought it and used it as a second car, has Small 2.4 liter engine and gets excellent gas mileage for a light duty truck. This is a Well Serviced Truck, Excellent Mechanical, Drives Great, Strong engine. Services done on regular basis as recommend. It was serviced last month and all checked out fine. This car is perfectly fine for long commute every day and has long life left on it. * Has Upgraded Pioneer stereo with AUX jack, comes with all basic options plus Air conditioning, ABS 4 wheels , Dual airbagsRecent services:- New Ignition Wire set- 2 New belts- New Spark plugs - Oil change done If interested in the Truck please CALL  4 0 8 . 7 2 1 . 2 7 8 1, Serious inquires please, $7,600 priced to sell"
             },
             {
+                "id": "7335911788",
+                "name": "2005 Nissan Murano 190k Miles Nice Car Drives Great",
+                "url": "https://sfbay.craigslist.org/sfc/cto/d/rancho-cordova-2005-nissan-murano-190k/7335911788.html",
+                "datetime": "2021-06-12 19:43",
+                "price": "$5,800",
+                "where": "bayview",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
+                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_eoA9STr0z7hz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_eeaTZZkpzJCz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_9BAxg4O5oh8z_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_loPwGKk7uLEz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_8zPYATp1rgOz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_dRl1qxSEysZz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00505_azIdCJjsQryz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_dRT3RSWD4XXz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_4fYjXCdMJSez_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_50SWuKNMmegz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_gbCwWgmdEkrz_0QE0tC_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "Speak Russian Call Any Time Speak EnglishText For PicturesFor Sale is my Nissan MuranoGold colormiles 190 Khas new battery new alternatornew lower control armkey words murano sentra titan nissan2000 2002 2005 2007 2009 1995"
+            },
+            {
                 "id": "7333144769",
                 "name": "2007 FORD EDGE SE  AWD.  CLEAN TITLE. SMOG.  DRIVES GREAT***",
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2007-ford-edge-se-awd-clean/7333144769.html",
@@ -562,46 +592,6 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2007 Ford Edge se awd.clean title. smog check.164,xxx miles. drives great.cold a/c.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
-            },
-            {
-                "id": "7330272496",
-                "name": "2004 HONDA ELEMENT EX AUTOMATIC.. CLEAN TITLE. SMOG* DRIVES GREAT.",
-                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2004-honda-element-ex-automatic/7330272496.html",
-                "datetime": "2021-06-01 12:23",
-                "price": "$6,995",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_g2dJt8VEp8sz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_iEngCNZBCQwz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_bwJLt8dUH6yz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_8OdH5pCbZY9z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_lQtn6zNcOo9z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_3zwukfZiVtaz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_5qknxQ09Z3Fz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_cIyH3639wHnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_76a89jqUjJxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_8XgSTjsuSAnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_wtidrP6esIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_3RqFV52Y6vxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_cMX1blec4AOz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_fXzREF7X5ekz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_jCrZJz5KURz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_eGBb64oZQRIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_bPMhxIjmsU7z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_1ZlvsrmzbmEz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_7dCLiih6Cagz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01111_bc9fLUm1L2uz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_3lAorK7ntpDz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_iP8dtGZXHZZz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_456kablgFV5z_0CI0t2_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2004 Honda Element ex 2wdclean title. smog check.183,xxx miles.  lots to go.4-cylinder.  gas saver!!!drives great. clean in and out.automatic, shifts smooth.cold a/c.    Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [

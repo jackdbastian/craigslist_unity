@@ -62,6 +62,25 @@
         ],
         "wood": [
             {
+                "id": "7329857810",
+                "name": "Hardie cement wood siding",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/napa-hardie-cement-wood-siding/7329857810.html",
+                "datetime": "2021-06-17 16:18",
+                "price": "$750",
+                "where": "napa county",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00x0x_3oV6HXUvVk1z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00x0x_3oV6HXUvVk1z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00x0x_3oV6HXUvVk1z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_dujpRkz64Scz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_6HGhDmur8LCz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Hardie cement wood siding. Pre painted slate gray, but can be painted any color.6 X  3/8 X 12' long106  pieces Perfect for a shed or out building$750.00You pick up, cash only"
+            },
+            {
                 "id": "7338206588",
                 "name": "Old Rustic and Modern Reclaimed Barn Wood - Mantels - Walls - Beams",
                 "url": "https://sfbay.craigslist.org/pen/mad/d/mountain-view-old-rustic-and-modern/7338206588.html",
@@ -133,106 +152,64 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Visit our new Shop in Mountain View - Large Inventory of MaterialsBy appointment only.Give us a call at 650 931 5268Barn-wood is becoming even more rare in the United States and Reclaimed West is your source for authentic barn-wood from the mid-west and Rockies. We have a selection of barn-wood available and can cut materials into any dimension requested.You can visit our new millwork shop in Mountain View and see the new stock of red and white oak from barns salvaged in Kentucky and Indiana. We have a great inventory of material in the heart of Silicon Valley. Our Reception Desk prices start at $1,200.00Our mantel pricing varies - for example, a rough cut 6 x 6 - 60 inches long - $200.00Pricing for 3/4 material ranges from $9.00 - $15.00 per sq ftDimensional lumber pricing starts at $9.50 bd/ft - $15.00 bd/ft.Our 2-3 inch slabs start at $150.00Our tables range in price starting from $300 - $15,000Our guest cabins start at $10,000.00FREE DELIVERY IF ORDER IS OVER 200 SQ FT OF MATERIALWe can create siding, flooring, furniture and even artwork from barn-wood based around your specifications. Contact a Reclaimed West professional today to discuss our material. Visit the website at: www.reclaimedwest.comWe are located at 828 Independence Avenue, Mountain View CA 94043. Give us a call at 650 931 5268Also serving the SF Bay Area: Sacramento, Napa, Chico, Carmel, Napa, San Francisco, San Mateo, Daly City, San Carlos, San Ramon, Campbell, Redwood City, Belmont, Cupertino, Fremont, Gilroy, Hollister, Los Gatos, Milpitas, Morgan Hill, Mountain View, San Jose, Santa Clara, Portola Valley, Los Altos, Saratoga, Sunnyvale, Willow Glen, Cambrian, Alamo Square, Nopa, Bayview, Bernal Heights, Castro, Cole Valley, Ashbury Heights, Excelsior, Financial District, Glen Park, Haight Ashbury, Hayes Valley, Ingleside / SFSU / CCSF, Laurel Heights, Presidio, Marina, Cow Hollow, Mission District, Nob Hill, Noe Valley, North Beach / Telegraph Hill, Pacific Heights, Portola District, Potrero Hill, Richmond, Seacliff, Russian Hill, SOMA, South Beach, Treasure Island, Twin Peaks, Diamond Heights, Visitacion Valley, Forest Hill, Aptos, Boulder Creek, Capitola, Santa Cruz, Scotts Valley, Soquel, Watsonville, Portola Valley, Los Altos, Mountain View, Palo Alto, Menlo Park, Cupertino, San Bruno, Walnut Creek, Sunnyvale, Danville, Napa, Burlingame, Hillsborough, Berkeley, Santa Clara, Fremont, Marin County and Hayward."
-            },
-            {
-                "id": "7333636166",
-                "name": "2\u201dx3\u201d Douglas Fir Wood boards",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-2x3-douglas-fir-wood-boards/7333636166.html",
-                "datetime": "2021-06-17 11:36",
-                "price": "$2",
-                "where": "san carlos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00r0r_8dqVzcEtseE_0gw0kE_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00r0r_8dqVzcEtseE_0gw0kE_600x450.jpg",
-                    "https://images.craigslist.org/00r0r_8dqVzcEtseE_0gw0kE_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_33JOSSWI2AZ_0gw0kE_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_acSlEJ6H8ca_0gw0kE_50x50c.jpg",
-                    "https://images.craigslist.org/01010_lVtmxePJmvN_0ak08g_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "We have 2\u201dx3\u201d old growth Douglas fir boards for sale - boards range in length from 5\u2019 up to 14\u2019 long. Great grain, some are clear and some with small knots. Asking $2.00 a linear foot! If the posting is up, they are available. Reclaimed, wood, lumber, old growth, architectural salvage, PMI"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7338259321",
-                "name": "Rare Vintage Police Fire Badges, Uniforms Sheriff More",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-rare-vintage-police-fire/7338259321.html",
-                "datetime": "2021-06-17 15:54",
-                "price": "$49",
-                "where": "sunnyvale",
+                "id": "7331001799",
+                "name": "Vintage Coach Purse",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-coach-purse/7331001799.html",
+                "datetime": "2021-06-17 16:27",
+                "price": "$20",
+                "where": "san jose south",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_2y8TubkxjFhz_0CI0q5_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00U0U_guMj7LV2nUrz_0jE0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00n0n_2y8TubkxjFhz_0CI0q5_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_2y8TubkxjFhz_0CI0q5_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_iTqOCi45Do2z_0vl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_8SpuO8X0vbl_0C80t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_1YwEGmkWAv0_0rU0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_kXs41QtuyUL_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_azYSAJafQXN_50x50c.jpg",
-                    "https://images.craigslist.org/00101_5Xr8xRGDxaF_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_ccgh9U4xbQe_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_leiF4rkwvqn_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_d2zrDlsZrtW_50x50c.jpg",
-                    "https://images.craigslist.org/01212_4I6PMEYSyZt_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_fdooqDr60Ac_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_imXrMV5DaVD_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_a2AFiAxZHiD_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_28yJwmxlKIr_0Aw0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_6sEp6ov2LA0_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_4pKuv0B2cGy_0yb0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_gyQlGgO2lB4_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_4sCn6dno6Dv_0mw0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_kBmiRn7Eqfb_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_15IgMOkkl0P_0CI0hc_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_j4dATyGqIZh_0BC0iW_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_bDAR0ZYBeIW_0CI0go_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_fHTXBaDjKImz_0CI0qT_50x50c.jpg"
+                    "https://images.craigslist.org/00U0U_guMj7LV2nUrz_0jE0t2_600x450.jpg",
+                    "https://images.craigslist.org/00U0U_guMj7LV2nUrz_0jE0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_93SgjEXmD7iz_0kn0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_17jrMkaMz2yz_0CI0pO_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "I am selling off very rare and hard to get vintage Police, Fire, Security, Sheriff, CHP, EMT, Ambulance uniforms that I got used in the 1970's, 1980's  and possibly older.These have been stored in a dark closet since there use and not worn so they are in the condition as last used 40 year ago. They have rare police patches on them, and I will post Patch photos as I get them out.I will be listing some more items as I photograph them.Some items include:Badges inc: Police, CHP California Highway Patrol, Special New Jersey Deputy Sheriff, SFPD San Francisco Police Badge, SFPD San Francisco Investigator Badge (Like Clint Eastwood Dirty Harry Nash Bridges Don Johnson). American Protective Services Security 6 point star badges (Made by Ed Jones Oakland), Watchman Badge, RCMP Royal Canadian Mounted Police Badges. Australian Fire Dept badge.2 Rare vintage American Protective Services 6 point star badge stamped Ed Jones Oakland, Ca., One is a Sargent Badge with a very low issue number, They started in Oakland in 1945.RCMP Royal Canadian Mounted Police hat badge, collar, and Police uniform pins.Australian Fire department hat badge.Vintage Santa Clara County Sheriff Dept Tie clip.2 different Vintage Sunnyvale Public Safety hat pins. (Sunnyvale Police Fire Dept pins)Hawaii 5-0 Inspector Police Shield badge exactly like Sun Badge Company TV show, Like Sun Badge company but does not have Sun stamp. not a new junky copy I have had it since the 1970's.US Army Indian Scout Star badge.Miami Police Badge.Florida Police or Security Badge.Texas Police Shield Star Badge.Texas Security Badge.Mexican Police Badge. Mexican Policia Federal, or Federale Badge, Policia Muncipal Badge.Please note: Although most of my badges were actually used, I am selling the following San Francisco Police Badge, San Francisco Inspector Badge, the CHP California Highway Patrol Traffic Patrol Badge, and the Hawaii 5-0 Police badge as Obsolete, Reproduction or TV Movie Props since there is no maker stamp on the back of these and are sold as collector only pieces for display or Film / TV production company\u00a0work only.\u00a0\u00a0C.H.I.P.s TV show badge.Clint Eastwood, Dirty Harry San Francisco Police inspector badge #2211, Nash Bridges TV show SIU type badge.1st ever held, 1985 World Police and Fire Games pins.Vintage Leather Police belt and hand cuff pouch.LAPD 1984 Olympic Tee Shirt or Police T-Shirt.Campbell Police shirt. Ladies size small.Seaside Police dept shirt. (Next to Monterey Ca.)Carmel Ca. Fire Dept Uniform Jacket with Fireman pins on collar.  (No Patches inc) Carmel by The Sea Fire Jacket Size 42.Fire Dept Dress uniform dated Jan/1970 with name of Fireman officer.Vintage never worn, Dallas Police uniform with Sargent pins and Tie new with tags.2 pairs of New never worn or even hemmed Police, security or Fireman's pants size 32, and size 34Tuffy dark blue Police Jacket size 40R with (P) or Police buttons but could use for Private Security.1985 rare Tournament of Roses CHP California Highway Patrol collector edition #53 Pin set in box.Rare Precise brand 1970's Handcuff set vintage new in box from company that only was from 1970-1980.Royce CB / PA Loud Speaker controller.Large PA Loud Speaker. Email OK but Call or Text"
+                "description": "Black Vintage Coach Purse with outside pocket, inside zipper pocket. Good condition"
             },
             {
-                "id": "7337056858",
-                "name": "SANUK CASA BARCO Vintage BOAT CANVAS SHOES MEN'S SIZE 8.5  New in Box",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-sanuk-casa-barco-vintage/7337056858.html",
-                "datetime": "2021-06-17 15:51",
-                "price": "$25",
-                "where": "rohnert pk / cotati",
+                "id": "7335163609",
+                "name": "Vintage Designer Blouse Patterns",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-designer-blouse/7335163609.html",
+                "datetime": "2021-06-17 16:24",
+                "price": "$60",
+                "where": "sunset / parkside",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_4kpSv0y5oupz_0pO0jm_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00G0G_jiukGoQgIzQz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00W0W_4kpSv0y5oupz_0pO0jm_600x450.jpg"
+                    "https://images.craigslist.org/00G0G_jiukGoQgIzQz_0CI0t2_600x450.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "SANUK CASA BARCO Vintage BOAT CANVAS SHOES MEN'S SIZE 8.5 slip on lace up NATURALNew in Box with tags"
+                "description": "Donna Karan and Calvin Klein designer Vogue blouse/bodysuit patterns from the 1980s. Sizes 6 and 6-8-10. $20 ea"
             },
             {
-                "id": "7335281451",
-                "name": "Vintage Neiman Marcus cocktail dress",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/sebastopol-vintage-neiman-marcus/7335281451.html",
-                "datetime": "2021-06-17 15:45",
-                "price": "$11",
-                "where": "sebastopol",
+                "id": "7338265571",
+                "name": "6 VINTAGE WALL MOUNTED CLOTHING HANGERS",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-wall-mounted-clothing/7338265571.html",
+                "datetime": "2021-06-17 16:09",
+                "price": "$15",
+                "where": "san jose south",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_lrernhm6S1hz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00e0e_hjdxEad9Bq7_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00n0n_lrernhm6S1hz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_lrernhm6S1hz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_5VNzY5c5u45z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00505_f9Kx9khzNvRz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_bURMf39jfcnz_0lM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00e0e_hjdxEad9Bq7_600x450.jpg",
+                    "https://images.craigslist.org/00e0e_hjdxEad9Bq7_50x50c.jpg",
+                    "https://images.craigslist.org/00404_2aTLgBNjN1s_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_7YzntQW37W3_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Fabulous Neiman Marcus lined ladies cocktail dress.Silk Chiffon with rhinestone button on ruched backSize:  8Lovely vintage condition.  A perfect little black dressPlease feel free to ask any questionsPorch pick up"
+                "description": "6 VINTAGE WALL MOUNTED METAL CLOTHING HANGERS. $15EA, CLEAN, IN GOOD CONDITION WITHOUT ANY DAMAGES OR REPAIRS. GOOD TO DISPLAY LONG DRESSES, JACKETS AND HATS. ALSO FOR SALE FEMALE MOLDED SHIRT FORM SIZE 5-10  $5.  LOCAL SALE, CASH ONLY."
             }
         ],
         "beaded": [
@@ -789,6 +766,39 @@
         ],
         "fast": [
             {
+                "id": "7338270340",
+                "name": "2007 TOYOTA AVALON LIMITED ~1 OWNER VERY NICE & CLEAN! GET IT FAST!",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/tracy-2007-toyota-avalon-limited-owner/7338270340.html",
+                "datetime": "2021-06-17 16:17",
+                "price": "$9,998",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00O0O_73dSh9mXFRLz_0ww0oo_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00O0O_73dSh9mXFRLz_0ww0oo_600x450.jpg",
+                    "https://images.craigslist.org/00O0O_73dSh9mXFRLz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_d2TWHVOSzuZz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_eo8Q4qgJW93z_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_cR8JPwWtg7iz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00404_eU7U7uwRf3cz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_e96eFESaHALz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_cRdTzEZBONaz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_SWTl5rsBHbz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_h7iRVrMXY7Ez_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/01313_bWxlmzqXWppz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00101_fmS8znTEzXvz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_c6WKELq10apz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_2EKYivCSmCxz_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_asLMf1MTUq2z_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00606_ccDoeAjCnkKz_0oo0ww_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_5pGfy4q7dz9z_0ww0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00707_iDnbE543NY4z_0ww0oo_50x50c.jpg"
+                ],
+                "query": "fast",
+                "category": "cta",
+                "description": "L&W MOTORS 24106 S. CABE RDTRACY CA 953042094072749WWW.LWMOTORS.NET2007 TOYOTA AVALON LIMITED 1 OWNER UNIT VERY WELL MAINTAINED THIS VEHICLE RUNS AND DRIVES BEAUTIFULLY VERY SMOOTH RIDEOIL, BRAKES, TIRES ALL IN GOOD CONDITIONCURRENT TAGSCLEAN TITLE NO ACCIDENTS ON CERFAX HISTORY REPORT~ARE YOU LOOKING FOR A GOOD RELIABLE VEHICLE? THIS IS IT!LEATHER~ MOONROOF~ WOODGRAIN~3.5 V6 POWERFINANCING IS AVAILABLE WITH APPROVED CREDIT APPLICATION DOWNPAYMENT REQUIRED WITH MOST APPROVALSCONTACT ME TO SET UP A TEST DRIVE2094072749SE HABLA ESPANOL"
+            },
+            {
                 "id": "7335978217",
                 "name": "2007 BMW 335i twin turbo  sport  sedan very fast  clean title automatc",
                 "url": "https://sfbay.craigslist.org/pen/cto/d/los-altos-2007-bmw-335i-twin-turbo/7335978217.html",
@@ -820,40 +830,6 @@
                 "name": "*2014 Dodge Charger 5.7 Hemi Very Fast*1 Owner* Low Miles* Free CarFax",
                 "url": "https://sfbay.craigslist.org/eby/cto/d/modesto-2014-dodge-charger-57-hemi-very/7335432083.html",
                 "datetime": "2021-06-11 18:59",
-                "price": "$11,995",
-                "where": "Hayward/Livermore/Tracy",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_GcEzhP3kA2z_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00k0k_GcEzhP3kA2z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00k0k_GcEzhP3kA2z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_3SUGkx23mjWz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_2nPFbs7cvVuz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_50UXhXpvlYtz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_d3SuQ6bz0S7z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_91GDhUTyVusz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_kmSCJ6Clysyz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_lIFzefCX4k5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_icQeCbvnL9mz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_8cBTLDZpqjbz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_hUZChjF1sm6z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_igLthoHO7fVz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_hz8avgEJFBDz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_f7dFhGmHjPpz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_buSBwM8njmoz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_boneefOAOM6z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_c8e0ZwjiC16z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_lNFtmoQvlJYz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "fast",
-                "category": "cta",
-                "description": "2014 Dodge Charger 5.7 liter HEMI. 1-Owner Car. Mileage: 090622. The car equipped with Power windows, Power mirrors, Power locks, Cold air conditioning, AM/FM stereo with CD player, Rear defroster, Dual airbags and side airbags, Tilt steering, Keyles entry and push button Start, Rear defroster. 4 Good Tires. Free vehicle History Report Vin # 2C3CDXAT9EH350933. Comes with a new free smog check. runs And drives Great!****THIS IS A OLD POLICE VEHICLE. It was previously owned by Monterey County and was fleet maintenance on a regular basis.Asking $11,995 or best offer ***Any questions Call   (Jason)First reasonable offer takes it homePlease call to make a appointment if you would like to come take a look at it.Prime Auto Sales 1400 north 9th st Modesto, Cakeyward: Ford Buick Honda Toyota Charger Impala Taurus Cobolt Fusion Jetta Grand am Grand Prix Focus Neon Pontiac Corolla"
-            },
-            {
-                "id": "7332010220",
-                "name": "*2014 Dodge Charger 5.7 Hemi Very Fast*1 Owner* Low Miles* Free CarFax",
-                "url": "https://sfbay.craigslist.org/eby/cto/d/modesto-2014-dodge-charger-57-hemi-very/7332010220.html",
-                "datetime": "2021-06-04 20:36",
                 "price": "$11,995",
                 "where": "Hayward/Livermore/Tracy",
                 "deleted": false,

@@ -62,6 +62,28 @@
         ],
         "wood": [
             {
+                "id": "7335945575",
+                "name": "Miscellaneous barn wood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-miscellaneous-barn-wood/7335945575.html",
+                "datetime": "2021-06-16 17:53",
+                "price": "$150",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_5K4mrMovwsaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_llXTfe0hsvuz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_51b4U46Szdrz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_kYnYBXOqy5tz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_2X6Z7kGAN4Nz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I have some miscellaneous barn wood. I have boards, 2x3s, 2x4s, couple 2x6s and 4x4s. They range from 2-16 feet long. Most is Doug fir some redwood. All have nail holes some have splits and notches. Price will depend on what type of wood and how much you are buying or $150 for all. Located in Livermore. I don\u2019t deliver. Cash only. No holds."
+            },
+            {
                 "id": "7337803672",
                 "name": "WHITE OAK SOLID WOOD",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-white-oak-solid-wood/7337803672.html",
@@ -102,31 +124,27 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "I HAVE MANY MANY PIECES OF SOLID WOOD MAPLE WALNUT CHERRY WHITE OAK MAHOGANY CROWN MOLDING AND BASEBOARD AS PICTURES AVAILABLE FOR SALE ONLY $.75 AND UPI ONLY RESPOND EMAILS WITH PHONE NUMBER"
-            },
-            {
-                "id": "7337798880",
-                "name": "SOLID WOOD FOR CUTTING BOARDS",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-solid-wood-for-cutting-boards/7337798880.html",
-                "datetime": "2021-06-16 17:04",
-                "price": "$1",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_dg0rlSslukXz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00n0n_dg0rlSslukXz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_dg0rlSslukXz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_k0S6usq1X6Yz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_adpCvfDxJQ5z_0xS0pp_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_4ME9CQwo49Mz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I HAVE MANY MANY PIECES AND BOARDS WITH DIFFERENT SIZE AND DIFFERENT KIND OF WOOD READY FOR MAKING CUTTING BOARDS FOR HOLIDAYS AVAILABLE FOR SALE ONLY $.99 AND UP PER LINEAR FOOT (SEE PICTURES FOR EXAMPLE)I ONLY RESPOND EMAILS WITH PHONE NUMBER PLEASE"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7336622054",
+                "name": "Vintage 1996 Tour Bush Long Sleeve Shirt",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1996-tour-bush/7336622054.html",
+                "datetime": "2021-06-16 17:49",
+                "price": "$80",
+                "where": "lower pac hts",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Y0Y_915IVCTAguSz_0dr0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Y0Y_915IVCTAguSz_0dr0t2_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Bought at a Bush concert in 1996 when they opened for No Doubt and Goo Goo Dolls.   Gavin Rossdale fisheye lens portrait on long sleeve shirt. size L, but fits like a Men\u2019s medium.Pickup in Pac Heights."
+            },
             {
                 "id": "7336794397",
                 "name": "26 Pairs of Vintage Men's Jeans, 30 - 36 Waist, 30 - 34 length",
@@ -165,32 +183,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage Skin Gear Leather Trench Coat45\u201d long20\u201d across the back, seam to seam at chest hight"
-            },
-            {
-                "id": "7335288643",
-                "name": "Vintage Pendleton Men's XL Classic Bomber Jacket 100% Virgin Wool",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-pendleton-mens-xl/7335288643.html",
-                "datetime": "2021-06-16 16:52",
-                "price": "$150",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00000_9o0UWq8ekCnz_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00000_9o0UWq8ekCnz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00000_9o0UWq8ekCnz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_68ge5KTcsMiz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_dJ0JIA8JCwCz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_cMlWiCF1LF6z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_fbK8Mv6Wrsnz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_ejBrGQ4jdxez_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_1j06TxEw1Qaz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_22uoQXMhyP5z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_ckiCUNcoHl0z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_lHWGnl1Y9Wyz_0t20t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "This is a vintage, men's XL classic bomber jacket from Pendleton. I believe the collar tag is a 1960s design, however I could be mistaken. It is in good, previously owned condition with some flaws as circled in the photos. There are some black marks on the chest and sleeves. The sleeves also have a few tiny threadbare spots as does the back right in the middle. The hem does have some piling. The chest measures approximately 24 across (48 all around) and shoulder to hem length is 27.------Please call/text   or email anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
             }
         ],
         "beaded": [
@@ -327,6 +319,27 @@
         ],
         "wedding dress": [
             {
+                "id": "7336326318",
+                "name": "Custom Made Ecru Wedding Dress by San Francisco Designer Monique Lhui",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/san-rafael-custom-made-ecru-wedding/7336326318.html",
+                "datetime": "2021-06-16 17:30",
+                "price": "$1,600",
+                "where": "san rafael",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00A0A_2gCo7AaCOOVz_0t20t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00A0A_2gCo7AaCOOVz_0t20t2_600x450.jpg",
+                    "https://images.craigslist.org/00A0A_2gCo7AaCOOVz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_29nfsDkfDSQz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_13ZKxjQhoXEz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_aqZkMbApzsDz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_fUyGNLF4I5iz_0t20t2_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Size 6-8Bride is 5'7 and wore flats.Bust size 34-36Paid $8000 for the dress. Not a Chinese import.You can now wear for a much more reasonable price and look great.Packed in a memento storage box."
+            },
+            {
                 "id": "7334822577",
                 "name": "Wedding dress",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/fairfield-wedding-dress/7334822577.html",
@@ -365,26 +378,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Will probably need Dry Cleaned. I called a dry cleaner and they said minimum price is $100.00.  No size listed guessing it might be a 12 or 14.  Please come and try it on (not sure of the size).  If nothing else it is worth the price in beads.  If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
-            },
-            {
-                "id": "7335743360",
-                "name": "Lace Boho wedding dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-lace-boho-wedding-dress/7335743360.html",
-                "datetime": "2021-06-16 10:22",
-                "price": "$90",
-                "where": "alameda",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00f0f_dLSzgARGOEJz_0dm0e2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00f0f_dLSzgARGOEJz_0dm0e2_600x450.jpg",
-                    "https://images.craigslist.org/00f0f_dLSzgARGOEJz_0dm0e2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_8pNClNTHnqmz_0dl0gV_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_7rxPSOusTyrz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_lfay7chLCYFz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Brand new unaltered! Size details in inches - Bust 32, Waist 26, Hips 35 (Size 2-4)Pick up in Fremont *No return for this item, thank you!*"
             }
         ],
         "great condition": [

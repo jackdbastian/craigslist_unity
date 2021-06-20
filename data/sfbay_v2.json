@@ -163,63 +163,67 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7336681694",
-                "name": "Vintage White Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7336681694.html",
-                "datetime": "2021-06-20 15:56",
-                "price": "$25",
+                "id": "7332568839",
+                "name": "Vintage Pendelton 100% Wool shirt Size Medium",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/albany-vintage-pendelton-100-wool-shirt/7332568839.html",
+                "datetime": "2021-06-20 16:13",
+                "price": "$60",
+                "where": "albany / el cerrito",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01414_iRloS2PdpB0_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01414_iRloS2PdpB0_600x450.jpg",
+                    "https://images.craigslist.org/01414_iRloS2PdpB0_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_g7V19Dgyu9o_50x50c.jpg",
+                    "https://images.craigslist.org/00707_63yJI5MHQV8_50x50c.jpg",
+                    "https://images.craigslist.org/01212_6DK9R8tMjMG_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_ek26cjEYaSX_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Pendleton 100% Wool Shirt in excellent condition. Original owner - Made in the U.S.A. Size MediumCall home phone  No texting thanks"
+            },
+            {
+                "id": "7332568979",
+                "name": "Vintage Pendelton 100% Wool shirt Size Medium",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/albany-vintage-pendelton-100-wool-shirt/7332568979.html",
+                "datetime": "2021-06-20 16:13",
+                "price": "$60",
+                "where": "albany / el cerrito",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_eVdJ3NYZUVa_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_eVdJ3NYZUVa_600x450.jpg",
+                    "https://images.craigslist.org/01010_eVdJ3NYZUVa_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_6yIPe8E6ygS_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_1qDBbbInPFf_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_kH5utudBDre_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_da48uybgvQt_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_cYXGLZKniOo_50x50c.jpg",
+                    "https://images.craigslist.org/00707_1t8Z7uAgaSl_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Pendleton 100% Wool Shirt in excellent condition. Original owner - Made in the U.S.A. Size MediumCall home phone  No texting thanks"
+            },
+            {
+                "id": "7336795698",
+                "name": "Toucan Collection Green Vintage-Style Hat",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-toucan-collection-green-vintage/7336795698.html",
+                "datetime": "2021-06-20 16:09",
+                "price": "$75",
                 "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00X0X_joz44OquenW_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg"
+                    "https://images.craigslist.org/00X0X_joz44OquenW_600x450.jpg",
+                    "https://images.craigslist.org/00X0X_joz44OquenW_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_at5BOxxM4Rb_50x50c.jpg",
+                    "https://images.craigslist.org/00808_7UcnpxHINRJ_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "2 pairs, price is for both.  Great condition."
-            },
-            {
-                "id": "7339608328",
-                "name": "Vintage San Jose sharks jacket",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-san-jose-sharks-jacket/7339608328.html",
-                "datetime": "2021-06-20 15:40",
-                "price": "$200",
-                "where": "san jose north",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00z0z_l8nok6fobpOz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00z0z_l8nok6fobpOz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00z0z_l8nok6fobpOz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01717_eqvkN65Xu16z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_jq9IK7XRAAaz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_amKoQ3cfVNMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_5rAtvWjBjCaz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage San Jose sharks jacket size XL made by pro layer. Leather material. Great condition!!!!"
-            },
-            {
-                "id": "7339605182",
-                "name": "Vintage Original Fillmore T Shirt 1996 (XL) Staff",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/san-anselmo-vintage-original-fillmore/7339605182.html",
-                "datetime": "2021-06-20 15:31",
-                "price": "$40",
-                "where": "san anselmo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00y0y_bW4EkbFcf4cz_0ne0ne_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00y0y_bW4EkbFcf4cz_0ne0ne_600x450.jpg",
-                    "https://images.craigslist.org/00y0y_bW4EkbFcf4cz_0ne0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_37vGcNDmmTCz_0ne0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00404_lOFU2ajsHgcz_0ne0Fi_50x50c.jpg",
-                    "https://images.craigslist.org/00707_4zvAo6UZfsqz_0ne0Fi_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_8d0xx1NvfzSz_0ne0Fi_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_8PT4pHkrlHuz_0ne0Fi_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Staff shirt from 1996 25 years old.Size is extra large.There is a small hole and a run on the lower right front side.Fillmore F on the front left.The back says BGP Fillmore 1996 that has a list of the acts that performed that year at the Fillmore."
+                "description": "Vintage Style, perfect condition, never worn"
             }
         ],
         "beaded": [

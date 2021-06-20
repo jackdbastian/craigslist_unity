@@ -163,61 +163,63 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7329369120",
-                "name": "vintage Tie: Buck Wheat Little Rascals",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/cupertino-vintage-tie-buck-wheat-little/7329369120.html",
-                "datetime": "2021-06-20 14:55",
-                "price": "$350",
-                "where": null,
+                "id": "7336681694",
+                "name": "Vintage White Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7336681694.html",
+                "datetime": "2021-06-20 15:56",
+                "price": "$25",
+                "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_6vQVJSqiByLz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_llYTV8SmkFDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_9QvHRxL0wPFz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_5U1ZYVZHIbrz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Little Rascals by Ralph MarlinBuck Wheat Tievintagewhere will you find another like this!excellent condition$350"
+                "description": "2 pairs, price is for both.  Great condition."
             },
             {
-                "id": "7339591712",
-                "name": "Vintage Wedding Dress with Detachable Train",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/san-rafael-vintage-wedding-dress-with/7339591712.html",
-                "datetime": "2021-06-20 14:54",
-                "price": "$50",
-                "where": "san rafael",
+                "id": "7339608328",
+                "name": "Vintage San Jose sharks jacket",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-san-jose-sharks-jacket/7339608328.html",
+                "datetime": "2021-06-20 15:40",
+                "price": "$200",
+                "where": "san jose north",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00z0z_l8nok6fobpOz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_i7wT1MwgvXl_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_lc6RQt6OMJC_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_coQZA65IxWE_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00z0z_l8nok6fobpOz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00z0z_l8nok6fobpOz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01717_eqvkN65Xu16z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_jq9IK7XRAAaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_amKoQ3cfVNMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_5rAtvWjBjCaz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "A vintage wedding dress with long detachable train.  I believe the dress is a size 16 - 18. It was preserved in 1987-88 and is still in original sealed box."
+                "description": "Vintage San Jose sharks jacket size XL made by pro layer. Leather material. Great condition!!!!"
             },
             {
-                "id": "7339585507",
-                "name": "today: vintage clothes yard sale!",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-today-vintage-clothes-yard-sale/7339585507.html",
-                "datetime": "2021-06-20 14:38",
-                "price": "$1",
-                "where": "Berkeley",
+                "id": "7339605182",
+                "name": "Vintage Original Fillmore T Shirt 1996 (XL) Staff",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/san-anselmo-vintage-original-fillmore/7339605182.html",
+                "datetime": "2021-06-20 15:31",
+                "price": "$40",
+                "where": "san anselmo",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00l0l_dxQqFkvGlsQz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00y0y_bW4EkbFcf4cz_0ne0ne_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00l0l_dxQqFkvGlsQz_0CI0t2_600x450.jpg"
+                    "https://images.craigslist.org/00y0y_bW4EkbFcf4cz_0ne0ne_600x450.jpg",
+                    "https://images.craigslist.org/00y0y_bW4EkbFcf4cz_0ne0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_37vGcNDmmTCz_0ne0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00404_lOFU2ajsHgcz_0ne0Fi_50x50c.jpg",
+                    "https://images.craigslist.org/00707_4zvAo6UZfsqz_0ne0Fi_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_8d0xx1NvfzSz_0ne0Fi_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_8PT4pHkrlHuz_0ne0Fi_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "vintage clothes at yard saletoday only!"
+                "description": "Staff shirt from 1996 25 years old.Size is extra large.There is a small hole and a run on the lower right front side.Fillmore F on the front left.The back says BGP Fillmore 1996 that has a list of the acts that performed that year at the Fillmore."
             }
         ],
         "beaded": [
@@ -289,6 +291,22 @@
         ],
         "gloves": [
             {
+                "id": "7336681694",
+                "name": "Vintage White Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7336681694.html",
+                "datetime": "2021-06-20 15:56",
+                "price": "$25",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "2 pairs, price is for both.  Great condition."
+            },
+            {
                 "id": "7332502844",
                 "name": "Youth Goalie Pants and Gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-youth-goalie-pants-and-gloves/7332502844.html",
@@ -329,29 +347,33 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Banana Republic scarf and pair of glovesSize: LargeIn excellent condition: Extra Fine Italian Merino WoolPerfect for SFBA chill."
-            },
-            {
-                "id": "7325744666",
-                "name": "Men's 3M Thinsulate Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-mens-3m-thinsulate-gloves/7325744666.html",
-                "datetime": "2021-06-20 06:07",
-                "price": "$20",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_PEBpnTzMUz_50x50c.jpg",
-                    "https://images.craigslist.org/01111_5iYmZRnosK4_50x50c.jpg",
-                    "https://images.craigslist.org/01010_gPSZiydve1y_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_6h1re8NpNAR_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Men's 3M Thinsulate Gloves, brand new, never used $20.00 each or make offerFleece, with clips, have Black and Charcoal, 2 pairs of eachCan buy two pairs for $30.00 or make offerSerious offers only and please no offers for trades, thanks.To cut down on spam responses the posting is deleted as soon as the item is sold so there is no need to ask if it is available. Will respond to emails with a phone number, please no email only replies."
             }
         ],
         "wedding dress": [
+            {
+                "id": "7339606399",
+                "name": "Custom made Classic Wedding Dress + Hair piece for Veil",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-custom-made-classic-wedding/7339606399.html",
+                "datetime": "2021-06-20 15:35",
+                "price": "$499",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00X0X_htP3Yhso2Qxz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00X0X_htP3Yhso2Qxz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00X0X_htP3Yhso2Qxz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01515_8U8J5OGEnZNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_lPm06O4trc4z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_fovmtP8kdmFz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_2v7osbwfWF9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_580BYIgsNrOz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_35nJfFqxkcUz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_fknCOoyxIpyz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Pristine condition custom made Classic Wedding Dress and hair piece for Veil. Only worn once. It has been professionally dry clean and preserved. Below are the measurements:Shoulder : 155'Arm length : 205'Waist : 26Bust 33I am 55' and I wore 3 heels with the dress. I usually wear sizes xsmall to small."
+            },
             {
                 "id": "7339591712",
                 "name": "Vintage Wedding Dress with Detachable Train",
@@ -390,33 +412,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "I bought this last year to go to a \u2018black & white\u2019 event that was canceled due to Covid. Never worn. I don\u2019t wanna drive back over the hill could be if it can be returned, as it has been over a year.Smoke free home.  pick up in Live Oak. Size 8. Cash or Venmo OK.Thank you"
-            },
-            {
-                "id": "7333753896",
-                "name": "Flower Girl and Wedding Dress",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/cotati-flower-girl-and-wedding-dress/7333753896.html",
-                "datetime": "2021-06-20 12:46",
-                "price": "$20",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00x0x_ffEXHWFwA7dz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00x0x_ffEXHWFwA7dz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00x0x_ffEXHWFwA7dz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_gYl32RPIBPoz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_h3Oeg8yfdqIz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_fLIyGedsdlez_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_3sAbZfGCFLrz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_2oOcpjbHZgSz_0ak0ik_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_5DFam1D2Elxz_0ak0ik_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_58HZnEgZI7Sz_0ak0ik_50x50c.jpg",
-                    "https://images.craigslist.org/01313_c3lfJDVVvNlz_0ak0ik_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_cuCHzvsMbK8z_0ak0ik_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_a3tmihvhRSfz_0ak0ik_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Good Girl Flower Girl Dress (Children's size 10)Eternity Wedding Dress plus Veil (Adult size 10)"
             }
         ],
         "great condition": [
@@ -564,34 +559,6 @@
     "cars": {
         "drives great": [
             {
-                "id": "7335911788",
-                "name": "2005 Nissan Murano 190k Miles Nice Car Drives Great",
-                "url": "https://sfbay.craigslist.org/sfc/cto/d/rancho-cordova-2005-nissan-murano-190k/7335911788.html",
-                "datetime": "2021-06-12 19:43",
-                "price": "$5,800",
-                "where": "bayview",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_eoA9STr0z7hz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_eeaTZZkpzJCz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_9BAxg4O5oh8z_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_loPwGKk7uLEz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_8zPYATp1rgOz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_dRl1qxSEysZz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00505_azIdCJjsQryz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_dRT3RSWD4XXz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_4fYjXCdMJSez_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_50SWuKNMmegz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_gbCwWgmdEkrz_0QE0tC_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "Speak Russian Call Any Time Speak EnglishText For PicturesFor Sale is my Nissan MuranoGold colormiles 190 Khas new battery new alternatornew lower control armkey words murano sentra titan nissan2000 2002 2005 2007 2009 1995"
-            },
-            {
                 "id": "7333144769",
                 "name": "2007 FORD EDGE SE  AWD.  CLEAN TITLE. SMOG.  DRIVES GREAT***",
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2007-ford-edge-se-awd-clean/7333144769.html",
@@ -659,6 +626,43 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2004 Honda Element ex 2wdclean title. smog check.183,xxx miles.  lots to go.4-cylinder.  gas saver!!!drives great. clean in and out.automatic, shifts smooth.cold a/c.    Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
+            },
+            {
+                "id": "7328908542",
+                "name": "2006 TOYOTA CAMRY LE.  CLEAN TITLE. SMOG!!  102k mi**  DRIVES GREAT!!!",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2006-toyota-camry-le-clean/7328908542.html",
+                "datetime": "2021-05-29 11:04",
+                "price": "$7,499",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_600x450.jpg",
+                    "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_fjDqQYZ9wwDz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00808_eWpIrPuMEi8z_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_26N4HRSn2n4z_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00909_k8ZENDAKzUKz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_4HgI1Yp4ttYz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_bcDWU8dD6FFz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_dDjnyRyH0Kjz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01313_apLppNUXXMdz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01212_ghtHtCum5ZWz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_faHxqKBTqQvz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_aOSFCf4BEJxz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_3pMU1ZyAKSIz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01515_hXPk8JhvOe7z_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_jC1vmxNadiFz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_5VuJewtcZJoz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_d8WWgI82sPbz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_fSUiAWRZeJUz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_bzsIZudpi4yz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_i63zts4WBBDz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01212_kqjfyy3PeKKz_0CI0lM_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2006 Toyota camry leclean title. smog check.102,xxx miles.  very low.4-cylinder.  gas saver.automatic, shifts smooth.cold a/c.   power windows and locks.drives great.  clean in and out.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [
@@ -895,46 +899,42 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
-                "id": "7339550223",
-                "name": "1995 Korean-built Epiphone PR350 Guitar",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/napa-1995-korean-built-epiphone-pr350/7339550223.html",
-                "datetime": "2021-06-20 13:11",
-                "price": "$150",
-                "where": "napa county",
+                "id": "7325653920",
+                "name": "1960's Vintage Cowbell Unmarked cow bell",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/south-san-francisco-1960s-vintage/7325653920.html",
+                "datetime": "2021-06-20 15:55",
+                "price": "$20",
+                "where": "south san francisco",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00404_8lNw1Kgjgmgz_0iU0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00H0H_4dL4Ne0U3oFz_0OQ0Cg_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00404_8lNw1Kgjgmgz_0iU0t2_600x450.jpg",
-                    "https://images.craigslist.org/00404_8lNw1Kgjgmgz_0iU0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_8glXMmIpxEMz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_7m9Y2dMfbcmz_0gx0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_gJhHjBi2Gidz_0jM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00H0H_4dL4Ne0U3oFz_0OQ0Cg_600x450.jpg",
+                    "https://images.craigslist.org/00H0H_4dL4Ne0U3oFz_0OQ0Cg_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_8EEBNQzR2Auz_0P20ys_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_eRydlFSsgQAz_0Pq0EE_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Everyone\u2019s ear and taste is different.  I find this to be a loud guitar even with extra light strings.  I believe YouTube reviewers call this punchy and bright.  To get the bass out of it I use an acoustic amp when playing out.  The internet says that this series of the PR 350 was NOT a solid top.However, there\u2019s a PR 350 up on Reverb with a new bone saddle and some kind of magical pins for $349 + $65 shipping.  Seems a bit steep.  In terms of looks it is hard to find a mark on this guitar.  All original.  If you like the \u201cvintage vibe\u201d stuff you\u2019ll know that only some bindings yellow with age.  The neck and body bindings against this black guitar are a golden yellow. Had it set up correctly.  You\u2019ll find it easy to play.  The hardcase is fully functional.  You can tell that\u2019s where this guitar lived formost of its twenty-five years.Fully vaxxed.  You can try it out on your car\u2019s bumper or in the garage.Please email through Craigslist or call Jack @  .  Way too old to text."
+                "description": "Vintage cowbellLarge7 x 6 x 2LoudRivetedhas one small crack which doesn't affect performance"
             },
             {
-                "id": "7336754804",
-                "name": "Klipsch tower speakers",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/oakland-klipsch-tower-speakers/7336754804.html",
-                "datetime": "2021-06-20 12:58",
-                "price": "$50",
-                "where": "oakland east",
+                "id": "7339606396",
+                "name": "Peavey Special 130 guitar amp Solo Series 1x12",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/fremont-peavey-special-130-guitar-amp/7339606396.html",
+                "datetime": "2021-06-20 15:35",
+                "price": "$225",
+                "where": null,
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01212_dC9Xkf0mdzQz_0iP0CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00P0P_6SMQzAUgXn3z_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01212_dC9Xkf0mdzQz_0iP0CI_600x450.jpg",
-                    "https://images.craigslist.org/01212_dC9Xkf0mdzQz_0iP0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_gIT5szb1nPhz_0iP0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_lI6HWjGNTGUz_0iP0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_gBl8HfLx4y8z_0iP0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_5tQF8v77S3Vz_0CI0iP_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_5gf7IiMNJtBz_0CI0iP_50x50c.jpg"
+                    "https://images.craigslist.org/00P0P_6SMQzAUgXn3z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00P0P_6SMQzAUgXn3z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_lduyOul0RElz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_hp3kkuyxVI6z_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "I'm selling my Klipsch tower speakers.  The wood is a little worn on top and one of the feet is missing the cap but is easily fixed with a little paper.  They sound really great and are pretty neutral tone so they work well as monitors.  They get really loud and are built like tanks!No trades please, serious offers only!"
+                "description": "I have a VERY LOUD AMP in a rather small combo package. Not bad for a solid state amp. Just dont need it anymore; too much amp for small settings.Im pricing it to move quickly. TRADES? what do you have? I am looking for a snake, 8 channel at least 25 feet. Hear it at: https://www.youtube.com/watch?v=rV_yDmgNYBoYou can check out in San Jose (Practice Place)"
             }
         ],
         "famous": [

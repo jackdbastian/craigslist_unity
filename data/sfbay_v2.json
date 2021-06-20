@@ -143,6 +143,26 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7339570526",
+                "name": "Vintage Motor-Cycle Style Leather Jacket size 6- 8 ladies",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-motor-cycle-style/7339570526.html",
+                "datetime": "2021-06-20 14:00",
+                "price": "$150",
+                "where": "marina / cow hollow",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00G0G_5oN7MA1YcjR_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00G0G_5oN7MA1YcjR_600x450.jpg",
+                    "https://images.craigslist.org/00G0G_5oN7MA1YcjR_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_6PA4TqYfTRr_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_1SRDhmMdezy_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_2kakG8fuKLX_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Distressed brown leather. Ladies size 6-8+ish - on a 6, hangs loose.Very HEAVY weight / distressed brown leather. Very cool details: arm and chest zippers, pockets, braided leather strip details and buckle detailsOne button missing - still uber-cool! Adds to the authenticity NEVER exposed to any smoke (never worn in any clubs!).Never exposed to pets.No stains or tears.Just distressed leather.Venmo / cash only."
+            },
+            {
                 "id": "7326402352",
                 "name": "SALE! 50% Wallet or purse - vintage reproduction Gold \"Chain\"",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/redwood-estates-sale-50-wallet-or-purse/7326402352.html",
@@ -190,27 +210,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Beautiful Vintage Japanese Wedding KimonoBEAUTIFUL CONDITION! GORGEOUS PIECE OF ART!Hand sewn, gold and bronze embroidery on champagne silk with hand sewn orange-red lining and beautiful rolled edges. Can be worn for wedding or can be HUNG as magnificent wall art.Have an 8foot bamboo rod and thin gold and hemp rope to hang it from.STUNNING conversation piece!$650 OB reasonable OCash only.Only serious buyers please.Thank you."
-            },
-            {
-                "id": "7338092113",
-                "name": "Women's 8.5N Vintage Leather Rockport Sneakers Washable",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-womens-85n-vintage/7338092113.html",
-                "datetime": "2021-06-20 13:05",
-                "price": "$25",
-                "where": "cole valley / ashbury hts",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00H0H_1YTqLTkJN5cz_0lA0pO_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00H0H_1YTqLTkJN5cz_0lA0pO_600x450.jpg",
-                    "https://images.craigslist.org/00H0H_1YTqLTkJN5cz_0lA0pO_50x50c.jpg",
-                    "https://images.craigslist.org/01212_3lqJ7NUrO8vz_0n00pO_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_dhv2f8LG1agz_0jM0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_emBexe4CQHiz_0iY0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_fmpfbM2WE06z_03e03e_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Legendary VINTAGE LEATHER SNEAKER Black Rockport Faisel 8.5N Narrow ShoesWashable black leather sneakers in classic old-school style.Model Faisel APW33731, hugely popular (read the reviews!) but discontinued approximately 2010.Condition is very gently worn. I loved them but they were always just a fraction of an inch too short for my size 8N feet, so I didn't wear them much.This pair has been washed as instructed. From a no-smoking, no-pets home. Pick up in Upper Haight, San Francisco, or I can drop them off downtown. Will mail within US for $10 extra."
             }
         ],
         "beaded": [
@@ -346,6 +345,25 @@
         ],
         "wedding dress": [
             {
+                "id": "7331868448",
+                "name": "NEW Ralph Lauren Evening/Wedding dress",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-new-ralph-lauren-evening/7331868448.html",
+                "datetime": "2021-06-20 14:09",
+                "price": "$75",
+                "where": "santa cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00r0r_HXEIz51lX7z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00r0r_HXEIz51lX7z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00r0r_HXEIz51lX7z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_23KbIQdVLsCz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00505_a7Pfl61vgCMz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "I bought this last year to go to a \u2018black & white\u2019 event that was canceled due to Covid. Never worn. I don\u2019t wanna drive back over the hill could be if it can be returned, as it has been over a year.Smoke free home.  pick up in Live Oak. Size 8. Cash or Venmo OK.Thank you"
+            },
+            {
                 "id": "7333753896",
                 "name": "Flower Girl and Wedding Dress",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/cotati-flower-girl-and-wedding-dress/7333753896.html",
@@ -393,22 +411,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "JESSICA McCLINTOCK OFF WHITE STRAPLESS WEDDING DRESS SIZE 4 IT HAS A SIDE ZIPPER AND LACE ON THE TOP BRAND NEW WITH TAGS IT HAS A TRAIN IN THE BACK $30.00 IT HAS BEEN IN A BOX SO IT NEEDS TO BE STEAMED."
-            },
-            {
-                "id": "7339489176",
-                "name": "Wedding Dress & Hat Veil",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-wedding-dress-hat-veil/7339489176.html",
-                "datetime": "2021-06-20 10:52",
-                "price": "$325",
-                "where": "walnut creek",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00y0y_hm3uwKnoRVf_0dS0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00y0y_hm3uwKnoRVf_0dS0t2_600x450.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "CASH ONLYSize 8. Obviously only worn once. Dress was professionally dry cleaned and properly wrapped/boxed by the dry cleaners. If you are interested, I can send you some better photos. If ad is still up, it means the item is still available."
             }
         ],
         "great condition": [

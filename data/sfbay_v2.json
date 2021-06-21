@@ -64,6 +64,42 @@
         ],
         "wood": [
             {
+                "id": "7327324257",
+                "name": "painted wood panel/shelving/decking",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/tracy-painted-wood-panel-shelving/7327324257.html",
+                "datetime": "2021-06-20 20:47",
+                "price": "$3",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00M0M_bMOLGJOFHvo_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00M0M_bMOLGJOFHvo_600x450.jpg",
+                    "https://images.craigslist.org/00M0M_bMOLGJOFHvo_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_6LYkfD318yv_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "aquarium quality painted wood panel or shelving or deckingwhite , gray and black colorabout 30 x 32  qty 23   price $3.00 eachabout 4.5 x 45  qty  12  price  $3.00 eachI have many other one with similar sizes these wood panel made for aquarium so the quality is very good please call for more detail and if you have any questions"
+            },
+            {
+                "id": "7339689910",
+                "name": "36 x 80 wood hampton screen door. NEW!",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/concord-36-80-wood-hampton-screen-door/7339689910.html",
+                "datetime": "2021-06-20 20:44",
+                "price": "$60",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00909_1iPpyvSfeDjz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00909_1iPpyvSfeDjz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00909_1iPpyvSfeDjz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_kFGcMqqgntnz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "$60 NEW in box!  Firm. Retails for $170.Call text  HowardIn Bay Point near ConcordCan deliver for $20 extra in East Bay, Contra Costa County. keys: landscape, gardening, trees, plants, landscaping, material, green house, bathroom, sink, vanity, ceiling fan, lighting, building materials, remodeling, free, garage sale, household, blinds, lumber, fixtures, plumbing, electrical, landscaping, home, appliances, furniture, moving, east bay, concord, Berkeley, Martinez, Benicia, pittsburg, Antioch, pleasant hill, Lafayette, Orinda, Oakland, san Francisco, sacramento, modesto"
+            },
+            {
                 "id": "7338799096",
                 "name": "Wood Beam Lumber",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/redwood-estates-wood-beam-lumber/7338799096.html",
@@ -80,118 +116,87 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "8' long @ longest; 91 @ shortest6.5 x 9Has odd shape on end as pictured.Color of pic is washed out. Please make a reasonable offer.DIY, carpenter, build, building,"
-            },
-            {
-                "id": "7339663275",
-                "name": "New Wood Molding 7' Long - 5 Pieces",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-new-wood-molding-long-pieces/7339663275.html",
-                "datetime": "2021-06-20 18:41",
-                "price": "$30",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_kNNBampfmjez_0CI0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "5 Pieces of new moulding.  If interested please call or text  Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
-            },
-            {
-                "id": "7326121769",
-                "name": "Wood slabs",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/pacifica-wood-slabs/7326121769.html",
-                "datetime": "2021-06-20 16:41",
-                "price": "$1",
-                "where": "Pacifica",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00b0b_5TCerfMr3SIz_0hS0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00b0b_5TCerfMr3SIz_0hS0CI_600x450.jpg",
-                    "https://images.craigslist.org/00b0b_5TCerfMr3SIz_0hS0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_dz7GBblrQ5Lz_0hS0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_8jHlt2ESzNpz_0hS0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_cwUx1rU1LL5z_0hS0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_4YHtqPK3bbcz_0hS0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_kcCSM9Pd6kPz_0hS0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_3FkrypOzahwz_0hS0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_eGID9Kpe300z_0hS0CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Wood slabs in many types of wood...redwood,cedar,walnut etc.lots of solid cherry wood flooring...cut wood in any shape or size....wood for any project...tables,shelves,clocks..any questions MUST leave number...NO number...NO response...thank you"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7339679358",
-                "name": "Vintage 50s Samsonite faux Alligator suitcase antique classic rare",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-50s-samsonite-faux/7339679358.html",
-                "datetime": "2021-06-20 19:49",
-                "price": "$60",
-                "where": "san jose east",
+                "id": "7332375504",
+                "name": "VINTAGE/ANTIQUE KIMONO",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-antique-kimono/7332375504.html",
+                "datetime": "2021-06-20 20:49",
+                "price": "$200",
+                "where": "Burlingame",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_2X8t7bx8nhVz_05n042_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00p0p_3sWLCyp9aDG_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00T0T_2X8t7bx8nhVz_05n042_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_2X8t7bx8nhVz_05n042_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_eaC8k4OLvJ8z_0uY0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_jEQBMVaonPLz_0uY0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00404_6RlbS3vSMGrz_0uY0ne_50x50c.jpg",
-                    "https://images.craigslist.org/01212_hO7djeHzLj6z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_iLLQkYx8wkkz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_aaREKWhJwZNz_0lM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00p0p_3sWLCyp9aDG_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_3sWLCyp9aDG_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_1rh7wurRbD9_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "24\u201d x 19\u201d x 9\u201dInterior clean no bad smells"
+                "description": "I bought this antique / vintage KIMONO in Japantaown , San Francisco .A great wall decor that will be a great focal point in any room.My house renovation is on its way,Now I'm looking for a good home to get its old glory and be again the center of attention to a new home It\u2019s in great condition considering it\u2019s vintage but expect fading and vintage look that comes with its age.Bought for $700.00 tax not included but willing to let it go for $200.00.A great deal.CASH onlyLOcal Pick up"
             },
             {
-                "id": "7337200600",
-                "name": "Vintage Agme Switzerland Powder and Lipstick Compact with Mirror",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-vintage-agme-switzerland/7337200600.html",
-                "datetime": "2021-06-20 19:44",
-                "price": "$45",
-                "where": "lafayette / orinda / moraga",
+                "id": "7325798131",
+                "name": "Liz Claiborne, Charter Club, Brighton and Vintage Dress Purse",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-liz-claiborne-charter-club/7325798131.html",
+                "datetime": "2021-06-20 20:43",
+                "price": "$10",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00f0f_keI6NV7wo1s_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01212_eQNDNQf9QYW_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00f0f_keI6NV7wo1s_600x450.jpg",
-                    "https://images.craigslist.org/00f0f_keI6NV7wo1s_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_diO28oQwJKF_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_hlFpapQq6SV_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_2NcToksBNcZ_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_esUnm2llAyk_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_ctCZWjoa4fx_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_kMflivLG4U0_50x50c.jpg"
+                    "https://images.craigslist.org/01212_eQNDNQf9QYW_600x450.jpg",
+                    "https://images.craigslist.org/01212_eQNDNQf9QYW_50x50c.jpg",
+                    "https://images.craigslist.org/00101_a2D7hTpS2FW_50x50c.jpg",
+                    "https://images.craigslist.org/01212_8MSzHsqo9ae_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_4kE4ORScBe2_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_NQ4XQnqp1k_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_fVzXguT9kW9_50x50c.jpg",
+                    "https://images.craigslist.org/00404_eSiv2XOloby_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_bjsajKKECSh_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage Agme Switzerland Powder and Lipstick Compact with MirrorThe compact is unused and it is in nice condition.Made in Switzerland, 1940s ladies vanity itemNice fashion and beauty collectible."
+                "description": "Liz Claiborne purse - $10Charter Club purse - $8Vintage Dress purse - $10Liz Claiborne Navy Evening Purse with Gold Strap (brand new) - $10Brighton Leather Purse - $25Cash only and please arrange for pickup in Dublin."
             },
             {
-                "id": "7330238338",
-                "name": "VINTAGE 70'S TOREL LEATHER JACKET",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-70s-torel-leather-jacket/7330238338.html",
-                "datetime": "2021-06-20 19:41",
-                "price": "$0",
-                "where": "oakland lake merritt / grand",
+                "id": "7334887433",
+                "name": "Coach Leather Essex Black Briefcase Vintage",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/menlo-park-coach-leather-essex-black/7334887433.html",
+                "datetime": "2021-06-20 20:30",
+                "price": "$200",
+                "where": "menlo park",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00202_breRCzMbvnBz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_600x450.jpg",
-                    "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_dk0NJo5op7Yz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_2egO0Fen97Vz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_3NuioN7GWjkz_1320MM_50x50c.jpg"
+                    "https://images.craigslist.org/00202_breRCzMbvnBz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00202_breRCzMbvnBz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_ksPKPt0cE5nz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01212_73MNiZ8OoRHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_g5ZmJmJlLzdz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_lulQ0qEIMRlz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_6wVgoEZ8oELz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_2DuTUyKaejXz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_90zc72iPY3rz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_lpT1pt65OBWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_jTcYyHuu9fpz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_bs9VQglITRkz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_jW68xaiIM46z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_anidbd7htU9z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_oRCYn87FHjz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_5NZ3OL2Fc4kz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_cNj4SuoAHc8z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_jORe3UlMvdKz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_cco0wyzTRlNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_f5aTGlElMHDz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "very nice jacket size large. no rips, tears or holes 200 or best offer"
+                "description": "This vintage Coach leatherware Essex briefcase with turn-locks is from the 90s and was used just for a short time with great care.  It is in excellent condition.  Minimal signs of wear with light surface marks on the exterior.  Interior is clean, free of stains.  Briefcase has brass hardware, two divided compartments, one interior zippered pocket, a front slip pocket with card and pen holders, an exterior back slip pocket and a detachable/adjustable shoulder strap with pad.  Made in USA.  $200.  Cash, Paypal or Venmo accepted.Approximate measurementsLength 16Height 11.5Depth 4.5Strap length 42Strap drop, adjustable 18-21If interested, please include your phone number in the reply.  Will text back.Pickup in Menlo Park."
             }
         ],
         "beaded": [
@@ -261,6 +266,22 @@
         ],
         "gloves": [
             {
+                "id": "7334441453",
+                "name": "New Microfleece Gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-new-microfleece-gloves/7334441453.html",
+                "datetime": "2021-06-20 20:29",
+                "price": "$5",
+                "where": "sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00I0I_jC1U0pwJ9Boz_0gl0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00I0I_jC1U0pwJ9Boz_0gl0t2_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "brand new3M thinsulate insulationresists pillingsSize: S/M"
+            },
+            {
                 "id": "7332452718",
                 "name": "winter stuff - socks, beanie hat, gloves",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-winter-stuff-socks-beanie/7332452718.html",
@@ -293,22 +314,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "A new pair of Marmot Windstopper gloves that convert from no-fingers style to mitten style. Size Small. $2"
-            },
-            {
-                "id": "7336681694",
-                "name": "Vintage White Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7336681694.html",
-                "datetime": "2021-06-20 15:56",
-                "price": "$25",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "2 pairs, price is for both.  Great condition."
             }
         ],
         "wedding dress": [
@@ -898,6 +903,29 @@
         ],
         "famous": [
             {
+                "id": "7339689773",
+                "name": "\"Assassin\" electric guitar, Stratocaster Style",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/vacaville-assassin-electric-guitar/7339689773.html",
+                "datetime": "2021-06-20 20:55",
+                "price": "$100",
+                "where": "fairfield / vacaville",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00z0z_foZWGfo8Vdh_07K0ak_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00z0z_foZWGfo8Vdh_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00z0z_foZWGfo8Vdh_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_su5nstPtjT_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_6RO168mpO86_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_9hLJ1jyKmO3_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00303_a5Sxkha4IOx_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00101_8U3ML0ELDAK_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_lfGC7UgEiKT_0CI0t2_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Take a look at this Assassin electric guitar, it's dripping with pizzazz! The guitar features a black and white zebra stripe finish that' screams CHECK ME OUT at first glance. It's a Strat like guitar suitable for the raw beginner as well as the seasoned pro and is comparable to the world famous Fender Stratocaster at a better than reasonable price.  Can you imagine playing a gig at a world class discotheque whilst Go-Go girls surround you,,,,, gyrating wildly in seductive, uninhibited dance to the funky sounds yer puttin down with this baby?! With this particular Twang Box the gals for sure ain't a gonna pass you by!     It has all the features, lightweight body, maple neck, 25 1/2 scale length, die cast tuners, fully adjustable floating bridge, 21 medium frets, adjustable truss rod, 3-single coil pickups, a 5-way selector switch that provides sounds from shimmering highs, to silky smooth lows. One volume control and 2 tone controls let you vary your sound in a split second. All this packed into a rockin electric guitar that's gonna impress folk's to the max with it's sultry sounds! Folk's she's a humdinger!     The Assassin is built to withstand a lifetime of wear and tear and provide it's owner with an eternity of ineffable joy and a plethora of tuneful gorgeousity. This instrument will make a GREAT gift for the guitar player in your life.....or for yourself.BUY A GUITAR FROM FRISCO & ALL YOUR WILDEST DREAMS WILL COME TRUE!ALL REASONABLE OFFERS WILL BE CONSIDERED!"
+            },
+            {
                 "id": "7332889391",
                 "name": "Encyclopedia of the Opera by David Ewen",
                 "url": "https://sfbay.craigslist.org/pen/msg/d/encyclopedia-of-the-opera-by-david-ewen/7332889391.html",
@@ -933,27 +961,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Here's a cool and hard to find signature model. Designed by famous Cars guitarist Elliot Easton, the G5570 is a killer instrument. Cool Gretsch looks, nice quality and good features for a low price. Based on the famous Duo Jet, this one is ready to rock. The mahogany body and laminated maple top make for an excellent combination. The set mahogany neck features a bound rosewood fingerboard with thumbprint fingerboard inlays. Dual Gretsch humbuckers deliver cool tones. A licensed Bigsby vibrato, Adjustomatic bridge and locking tuners complete the picture. The green sparkle finish is complimented by gold hardware. A really great guitar for the bucks. Trades obo welcome looking for Rickenbacker or other types of guitars including Gretsch that I don\u2019t already have 2 of fender jag jazz tele  pedal steel prs Gibson Paul sg keyboards sound gear etc this is the rare Chinese made electromatic version that Gretsch pulled from production because they were making them so good that they were so close in quality to the 3000$ made in Japan.  This Gretsch is super special and sounds like no other in production is a player with the larger than normal scale neck good for drop tunings with a bigsby too. Dose an amazing job on sabbath drop c# and c. Special Gretsch broadtrons different  and better than those installed today and the classic Gretsch wiring harness with the classic Gretsch 3 way tone switch."
-            },
-            {
-                "id": "7333285752",
-                "name": "Stella Acoustic guitar 1955 with provenance",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/nicasio-stella-acoustic-guitar-1955/7333285752.html",
-                "datetime": "2021-06-20 19:05",
-                "price": "$500",
-                "where": "fairfax",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_6eAYEvWwX3xz_0k80t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00909_6eAYEvWwX3xz_0k80t2_600x450.jpg",
-                    "https://images.craigslist.org/00909_6eAYEvWwX3xz_0k80t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_aCMFTzOBotfz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_QOpwzeUeuCz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_ip7B1LQuVWPz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_lW8DxFeY5jXz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "1955-ish Stella, Letter of Authenticity from his heirs, owned by Terry Teene who was the opening act for Buddy Holly and was there that famous night \u201cthe music died\u201d in Iowa. Includes his one hit 45 record Curse of the Hearse and Pussy Galore. Other songs include: Happiness is Coming, (which he recorded under the name of Blaine Bel Aire), and We're Going to put Iowa on the Map. Terry's personal favorites are Fun To Be With and Perfect 36.He also opened for Kenny Rogers, Loretta Lynn, Larry Gatlin, Rick Dees, The Solid Gold Dancers and Dolly Parton were all the featured performers.He performed with Alice Cooper, Nazerath, Flo and Kinks, S H A N A N A, Knack, Cheap Trick, Bobby Vee and many, many more.He is in the Rockabilly Hall of Fame.  Was the 1st Ronald MacDonald. Good to fair condition, no case.He also appeared on dozens of TV shows."
             }
         ]
     }

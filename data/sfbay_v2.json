@@ -64,6 +64,24 @@
         ],
         "wood": [
             {
+                "id": "7338799096",
+                "name": "Wood Beam Lumber",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/redwood-estates-wood-beam-lumber/7338799096.html",
+                "datetime": "2021-06-20 19:42",
+                "price": "$0",
+                "where": "los gatos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_a9jsGs1gaeL_0jm0pO_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_a9jsGs1gaeL_0jm0pO_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_a9jsGs1gaeL_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00505_afYI67Q40bg_0jm0pO_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "8' long @ longest; 91 @ shortest6.5 x 9Has odd shape on end as pictured.Color of pic is washed out. Please make a reasonable offer.DIY, carpenter, build, building,"
+            },
+            {
                 "id": "7339663275",
                 "name": "New Wood Molding 7' Long - 5 Pieces",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-new-wood-molding-long-pieces/7339663275.html",
@@ -104,117 +122,76 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Wood slabs in many types of wood...redwood,cedar,walnut etc.lots of solid cherry wood flooring...cut wood in any shape or size....wood for any project...tables,shelves,clocks..any questions MUST leave number...NO number...NO response...thank you"
-            },
-            {
-                "id": "7330725461",
-                "name": "Live Edge Wood Slabs - Redwood Slabs",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/graton-live-edge-wood-slabs-redwood/7330725461.html",
-                "datetime": "2021-06-20 14:39",
-                "price": "$100",
-                "where": "sebastopol",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Q0Q_7Qdf626GBCzz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Q0Q_7Qdf626GBCzz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00Q0Q_7Qdf626GBCzz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_9nNb2SJzDAEz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_lmGyOay7Pdlz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_BPBfpJDvGoz_0pn0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_10EM8iRWW6Zz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_g854RWS9PtHz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_gMWnkmS78Lwz_0ne0sX_50x50c.jpg",
-                    "https://images.craigslist.org/01515_jbwe81XwCAcz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_eV98yBr4aynz_0qX0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_eeJ1hs0YZNz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_4m8fQLvOiKoz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_l04tNvcdabYz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01111_dj34AnOjWxiz_0ne0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_fKVDlcw2xnIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_kvhZ4Nwz3cAz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01212_k1zfISVsftNz_0pz0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_gm5SNKieS50z_0ne0qm_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_4jbywn6lSZWz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_iCgKT41L6Gkz_0ne0oc_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_asyyxFblI3Bz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_96NDydpyq7pz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_7gjTMMIz17Lz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01616_1kzx3zkufuaz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Eric Christopher Art Sustainably Salvaged Live Edge Wood Slabs & Burlwood   Eric Christopher is on a mission to recycle. Reducing the carbon footprint of society by recycling usable bay area trees. Keeping these beautiful specimens out of the landfills helps combat massive sequestered carbon entering our atmosphere. Displaying respect for our ancestors, and preserving Mother Nature\u2019s artwork for future generations to enjoy! This is why we call these \u201csecond life logs\u201d .We are addicted to STACKING!We have hundreds of live edge wood slabs available SML, MED, LRG, XL, & XXL sizes. Our  Bay area & Sonoma County inventory is constantly changing! The creative possibilities are endless!Salvaged Live Edge Wood Slab Species:-Acacia -Ash-Cedar-Claro Walnut-Cottonwood-Cypress-Elm-Ironbark Eucalyptus -Maple-Redwood -SycamoreCommon Uses-Bar Top-Benches -Coffee Table -Console Table-Countertop -Desk -Doors-Dinning Table-End Tables-Garden Art-Headboard  -Mantels-Media Console -Mirror Frames-Nightstands-Patio Table-River Table-Shelving -Tabletops-Vanity-Wall Art                           What It\u2019s All About  The equity you gain from creating your own wood slab heirloom is not something that can be measured on a scale but it is something you can definitely feel. We can walk you through the entire process. First timers no need to be anxious, this is supposed to be FUN. The #1 comment customers say is \u201cWow it wasn\u2019t as hard as I thought, I\u2019m glad you told me to try it\u201d   We aren\u2019t in the furniture business. We are in the heirloom conversation piece business. Each and every wood slab is unique in it\u2019s own way. Our job is complete when we here a \u201cbing\u201d and see a photo come through of you standing proudly by your masterpiece. We don\u2019t call it quits when you drive away from our facility.  My heart is full of gratitude as I continue reflect on the salvaged material we have provided to our customers over the years. Thank you to everyone that has consciously chosen to purchase the foundation of their project from us . My partners and I invest so much heart into recycling mother nature\u2019s artwork and it is an indescribable feeling to have you guys recognize both the beauty and the effort put forth to give these logs a second life. It is so special for us to be a part of your story. Making the decision to spend your hard earned money on something we worked tirelessly to provide is not something we take lightly or for granted. We appreciate you! STACK EM\u2019 UP!!-Eric Christopher                            Process1. Decide on a project2. Measure the designated available space, keeping in mind the sizes of other nearby objects. Keeping things proportional will help your space feel sophisticated & curated rather than out of place or overbearing.3. Come Look! The fun begins here! Everyone\u2019s taste is different so it\u2019s best to complete steps 1 & 2 and then come look at our inventory and see if anything screams \u201cTake me home\u201d Our inventory is constantly changing. I tell customers \u201cour store is like a shoe store. We don\u2019t always have every size/model/color but it might be tomorrow that we bring the desired material in. Our inventory is based on the trees we are able to give a second life to, not the \u201cclick of a button\u201d reorder.4. Price is based on many factors as each boule is unique in it\u2019s own way and each boule is in a different state of its life. The main factors we consider are:-Size (board foot aka volume of material)-Species -Figure-Moisture content-Raw or SurfacedOnce Home 1. Decide on the aesthetic look you want to achieve. Do you want the piece to be rustic or lean towards a clean \u201cscuplted\u201d look?2.Remove the bark. We like to use a \u201ccats paw\u201d and a mallet, working pieces off as large as possible. For hardwoods a draw knife works well.3.Sand, scuplt, and clean-up the edges (if that follows suit towards your desired look. ) If a rustic look is desired you may wish to leave the edge as is.  4.Sand the top & bottom. We generally start at 60 grit, working our way through the grits until at least 400 grit. THIS IS NOT a requirement, just our preference. The higher grits do not only make the wood fibers smoother, they allow the true beauty of the wood to expose itself. The 3D figure is more pronounced and shows a higher level of visual contrast. Some figured woods we sand 1200+ grit. THE FINISH YOU CHOOSE MAY DICTATE WHAT GRIT YOU STOP SANDING AT. Some finish brands call for designated end points wich are usually lower in grit than our preference of 400 grit. Many require a max of 220 grit. Read manufactures directions to see if they specify. Once sanded up to 100 grit we like to then cut ends to size if needed, then continue sanding working our way up through the grits. We sand a bit before cutting to size because it makes for less friction on the saw, which usually helps make a smooth, clean cut.We blow off the slab with compressed air and wipe the entire slab with a tac cloth to remove loose dust, prepping the slab for its finish stage.Choosing a finish.Customers always ask what finish I recommend for their project. My answer: finishing is a riddle only you can solve, knowing what you want it to look like, and howmuch time + money do you want to invest. There is not one does-all finish that I recommend for everyone because each finish has it\u2019s pros and cons and everyone has a different vision of how they want their heirloom to look. I will list several of the common types of finishes and the pros and cons as I see it through my experience. Penetrating Oil - UV StabilizedPros Easy application, very quick rich results showing a high percentage of the figure within the wood, sophisticated matte sheen, Inexpensive, easy touch up maintenance, penetrates fibers deep within the wood protecting integrity, UV sun rays do minimal degradation.Cons Not a developed surface finish. This means spills such as red wine will not be stopped from entering the pores of the wood.2 Part EpoxyPros Shows all hidden figure within the wood. The \u201ctruth serum\u201d for wood. Hard surface, fast build up, strengthens any pith , fills checking, and hardens softwoods. A \u201c5 in 1\u201d type of finish. 4 coats of epoxy is similar to 40 coats of polyurethane.Cons Glossy, less margin for error. generally low UV stabilization, many brands yellow over time when outside in sunlight Polyurethane - Water basedPros Easy clean up,Fast drying, Easy \u201cpowdering up\u201d sanding. Dries faster than oil based polyurethane and can be heavier coats too. Barrier to moisture and spills. Many available sheens- gloss, semigloss, satin, flat, and matte.Cons Not as rich as an oil or an epoxy, more bland. A developed finish is slow building. Each coat takes several hrs to dry and many coats are generally needed to have a \u201cmarble like\u201dend result.Polyurethane - Oil BasedPros Rich, deep coloring . High levels of contrast. Durable. Barrier to moisture and spills. Many available sheens- gloss, semigloss, satin, flat, and matte. Many UV stabilized versions available.Cons Intense fumes, stickier clean up, respirator required , tacky feel compared to water based. Slow building, cannot lay heavy coats. Heavy coating runs risk of \u201cskin over\u201d. The top surface dries, creating a thin layer preventing the off gasing process and leaving a sticky, tacky finish that will never properly dry and cure.Contactphone  Website: www.EricChristopherArt.comemail Eric@ErichChristopherArtFb @EricChristopherArtIg @EricChristopherArt5325 Gravenstein Highway NorthSebastopol, CA 95472Business HoursMon:\t9:00 AM \u2013 5:00 PMTue:\t9:00 AM \u2013 5:00 PMWed:\t9:00 AM \u2013 5:00 PMThu:\t9:00 AM \u2013 5:00 PMFri:\t9:00 AM \u2013 5:00 PMSat:\t9:00 AM \u2013 5:00 PMSun:\t9:00 AM \u2013 4:00 PM"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7339670795",
-                "name": "Vintage Harley Davidson Garage Jacket",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/sebastopol-vintage-harley-davidson/7339670795.html",
-                "datetime": "2021-06-20 19:12",
+                "id": "7339679358",
+                "name": "Vintage 50s Samsonite faux Alligator suitcase antique classic rare",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-50s-samsonite-faux/7339679358.html",
+                "datetime": "2021-06-20 19:49",
                 "price": "$60",
-                "where": "sebastopol",
+                "where": "san jose east",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_kLfNfggSqxC_0gl0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00T0T_2X8t7bx8nhVz_05n042_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00V0V_kLfNfggSqxC_0gl0t2_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_kLfNfggSqxC_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_7uVaGk1peP6_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_5IuNlZVRaqP_0CI0lM_50x50c.jpg"
+                    "https://images.craigslist.org/00T0T_2X8t7bx8nhVz_05n042_600x450.jpg",
+                    "https://images.craigslist.org/00T0T_2X8t7bx8nhVz_05n042_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_eaC8k4OLvJ8z_0uY0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_jEQBMVaonPLz_0uY0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00404_6RlbS3vSMGrz_0uY0ne_50x50c.jpg",
+                    "https://images.craigslist.org/01212_hO7djeHzLj6z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_iLLQkYx8wkkz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_aaREKWhJwZNz_0lM0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Very nice XL Embroidered Wing and Wheel with 3 Factory patches. Never worn."
+                "description": "24\u201d x 19\u201d x 9\u201dInterior clean no bad smells"
             },
             {
-                "id": "7325358231",
-                "name": "Vintage clothes",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/gilroy-vintage-clothes/7325358231.html",
-                "datetime": "2021-06-20 18:30",
-                "price": "$100",
-                "where": "gilroy",
+                "id": "7337200600",
+                "name": "Vintage Agme Switzerland Powder and Lipstick Compact with Mirror",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-vintage-agme-switzerland/7337200600.html",
+                "datetime": "2021-06-20 19:44",
+                "price": "$45",
+                "where": "lafayette / orinda / moraga",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00f0f_keI6NV7wo1s_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_atfbO4R4l3Oz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_gfFNclyiy1Bz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_9fyyvtJrx0iz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00909_gC6NqMHGMsxz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_2CXZPERdywGz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_hdkLjmh3bIhz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_JKUbnv8xTVz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01111_879W5OX1Xpbz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_dHDsRPdAgmcz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_6pA55sUyQprz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00f0f_keI6NV7wo1s_600x450.jpg",
+                    "https://images.craigslist.org/00f0f_keI6NV7wo1s_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_diO28oQwJKF_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_hlFpapQq6SV_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_2NcToksBNcZ_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_esUnm2llAyk_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_ctCZWjoa4fx_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_kMflivLG4U0_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Selling some vintage clothes. The brown jacket is corduroy and the black and grey jackets are members only. All are in good condition but will need a good cleaning. Haven\u2019t been worn or used in years. I would prefer to sell as a lot, so please no offers on individual items. I prefer text so please let me know if you\u2019re interested."
+                "description": "Vintage Agme Switzerland Powder and Lipstick Compact with MirrorThe compact is unused and it is in nice condition.Made in Switzerland, 1940s ladies vanity itemNice fashion and beauty collectible."
             },
             {
-                "id": "7339658604",
-                "name": "Vintage 1940s Black Beaded Evening Purse",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1940s-black/7339658604.html",
-                "datetime": "2021-06-20 18:23",
-                "price": "$50",
-                "where": "san francisco",
+                "id": "7330238338",
+                "name": "VINTAGE 70'S TOREL LEATHER JACKET",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-70s-torel-leather-jacket/7330238338.html",
+                "datetime": "2021-06-20 19:41",
+                "price": "$0",
+                "where": "oakland lake merritt / grand",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_9goUSDEIxMq_0pO0jm_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00k0k_9goUSDEIxMq_0pO0jm_600x450.jpg",
-                    "https://images.craigslist.org/00k0k_9goUSDEIxMq_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_8nxjWSrXDQC_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_7fbyN4og7UW_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_4UOISiKLsr3_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_iM7EJChYrB1_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_esLzgZYwz4N_0pO0jm_50x50c.jpg"
+                    "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_600x450.jpg",
+                    "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_dk0NJo5op7Yz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_2egO0Fen97Vz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_3NuioN7GWjkz_1320MM_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage '40s handbag.10.5'' long across the zippered top.Completely covered with black glass beads."
+                "description": "very nice jacket size large. no rips, tears or holes 200 or best offer"
             }
         ],
         "beaded": [
@@ -284,6 +261,22 @@
         ],
         "gloves": [
             {
+                "id": "7332452718",
+                "name": "winter stuff - socks, beanie hat, gloves",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-winter-stuff-socks-beanie/7332452718.html",
+                "datetime": "2021-06-20 19:56",
+                "price": "$25",
+                "where": "SoMa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00909_fANbbD0OBNWz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00909_fANbbD0OBNWz_0t20CI_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Moving and selling a bunch of stuff4 beanies, 2 gloves, 2 home socksSlipper socks retail for $25 alone: https://www.walmart.com/ip/Pudus-Brand-Slipper-Socks-Purple-Penguins-One-Size-All-Amazingly-Soft-Socks/684823019"
+            },
+            {
                 "id": "7339659734",
                 "name": "Marmot Windstopper convertible gloves - Size Small (New)",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/union-city-marmot-windstopper/7339659734.html",
@@ -316,27 +309,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "2 pairs, price is for both.  Great condition."
-            },
-            {
-                "id": "7332502844",
-                "name": "Youth Goalie Pants and Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-youth-goalie-pants-and-gloves/7332502844.html",
-                "datetime": "2021-06-20 12:47",
-                "price": "$25",
-                "where": "San Ramon",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_ZWMPaNMDYbz_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_dXBI0iFkE4az_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_f8ZSrpnSwmHz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_lLS2Q5zuAFEz_0t20CI_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "\ufffcReusch pants - YLVizari Gloves - Youth$25 for bothYouth large goalie pants and gloves, used only 1 season indoors before the pandemic. Our son has grown out of the clothing and is good quality, while only used for indoor soccer."
             }
         ],
         "wedding dress": [
@@ -863,7 +835,7 @@
                 "id": "7333365904",
                 "name": "Mackie Porable 6 channel mixer with loud speaker",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/gilroy-mackie-porable-channel-mixer/7333365904.html",
-                "datetime": "2021-06-16 13:24",
+                "datetime": "2021-06-20 19:51",
                 "price": "$400",
                 "where": "gilroy",
                 "deleted": false,
@@ -926,6 +898,25 @@
         ],
         "famous": [
             {
+                "id": "7332889391",
+                "name": "Encyclopedia of the Opera by David Ewen",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/encyclopedia-of-the-opera-by-david-ewen/7332889391.html",
+                "datetime": "2021-06-20 19:31",
+                "price": "$20",
+                "where": "redwood city",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00q0q_kT4HMjf9tRtz_07K0ak_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00q0q_kT4HMjf9tRtz_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_kT4HMjf9tRtz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_l7d9pp1RCECz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_6HsdgHGPw3yz_07K0ak_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Encyclopedia of the Opera by David Ewen, 1963, Hill and Wang, 594 pages, hardcover, newThe most informative, useful, and comprehensive single volume source book on opera ever published. Arranged alphabetically & cross-indexed. Contains synopses of every major opera & lesser-known works; biographies of composers, librettists, singers, conductors , impresarios, stage directors, critics, teachers & musicologists; literary sources of opera, histories of famous opera houses and festivals; definitions of opera terms descriptions of important vocal and instrumental passages. Gold cover with gilt lettering on blue background on spine. Book appears new and unread.  Pages are tight, clean and crisp."
+            },
+            {
                 "id": "7339674033",
                 "name": "Gretsch Eliot Easton Duo Jet Cadillac green with bigsby. Trade obo",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/saratoga-gretsch-eliot-easton-duo-jet/7339674033.html",
@@ -963,27 +954,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "1955-ish Stella, Letter of Authenticity from his heirs, owned by Terry Teene who was the opening act for Buddy Holly and was there that famous night \u201cthe music died\u201d in Iowa. Includes his one hit 45 record Curse of the Hearse and Pussy Galore. Other songs include: Happiness is Coming, (which he recorded under the name of Blaine Bel Aire), and We're Going to put Iowa on the Map. Terry's personal favorites are Fun To Be With and Perfect 36.He also opened for Kenny Rogers, Loretta Lynn, Larry Gatlin, Rick Dees, The Solid Gold Dancers and Dolly Parton were all the featured performers.He performed with Alice Cooper, Nazerath, Flo and Kinks, S H A N A N A, Knack, Cheap Trick, Bobby Vee and many, many more.He is in the Rockabilly Hall of Fame.  Was the 1st Ronald MacDonald. Good to fair condition, no case.He also appeared on dozens of TV shows."
-            },
-            {
-                "id": "7336186595",
-                "name": "Boss GT-1 Guitar Multi-Effects Processor (Original box included).",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/sunnyvale-boss-gt-guitar-multi-effects/7336186595.html",
-                "datetime": "2021-06-20 13:52",
-                "price": "$130",
-                "where": "sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_9kKu3UnqLhRz_0gw0co_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00d0d_9kKu3UnqLhRz_0gw0co_600x450.jpg",
-                    "https://images.craigslist.org/00d0d_9kKu3UnqLhRz_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00808_4kYjwBOhy0Ez_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/01616_5ipKfOZo1lvz_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_1yedWtgGEiYz_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_5M1wMNKBTHGz_0gw0co_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Ultra-portable and easy to use, the GT-1 delivers pro-level tones everywhere you play. Driven by the powerful BOSS GT-series engine, it gives you access to a huge selection of world-class amps and effects for all types of music. A streamlined interface enables quick and intuitive sound creation, while an assignable control switch and expression pedal provide dynamic real-time effects adjustment. And by connecting to BOSS Tone Central, you can download free pro patches, editing software, and more. Equally suited for beginners, weekend warriors, and traveling players, the GT-1 packs premium sound in a compact and rugged package.Exceptional SoundThanks to its flagship-class GT sound engine, the GT-1 provides tone quality and sound-shaping ability that far exceeds typical compact multi-effects. A history of BOSS processing is at your fingers, from classics such as the OD-1 Overdrive to modern effects powered by innovative MDP technology. There\u2019s a huge selection of COSM amp tones on tap too, including vintage legends and BOSS original amps optimized for ideal tone and response. Specialized effects like Acoustic Simulator, Guitar Simulator, and others provide numerous tonal options, and there\u2019s even a looper to enhance your practice sessions and stage performances.Portable Tone PartnerThe GT-1 was designed for musicians on the move. It\u2019s surprisingly lightweight and compact, yet still delivers the rugged durability that BOSS is famous for. The modern design is easy to slip in and out of a guitar bag\u2019s accessory compartment, with no worries of hard edges causing damage to your axe. AC or battery power provides flexibility for any performing situation, and up to seven hours of battery life is available for street performing and other mobile gigs.Easy Patch Selection and Sound CreationWith the GT-1, it\u2019s simple to find fantastic tones for your style, and just as simple to customize them to taste. Beginners can get great sounds right away, while more experienced players will appreciate how quick and intuitive it is to adjust sounds. The Easy Select function allows you to choose patches by genre, distortion, or effect type, while Easy Edit lets you tweak drive, modulation, and echo tones to perfection with little effort. Dedicated panel buttons provide quick on/off switches for effect groups, and also unlock deep-dive parameters for microscopic fine-tuning.BOSS Tone Central and BOSS Tone StudioAt BOSS Tone Central, you\u2019ll find tons of free patch collections for playing all types of music with the GT-1. Created by pro guitarists, these patches are dialed-in and ready to use, and make great starting points for advanced players who like to create their own custom sounds. The free BOSS Tone Studio software provides a full-featured editor/librarian for the GT-1, as well as integrated access to all the patch collections at BOSS Tone Central.Maximum Control in a Small SpaceThe GT-1\u2019s three footswitches are smartly designed to provide patch selection, tuner access, looper control, and more in a minimal footprint. The dedicated CTL1 switch is freely assignable to functions like tap tempo, effects on/off, and numerous others, while the expression pedal and toe switch are assignable to volume, wah, and various effects parameters. If you crave more control, there\u2019s even a jack for connecting up to two external footswitches or an expression pedal. And in addition to providing access to BOSS Tone Central and BOSS Tone Studio, the GT-1\u2019s USB jack lets you record and re-amp tones with your favorite DAW.Features    Flagship-class BOSS sound engine squeezed into a light and compact floor unit    Modern design with no hard edges enables safe transport in a guitar bag    Easy Select and Easy Edit functions for quickly choosing and tweaking patches    Four AA batteries provide up to seven hours of playing time for busking and mobile gigs    Onboard control switch and expression pedal; footswitch/expression pedal jack and USB    Download ready-to-play pro patches for free at BOSS Tone CentralUnit may have some minor cosmetic scratches.Boss, BOSS, boss, Roland. GT1, GT-1, gt1, gt-1."
             }
         ]
     }

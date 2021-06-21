@@ -149,6 +149,25 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7339670795",
+                "name": "Vintage Harley Davidson Garage Jacket",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/sebastopol-vintage-harley-davidson/7339670795.html",
+                "datetime": "2021-06-20 19:12",
+                "price": "$60",
+                "where": "sebastopol",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_kLfNfggSqxC_0gl0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_kLfNfggSqxC_0gl0t2_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_kLfNfggSqxC_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_7uVaGk1peP6_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_5IuNlZVRaqP_0CI0lM_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Very nice XL Embroidered Wing and Wheel with 3 Factory patches. Never worn."
+            },
+            {
                 "id": "7325358231",
                 "name": "Vintage clothes",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/gilroy-vintage-clothes/7325358231.html",
@@ -196,25 +215,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage '40s handbag.10.5'' long across the zippered top.Completely covered with black glass beads."
-            },
-            {
-                "id": "7332385791",
-                "name": "Vintage Hat Denmark",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-hat-denmark/7332385791.html",
-                "datetime": "2021-06-20 17:58",
-                "price": "$20",
-                "where": "San Francisco",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00O0O_cczlT8UAyxVz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00O0O_cczlT8UAyxVz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00O0O_cczlT8UAyxVz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_5CBkwBSwIxsz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_4aVBTlYTuMVz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Made in Copenhagen  Probably 1960's"
             }
         ],
         "beaded": [
@@ -341,6 +341,24 @@
         ],
         "wedding dress": [
             {
+                "id": "7333406562",
+                "name": "Wedding dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-wedding-dress/7333406562.html",
+                "datetime": "2021-06-20 19:17",
+                "price": "$350",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00T0T_fkckj03Z9ukz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00T0T_fkckj03Z9ukz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00T0T_fkckj03Z9ukz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_aOutQdjsbVkz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Like new"
+            },
+            {
                 "id": "7337605792",
                 "name": "Larger Size Wedding Dress With Train",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-larger-size-wedding-dress-with/7337605792.html",
@@ -387,26 +405,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Pristine condition custom made Classic Wedding Dress and hair piece for Veil. Only worn once. It has been professionally dry clean and preserved. Below are the measurements:Shoulder : 155'Arm length : 205'Waist : 26Bust 33I am 55' and I wore 3 heels with the dress. I usually wear sizes xsmall to small."
-            },
-            {
-                "id": "7339591712",
-                "name": "Vintage Wedding Dress with Detachable Train",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/san-rafael-vintage-wedding-dress-with/7339591712.html",
-                "datetime": "2021-06-20 14:54",
-                "price": "$50",
-                "where": "san rafael",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00B0B_he0GeAwCAkQ_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_i7wT1MwgvXl_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_lc6RQt6OMJC_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_coQZA65IxWE_0CI0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "A vintage wedding dress with long detachable train.  I believe the dress is a size 16 - 18. It was preserved in 1987-88 and is still in original sealed box."
             }
         ],
         "great condition": [
@@ -928,6 +926,45 @@
         ],
         "famous": [
             {
+                "id": "7339674033",
+                "name": "Gretsch Eliot Easton Duo Jet Cadillac green with bigsby. Trade obo",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/saratoga-gretsch-eliot-easton-duo-jet/7339674033.html",
+                "datetime": "2021-06-20 19:26",
+                "price": "$1,100",
+                "where": "saratoga",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00d0d_3rHjCgFbgGoz_07g09G_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00d0d_3rHjCgFbgGoz_07g09G_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_3rHjCgFbgGoz_07g09G_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_4hjR6ldwgV7z_07g09G_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Here's a cool and hard to find signature model. Designed by famous Cars guitarist Elliot Easton, the G5570 is a killer instrument. Cool Gretsch looks, nice quality and good features for a low price. Based on the famous Duo Jet, this one is ready to rock. The mahogany body and laminated maple top make for an excellent combination. The set mahogany neck features a bound rosewood fingerboard with thumbprint fingerboard inlays. Dual Gretsch humbuckers deliver cool tones. A licensed Bigsby vibrato, Adjustomatic bridge and locking tuners complete the picture. The green sparkle finish is complimented by gold hardware. A really great guitar for the bucks. Trades obo welcome looking for Rickenbacker or other types of guitars including Gretsch that I don\u2019t already have 2 of fender jag jazz tele  pedal steel prs Gibson Paul sg keyboards sound gear etc this is the rare Chinese made electromatic version that Gretsch pulled from production because they were making them so good that they were so close in quality to the 3000$ made in Japan.  This Gretsch is super special and sounds like no other in production is a player with the larger than normal scale neck good for drop tunings with a bigsby too. Dose an amazing job on sabbath drop c# and c. Special Gretsch broadtrons different  and better than those installed today and the classic Gretsch wiring harness with the classic Gretsch 3 way tone switch."
+            },
+            {
+                "id": "7333285752",
+                "name": "Stella Acoustic guitar 1955 with provenance",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/nicasio-stella-acoustic-guitar-1955/7333285752.html",
+                "datetime": "2021-06-20 19:05",
+                "price": "$500",
+                "where": "fairfax",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00909_6eAYEvWwX3xz_0k80t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00909_6eAYEvWwX3xz_0k80t2_600x450.jpg",
+                    "https://images.craigslist.org/00909_6eAYEvWwX3xz_0k80t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_aCMFTzOBotfz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_QOpwzeUeuCz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_ip7B1LQuVWPz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_lW8DxFeY5jXz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "1955-ish Stella, Letter of Authenticity from his heirs, owned by Terry Teene who was the opening act for Buddy Holly and was there that famous night \u201cthe music died\u201d in Iowa. Includes his one hit 45 record Curse of the Hearse and Pussy Galore. Other songs include: Happiness is Coming, (which he recorded under the name of Blaine Bel Aire), and We're Going to put Iowa on the Map. Terry's personal favorites are Fun To Be With and Perfect 36.He also opened for Kenny Rogers, Loretta Lynn, Larry Gatlin, Rick Dees, The Solid Gold Dancers and Dolly Parton were all the featured performers.He performed with Alice Cooper, Nazerath, Flo and Kinks, S H A N A N A, Knack, Cheap Trick, Bobby Vee and many, many more.He is in the Rockabilly Hall of Fame.  Was the 1st Ronald MacDonald. Good to fair condition, no case.He also appeared on dozens of TV shows."
+            },
+            {
                 "id": "7336186595",
                 "name": "Boss GT-1 Guitar Multi-Effects Processor (Original box included).",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/sunnyvale-boss-gt-guitar-multi-effects/7336186595.html",
@@ -947,53 +984,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Ultra-portable and easy to use, the GT-1 delivers pro-level tones everywhere you play. Driven by the powerful BOSS GT-series engine, it gives you access to a huge selection of world-class amps and effects for all types of music. A streamlined interface enables quick and intuitive sound creation, while an assignable control switch and expression pedal provide dynamic real-time effects adjustment. And by connecting to BOSS Tone Central, you can download free pro patches, editing software, and more. Equally suited for beginners, weekend warriors, and traveling players, the GT-1 packs premium sound in a compact and rugged package.Exceptional SoundThanks to its flagship-class GT sound engine, the GT-1 provides tone quality and sound-shaping ability that far exceeds typical compact multi-effects. A history of BOSS processing is at your fingers, from classics such as the OD-1 Overdrive to modern effects powered by innovative MDP technology. There\u2019s a huge selection of COSM amp tones on tap too, including vintage legends and BOSS original amps optimized for ideal tone and response. Specialized effects like Acoustic Simulator, Guitar Simulator, and others provide numerous tonal options, and there\u2019s even a looper to enhance your practice sessions and stage performances.Portable Tone PartnerThe GT-1 was designed for musicians on the move. It\u2019s surprisingly lightweight and compact, yet still delivers the rugged durability that BOSS is famous for. The modern design is easy to slip in and out of a guitar bag\u2019s accessory compartment, with no worries of hard edges causing damage to your axe. AC or battery power provides flexibility for any performing situation, and up to seven hours of battery life is available for street performing and other mobile gigs.Easy Patch Selection and Sound CreationWith the GT-1, it\u2019s simple to find fantastic tones for your style, and just as simple to customize them to taste. Beginners can get great sounds right away, while more experienced players will appreciate how quick and intuitive it is to adjust sounds. The Easy Select function allows you to choose patches by genre, distortion, or effect type, while Easy Edit lets you tweak drive, modulation, and echo tones to perfection with little effort. Dedicated panel buttons provide quick on/off switches for effect groups, and also unlock deep-dive parameters for microscopic fine-tuning.BOSS Tone Central and BOSS Tone StudioAt BOSS Tone Central, you\u2019ll find tons of free patch collections for playing all types of music with the GT-1. Created by pro guitarists, these patches are dialed-in and ready to use, and make great starting points for advanced players who like to create their own custom sounds. The free BOSS Tone Studio software provides a full-featured editor/librarian for the GT-1, as well as integrated access to all the patch collections at BOSS Tone Central.Maximum Control in a Small SpaceThe GT-1\u2019s three footswitches are smartly designed to provide patch selection, tuner access, looper control, and more in a minimal footprint. The dedicated CTL1 switch is freely assignable to functions like tap tempo, effects on/off, and numerous others, while the expression pedal and toe switch are assignable to volume, wah, and various effects parameters. If you crave more control, there\u2019s even a jack for connecting up to two external footswitches or an expression pedal. And in addition to providing access to BOSS Tone Central and BOSS Tone Studio, the GT-1\u2019s USB jack lets you record and re-amp tones with your favorite DAW.Features    Flagship-class BOSS sound engine squeezed into a light and compact floor unit    Modern design with no hard edges enables safe transport in a guitar bag    Easy Select and Easy Edit functions for quickly choosing and tweaking patches    Four AA batteries provide up to seven hours of playing time for busking and mobile gigs    Onboard control switch and expression pedal; footswitch/expression pedal jack and USB    Download ready-to-play pro patches for free at BOSS Tone CentralUnit may have some minor cosmetic scratches.Boss, BOSS, boss, Roland. GT1, GT-1, gt1, gt-1."
-            },
-            {
-                "id": "7325966849",
-                "name": "VINYL, 45s, Bob DYLAN  PIN + BEATLES X-MAS CLUB RECORD + MICKEY MOUSE",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/berkeley-vinyl-45s-bob-dylan-pin/7325966849.html",
-                "datetime": "2021-06-20 11:52",
-                "price": "$2",
-                "where": "berkeley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00E0E_3JB4kBiAR7L_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00E0E_3JB4kBiAR7L_600x450.jpg",
-                    "https://images.craigslist.org/00E0E_3JB4kBiAR7L_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_aYSG8XjXRWd_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_fpXQesQrl6G_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_1f3u3vyKKNl_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_Gy2u2MhKdh_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_ahTBwxlEPQ6_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_4XycqxKseQL_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "NOTICE = I JUST GOT IN ABOUT 200 LPs (VINYL) and they look to be in good condition.  Lot of Blues (Bobby Bland, Little Milton, etc. Also some JAZZ, and of course  the famous VARIOUS)  ASK ME IF INTERESTED IN BUYING ALL AT ONCE and then I WILL COUNT HOW MANY THERE ARE OK?1) BOB DYLAN METAL PINS : I am selling five Bob Dylan metal PINS from about 1966-67 (maybe from the Book TARANTULA?)These are still new OK?  $ 10.00 each or 5 for $ 40.00. PHOTO SHOWN.  (# 0399-11)2) BEATLES CHRISTMAS FAN CLUB 45 RECORD, 1964. This one is from December, 1964 and is in very good condition.  The paper cover is intact with only a slight discolouring and the bottom left (see black line = highlight)  PHOTO SHOWN. 2018 SALE PRICE = $ 85.00 (previously was $ 115.00)3) MICKEY MOUSE GRAPHICS x 2 = ONE IS HAND PAINTED ON AN OLD BANJO SKIN, CIRCA 1930s? The other is a framed picture. 12 inches by 9 inches,  called MICKEY MOUSE & FRIENDS and signed in 1991 by HARRY HOLT(DISNEY)  4) BEATLES ON THE BBC = 1962 to 1970. a comprehensive Box Set with a Large Book detailing all the performances and history of The Beatles AT THIS TIME, AND INCLUDES PHOTOS AND OTHER SMALL DOCUMENTS. Very good condition. PRICE = $ 40.00.5) CARTOON Graphic of Marx Brothers (x 4) , framed and small sized.  PRICE = $ 20.00. Looks like a movie Poster. 6) I HAVE SOME CHOSEN VINYL HERE, INDIVIDUALLY PRICED, and also  some random 45s as well. Come look through them.  Also, many CDs, all still new FOR $ 2.00 EACH.  Also many new CDs of the NEVILLE FAMILY (AARON, the BROTHERS, The FUNKY METERS. etc.  The NEVILLE CDs are $ 4.00 each. PRICES for MANY NEVILLES AT ONCE = INQUIRE."
-            },
-            {
-                "id": "7331528594",
-                "name": "Upright Bass \ud834\udd22\ud834\udd22\ud834\udd22 \ud83c\udfb6",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-upright-bass/7331528594.html",
-                "datetime": "2021-06-20 10:22",
-                "price": "$2,000",
-                "where": "San Francisco",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00v0v_5jiSH1QzBczz_0MM132_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00v0v_5jiSH1QzBczz_0MM132_600x450.jpg",
-                    "https://images.craigslist.org/00v0v_5jiSH1QzBczz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_28KQlUartPYz_0Cs12Z_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_8XHTbTJgDywz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_eDasuV6NGTEz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_l0qsumabQVCz_0B812N_50x50c.jpg",
-                    "https://images.craigslist.org/00101_d2GxaTjV3Tsz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00909_3t3yCJDwLKhz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_gjPFZekW9fTz_10U0zY_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "\ud834\udd22\ud834\udd22\ud834\udd22 Christopher Double Bass (Busseto - Model No.DB204 - 2002) --- $2000 This bass was originally set up and purchased at the world-famous David Gage String Instruments in New York.* Laminated spruce top, laminated flamed maple back and sides; fully arched; hand carved maple neck and scroll * Ebony fingerboard - the best ebony from West Africa* Adjustable bridge* Matte finished in medium amber brown* Busseto shape* Realist pickup is includedShe is a beauty and has warm tone!"
             }
         ]
     }

@@ -122,6 +122,29 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7326667410",
+                "name": "Vintage overcoat. Air Force",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-overcoat-air-force/7326667410.html",
+                "datetime": "2021-06-21 15:01",
+                "price": "$50",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00z0z_1m90Rv8NRHMz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00z0z_1m90Rv8NRHMz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00z0z_1m90Rv8NRHMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_N1OLH9F4Xlz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_3Mn86sSFf2Vz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01717_jVORAyQG3VGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_27QxiqUyIslz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_kmIxyp2M7vKz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_6PkyzC8aXdWz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "In relatively good condition considering it\u2019s age. Probably from the Korean War era."
+            },
+            {
                 "id": "7330151389",
                 "name": "Vintage Skin Gear Leather Trench Coat",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-skin-gear-leather/7330151389.html",
@@ -159,36 +182,41 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "This purse is in like new condition with a thin scratch in the brown leather at the bottom of the back of the bag. OTHERWISE PERFECT!!  BB SIMON sold a similar bag on his website DISCOUNT PRICE $316.80 {B-3265}  The purse that I have is fancier because it also has crystals on it and worth more retail. AM SELLING AT DISCOUNT PRICE OF $90.00.The purse is a brown/light brown and tan COWHIDE ITALIAN LEATHER with SWAROVSKY STONES & Crystals.It measures 12 wide and stands 7 tall and with the purse handles is 13 tallIT IS A VINTAGE BB SIMON PURSE."
-            },
-            {
-                "id": "7335656296",
-                "name": "Lot of Vintage Clothing",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-lot-of-vintage-clothing/7335656296.html",
-                "datetime": "2021-06-21 14:13",
-                "price": "$90",
-                "where": "bayview",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_hALmkgt6mwfz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00L0L_hALmkgt6mwfz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_hALmkgt6mwfz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_lbPO93pLRZ0z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_6YIK7Nhh3SHz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_5z5625n2H6jz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_3DeWPzjgFwwz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_i39noJttUEJz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_eKm2vU3RJgcz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00606_5BBEg2vPZRoz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_6LDmOssNW28z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_cYwUybS39L5z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_eKm2vU3RJgcz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Lot of beautiful vintage clothing. Includes jackets, trousers, dresses, wool sweaters, and accessories. Some leather and suede. Over 30 pieces in varying sizes, all women\u2019s wear. Ideal for resale. Photos attached are a sample of what\u2019s included, not everything."
             }
         ],
         "beaded": [
+            {
+                "id": "7338460190",
+                "name": "Maasai beaded earrings",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-maasai-beaded-earrings/7338460190.html",
+                "datetime": "2021-06-21 15:03",
+                "price": "$12",
+                "where": "berkeley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00C0C_aI2ptimq3ylz_0CI0lL_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00C0C_aI2ptimq3ylz_0CI0lL_600x450.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "Brand new Maasai earrings from Kenya1.0$12, Cash, local"
+            },
+            {
+                "id": "7338461535",
+                "name": "Beaded hoops",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-beaded-hoops/7338461535.html",
+                "datetime": "2021-06-21 15:03",
+                "price": "$15",
+                "where": "berkeley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00s0s_hfiuVSfYUOhz_0CI0lL_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00s0s_hfiuVSfYUOhz_0CI0lL_600x450.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "Brand new beaded hoops2.0$15, cash, local"
+            },
             {
                 "id": "7328825902",
                 "name": "Wedding Gown: Exquisitely Embroidered and Beaded Bridal",
@@ -213,52 +241,6 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "Gorgeous satin silk bridal gown.  Exquisitely decorated with metallic gold and silver motif embroideries,  beaded dragons and Phoenix by master hands all over the dress.This is a small/medium size traditional red Chinese wedding dress, also known as KwanKwa/CheongSam.The skirt is 40 long with adjustable suspender to fit different heights, draw string waist expands to fit maximum 30 waist line."
-            },
-            {
-                "id": "7333800949",
-                "name": "Corello Brazilian Lamb Leather Beaded Hobo Paisley Shoulder Bag Purse",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-corello-brazilian-lamb/7333800949.html",
-                "datetime": "2021-06-21 11:17",
-                "price": "$75",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_l4WvPxvBUp2_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_aJNIBEgXNB2_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_qV0lYllUk8_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_bncLHeFGo8t_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_krQ5FtzyIHY_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_6zH9mjEmLIP_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_fx5pksdsiQd_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_9y805IUYQ6Y_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_gdi4RCjtKNr_0hq0kF_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "This is a new, with store tag attached, purse by the Brazilian brand Corello. It features a fabric paisley exterior covered in various seed beads and a few iridescent sequins in orange, fuchsia, greens, aqua, lavender, and powder blue. The handles and interior zip pocket opening are taupe lamb leather while the interior is a ribbed ivory fabric. The purse has a single magnetic closure.It measures approximately 10 tall x 14 wide with an 8 handle drop. The tag appears to have a handwritten date of June 11th, 2005 (Brazil's date format of DD/MM/YY).Please call, text, or email anytime.Thank you,Ed"
-            },
-            {
-                "id": "7339897892",
-                "name": "Nice Tea Length Beaded Ivory Ladies Size XL Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-nice-tea-length-beaded-ivory/7339897892.html",
-                "datetime": "2021-06-21 09:54",
-                "price": "$20",
-                "where": "san jose north",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_4WlsfFe8CV2z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_kLuaxvHe0lOz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00707_ebXushrU6xpz_0t20CI_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
             }
         ],
         "gloves": [
@@ -327,6 +309,26 @@
         ],
         "wedding dress": [
             {
+                "id": "7340096107",
+                "name": "Justin Alexander Wedding Dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-justin-alexander-wedding-dress/7340096107.html",
+                "datetime": "2021-06-21 15:21",
+                "price": "$500",
+                "where": "alameda",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00N0N_a7qqxd1wT3Mz_08P08Q_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00N0N_a7qqxd1wT3Mz_08P08Q_600x450.jpg",
+                    "https://images.craigslist.org/00N0N_a7qqxd1wT3Mz_08P08Q_50x50c.jpg",
+                    "https://images.craigslist.org/01111_cvya01NerFqz_08Q08P_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_cse2DAT464rz_08U08P_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_7WaWOTzGEgSz_08N08U_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Justin Alexander 8936 Crepe Bridal Gown WeddingNew without tags.Size 6 bust:34inch .waist:26inch. Hips:38inchCOLORSIvory/Silver/NudeSILHOUETTEFit and FlareNECKLINESabrinaWAISTLINENaturalTRENDClean and Modern, Bold Backs, BeadedFIGURECurvyFABRICCrepeSEASONFW17TRAIN LENGTHChapel"
+            },
+            {
                 "id": "7340079725",
                 "name": "Gorgeous custom made designer wedding dress sz 6/8",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-gorgeous-custom-made-designer/7340079725.html",
@@ -386,24 +388,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "***Stretch your wedding budget and purchase a preowned wedding dress that is in excellent condition!***For sale is a beautiful ivory wedding dress with classic lines and modern contemporary details. In excellent condition.  From Justin Alexander's 2020 collection.Dress gown size 12. Altered to fit: bust 36/waist 30/hips 38 (note: Bridal dresses are sized different from everyday clothes; they run small.  This bride usually wears a size 8)Length was not altered.  From Designer's website: \u201cThis Mikado* ball gown with a sweetheart neckline is the perfect classic look with modern style details. Featuring a back cuff and illusion beading that your guests are sure to remember.\u201dDesigner: Justin Alexander Style #: 88110 See more photos and video on the designer\u2019s website:https://www.justinalexander.com/justin-alexander/collection/wedding-dresses/88110/ \u2022  Color - Ivory\u2022  Fabric: Mikado* and beading\u2022  Silhouette - Ball Gown \u2022  Neckline - Strapless, Sweetheart \u2022  Waistline - Natural \u2022  Trend - Clean and Modern, Preppy Chic \u2022  Train length - Chapel \u2022  Pockets - yes*Mikado fabric is an expensive blend of silk and nylon, which offers a smooth finish that has a slight grain in the texture. This is a durable material that creates wonderful structure and contours in wedding dresses. . Wedding dress is in excellent condition. It has been professionally dry cleaned and is ready for the next bride!Asking $950 (Retail = $1800)Located in Danville.  wedding, bride, brides, dress, dresses"
-            },
-            {
-                "id": "7340003456",
-                "name": "Selling my Jewel Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-selling-my-jewel-wedding/7340003456.html",
-                "datetime": "2021-06-21 12:38",
-                "price": "$250",
-                "where": "bernal heights",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00g0g_kgIwaRMiXuBz_0pB0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00g0g_kgIwaRMiXuBz_0pB0t2_600x450.jpg",
-                    "https://images.craigslist.org/00g0g_kgIwaRMiXuBz_0pB0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_68wvxOsUSnKz_0r00t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Selling my wedding dress size 10 but has been tailored to fit size 8. The belt and straps were added on for extra bling.This dress is great for a bride who wants a beautiful tailored ruffled ballgown wedding dress with long train on a budget. I have to sell this dress because I'm moving and I can't keep this dress due to space limits in the new closet."
             }
         ],
         "great condition": [
@@ -543,34 +527,6 @@
     "cars": {
         "drives great": [
             {
-                "id": "7335911788",
-                "name": "2005 Nissan Murano 190k Miles Nice Car Drives Great",
-                "url": "https://sfbay.craigslist.org/sfc/cto/d/rancho-cordova-2005-nissan-murano-190k/7335911788.html",
-                "datetime": "2021-06-12 19:43",
-                "price": "$5,800",
-                "where": "bayview",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_eoA9STr0z7hz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_eeaTZZkpzJCz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_9BAxg4O5oh8z_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_loPwGKk7uLEz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_8zPYATp1rgOz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_dRl1qxSEysZz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00505_azIdCJjsQryz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_dRT3RSWD4XXz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_4fYjXCdMJSez_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_50SWuKNMmegz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_gbCwWgmdEkrz_0QE0tC_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "Speak Russian Call Any Time Speak EnglishText For PicturesFor Sale is my Nissan MuranoGold colormiles 190 Khas new battery new alternatornew lower control armkey words murano sentra titan nissan2000 2002 2005 2007 2009 1995"
-            },
-            {
                 "id": "7333144769",
                 "name": "2007 FORD EDGE SE  AWD.  CLEAN TITLE. SMOG.  DRIVES GREAT***",
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2007-ford-edge-se-awd-clean/7333144769.html",
@@ -638,6 +594,38 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2004 Honda Element ex 2wdclean title. smog check.183,xxx miles.  lots to go.4-cylinder.  gas saver!!!drives great. clean in and out.automatic, shifts smooth.cold a/c.    Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
+            },
+            {
+                "id": "7340028431",
+                "name": "Ford F150 XL 4x4 5.0 V8 -2014 -79k miles great condition",
+                "url": "https://sfbay.craigslist.org/scz/cto/d/capitola-ford-f150-xl-4x4-50-k-miles/7340028431.html",
+                "datetime": "2021-06-21 13:15",
+                "price": "$21,500",
+                "where": "capitola",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00M0M_c39pGqxInQRz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00M0M_c39pGqxInQRz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00M0M_c39pGqxInQRz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_1C6gX9tjFJfz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_5In6X3opnS2z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_8vBC6s80boXz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_c6zxet18t1wz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_ap7dox54a62z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_TV71M3q4CEz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_h6JSVUsugW2z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_bNlx4vX2AbNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_e65caZCY2i6z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_iP2VAulBzAsz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_4pkMkjeJbStz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01515_f8IAPJSWo4wz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_9j3pYTlelmMz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_9iFKydHiepdz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_3xZ5TznOLy3z_0t20CI_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "Ford - F150 XL 4x4 5.0 V8 -2014 -79000 miles great condition Leather seatsPowered windows and locksRear cameraAll services up to dateEngine and transmission running strongBed size 6 1/2"
             }
         ],
         "fix up": [

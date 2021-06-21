@@ -64,6 +64,22 @@
         ],
         "wood": [
             {
+                "id": "7330561053",
+                "name": "Wood rods",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7330561053.html",
+                "datetime": "2021-06-20 23:12",
+                "price": "$5",
+                "where": "south san francisco",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Round wooden rods. Possibly could be used for furniture or closet.They are 1.5 inches in diameter. Knob in middle is 2.5 inches in diameter.7 are about 38 inches  long.1 is about 32.5 inches long.$5 each.Leave a number if you want a reply."
+            },
+            {
                 "id": "7339703226",
                 "name": "1 Fiberglass door wood grain",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-fiberglass-door-wood-grain/7339703226.html",
@@ -98,29 +114,29 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "aquarium quality painted wood panel or shelving or deckingwhite , gray and black colorabout 30 x 32  qty 23   price $3.00 eachabout 4.5 x 45  qty  12  price  $3.00 eachI have many other one with similar sizes these wood panel made for aquarium so the quality is very good please call for more detail and if you have any questions"
-            },
-            {
-                "id": "7339689910",
-                "name": "36 x 80 wood hampton screen door. NEW!",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/concord-36-80-wood-hampton-screen-door/7339689910.html",
-                "datetime": "2021-06-20 20:44",
-                "price": "$60",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_1iPpyvSfeDjz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00909_1iPpyvSfeDjz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00909_1iPpyvSfeDjz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_kFGcMqqgntnz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "$60 NEW in box!  Firm. Retails for $170.Call text  HowardIn Bay Point near ConcordCan deliver for $20 extra in East Bay, Contra Costa County. keys: landscape, gardening, trees, plants, landscaping, material, green house, bathroom, sink, vanity, ceiling fan, lighting, building materials, remodeling, free, garage sale, household, blinds, lumber, fixtures, plumbing, electrical, landscaping, home, appliances, furniture, moving, east bay, concord, Berkeley, Martinez, Benicia, pittsburg, Antioch, pleasant hill, Lafayette, Orinda, Oakland, san Francisco, sacramento, modesto"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7339709065",
+                "name": "Forty niners vintage starter jacket",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/morgan-hill-forty-niners-vintage/7339709065.html",
+                "datetime": "2021-06-20 22:59",
+                "price": "$249",
+                "where": "morgan hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00s0s_d7ihI4ERveDz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00s0s_d7ihI4ERveDz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00s0s_d7ihI4ERveDz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_kOq5wbyhVIXz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Pro line starter.No holes and no yellow stains."
+            },
             {
                 "id": "7339706905",
                 "name": "Gucci Money Clip Brass Mint - Vintage - New",
@@ -162,24 +178,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Women\u2019s size Small.Feel free to text or call me at   if interested"
-            },
-            {
-                "id": "7332375504",
-                "name": "VINTAGE/ANTIQUE KIMONO",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-antique-kimono/7332375504.html",
-                "datetime": "2021-06-20 20:49",
-                "price": "$200",
-                "where": "Burlingame",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_3sWLCyp9aDG_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00p0p_3sWLCyp9aDG_600x450.jpg",
-                    "https://images.craigslist.org/00p0p_3sWLCyp9aDG_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_1rh7wurRbD9_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "I bought this antique / vintage KIMONO in Japantaown , San Francisco .A great wall decor that will be a great focal point in any room.My house renovation is on its way,Now I'm looking for a good home to get its old glory and be again the center of attention to a new home It\u2019s in great condition considering it\u2019s vintage but expect fading and vintage look that comes with its age.Bought for $700.00 tax not included but willing to let it go for $200.00.A great deal.CASH onlyLOcal Pick up"
             }
         ],
         "beaded": [
@@ -440,6 +438,42 @@
     "sports": {
         "autograph": [
             {
+                "id": "7332412935",
+                "name": "Mike Comrie autographed Artistic impressions Oilers. 16x20 framed Poster",
+                "url": "https://sfbay.craigslist.org/sby/spo/d/seaside-mike-comrie-autographed/7332412935.html",
+                "datetime": "2021-06-20 23:09",
+                "price": "$20",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01212_fvmjEHGcBW3z_0ew0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01212_fvmjEHGcBW3z_0ew0jm_600x450.jpg",
+                    "https://images.craigslist.org/01212_fvmjEHGcBW3z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00000_9rVh3GmZABdz_0ew0jm_50x50c.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "Excellent Condition. Stored in box, never taken out."
+            },
+            {
+                "id": "7332421995",
+                "name": "Steve Yzerman Autographed Artistic impressions Red Wings 14 x 18 Framed",
+                "url": "https://sfbay.craigslist.org/sby/spo/d/seaside-steve-yzerman-autographed/7332421995.html",
+                "datetime": "2021-06-20 23:09",
+                "price": "$110",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_5ooXytbTZMyz_0ew0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_5ooXytbTZMyz_0ew0jm_600x450.jpg",
+                    "https://images.craigslist.org/01010_5ooXytbTZMyz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00404_5gFqh4iw6w3z_0ew0jm_50x50c.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "Excellent condition! Kept in box, never taken out.From the year 2002If interested, call or text  Pick up near Santa Teresa high school.Cross streets Santa Teresa/Cottle/Lean\ufffc"
+            },
+            {
                 "id": "7339705199",
                 "name": "Autographed Oakland Raiders",
                 "url": "https://sfbay.craigslist.org/eby/spo/d/martinez-autographed-oakland-raiders/7339705199.html",
@@ -457,89 +491,11 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "Oakland Raiders autographed $100 each  Football baseball basketball hockey tennis sports teams 49ers chargers Raiders A\u2019s giants Bay Area nfl"
-            },
-            {
-                "id": "7327703290",
-                "name": "Autographed Oakland Raiders Helmet",
-                "url": "https://sfbay.craigslist.org/eby/spo/d/martinez-autographed-oakland-raiders/7327703290.html",
-                "datetime": "2021-06-20 21:54",
-                "price": "$1",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_5oUWha9dDwRz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_3b2FQXjI1qBz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_3bmVYqB7Ra2z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_jajZ9dqhOQAz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_gYorNaWHykGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_eHI6A8zvk35z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_8pKw84uaWWqz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_oKDklRZgNXz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "Selling a autographed authentic Riddell Oakland Raiders helmet signed by Howie Long  75.       and  Tim Brown   81. Have certificate of  authenticity on the autographs.  Appraised at $650Selling for $300 firm Cash only- no Venmo- no PayPal    No Shipping Football baseball sports  49ers Raiders Chargers helmet"
-            },
-            {
-                "id": "7327703887",
-                "name": "Autographed Oakland Raiders Helmet",
-                "url": "https://sfbay.craigslist.org/eby/spo/d/martinez-autographed-oakland-raiders/7327703887.html",
-                "datetime": "2021-06-20 21:54",
-                "price": "$1",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_58kVSDw6eXTz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_5oUWha9dDwRz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_3b2FQXjI1qBz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_3bmVYqB7Ra2z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_jajZ9dqhOQAz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_gYorNaWHykGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_eHI6A8zvk35z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_8pKw84uaWWqz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_oKDklRZgNXz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "Selling a autographed authentic Riddell Oakland Raiders helmet signed by Howie Long  75.       and  Tim Brown   81. Have certificate of  authenticity on the autographs.  Appraised at $650Selling for $300 firmCash only- no Venmo- no PayPal    No Shipping Football baseball sports  49ers Raiders Chargers helmet"
             }
         ]
     },
     "cars": {
         "drives great": [
-            {
-                "id": "7335911788",
-                "name": "2005 Nissan Murano 190k Miles Nice Car Drives Great",
-                "url": "https://sfbay.craigslist.org/sfc/cto/d/rancho-cordova-2005-nissan-murano-190k/7335911788.html",
-                "datetime": "2021-06-12 19:43",
-                "price": "$5,800",
-                "where": "bayview",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_eoA9STr0z7hz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_eeaTZZkpzJCz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_9BAxg4O5oh8z_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_loPwGKk7uLEz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_8zPYATp1rgOz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_dRl1qxSEysZz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00505_azIdCJjsQryz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_dRT3RSWD4XXz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_4fYjXCdMJSez_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_50SWuKNMmegz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_gbCwWgmdEkrz_0QE0tC_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "Speak Russian Call Any Time Speak EnglishText For PicturesFor Sale is my Nissan MuranoGold colormiles 190 Khas new battery new alternatornew lower control armkey words murano sentra titan nissan2000 2002 2005 2007 2009 1995"
-            },
             {
                 "id": "7333144769",
                 "name": "2007 FORD EDGE SE  AWD.  CLEAN TITLE. SMOG.  DRIVES GREAT***",
@@ -608,6 +564,43 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2004 Honda Element ex 2wdclean title. smog check.183,xxx miles.  lots to go.4-cylinder.  gas saver!!!drives great. clean in and out.automatic, shifts smooth.cold a/c.    Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
+            },
+            {
+                "id": "7328908542",
+                "name": "2006 TOYOTA CAMRY LE.  CLEAN TITLE. SMOG!!  102k mi**  DRIVES GREAT!!!",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2006-toyota-camry-le-clean/7328908542.html",
+                "datetime": "2021-05-29 11:04",
+                "price": "$7,499",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_600x450.jpg",
+                    "https://images.craigslist.org/00w0w_imIwgLfK6Onz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_fjDqQYZ9wwDz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00808_eWpIrPuMEi8z_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_26N4HRSn2n4z_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00909_k8ZENDAKzUKz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_4HgI1Yp4ttYz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_bcDWU8dD6FFz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_dDjnyRyH0Kjz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01313_apLppNUXXMdz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01212_ghtHtCum5ZWz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_faHxqKBTqQvz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_aOSFCf4BEJxz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_3pMU1ZyAKSIz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01515_hXPk8JhvOe7z_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_jC1vmxNadiFz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_5VuJewtcZJoz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_d8WWgI82sPbz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_fSUiAWRZeJUz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_bzsIZudpi4yz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_i63zts4WBBDz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/01212_kqjfyy3PeKKz_0CI0lM_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2006 Toyota camry leclean title. smog check.102,xxx miles.  very low.4-cylinder.  gas saver.automatic, shifts smooth.cold a/c.   power windows and locks.drives great.  clean in and out.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [

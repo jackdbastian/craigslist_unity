@@ -64,6 +64,35 @@
         ],
         "wood": [
             {
+                "id": "7339711682",
+                "name": "wood plugs",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-wood-plugs/7339711682.html",
+                "datetime": "2021-06-20 23:28",
+                "price": "$15",
+                "where": "Alameda",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Z0Z_7PCFM5m5OCR_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Z0Z_7PCFM5m5OCR_600x450.jpg",
+                    "https://images.craigslist.org/00Z0Z_7PCFM5m5OCR_50x50c.jpg",
+                    "https://images.craigslist.org/01111_kAYlpG6pBzO_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_gxHoqaAi0On_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_ajdJHO44XGA_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_g8J1nZBBESB_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_7tBQWRGGQ6H_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_3jHhwpv7TJT_50x50c.jpg",
+                    "https://images.craigslist.org/00303_BJCqHSkWFJ_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_3E8ghfPNQsf_50x50c.jpg",
+                    "https://images.craigslist.org/01010_jRmQEMxsEhi_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_4DMVl9r5jed_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_4C0snseJ1Je_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_cL6MLVQLQsX_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Tapered end grain wood plugs. 350 pieces in a bag. $15 for each bag, or $25 for 2 bags. I have 20 bags available. Someone said these might be black plum, but I don't know what kind of wood they are.  Bigger (outside) surface is about 3/8 diameter. Smaller (inside) surface is about 1/4 diameter. Height (length) is about 3/8 long.  Great wood for woodworkers woodworking on their wooden projects."
+            },
+            {
                 "id": "7330561053",
                 "name": "Wood rods",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7330561053.html",
@@ -96,29 +125,35 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "New fiberglass wood grain door.  Walnut color with  metal figures inside glass panels.. Paint any color you like or leave the existing color and set your locks.  These doors adds class to any home or project. Super value  $350.00 ea.  Price this door new you'll be amazed.     Scammers seek employment                                                                                     ."
-            },
-            {
-                "id": "7327324257",
-                "name": "painted wood panel/shelving/decking",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/tracy-painted-wood-panel-shelving/7327324257.html",
-                "datetime": "2021-06-20 20:47",
-                "price": "$3",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00M0M_bMOLGJOFHvo_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00M0M_bMOLGJOFHvo_600x450.jpg",
-                    "https://images.craigslist.org/00M0M_bMOLGJOFHvo_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_6LYkfD318yv_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "aquarium quality painted wood panel or shelving or deckingwhite , gray and black colorabout 30 x 32  qty 23   price $3.00 eachabout 4.5 x 45  qty  12  price  $3.00 eachI have many other one with similar sizes these wood panel made for aquarium so the quality is very good please call for more detail and if you have any questions"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7339713545",
+                "name": "1967 -  TRAVEL BACK IN TIME W/ STYLE! Vintage Samsonite Suitcase -",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-travel-back-in-time-style/7339713545.html",
+                "datetime": "2021-06-20 23:53",
+                "price": "$65",
+                "where": "santa cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_h2nqBeZS6wS_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_h2nqBeZS6wS_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_h2nqBeZS6wS_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_d05LUzsWOUQ_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_SgxVNs8FlG_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_7Iu31KYZBki_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_7ZBnEjZmkZy_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_gb3WHw5OU6o_50x50c.jpg",
+                    "https://images.craigslist.org/01313_28ovciWJrBl_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_8rPnPufG5jU_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Lovely, Vintage Suitcase W/ SILK Compartments W/ working  snaps to close. LOTS OF Vintage Stickers!STORE DISPLAY,, Quality.Mid century 1960.s GREAT  statement piece..."
+            },
             {
                 "id": "7339709065",
                 "name": "Forty niners vintage starter jacket",
@@ -157,27 +192,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Gucci Money Clip Brass Mint - Vintage - New It was gift wrapped. Looks new to me. Please see pics for details"
-            },
-            {
-                "id": "7329506871",
-                "name": "Vintage Patagonia women\u2019s Fleece Jacket Blue Size Small S",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-patagonia-womens/7329506871.html",
-                "datetime": "2021-06-20 22:31",
-                "price": "$40",
-                "where": "sunset / parkside",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00H0H_6zkCsQnJ9ACz_0jm0jm_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00H0H_6zkCsQnJ9ACz_0jm0jm_600x450.jpg",
-                    "https://images.craigslist.org/00H0H_6zkCsQnJ9ACz_0jm0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_iELUrgrozmhz_0jm0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_2sZMmzgDRD2z_0jm0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00404_kjO9hU7HwSXz_0jm0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_csApdhkIgT1z_0jm0jm_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Women\u2019s size Small.Feel free to text or call me at   if interested"
             }
         ],
         "beaded": [
@@ -299,6 +313,26 @@
         ],
         "wedding dress": [
             {
+                "id": "7328423752",
+                "name": "Paloma Blanca Lace Wedding Dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/paloma-blanca-lace-wedding-dress/7328423752.html",
+                "datetime": "2021-06-20 23:54",
+                "price": "$999",
+                "where": "alameda",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_600x450.jpg",
+                    "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_4UJL8nxIyfx_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_8RMtFTPzu0Z_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_gtO2svhYewc_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Paloma Blanca Lace Wedding Dress.  Only used once. Fully cleaned and in great condition. Paid $2,800 new. Description: Mikaella Lace Wedding Dress. All lace gown with empire bodice, keyhole back and fit and flare skirt. Ribbon and flower embellishment at empire. Sweep Train. Street size 6-8."
+            },
+            {
                 "id": "7333406562",
                 "name": "Wedding dress",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-wedding-dress/7333406562.html",
@@ -339,30 +373,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Will probably need Dry Cleaned. I called a dry cleaner and they said minimum price is $100.00.  No size listed guessing it might be a 12 or 14.  Please come and try it on (not sure of the size).  If nothing else it is worth the price in beads.  If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
-            },
-            {
-                "id": "7339606399",
-                "name": "Custom made Classic Wedding Dress + Hair piece for Veil",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-custom-made-classic-wedding/7339606399.html",
-                "datetime": "2021-06-20 15:35",
-                "price": "$499",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00X0X_htP3Yhso2Qxz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00X0X_htP3Yhso2Qxz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00X0X_htP3Yhso2Qxz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_8U8J5OGEnZNz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_lPm06O4trc4z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00606_fovmtP8kdmFz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_2v7osbwfWF9z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_580BYIgsNrOz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_35nJfFqxkcUz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_fknCOoyxIpyz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Pristine condition custom made Classic Wedding Dress and hair piece for Veil. Only worn once. It has been professionally dry clean and preserved. Below are the measurements:Shoulder : 155'Arm length : 205'Waist : 26Bust 33I am 55' and I wore 3 heels with the dress. I usually wear sizes xsmall to small."
             }
         ],
         "great condition": [
@@ -837,6 +847,22 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
+                "id": "7332402580",
+                "name": "Hohner Bass Amp",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/petaluma-hohner-bass-amp/7332402580.html",
+                "datetime": "2021-06-20 23:45",
+                "price": "$300",
+                "where": "petaluma",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_lzNazyYBumNz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_lzNazyYBumNz_0lM0t2_600x450.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "Up for sale is a solid state Hohner brand bass amp in fantastic shape. All knobs and jacks are in perfect order. This baby is really loud!!!"
+            },
+            {
                 "id": "7336075921",
                 "name": "2002 Rainsong Carbon Fiber guitar",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/milpitas-2002-rainsong-carbon-fiber/7336075921.html",
@@ -857,29 +883,42 @@
                 "query": "loud",
                 "category": "msa",
                 "description": "Fabulous, rare Rainsong 38 inch dreadnaught steel string acoustic electric guitar in excellent condition except for small nick that does not affect its amazing sound which is loud and clear. Strung with Elixer strings. This is a high end instrument that is just the right size for most anyone.  It has Fischer electronics and includes a quality gig bag and strap. You will not be disappointed. Best offer accepted!"
-            },
-            {
-                "id": "7333038350",
-                "name": "Acoustic Control Corp Amps",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-acoustic-control-corp-amps/7333038350.html",
-                "datetime": "2021-06-20 21:48",
-                "price": "$700",
-                "where": "ingleside / SFSU / CCSF",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_600x450.jpg",
-                    "https://images.craigslist.org/00X0X_cEUYPryXPmU_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_3QCuUq8HXFQ_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00101_i4oQVpcRYPa_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_1gsEXNVv42_0gw0co_50x50c.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "Acoustic 150 w/6- 10 speakers loud and clear , reverb and trem. $700/ b.o.Acoustic 270 w/ 2-15 &horn. Reverb, trem, fuzz, graphic eq. Horn is disconnected(don't need it) $700/b.o.No trades . Buy both for $1200"
             }
         ],
         "famous": [
+            {
+                "id": "7339712059",
+                "name": "Sabian assorted sizes, prices in excellent condition. Also have ClearSonic drum",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/san-francisco-sabian-assorted-sizes/7339712059.html",
+                "datetime": "2021-06-20 23:56",
+                "price": "$200",
+                "where": "Mountain View",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00T0T_dKZNkbam7Ym_0CI0lM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00T0T_dKZNkbam7Ym_0CI0lM_600x450.jpg",
+                    "https://images.craigslist.org/00T0T_dKZNkbam7Ym_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00505_gCrgPu2PQpOz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00404_jHgWWLe1Wymz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_ag2XwaGIiKLz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_buUTc1Eqhx0z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_ei5Wipz6jZKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_a3gjPKEgSxlz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_bi0HTx0KLVcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_jL0YpwELPez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_4sbPvk4BBC5z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_eqiTDg37Bc6z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_cHsEgdKG4Xxz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00000_cldvrvVXuSuz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_lmIU2nqcOKfz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_lt25wmDga4I_0xP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_77gytqtyzlC_0CI0uB_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_jqtFPTsMWOE_0CI0AL_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "* SERIOUS INQUIRIES ONLY. LOW BALLERS WILL BE IGNORED* Hello what\u2019s left :- 16\u201d evolution- China 8\u201d wuhan (lol) splash- HHX 18\u201d crash- HHXplosion 18\u201d crash- AAXtreme chinese- 17\u201d upside down crash- HHX 10\u201d splash- HHX 12\u201d splash,  jazz groove hat -high hats- 20\u201d jazz hand hammered bounce rideSabian 17 AAX X-Treme Chinese Brilliant Finish, inch (21786XB) $200Sabian HHX 16 Evolution Crash Cymbal, Brilliant Finish$200Sabian Crash Cymbal, 17$280Sabian HHX 18 X-Plosion Crash Cymbal, Brilliant Finish$290SabianSabian Hand Hammered Heavy Ride Cymbal 20 $480Sabian HHX 10 Evolution Splash Cymbal, Brilliant Finish$120Sabian HHX 12 Evolution Splash Cymbal, Brilliant Finish $13513\u201d HHX Evolution Hats$355And the Signature Sabian cymbal  bag will throw in if someone buys the whole lot otherwise will sell the beautiful thick padded velvet inside bag separately for sale once most of the cymbals are goneHello getting rid of what oil have left of various sizes of Sabian is one of the most famous brands in the cymbals business. As you probably know, it traces its roots back to Zildjian, and by default, old Constantinople. So, if someone knows cymbals, it's Sabian. The ride cymbal is an essential part of every drum kit, so it is important to choose which one will suit you best, $288/obo. The  HHX Groove Hats have a nice crisp sound $250/obo. Will be on eBay soon as I want to sell all as a package and will throw in the bag as well since I\u2019m not gigging any longer.\u201c if this doesn\u2019t make any sense to you then may I suggest you wiki Sabian\u201dAlso have ClearSonic drum shield the PRICE IS $500:https://sfbay.craigslist.org/pen/msg/d/san-francisco-clear-sonic-premium-drum/7251210993.html"
+            },
             {
                 "id": "7339689773",
                 "name": "\"Assassin\" electric guitar, Stratocaster Style",
@@ -921,24 +960,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Encyclopedia of the Opera by David Ewen, 1963, Hill and Wang, 594 pages, hardcover, newThe most informative, useful, and comprehensive single volume source book on opera ever published. Arranged alphabetically & cross-indexed. Contains synopses of every major opera & lesser-known works; biographies of composers, librettists, singers, conductors , impresarios, stage directors, critics, teachers & musicologists; literary sources of opera, histories of famous opera houses and festivals; definitions of opera terms descriptions of important vocal and instrumental passages. Gold cover with gilt lettering on blue background on spine. Book appears new and unread.  Pages are tight, clean and crisp."
-            },
-            {
-                "id": "7339674033",
-                "name": "Gretsch Eliot Easton Duo Jet Cadillac green with bigsby. Trade obo",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/saratoga-gretsch-eliot-easton-duo-jet/7339674033.html",
-                "datetime": "2021-06-20 19:26",
-                "price": "$1,100",
-                "where": "saratoga",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_3rHjCgFbgGoz_07g09G_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00d0d_3rHjCgFbgGoz_07g09G_600x450.jpg",
-                    "https://images.craigslist.org/00d0d_3rHjCgFbgGoz_07g09G_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_4hjR6ldwgV7z_07g09G_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Here's a cool and hard to find signature model. Designed by famous Cars guitarist Elliot Easton, the G5570 is a killer instrument. Cool Gretsch looks, nice quality and good features for a low price. Based on the famous Duo Jet, this one is ready to rock. The mahogany body and laminated maple top make for an excellent combination. The set mahogany neck features a bound rosewood fingerboard with thumbprint fingerboard inlays. Dual Gretsch humbuckers deliver cool tones. A licensed Bigsby vibrato, Adjustomatic bridge and locking tuners complete the picture. The green sparkle finish is complimented by gold hardware. A really great guitar for the bucks. Trades obo welcome looking for Rickenbacker or other types of guitars including Gretsch that I don\u2019t already have 2 of fender jag jazz tele  pedal steel prs Gibson Paul sg keyboards sound gear etc this is the rare Chinese made electromatic version that Gretsch pulled from production because they were making them so good that they were so close in quality to the 3000$ made in Japan.  This Gretsch is super special and sounds like no other in production is a player with the larger than normal scale neck good for drop tunings with a bigsby too. Dose an amazing job on sabbath drop c# and c. Special Gretsch broadtrons different  and better than those installed today and the classic Gretsch wiring harness with the classic Gretsch 3 way tone switch."
             }
         ]
     }

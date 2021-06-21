@@ -64,6 +64,40 @@
         ],
         "wood": [
             {
+                "id": "7335681047",
+                "name": "BRAND NEW - LARGE ASSORTMENT OF WOOD TURNINGS and SMALL FINIALS",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/pacifica-brand-new-large-assortment-of/7335681047.html",
+                "datetime": "2021-06-21 06:04",
+                "price": "$20",
+                "where": "pacifica",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_j3zCmi6mNwZz_0q40t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_j3zCmi6mNwZz_0q40t2_600x450.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Up for sale is this large assortment of BRAND NEW wood turnings and small finials.There are (26) pieces included in this sale.Ideal for furniture projects or children's toys.This is one of many gingerbread items I will be selling in the coming days.Feel free to message me to set up an appointment to view these items."
+            },
+            {
+                "id": "7335690949",
+                "name": "NEW (44) PIECES of TURNED WOOD BALUSTERS for STAIRS or RAILINGS",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/pacifica-new-44-pieces-of-turned-wood/7335690949.html",
+                "datetime": "2021-06-21 06:04",
+                "price": "$75",
+                "where": "pacifica",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00H0H_72prSvcJDbz_0r60t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00H0H_72prSvcJDbz_0r60t2_600x450.jpg",
+                    "https://images.craigslist.org/00H0H_72prSvcJDbz_0r60t2_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_g4iWIbdjaXZz_0CI0jb_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Up for sale is this lot of (44) BRAND NEW turned wood balusters for stairs or hand rails.These balusters have been primed and are made of poplar.The following sizes are included in this sale :  9 pcs x 40 long22 pcs x 38-1/2 long13 pcs x 35-1/2 long(Please note - the lengths vary if used on a stair rail)Normally costing $5-$8 a piece, we are only asking less than $2 a piece..!Feel free to message me to set up an appointment to view these items."
+            },
+            {
                 "id": "7339711682",
                 "name": "wood plugs",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-wood-plugs/7339711682.html",
@@ -91,40 +125,6 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Tapered end grain wood plugs. 350 pieces in a bag. $15 for each bag, or $25 for 2 bags. I have 20 bags available. Someone said these might be black plum, but I don't know what kind of wood they are.  Bigger (outside) surface is about 3/8 diameter. Smaller (inside) surface is about 1/4 diameter. Height (length) is about 3/8 long.  Great wood for woodworkers woodworking on their wooden projects."
-            },
-            {
-                "id": "7330561053",
-                "name": "Wood rods",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7330561053.html",
-                "datetime": "2021-06-20 23:12",
-                "price": "$5",
-                "where": "south san francisco",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Round wooden rods. Possibly could be used for furniture or closet.They are 1.5 inches in diameter. Knob in middle is 2.5 inches in diameter.7 are about 38 inches  long.1 is about 32.5 inches long.$5 each.Leave a number if you want a reply."
-            },
-            {
-                "id": "7339703226",
-                "name": "1 Fiberglass door wood grain",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-fiberglass-door-wood-grain/7339703226.html",
-                "datetime": "2021-06-20 22:10",
-                "price": "$350",
-                "where": "oakland hills / mills",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_asn1HjfWzUrz_0lM0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00U0U_asn1HjfWzUrz_0lM0CI_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_asn1HjfWzUrz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_iq4zefiFnAMz_0lM0CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "New fiberglass wood grain door.  Walnut color with  metal figures inside glass panels.. Paint any color you like or leave the existing color and set your locks.  These doors adds class to any home or project. Super value  $350.00 ea.  Price this door new you'll be amazed.     Scammers seek employment                                                                                     ."
             }
         ]
     },

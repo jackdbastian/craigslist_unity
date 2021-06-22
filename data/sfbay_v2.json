@@ -127,6 +127,27 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7334383948",
+                "name": "Vintage Stetson Hat",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-stetson-hat/7334383948.html",
+                "datetime": "2021-06-21 18:02",
+                "price": "$45",
+                "where": "San Francisco",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_56OwUdKn93U_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_c6IzVghpohg_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_eQhnkN0VnZd_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_gaIi6OGZX5t_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Size is 6 and 3/4s.  Straw hat"
+            },
+            {
                 "id": "7340164094",
                 "name": "Vintage Joseph Magnin Macram\u00e9 Purse",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-joseph-magnin-macram/7340164094.html",
@@ -177,26 +198,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "****Authentic Swiss Lederhosen with Suspenders, Vintage.    $85From mid  1960's, fine leather,  Buttons held with leather. Great for Oktoberfest,  costume party,  Super cool  lederhosen! Color is gray suede with dark green trim,  Excellent conditionSmall,  women's size 8 or Men' s Extra small.Breeches Lying flat... Waist, from side seam to the other is 14   with back gusset which adds 1 1/2 to waistHips, 16 from side seam to seamInseam  3 1/2      length is 15Total Straps/suspenders:  95 is stamped on bottom of, equals 37 inches long. Straps  are lined with white wool felt.  Some yellowing of felt.Very nice condition with no tears or rips.Lederhosen ( lit. leather breeches; singular in German usage: Lederhose) are breeches made of leather"
-            },
-            {
-                "id": "7340158371",
-                "name": "Twilight blue women's rain slicker (L)",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-twilight-blue-womens-rain/7340158371.html",
-                "datetime": "2021-06-21 17:38",
-                "price": "$15",
-                "where": "San Francisco",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00606_9cxweRBWh8Az_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00606_9cxweRBWh8Az_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00606_9cxweRBWh8Az_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_k0fMD3Y28CNz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_6OeiAgdgr8rz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_3XWj1z1UnSez_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Weatherproof Vintage brandWorn once! Selling because I got a different style and never wore this one.Hooded, lightweight, and machine-washable. And *it has pockets* tada!Message for pickup. Cash or Venmo."
             }
         ],
         "beaded": [

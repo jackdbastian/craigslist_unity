@@ -133,6 +133,50 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7328999923",
+                "name": "Make offer! Vintage leather jacket",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-pablo-make-offer-vintage-leather/7328999923.html",
+                "datetime": "2021-06-22 15:21",
+                "price": "$45",
+                "where": "richmond / point / annex",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00000_2HeD9dAXZupz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00000_2HeD9dAXZupz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00000_2HeD9dAXZupz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_5SdmtmfxUQpz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_i3xHtgvPOwqz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_dDqPlOZrXInz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01414_kduckdQQDcSz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_dkgy6jHnS3Mz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Genuine vintage from 1940s / 1950s. Dark blue leather with white and red stripes on sleeves. Genuine original patches. In great shape. Over-size 50 will fit mens size 48-50. Great after gym working out, or socializing around town. Easy to grab and wear, very cool, comfortable. Awesome jacket, Well made. You can tell by the label that it's the real thing. Not like anything in the store these days. Very rare. Makes great statement. I enjoyed it but time for someone else."
+            },
+            {
+                "id": "7339507356",
+                "name": "Make offer! Vintage leather jacket",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-make-offer-vintage/7339507356.html",
+                "datetime": "2021-06-22 15:20",
+                "price": "$45",
+                "where": null,
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00B0B_5SdmtmfxUQpz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00B0B_5SdmtmfxUQpz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00B0B_5SdmtmfxUQpz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00000_2HeD9dAXZupz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_dDqPlOZrXInz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01414_kduckdQQDcSz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_i3xHtgvPOwqz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_dkgy6jHnS3Mz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Genuine vintage from 1940s / 1950s. Very rare. Dark blue leather with white and red stripes on sleeves. Genuine original patches. Made well and in great shape. Over-size 50 will fit mens size 48-50. Great after gym working out, or socializing around town. Easy to grab and wear, very comfortable. Label shows it's the real thing. Not like store these days. Makes great statement. I enjoyed it but time for someone else."
+            },
+            {
                 "id": "7338102732",
                 "name": "Beautiful Vintage Purses",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/menlo-park-beautiful-vintage-purses/7338102732.html",
@@ -157,42 +201,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "$10.00 each ---  ---- 2 black / 1 white ---- Clutch Size ----- Beautiful Beaded Detail on each one.*** please leave your phone number - we do not text"
-            },
-            {
-                "id": "7340565483",
-                "name": "2 Vintage Head Bandanas",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-head-bandanas/7340565483.html",
-                "datetime": "2021-06-22 13:48",
-                "price": "$4",
-                "where": "san jose east",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00H0H_bsITaZ4ujG5z_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00H0H_bsITaZ4ujG5z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00H0H_bsITaZ4ujG5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_51ke8I7eeySz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "I have 2 vintage head bandanas.  One a tan color and one a green lime color.  They are 50% cotton and 50% polyester.  Both are in great condition.  $2.00 each.HatCap"
-            },
-            {
-                "id": "7335776725",
-                "name": "1970's Vintage - Stripped Box Purse",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/menlo-park-1970s-vintage-stripped-box/7335776725.html",
-                "datetime": "2021-06-22 13:41",
-                "price": "$15",
-                "where": "menlo park",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_5k6UOiVFnUS_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00q0q_5k6UOiVFnUS_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_5k6UOiVFnUS_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_lj7zPHhjKm8_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Oval Molded - Stripped Purse Name on Purse: le deco --- has strap (that can be taken off)Cute Small Size  7 across / 5 deep  /  5 tall  *** you will need to leave your phone number - we do not text"
             }
         ],
         "beaded": [
@@ -321,6 +329,44 @@
         ],
         "wedding dress": [
             {
+                "id": "7337542201",
+                "name": "*new* Bliss by Watters Wedding Dress (paid $1715, asking $900 OBO)",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/daly-city-new-bliss-by-watters-wedding/7337542201.html",
+                "datetime": "2021-06-22 14:59",
+                "price": "$650",
+                "where": "daly city",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00e0e_gnePdIcoUszz_0a70ku_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00e0e_gnePdIcoUszz_0a70ku_600x450.jpg",
+                    "https://images.craigslist.org/00e0e_gnePdIcoUszz_0a70ku_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_6bjRUpYLkCmz_0eI0jS_50x50c.jpg",
+                    "https://images.craigslist.org/00606_938XAKw6PA9z_077077_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "*new, never worn for event*Dress name: BlissDesigner: WattersSize: label size - 10 (fits a street size 6-8)Alterations: bustle + cups added & slight shortening of strapsPaid: paid $1415 + $300 in alterationsAsking: $650 OBOOur wedding was cancelled due to COVID so I am selling my dress (we ended up eloping and I wore my grandma's dress).Beautiful crochet lace, comfortable + easy to move in, mermaid/fit to flare, sweep train.Shown on me (size 8/10) and my friend (size 6).Willing to ship anywhere in the US."
+            },
+            {
+                "id": "7337542684",
+                "name": "*new* Bliss by Watters Wedding Dress (paid $1715, asking $900 OBO)",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/daly-city-new-bliss-by-watters-wedding/7337542684.html",
+                "datetime": "2021-06-22 14:59",
+                "price": "$650",
+                "where": "daly city",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00e0e_gnePdIcoUszz_0a70ku_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00e0e_gnePdIcoUszz_0a70ku_600x450.jpg",
+                    "https://images.craigslist.org/00e0e_gnePdIcoUszz_0a70ku_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_6bjRUpYLkCmz_0eI0jS_50x50c.jpg",
+                    "https://images.craigslist.org/00606_938XAKw6PA9z_077077_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "*new, never worn for event*Dress name: BlissDesigner: WattersSize: label size - 10 (fits a street size 6-8)Alterations: bustle + cups added & slight shortening of strapsPaid: paid $1415 + $300 in alterationsAsking: $650 OBOOur wedding was cancelled due to COVID so I am selling my dress (we ended up eloping and I wore my grandma's dress).Beautiful crochet lace, comfortable + easy to move in, mermaid/fit to flare, sweep train.Shown on me (size 8/10) and my friend (size 6).Willing to ship anywhere in the US."
+            },
+            {
                 "id": "7331932434",
                 "name": "WEDDING DRESS - DAVID'S NWT",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-wedding-dress-davids-nwt/7331932434.html",
@@ -342,44 +388,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "David's Bridal Dress - size 8 - white. Color on tag noted as SOFTWHITE. Very pretty floor length, fitted, sleeveless dress with bead/stone detail on front of bodice and at waist. Low square back and ball gown skirt. Back zipper. 100% polyester with 100%.Porch pickup. Price is firm. No returns please."
-            },
-            {
-                "id": "7340504441",
-                "name": "Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-wedding-dress/7340504441.html",
-                "datetime": "2021-06-22 12:04",
-                "price": "$900",
-                "where": "walnut creek",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_3jtm6plFgmn_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_3jtm6plFgmn_600x450.jpg",
-                    "https://images.craigslist.org/01717_3jtm6plFgmn_50x50c.jpg",
-                    "https://images.craigslist.org/00404_1t3HSQL8nYS_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_91J1EIOjkVm_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Beautiful Madison James gown with beaded bodice and illusion collar. Gorgeous illusion detail on back as well. Size 4; altered only in the shoulder area. Soft satin fabric sewn in behind illusion neckline for comfort. Beading detail around waist and hip area with beaded button detail all the way down center back of gown. Bustle details altered into gown.Dry cleaned and ready to wear.  Ivory color.$900 or best offer. Cash only."
-            },
-            {
-                "id": "7340504672",
-                "name": "Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-wedding-dress/7340504672.html",
-                "datetime": "2021-06-22 12:05",
-                "price": "$900",
-                "where": "san leandro",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_3jtm6plFgmn_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_3jtm6plFgmn_600x450.jpg",
-                    "https://images.craigslist.org/01717_3jtm6plFgmn_50x50c.jpg",
-                    "https://images.craigslist.org/00404_1t3HSQL8nYS_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_91J1EIOjkVm_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Beautiful Madison James gown with beaded bodice and illusion collar. Gorgeous illusion detail on back as well. Size 4; altered only in the shoulder area. Soft satin fabric sewn in behind illusion neckline for comfort. Beading detail around waist and hip area with beaded button detail all the way down center back of gown. Bustle details altered into gown.Dry cleaned and ready to wear.  Ivory color.$900 or best offer. Cash only."
             }
         ],
         "great condition": [

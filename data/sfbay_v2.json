@@ -64,6 +64,24 @@
         ],
         "wood": [
             {
+                "id": "7338958526",
+                "name": "Free Wood - 2x4, 2x6 and more",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-free-wood-2x4-2x6-and-more/7338958526.html",
+                "datetime": "2021-06-21 18:40",
+                "price": "$0",
+                "where": "santa clara",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00f0f_dvvn4biiWPvz_0MM132_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00f0f_dvvn4biiWPvz_0MM132_600x450.jpg",
+                    "https://images.craigslist.org/00f0f_dvvn4biiWPvz_0MM132_50x50c.jpg",
+                    "https://images.craigslist.org/01414_fYvvMl7c7bvz_0MM132_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Free wood lumberPlease pick up and take it all"
+            },
+            {
                 "id": "7340110205",
                 "name": "RED OAK 2 x 6 Stock Lumber Wood",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-red-oak-x-stock-lumber-wood/7340110205.html",
@@ -105,27 +123,51 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "NO EMAILS.PLEASE READ BELOW.FLASH Demolition Salvage sale- pickup June 15-19. TEXT Paul to arrange pickup in Cupertino. Mention Monte house.   3 x46 tall $12 (you remove)Pretty ballaster, turned post, architectural feature."
-            },
-            {
-                "id": "7332478725",
-                "name": "Wood fireplace mantel",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/atherton-wood-fireplace-mantel/7332478725.html",
-                "datetime": "2021-06-21 13:54",
-                "price": "$125",
-                "where": "atherton",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00B0B_6jvFccgsCgEz_0uY0ne_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00B0B_6jvFccgsCgEz_0uY0ne_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Wood fireplace mantel: $125Pick up in Atherton by appointment, mention De Bell when inquiring. Text Paul  .Part of a whole house salvage sale! Everything goes!"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7330344937",
+                "name": "Vintage authentic Swarovski crystal cuff bracelet & dangle earring set",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-authentic-swarovski/7330344937.html",
+                "datetime": "2021-06-21 18:54",
+                "price": "$250",
+                "where": "san mateo foster city",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00b0b_gV0KxQxqrYo_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00b0b_gV0KxQxqrYo_600x450.jpg",
+                    "https://images.craigslist.org/00b0b_gV0KxQxqrYo_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_9injgFnDz3x_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_kWVzRKhIAW_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_44jmFk40A9Z_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_4mJxoANhqWz_50x50c.jpg",
+                    "https://images.craigslist.org/00000_iMRgqRR4eTf_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_cNCm5O60FU2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_gMX0Q8wtWdY_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "** If you're reading this post, item is available.**Serious inquiries only please.Only reply if you're ready to buy, thanks.-------------------------------Selling as set only.EXCELLENT CONDITIONGorgeous sophisticated shimmering round double ball earrings AND cuff bangle bracelet add sparkle!  Perfect for bride, bridesmaids, prom or any special occasion!**Vintage - from the 1990 Swarovski Jeweler's Collection (renamed the Atelier Collection)**Made of authentic brilliant Swarovski crystals, gold plated alloy base, set in delicate pave design setting with exquisite sparkling detail.   Gold plated.  Lead, nickel and cadmium free -- will not tarnish per manufacturer. ABOUT EARRINGS:Diameter: 12mm   -- Post backing (for pierced ears); 14K posts -- 1 \u00bd dropABOUT BANGLE BRACELET:Dimensions: 2 \u00be long -- 2 wide -- \u00bc thick (equivalent to size small)  - Security clasp.Original Swarovski booklets and information included. CASH only.  Pickup San Mateo/Foster City area under social distancing protocols.   Or, PayPal payment may be arranged (with additional nominal ship/handling fee based on weight, and your zip code applies).REPLY with your NAME, your PHONE # to arrange meet up/pickup, or PayPal payment /USPS delivery.Meetups arranged and confirmed by phone. Please expect to schedule meet up/pickup,  and/or make Paypal payment within 24 hours of our reply. As is, all sales final. Serious inquiries only.**If you\u2019re reading this post, item is available."
+            },
+            {
+                "id": "7333870886",
+                "name": "2 vintage ring bearer's pillows",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/vintage-ring-bearers-pillows/7333870886.html",
+                "datetime": "2021-06-21 18:48",
+                "price": "$0",
+                "where": "palo alto",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00g0g_3U8s4snh8vq_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00g0g_3U8s4snh8vq_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "(8 square satin has sold)8 heart-shaped vintage cotton with lace.....$10.008 square vintage cotton with lace...............$10.00(will ship)....."
+            },
             {
                 "id": "7334383948",
                 "name": "Vintage Stetson Hat",
@@ -146,58 +188,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Size is 6 and 3/4s.  Straw hat"
-            },
-            {
-                "id": "7340164094",
-                "name": "Vintage Joseph Magnin Macram\u00e9 Purse",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-joseph-magnin-macram/7340164094.html",
-                "datetime": "2021-06-21 17:53",
-                "price": "$6",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00r0r_6H3x94fZOB5_0t20lM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00r0r_6H3x94fZOB5_0t20lM_600x450.jpg",
-                    "https://images.craigslist.org/00r0r_6H3x94fZOB5_0t20lM_50x50c.jpg",
-                    "https://images.craigslist.org/01313_2quFrf550V5_0t20lM_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Near the Whole Foods on Yulupa, Santa RosaPlease include a day & time you can pick it up in your message.***Description:Purse in excellent condition."
-            },
-            {
-                "id": "7328072309",
-                "name": "****Authentic Swiss Lederhosen with Suspenders, Vintage.",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-authentic-swiss-lederhosen/7328072309.html",
-                "datetime": "2021-06-21 17:51",
-                "price": "$85",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_gHr7zrRKoNcz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_hki6ICDkORPz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_dnCYylJotr3z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_j7BWfDYSwD1z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_16sOe9Y4q4Bz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_8M7YkCCuRKxz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_1x35BhH9qswz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_9NQmTl7oJ0Iz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_g0jhgWjQA9vz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_jBNVbeTwQOYz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_8sEalzlGm7kz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_cXOur4EDGCez_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_ck35uxs6L7Az_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_5eh3vQkBtXSz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_isiE4zixfPgz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_aM6YvsMLkIlz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_fyEUD2xTpxjz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "****Authentic Swiss Lederhosen with Suspenders, Vintage.    $85From mid  1960's, fine leather,  Buttons held with leather. Great for Oktoberfest,  costume party,  Super cool  lederhosen! Color is gray suede with dark green trim,  Excellent conditionSmall,  women's size 8 or Men' s Extra small.Breeches Lying flat... Waist, from side seam to the other is 14   with back gusset which adds 1 1/2 to waistHips, 16 from side seam to seamInseam  3 1/2      length is 15Total Straps/suspenders:  95 is stamped on bottom of, equals 37 inches long. Straps  are lined with white wool felt.  Some yellowing of felt.Very nice condition with no tears or rips.Lederhosen ( lit. leather breeches; singular in German usage: Lederhose) are breeches made of leather"
             }
         ],
         "beaded": [
@@ -840,6 +830,31 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
+                "id": "7340183065",
+                "name": "FENDER SHOWMAN REVERB TFL 5000D 1967 PIGGYBACK Vintage - $2000 (SANTA",
+                "url": "https://sfbay.craigslist.org/scz/msg/d/santa-cruz-fender-showman-reverb-tfl/7340183065.html",
+                "datetime": "2021-06-21 18:48",
+                "price": "$2,000",
+                "where": "santa cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00808_1X700VurutJz_07Q0as_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00808_1X700VurutJz_07Q0as_600x450.jpg",
+                    "https://images.craigslist.org/00808_1X700VurutJz_07Q0as_50x50c.jpg",
+                    "https://images.craigslist.org/00101_if0P8c7ZOaLz_07Q0as_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_aeWG2A45W9Nz_0as07Q_50x50c.jpg",
+                    "https://images.craigslist.org/00000_cXM2bmrajHmz_0as07Q_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_6S8q2GARnI4z_07Q0as_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_bNrThS5mzOaz_0as07Q_50x50c.jpg",
+                    "https://images.craigslist.org/00909_b48KhPk38nTz_0as07Q_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_8igVuUjYT4kz_0as07Q_50x50c.jpg",
+                    "https://images.craigslist.org/00101_kTVCZuBT2q2z_0as07Q_50x50c.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "THIS ONE IS PARTICULARLY SWEET! Love this amp, but I use my little Deluxe reverb 99.9% of the time.All vintage. All original. All Tube amp. '67 Showman Reverb 3 hour playtime since complete re-do by Amp Lab in Campbell two years ago. Original 15 JBL D130F Speaker. Serial #'s available. Tolex and grill cloths in good condition. Comes with working OEM Reverb/Tremelo Footswitch. Killer, killer sound both with my '79 ES335 and my '75 Telecaster Custom.Footpedal sound? I have no idea. this amp delivers all the sound I need. It's just too loud I can't push it at home.If you know what this, you know what it's worth. And, it will always appreciate in the market. Never gonna make 'em anymore. Nothing beats the tone quality of these original vintage FENDER's. (In my opinion, nothing ever will.)  Will consider offers. Selling as a unit only."
+            },
+            {
                 "id": "7340159639",
                 "name": "Roland jc 77",
                 "url": "https://sfbay.craigslist.org/eby/msg/d/oakland-roland-jc-77/7340159639.html",
@@ -857,24 +872,6 @@
                 "query": "loud",
                 "category": "msa",
                 "description": "A very nice solid state amp, sought after and rare. Super loud and beautiful sound. Reverb is not working, and it is priced accordingly. The chorus is the real draw of this amp anyway, and that is working perfectly. I let a guitarist use this amp at a festival I was apart of curating when his amp wasn\u2019t working, and the thing blasted across the field and with ease and pleased hundreds of people\u2019s ears."
-            },
-            {
-                "id": "7340153938",
-                "name": "Guitar all tube 140watt amp",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-guitar-all-tube-140watt-amp/7340153938.html",
-                "datetime": "2021-06-21 17:27",
-                "price": "$300",
-                "where": "san jose west",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00r0r_6u35kWLbgPgz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00r0r_6u35kWLbgPgz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00r0r_6u35kWLbgPgz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_24VcKhMZCRXz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "this is perfect loud Amp 140 watts, all original and good condition.peavey made in usa"
             }
         ],
         "famous": [

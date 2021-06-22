@@ -116,6 +116,24 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7327315857",
+                "name": "(3) Vintage Leather Choker Necklaces w/Ceramic Pendants- Pretty! (NEW)",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-leather-choker/7327315857.html",
+                "datetime": "2021-06-21 22:43",
+                "price": "$10",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_8ts4uphqTn6z_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Pretty colorful vintage 1960's leather corded choker necklaces with different ceramic beads/pieces. All in in new condition and unique and different. Asking $10 each or take all 3 with an extra pendant piece for only $20!"
+            },
+            {
                 "id": "7339314469",
                 "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7339314469.html",
@@ -155,35 +173,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Rayban Aviation Sunglass Vintage $175.00Glass is in Very Clean Condition"
-            },
-            {
-                "id": "7329042158",
-                "name": "Miu Miu Vintage Sandals",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-miu-miu-vintage-sandals/7329042158.html",
-                "datetime": "2021-06-21 22:11",
-                "price": "$60",
-                "where": "sonoma",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00l0l_2RpjTThE53X_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00l0l_2RpjTThE53X_600x450.jpg",
-                    "https://images.craigslist.org/00l0l_2RpjTThE53X_50x50c.jpg",
-                    "https://images.craigslist.org/00202_azeiXGEbfsG_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_6OvRrzd0vrj_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_4Shid2pvovx_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_g7xxj1UBmXo_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_j9sQyMRc3NN_50x50c.jpg",
-                    "https://images.craigslist.org/01313_k7Ws4WmLEdj_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_dKXGhVqPcwG_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_8Wl77meqljQ_50x50c.jpg",
-                    "https://images.craigslist.org/01010_aAWyNIdjC5G_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_50kOaFr6Glg_50x50c.jpg",
-                    "https://images.craigslist.org/00707_g5vcD0dUFDq_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_6pdRymgq6h8_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Beautiful Miu Miu white Vintage sandals Size 9Worn once Retail$355.00For sale $60.00Contact Cheryl"
             }
         ],
         "beaded": [
@@ -470,6 +459,22 @@
     "sports": {
         "autograph": [
             {
+                "id": "7340234410",
+                "name": "Tony LaRussa Autographed Leroy Neiman poster",
+                "url": "https://sfbay.craigslist.org/eby/spo/d/tony-larussa-autographed-leroy-neiman/7340234410.html",
+                "datetime": "2021-06-21 22:42",
+                "price": "$100",
+                "where": "danville / san ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00404_94gedaGEuFQz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00404_94gedaGEuFQz_0t20CI_600x450.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "I have a nicely framed Leroy Neiman poster of Tony LaRussa that was signed by Tony.Wife says I have too much sports memorabilia on the walls so this one must go.These were limited editions when Tony was Manager of the Year and they are no longer available, even on the Leroy Neiman web site.$100 for poster and frame!  baseball, Oakland, athletics, A's, Raiders, sports, memorabilia, picture,"
+            },
+            {
                 "id": "7334560938",
                 "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
                 "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7334560938.html",
@@ -504,24 +509,6 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "Oakland A's Logo Baseball Great for Autographs"
-            },
-            {
-                "id": "7332412935",
-                "name": "Mike Comrie autographed Artistic impressions Oilers. 16x20 framed Poster",
-                "url": "https://sfbay.craigslist.org/sby/spo/d/seaside-mike-comrie-autographed/7332412935.html",
-                "datetime": "2021-06-20 23:09",
-                "price": "$20",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01212_fvmjEHGcBW3z_0ew0jm_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01212_fvmjEHGcBW3z_0ew0jm_600x450.jpg",
-                    "https://images.craigslist.org/01212_fvmjEHGcBW3z_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00000_9rVh3GmZABdz_0ew0jm_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "Excellent Condition. Stored in box, never taken out."
             }
         ]
     },
@@ -561,6 +548,34 @@
                 "description": "1998 Toyota Tacoma Regular Cab Short Bed 2DPick up TruckManual 5-Spd 4-Cyl, 2.4 Liter 2WD204,000 MilesClean Title (Clean History)Smog Certificate ready Registration paid Sep 2021This is a clean great running truck that served me well, garage kept mostly. It's pretty clean inside and outside, I bought it and used it as a second car, has Small 2.4 liter engine and gets excellent gas mileage for a light duty truck. This is a Well Serviced Truck, Excellent Mechanical, Drives Great, Strong engine. Services done on regular basis as recommend. It was serviced last month and all checked out fine. This car is perfectly fine for long commute every day and has long life left on it. * Has Upgraded Pioneer stereo with AUX jack, comes with all basic options plus Air conditioning, ABS 4 wheels , Dual airbagsRecent services:- New Ignition Wire set- 2 New belts- New Spark plugs - Oil change done If interested in the Truck please CALL  4 0 8 . 7 2 1 . 2 7 8 1, Serious inquires please, $7,500 priced to sell"
             },
             {
+                "id": "7335911788",
+                "name": "2005 Nissan Murano 190k Miles Nice Car Drives Great",
+                "url": "https://sfbay.craigslist.org/sfc/cto/d/rancho-cordova-2005-nissan-murano-190k/7335911788.html",
+                "datetime": "2021-06-12 19:43",
+                "price": "$5,800",
+                "where": "bayview",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
+                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_eoA9STr0z7hz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_eeaTZZkpzJCz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_9BAxg4O5oh8z_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_loPwGKk7uLEz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_8zPYATp1rgOz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_dRl1qxSEysZz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00505_azIdCJjsQryz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_dRT3RSWD4XXz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_4fYjXCdMJSez_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_50SWuKNMmegz_0QE0tC_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_gbCwWgmdEkrz_0QE0tC_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "Speak Russian Call Any Time Speak EnglishText For PicturesFor Sale is my Nissan MuranoGold colormiles 190 Khas new battery new alternatornew lower control armkey words murano sentra titan nissan2000 2002 2005 2007 2009 1995"
+            },
+            {
                 "id": "7333144769",
                 "name": "2007 FORD EDGE SE  AWD.  CLEAN TITLE. SMOG.  DRIVES GREAT***",
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2007-ford-edge-se-awd-clean/7333144769.html",
@@ -588,46 +603,6 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2007 Ford Edge se awd.clean title. smog check.164,xxx miles. drives great.cold a/c.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
-            },
-            {
-                "id": "7330272496",
-                "name": "2004 HONDA ELEMENT EX AUTOMATIC.. CLEAN TITLE. SMOG* DRIVES GREAT.",
-                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2004-honda-element-ex-automatic/7330272496.html",
-                "datetime": "2021-06-01 12:23",
-                "price": "$6,995",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_g2dJt8VEp8sz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_iEngCNZBCQwz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_bwJLt8dUH6yz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_8OdH5pCbZY9z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_lQtn6zNcOo9z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_3zwukfZiVtaz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_5qknxQ09Z3Fz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_cIyH3639wHnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_76a89jqUjJxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_8XgSTjsuSAnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_wtidrP6esIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_3RqFV52Y6vxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_cMX1blec4AOz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_fXzREF7X5ekz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_jCrZJz5KURz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_eGBb64oZQRIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_bPMhxIjmsU7z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_1ZlvsrmzbmEz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_7dCLiih6Cagz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01111_bc9fLUm1L2uz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_3lAorK7ntpDz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_iP8dtGZXHZZz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_456kablgFV5z_0CI0t2_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2004 Honda Element ex 2wdclean title. smog check.183,xxx miles.  lots to go.4-cylinder.  gas saver!!!drives great. clean in and out.automatic, shifts smooth.cold a/c.    Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [

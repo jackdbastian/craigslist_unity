@@ -52,6 +52,25 @@
         ],
         "wood": [
             {
+                "id": "7340210618",
+                "name": "2 1/2 \u00d7 9 1/4 pressure treated wood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/bethel-island-pressure-treated-wood/7340210618.html",
+                "datetime": "2021-06-21 20:30",
+                "price": "$0",
+                "where": "Bethel Island",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_gpHMM94tdyqz_0hq0CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_gpHMM94tdyqz_0hq0CI_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_gpHMM94tdyqz_0hq0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_3n4orCgjnNWz_0CI0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00707_a5QmVochhCEz_0CI0hq_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "1- 2 1/2 \u00d7 9 1/4 x 10 ft 3/4 - $201 - 2 1/2 \u00d7 9 1/4 x 12 ft 3/4 - $243 - 2 1/2 \u00d7 9 1/4 \u00d7 16 ft 2 in - $32 ea1 - 2 1/2 \u00d7 9 1/4 \u00d7 20 ft 3 in - $40all pressure treated"
+            },
+            {
                 "id": "7337690664",
                 "name": "Blinds, 2\" white faux wood",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/hollister-blinds-white-faux-wood/7337690664.html",
@@ -88,38 +107,61 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Free wood lumberPlease pick up and take it all"
-            },
-            {
-                "id": "7340110205",
-                "name": "RED OAK 2 x 6 Stock Lumber Wood",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-red-oak-x-stock-lumber-wood/7340110205.html",
-                "datetime": "2021-06-21 15:50",
-                "price": "$1",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00s0s_gW6MOftDDJyz_0pO0jm_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00s0s_gW6MOftDDJyz_0pO0jm_600x450.jpg",
-                    "https://images.craigslist.org/00s0s_gW6MOftDDJyz_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00909_g5GFX24MLwgz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_dQtMDfx0lFz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_6mTgdWxyrfDz_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_5Wt0BivewTnz_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/01313_cjTzkIFSRUWz_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_iyda1PjZlPLz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_j642tqyXpt0z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_h6qDi79JPsqz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_b0Uw1O13iooz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_cNE1Z3a1cp0z_0CI0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "6 Pieces of Clean 2 x 6 stock RED OAKNever usedS3SMike   If no answer in person, leave a message for call back ASAPFurniture gradeDenseSeasonedNever usedI have (2) pieces that are 6/4  thick x 6  W x 6 ' L $ 40.00 / pieceI have (3) pieces that are 6/4  thick x 6  W x 8 ' L $ 55.00 / pieceI have (1) piece that is 6/4  thick x 9.5  W x 33.75  L It has a knot on one side $ 30.00 / pieceAlways kept dry and indoorsfrom a pet free, smoke free environmentMike   If no answer in person, leave a message for call back ASAPlumber, wood, plank, cabinetry, marquetry, carpenter, carpentry, wood working, oak, red oak, new, clean, unused, unstained, unfinished"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7340212035",
+                "name": "Vintage Coach Bag D2S-9186",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-coach-bag-d2s-9186/7340212035.html",
+                "datetime": "2021-06-21 20:36",
+                "price": "$45",
+                "where": "oakland hills / mills",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00b0b_azBjlUAdE7F_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00b0b_azBjlUAdE7F_600x450.jpg",
+                    "https://images.craigslist.org/00b0b_azBjlUAdE7F_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_7LiiAXBWnyQ_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_816BQRbZw0c_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_azBjlUAdE7F_50x50c.jpg",
+                    "https://images.craigslist.org/00101_cdGZ37s0GPr_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_10oAB7sGBz5_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_14MbfDOOxeP_50x50c.jpg",
+                    "https://images.craigslist.org/00505_h2o0GYf9nHO_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Coach leather bag - No.D2S-9186 - red.  Silver tag in excellent condition (I moved it inside the bag.)Inside material in excellent condition with no marks or stains.  Outside is faded and marked with normal wear.Inside zip pouch and 2 other open pockets inside purse.  4 different buckle positions on each side of strap. Approximate measurements:11wide at top10 long7 across bucket bottomShoulder to top of purse: 15 longest setting and 10 shortest setting.Smoke free and pet free home."
+            },
+            {
+                "id": "7329863795",
+                "name": "Vintage Leather Lace Up Boots - Endicott Johnson - Size 11",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-leather-lace-up/7329863795.html",
+                "datetime": "2021-06-21 20:29",
+                "price": "$250",
+                "where": "lafayette / orinda / moraga",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_lNdQVz48Ob8z_0CI0l0_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_lNdQVz48Ob8z_0CI0l0_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_lNdQVz48Ob8z_0CI0l0_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_brdKEh8Rhd9z_0xy0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_iiMugXGqg55z_0CI0lt_50x50c.jpg",
+                    "https://images.craigslist.org/01111_hM7HvyXeVaSz_0BJ0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_3oAvOwepY1Az_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_5oLvgnWt9yKz_0CI0oR_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_zEGYMcPbn4z_0CI0kr_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_66mGDwrPpjyz_0CI0nI_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_i4Y2ytXia2Pz_0rC0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_cnawRRr9TqRz_0lJ0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Leather Lace Up BootsEndicott Johnson Size 11Soles appear to be in new, unused condition.Made in the USA"
+            },
             {
                 "id": "7336340534",
                 "name": "Vintage Bay to Breakers T Shirt (Size XL)",
@@ -135,40 +177,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage 1990 Examiner Bay to Breakers T ShirtSize:  XLNever Worn Perfect for the Bay to Breaker's Runner!!Price = $40If you are reading this listing, the t shirt is still available.Email if interested."
-            },
-            {
-                "id": "7336622054",
-                "name": "Vintage 1996 Tour Bush Long Sleeve Shirt",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1996-tour-bush/7336622054.html",
-                "datetime": "2021-06-21 19:40",
-                "price": "$80",
-                "where": "lower pac hts",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_915IVCTAguSz_0dr0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Y0Y_915IVCTAguSz_0dr0t2_600x450.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Bought at a Bush concert in 1996 when they opened for No Doubt and Goo Goo Dolls.   Gavin Rossdale fisheye lens portrait on long sleeve shirt. size L, but fits like a Men\u2019s medium.Pickup in Pac Heights."
-            },
-            {
-                "id": "7333325920",
-                "name": "Vintage 1950's Kitchen Apron",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-1950s-kitchen-apron/7333325920.html",
-                "datetime": "2021-06-21 19:24",
-                "price": "$5",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_aZA7ev6W8giz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "This is a original apron from the 1950's.. This is from my Italian grandma stored in a box in my moms closet for years. I have about 5 different ones.. This one in the photo is $5.00 and is in great condition! Call   Thanks"
             }
         ],
         "beaded": [
@@ -625,7 +633,7 @@
                 ],
                 "query": "fix* up*",
                 "category": "cta",
-                "description": "2003 Nissan MuranoGold, AWD V6Vehicle in good cosmetic shape both exterior and interior. Needs muffler repair for exhaust leak. Good vehicle for someone looking for fixer upper or possibly parts for sale. New tires, brakes etc\u2026.$2,000 for car or best offer."
+                "description": "2003 Nissan MuranoGold, AWD V6Vehicle in good cosmetic shape both exterior and interior. Needs muffler repair for exhaust leak and misfiring problem which caused us to stop driving. Possible spark plug problem, but unsure. Good vehicle for someone looking for fixer upper or possibly parts for sale. New tires, brakes etc\u2026.$2,000 for car or best offer."
             },
             {
                 "id": "7339129721",

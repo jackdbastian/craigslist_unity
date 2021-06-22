@@ -52,6 +52,25 @@
         ],
         "wood": [
             {
+                "id": "7340577172",
+                "name": "1x6x20 fir framing wood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/vallejo-1x6x20-fir-framing-wood/7340577172.html",
+                "datetime": "2021-06-22 14:10",
+                "price": "$100",
+                "where": "vallejo / benicia",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00t0t_dWQ9bSmGtYRz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00t0t_dWQ9bSmGtYRz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00t0t_dWQ9bSmGtYRz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_kqLnGUJ4xFhz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_24idiQY2UIVz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "20 pieces of 1x6 framing wood. Most is 20ft. Used it for concrete curbing. Paid 300 will sell for $100."
+            },
+            {
                 "id": "7327472254",
                 "name": "Live Edge Wood Slabs And Rough Sawn Lumber Walnut Oak Sycamore Redwood",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-live-edge-wood-slabs-and-rough/7327472254.html",
@@ -108,26 +127,6 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Offering century old reclaimed hardwood from barns no longer in use.  Wood with a story to tell!  Located just off of 580 in Richmond."
-            },
-            {
-                "id": "7329305647",
-                "name": "10.5' Long Redwood Live Edge Slabs Slab Reclaimed Wood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-105-long-redwood-live-edge/7329305647.html",
-                "datetime": "2021-06-22 13:56",
-                "price": "$800",
-                "where": "richmond / point / annex",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_7OOGhBzMh7L_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01010_7OOGhBzMh7L_600x450.jpg",
-                    "https://images.craigslist.org/01010_7OOGhBzMh7L_50x50c.jpg",
-                    "https://images.craigslist.org/00404_cO3idTkOHpT_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_eti6BpEYEZS_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_8FUAe3JjFp6_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "3 inches thick, up to 4 feet wide, and 10.5 feet long $800 per slabOnly 6 slabs left at this priceCome and get them while they're available!Also Available 13' Giant Sequoia slabs!"
             }
         ]
     },
@@ -322,6 +321,29 @@
         ],
         "wedding dress": [
             {
+                "id": "7331932434",
+                "name": "WEDDING DRESS - DAVID'S NWT",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-wedding-dress-davids-nwt/7331932434.html",
+                "datetime": "2021-06-22 14:17",
+                "price": "$125",
+                "where": "lafayette / orinda / moraga",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00J0J_3kyyXgf7MDaz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00J0J_3kyyXgf7MDaz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00J0J_3kyyXgf7MDaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_46BGyNPDGl3z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_cbqQbVzVmkz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_5HylRoN89vwz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_9NazLphrUBqz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_h4PCVErUvkbz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01616_dEeJTpj0GUDz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "David's Bridal Dress - size 8 - white. Color on tag noted as SOFTWHITE. Very pretty floor length, fitted, sleeveless dress with bead/stone detail on front of bodice and at waist. Low square back and ball gown skirt. Back zipper. 100% polyester with 100%.Porch pickup. Price is firm. No returns please."
+            },
+            {
                 "id": "7340504441",
                 "name": "Wedding Dress",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-wedding-dress/7340504441.html",
@@ -347,25 +369,6 @@
                 "datetime": "2021-06-22 12:05",
                 "price": "$900",
                 "where": "san leandro",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_3jtm6plFgmn_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_3jtm6plFgmn_600x450.jpg",
-                    "https://images.craigslist.org/01717_3jtm6plFgmn_50x50c.jpg",
-                    "https://images.craigslist.org/00404_1t3HSQL8nYS_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_91J1EIOjkVm_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Beautiful Madison James gown with beaded bodice and illusion collar. Gorgeous illusion detail on back as well. Size 4; altered only in the shoulder area. Soft satin fabric sewn in behind illusion neckline for comfort. Beading detail around waist and hip area with beaded button detail all the way down center back of gown. Bustle details altered into gown.Dry cleaned and ready to wear.  Ivory color.$900 or best offer. Cash only."
-            },
-            {
-                "id": "7340504874",
-                "name": "Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-wedding-dress/7340504874.html",
-                "datetime": "2021-06-22 12:05",
-                "price": "$900",
-                "where": "vallejo / benicia",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01717_3jtm6plFgmn_600x450.jpg",
                 "all_images": [
@@ -825,42 +828,47 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
-                "id": "7340541481",
-                "name": "Marshall JCM 800 1981 4210 Combo",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-marshall-jcm-combo/7340541481.html",
-                "datetime": "2021-06-22 13:09",
-                "price": "$1,200",
-                "where": "sunset / parkside",
+                "id": "7334050831",
+                "name": "SALE - Rare Fender Champ II Combo 1981 w/extras",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-sale-rare-fender-champ-ii/7334050831.html",
+                "datetime": "2021-06-22 14:01",
+                "price": "$1,000",
+                "where": "SOMA / south beach",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00303_hkeg3knaVmrz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00303_hkeg3knaVmrz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00303_hkeg3knaVmrz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_2JKfn6R6isCz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_600x450.jpg",
+                    "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_2OqXvNNjCUz_0xe0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_4qvL3CvZgH8z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_aOOH7atEmFuz_0A10r1_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_55ySh7wQa2xz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_io0Yl7KyiSWz_0tq0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_7q7OzbiAX7Zz_0lM0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "I believe this is a 1981 ModelJCM 800 4210 50 watt all tube combo . It's a great amp no issues . No internal mods Looks to be all stock .I've read some ibfo on these amps that discusses bleed over from channel 1 (clean) . I have not experienced this or noticed.The 1st channel is sparkling clean , Channel 2 is classic marshall crunch . reverb on both channels . & don't let the size fool ya , its plenty loud . Run through a 4x12 and it sounds huge . 4,8&16 ohms switching. Original Footswitch included $1200 or best offer not looking for trades thanks"
+                "description": "Price Lowered to $1000 - Fender Champ II 18-Watt 1x10 Guitar Combo.  These were only made for a short time: 1981 - 1983It was serviced by Pete Cage last year, he replaced the hard-wired speaker cable with a 'proper' speaker out  which looks factory. Has the original vinyl Cover and original speaker. There are no rips, stains, tears.  The preamp tubes are GE 12ax7a's.  Pete said the power tubes are Sylvania 6VGT's with the Fender Logo.  When I had it serviced he put everything he replaced in a baggie and gave it back to me.  Once I got it back from him it sounded better than ever - it's a very complex clean tone with no noise or hash.Such a great clean tone at comfortable home volumes and it will also get loud. Doesn't break up much beyond crunch with my Les Paul unless you pull the mid boost.$70 - Eminence GA10-SC64 10 20-Watt 8 Ohm Replacement Speaker          This speaker is in pristine condition. It was installed for a couple of weeks and carefully taken out          (stored in a box). No issues of any kind."
             },
             {
-                "id": "7338603536",
-                "name": "Fender Champion 100",
-                "url": "https://sfbay.craigslist.org/pen/msg/d/san-mateo-fender-champion-100/7338603536.html",
-                "datetime": "2021-06-22 12:32",
-                "price": "$265",
-                "where": "san mateo",
+                "id": "7340549954",
+                "name": "Romanian solid top Dreadnought = Martin D18",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/rohnert-park-romanian-solid-top/7340549954.html",
+                "datetime": "2021-06-22 13:58",
+                "price": "$279",
+                "where": "Oakland or Rohnert Park",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00303_1tzTiprwMIJz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00h0h_hW87I6i318iz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00303_1tzTiprwMIJz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00303_1tzTiprwMIJz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_j4yLAZt2rffz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_10ivKO55Hx8z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00606_66cXuCOyX6Dz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00h0h_hW87I6i318iz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_hW87I6i318iz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_8tgWPmnzgu9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_kIDUZZgRNfz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_ceSvHasScyBz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "100 watt Fender solid state amp. Great for gigs (thing is freakin loud) and handles effects pedals very well. Has built in effects as well (chorus, reverb, vibrato, etc). Also has built in amp presets for overdriven and distorted tones.Only real condition issue is a small scratch mark on the top of the amp (picture 4). It still functions perfectlyIncludes power cable and footswitch"
+                "description": "This is a REALLY good sounding x commie guitar made in Romania with a solid top, This guitar will hold it's own against vintage MARTIN D18's!!! It is a canon! HERE IS A REVIEW I just received: I have that same model guitar , I have been playing for a very long time and I absolutely love the guitar .I have very fine Martin guitars that are prewar vintage and I find myself reaching for my X-commie most of the time . I perform on stage with my X-commie and it sounds so very , very good . Good luck on your sale I hope someone realizes what a fine guitar it actually is.   Good Luck on your sale .     Chuck  It has a great sound really good action and a nice neck, it looks like the back and sides are maple in any case it has a pretty robust sound for a maple back and sides guitar it's not overly bright and it has a really good bass in addition to a really good treble. Here is part of a Harmony Central (I googled Montana MT-204) review, which I agree completely with:This guitar has incredible sound qualities, from high clear bell like tones to low loud bass and good mid range. i believe it would work well for most any style of music this guitar really projects. everyone who has ever played it has said basically the same thing with a look of surprise, This guitar has great tone! the surprise comes from the fact that nothing about the guitars appearance would suggest that it was anything special.Could DELIVER to greater Rohnert Park Area."
             }
         ],
         "famous": [

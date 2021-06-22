@@ -117,6 +117,38 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7336340534",
+                "name": "Vintage Bay to Breakers T Shirt (Size XL)",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-bay-to-breakers/7336340534.html",
+                "datetime": "2021-06-21 19:44",
+                "price": "$40",
+                "where": "scotts valley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_9ZUYqg3DcWjz_0jm0pO_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_9ZUYqg3DcWjz_0jm0pO_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage 1990 Examiner Bay to Breakers T ShirtSize:  XLNever Worn Perfect for the Bay to Breaker's Runner!!Price = $40If you are reading this listing, the t shirt is still available.Email if interested."
+            },
+            {
+                "id": "7336622054",
+                "name": "Vintage 1996 Tour Bush Long Sleeve Shirt",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1996-tour-bush/7336622054.html",
+                "datetime": "2021-06-21 19:40",
+                "price": "$80",
+                "where": "lower pac hts",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Y0Y_915IVCTAguSz_0dr0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Y0Y_915IVCTAguSz_0dr0t2_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Bought at a Bush concert in 1996 when they opened for No Doubt and Goo Goo Dolls.   Gavin Rossdale fisheye lens portrait on long sleeve shirt. size L, but fits like a Men\u2019s medium.Pickup in Pac Heights."
+            },
+            {
                 "id": "7333325920",
                 "name": "Vintage 1950's Kitchen Apron",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-1950s-kitchen-apron/7333325920.html",
@@ -133,60 +165,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "This is a original apron from the 1950's.. This is from my Italian grandma stored in a box in my moms closet for years. I have about 5 different ones.. This one in the photo is $5.00 and is in great condition! Call   Thanks"
-            },
-            {
-                "id": "7325735191",
-                "name": "Vintage Hand-Sewn, Embroidered Fabric Purse, price firm",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-hand-sewn/7325735191.html",
-                "datetime": "2021-06-21 19:10",
-                "price": "$50",
-                "where": "Santa Cruz",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_8LzoTO1yrM8_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00p0p_8LzoTO1yrM8_600x450.jpg",
-                    "https://images.craigslist.org/00p0p_8LzoTO1yrM8_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_c5qrCN6qEwQ_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_gu5dyKvxar6_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_bqcibpae9n0_50x50c.jpg",
-                    "https://images.craigslist.org/00101_1oKtYm81V0G_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_cbUIfMmTG2M_50x50c.jpg",
-                    "https://images.craigslist.org/01414_kDXEB4ViDh4_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_7m2MANyvMRs_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_e76as4skShZ_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Beautiful Vintage Mid-Century Fabric Purse, Hand-Sewn, Hand-Embroidered. Purse is made from a natural fabric with natural colored muslin lining. Decorated with brightly colored flowers from fabric & embroidery. Purse is hand-sewn to bamboo frame, also with bamboo handles, and leather closures, with cloth shoulder strap. Never used, excellent condition, inside and out.Asking $50. CASH ONLY.I will respond by email only to Craigslist reply, no text, no phone calls."
-            },
-            {
-                "id": "7339277864",
-                "name": "Women's Vintage Floral Lace V Neck Cocktail Party Swing Dress, Dark Green",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-vintage-floral-lace/7339277864.html",
-                "datetime": "2021-06-21 19:11",
-                "price": "$10",
-                "where": "San Mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_cGneaiK47zlz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_4GBXwHR88vcz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_6MFLVmO0joOz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_ckaNZTcaOy2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_agooVXGcXy8z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_luIYivxEwB4z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_7YMqtvHe61Sz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_5lloJaZxYwXz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_hSaZKnXg4Jpz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_eYRac5tvB5ez_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_1a7d951byJqz_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_kbI2z5H9peyz_0CI0CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "I am selling a brand new Women's Vintage Floral Lace V Neck Cocktail Party Swing Dress in Dark Green100% silk and lace!Very good/comfortable quality! I have bulk qty as below:Size S, 11 pcsSize M, 30 pcsSize L, 13 pcsSize XL, 12 pcs Retails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
             }
         ],
         "beaded": [
@@ -308,6 +286,27 @@
         ],
         "wedding dress": [
             {
+                "id": "7340202223",
+                "name": "Adrianna Papell Used Wedding Dress For Sale Size 8",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-adrianna-papell-used-wedding/7340202223.html",
+                "datetime": "2021-06-21 19:56",
+                "price": "$600",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00v0v_gpMjFCuxnSD_0jm0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00v0v_gpMjFCuxnSD_0jm0t2_600x450.jpg",
+                    "https://images.craigslist.org/00v0v_gpMjFCuxnSD_0jm0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01212_4ZnfTHFgUZb_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_hFZ1JrU04Ut_07Z0gp_50x50c.jpg",
+                    "https://images.craigslist.org/01010_qVSQ7aGuz8_0dL0kE_50x50c.jpg",
+                    "https://images.craigslist.org/01212_fVIpOu8V0g6_0cS0jc_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "This size 8 wedding dress was bought off the rack from Gesinees in Concord CA. No alterations have been made with the exception of having a bustle added to the back to pin up the dress for the reception. It has been dry cleaned however they couldn't get the bottom 100% back to its original color however it's not that noticeable (see photos). Serious buyers only. Asking $600, originally $1200+ new. Local pick up only. (I live on the concord / Clayton boarder)"
+            },
+            {
                 "id": "7339227993",
                 "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Red",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7339227993.html",
@@ -377,30 +376,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Black100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size M, 15 pcsSize L, 45 pcsSize XL, 25 pcsSize XXL, 12 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
-            },
-            {
-                "id": "7339230698",
-                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Long Dress, Black",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7339230698.html",
-                "datetime": "2021-06-21 18:59",
-                "price": "$10",
-                "where": "San Mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_600x450.jpg",
-                    "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_hDqpGMA1Ujoz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_ezPJY4aWHkHz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_is7Mt6Hs8Tjz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_fA8FP8jyFHkz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_eYKRYGXXyJvz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_6XqyrwDR2j2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_g7ooeT5COBz_0pO0CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Long Dresses, Black100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size XXL, 15 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
             }
         ],
         "great condition": [

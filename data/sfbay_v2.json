@@ -116,6 +116,31 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7339143708",
+                "name": "Vintage African Trade Sand Glass Chunky Beaded Necklace/s",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/redwood-estates-vintage-african-trade/7339143708.html",
+                "datetime": "2021-06-21 23:16",
+                "price": "$0",
+                "where": "los gatos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00W0W_6l6HC1bGuA6_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00W0W_6l6HC1bGuA6_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_6l6HC1bGuA6_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_haTSP6zjFlD_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_2TJmmqcTf8F_50x50c.jpg",
+                    "https://images.craigslist.org/00707_efiED8G3Gd9_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_1CJC1nGTufl_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_adWcb76NNlF_50x50c.jpg",
+                    "https://images.craigslist.org/00303_1u8tWfuRAgr_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_gZen9Kzcpk4_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_7JlbVdmUfBJ_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "click... 'MORE ADS by this USER' link/box to the right or below on this ad, to see all our items posted for sale on Craigslist.cash sale . firmno contact pick-up @ patioTHANKS for Looking!BE WELL!!Vintage Trade Sand Glass Chunky Beaded Necklace/s$70-$300easy access , ground level1 mile west of hwy 17@ summit rdTAGS:  indigenous . tribal . ethnic . jewelry . baubles . beads ."
+            },
+            {
                 "id": "7327315857",
                 "name": "(3) Vintage Leather Choker Necklaces w/Ceramic Pendants- Pretty! (NEW)",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-leather-choker/7327315857.html",
@@ -151,31 +176,34 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "vintage Golden State Warriors Jersey DubbsSize LargeIf you do not receive an email reply, check your Spam folder"
-            },
-            {
-                "id": "7328687826",
-                "name": "Rayban Aviation Sunglass Vintage",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-rayban-aviation-sunglass-vintage/7328687826.html",
-                "datetime": "2021-06-21 22:17",
-                "price": "$175",
-                "where": "alameda",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_hp7M3qI6zJAz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00k0k_hp7M3qI6zJAz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00k0k_hp7M3qI6zJAz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_at1lGraJ893z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_JVVnfof9Vcz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_j44Joowf8oKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_dG6QzAn9hauz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_36zzKeb42Glz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Rayban Aviation Sunglass Vintage $175.00Glass is in Very Clean Condition"
             }
         ],
         "beaded": [
+            {
+                "id": "7339143708",
+                "name": "Vintage African Trade Sand Glass Chunky Beaded Necklace/s",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/redwood-estates-vintage-african-trade/7339143708.html",
+                "datetime": "2021-06-21 23:16",
+                "price": "$0",
+                "where": "los gatos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00W0W_6l6HC1bGuA6_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00W0W_6l6HC1bGuA6_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_6l6HC1bGuA6_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_haTSP6zjFlD_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_2TJmmqcTf8F_50x50c.jpg",
+                    "https://images.craigslist.org/00707_efiED8G3Gd9_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_1CJC1nGTufl_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_adWcb76NNlF_50x50c.jpg",
+                    "https://images.craigslist.org/00303_1u8tWfuRAgr_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_gZen9Kzcpk4_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_7JlbVdmUfBJ_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "click... 'MORE ADS by this USER' link/box to the right or below on this ad, to see all our items posted for sale on Craigslist.cash sale . firmno contact pick-up @ patioTHANKS for Looking!BE WELL!!Vintage Trade Sand Glass Chunky Beaded Necklace/s$70-$300easy access , ground level1 mile west of hwy 17@ summit rdTAGS:  indigenous . tribal . ethnic . jewelry . baubles . beads ."
+            },
             {
                 "id": "7334968188",
                 "name": "Beaded Clutch Hand Bags - Multiple",
@@ -219,25 +247,28 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "This is a really nice vintage flowered blue sequins beaded clutch purse.  Silver chain handle.  Pocket inside.In great condition!Handbag"
-            },
-            {
-                "id": "7338460190",
-                "name": "Maasai beaded earrings",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-maasai-beaded-earrings/7338460190.html",
-                "datetime": "2021-06-21 15:03",
-                "price": "$12",
-                "where": "berkeley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_aI2ptimq3ylz_0CI0lL_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00C0C_aI2ptimq3ylz_0CI0lL_600x450.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Brand new Maasai earrings from Kenya1.0$12, Cash, local"
             }
         ],
         "gloves": [
+            {
+                "id": "7326718061",
+                "name": "Bilt Motorcycle Leather Gloves Mens XL",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-bilt-motorcycle-leather-gloves/7326718061.html",
+                "datetime": "2021-06-21 23:14",
+                "price": "$59",
+                "where": "oakland north / temescal",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01414_dBVhbQqGaWv_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01414_dBVhbQqGaWv_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01414_dBVhbQqGaWv_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_kGWTobQLrdu_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_aeraX4Qhc6Y_0CI0t2_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "I\u2019m selling a pair of Bilt motorcycle leather gloves. Size: XLIf interested please text or call for pickup."
+            },
             {
                 "id": "7330030100",
                 "name": "Wells Lamont Leather Work Gloves 3 pk 40% off",
@@ -271,31 +302,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Both pairs in good condition -- $20 per pair. Make me an offer if you want to buy both.Please call or text Stephen at the number provided."
-            },
-            {
-                "id": "7339885625",
-                "name": "First Gear Motorcycle Leathers - Jacket, Pants, Vest, Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-first-gear-motorcycle/7339885625.html",
-                "datetime": "2021-06-21 09:35",
-                "price": "$175",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00707_fBnXmsVXAxyz_1320MM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00707_fBnXmsVXAxyz_1320MM_600x450.jpg",
-                    "https://images.craigslist.org/00707_fBnXmsVXAxyz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_hFPQKZ27NXaz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_drRdawn2tG0z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_8CMfraQBQtCz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_iTd3tIe1zj3z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_ckvEIhDjw0Wz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_kuN6plWA9r2z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_b4UglnwAFgcz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_giFl2K4XqtDz_1320MM_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Sold my motorcycle, so selling my leathers.  These are padded and great quality.Vest/Jacket size - 46Pants size - 38Gloves size - Large"
             }
         ],
         "wedding dress": [

@@ -52,86 +52,108 @@
         ],
         "wood": [
             {
-                "id": "7340577172",
-                "name": "1x6x20 fir framing wood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/vallejo-1x6x20-fir-framing-wood/7340577172.html",
-                "datetime": "2021-06-22 14:10",
+                "id": "7340636117",
+                "name": "Brand new unpainted wood cabinet doors, approx 12\" x 16\"",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/mountain-view-brand-new-unpainted-wood/7340636117.html",
+                "datetime": "2021-06-22 16:10",
+                "price": "$15",
+                "where": "mountain view",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00O0O_kodosNjgOzv_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00O0O_kodosNjgOzv_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00O0O_kodosNjgOzv_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_dZkfhEgA6dS_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_73efZD6YmQB_0x20oM_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "paint grade door frontsI believe these are mapleinset panels12.25 x 16I have 2 @ $15 each.   CASH only"
+            },
+            {
+                "id": "7330725461",
+                "name": "Live Edge Wood Slabs - Redwood Slabs",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/graton-live-edge-wood-slabs-redwood/7330725461.html",
+                "datetime": "2021-06-22 16:08",
                 "price": "$100",
-                "where": "vallejo / benicia",
+                "where": "sebastopol",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00t0t_dWQ9bSmGtYRz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00Q0Q_7Qdf626GBCzz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00t0t_dWQ9bSmGtYRz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00t0t_dWQ9bSmGtYRz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_kqLnGUJ4xFhz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_24idiQY2UIVz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00Q0Q_7Qdf626GBCzz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00Q0Q_7Qdf626GBCzz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_9nNb2SJzDAEz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_lmGyOay7Pdlz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_BPBfpJDvGoz_0pn0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_10EM8iRWW6Zz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_g854RWS9PtHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_gMWnkmS78Lwz_0ne0sX_50x50c.jpg",
+                    "https://images.craigslist.org/01515_jbwe81XwCAcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_eV98yBr4aynz_0qX0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_eeJ1hs0YZNz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_4m8fQLvOiKoz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_l04tNvcdabYz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_dj34AnOjWxiz_0ne0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_fKVDlcw2xnIz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_kvhZ4Nwz3cAz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01212_k1zfISVsftNz_0pz0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_gm5SNKieS50z_0ne0qm_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_4jbywn6lSZWz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_iCgKT41L6Gkz_0ne0oc_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_asyyxFblI3Bz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_96NDydpyq7pz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_7gjTMMIz17Lz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01616_1kzx3zkufuaz_0t20CI_50x50c.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "20 pieces of 1x6 framing wood. Most is 20ft. Used it for concrete curbing. Paid 300 will sell for $100."
+                "description": "Eric Christopher Art Sustainably Salvaged Live Edge Wood Slabs & Burlwood   Eric Christopher is on a mission to recycle. Reducing the carbon footprint of society by recycling usable bay area trees. Keeping these beautiful specimens out of the landfills helps combat massive sequestered carbon entering our atmosphere. Displaying respect for our ancestors, and preserving Mother Nature\u2019s artwork for future generations to enjoy! This is why we call these \u201csecond life logs\u201d .We are addicted to STACKING!We have hundreds of live edge wood slabs available SML, MED, LRG, XL, & XXL sizes. Our  Bay area & Sonoma County inventory is constantly changing! The creative possibilities are endless!Salvaged Live Edge Wood Slab Species:-Acacia -Ash-Cedar-Claro Walnut-Cottonwood-Cypress-Elm-Ironbark Eucalyptus -Maple-Redwood -SycamoreCommon Uses-Bar Top-Benches -Coffee Table -Console Table-Countertop -Desk -Doors-Dinning Table-End Tables-Garden Art-Headboard  -Mantels-Media Console -Mirror Frames-Nightstands-Patio Table-River Table-Shelving -Tabletops-Vanity-Wall Art                           What It\u2019s All About  The equity you gain from creating your own wood slab heirloom is not something that can be measured on a scale but it is something you can definitely feel. We can walk you through the entire process. First timers no need to be anxious, this is supposed to be FUN. The #1 comment customers say is \u201cWow it wasn\u2019t as hard as I thought, I\u2019m glad you told me to try it\u201d   We aren\u2019t in the furniture business. We are in the heirloom conversation piece business. Each and every wood slab is unique in it\u2019s own way. Our job is complete when we here a \u201cbing\u201d and see a photo come through of you standing proudly by your masterpiece. We don\u2019t call it quits when you drive away from our facility.  My heart is full of gratitude as I continue reflect on the salvaged material we have provided to our customers over the years. Thank you to everyone that has consciously chosen to purchase the foundation of their project from us . My partners and I invest so much heart into recycling mother nature\u2019s artwork and it is an indescribable feeling to have you guys recognize both the beauty and the effort put forth to give these logs a second life. It is so special for us to be a part of your story. Making the decision to spend your hard earned money on something we worked tirelessly to provide is not something we take lightly or for granted. We appreciate you! STACK EM\u2019 UP!!-Eric Christopher                            Process1. Decide on a project2. Measure the designated available space, keeping in mind the sizes of other nearby objects. Keeping things proportional will help your space feel sophisticated & curated rather than out of place or overbearing.3. Come Look! The fun begins here! Everyone\u2019s taste is different so it\u2019s best to complete steps 1 & 2 and then come look at our inventory and see if anything screams \u201cTake me home\u201d Our inventory is constantly changing. I tell customers \u201cour store is like a shoe store. We don\u2019t always have every size/model/color but it might be tomorrow that we bring the desired material in. Our inventory is based on the trees we are able to give a second life to, not the \u201cclick of a button\u201d reorder.4. Price is based on many factors as each boule is unique in it\u2019s own way and each boule is in a different state of its life. The main factors we consider are:-Size (board foot aka volume of material)-Species -Figure-Moisture content-Raw or SurfacedOnce Home 1. Decide on the aesthetic look you want to achieve. Do you want the piece to be rustic or lean towards a clean \u201cscuplted\u201d look?2.Remove the bark. We like to use a \u201ccats paw\u201d and a mallet, working pieces off as large as possible. For hardwoods a draw knife works well.3.Sand, scuplt, and clean-up the edges (if that follows suit towards your desired look. ) If a rustic look is desired you may wish to leave the edge as is.  4.Sand the top & bottom. We generally start at 60 grit, working our way through the grits until at least 400 grit. THIS IS NOT a requirement, just our preference. The higher grits do not only make the wood fibers smoother, they allow the true beauty of the wood to expose itself. The 3D figure is more pronounced and shows a higher level of visual contrast. Some figured woods we sand 1200+ grit. THE FINISH YOU CHOOSE MAY DICTATE WHAT GRIT YOU STOP SANDING AT. Some finish brands call for designated end points wich are usually lower in grit than our preference of 400 grit. Many require a max of 220 grit. Read manufactures directions to see if they specify. Once sanded up to 100 grit we like to then cut ends to size if needed, then continue sanding working our way up through the grits. We sand a bit before cutting to size because it makes for less friction on the saw, which usually helps make a smooth, clean cut.We blow off the slab with compressed air and wipe the entire slab with a tac cloth to remove loose dust, prepping the slab for its finish stage.Choosing a finish.Customers always ask what finish I recommend for their project. My answer: finishing is a riddle only you can solve, knowing what you want it to look like, and howmuch time + money do you want to invest. There is not one does-all finish that I recommend for everyone because each finish has it\u2019s pros and cons and everyone has a different vision of how they want their heirloom to look. I will list several of the common types of finishes and the pros and cons as I see it through my experience. Penetrating Oil - UV StabilizedPros Easy application, very quick rich results showing a high percentage of the figure within the wood, sophisticated matte sheen, Inexpensive, easy touch up maintenance, penetrates fibers deep within the wood protecting integrity, UV sun rays do minimal degradation.Cons Not a developed surface finish. This means spills such as red wine will not be stopped from entering the pores of the wood.2 Part EpoxyPros Shows all hidden figure within the wood. The \u201ctruth serum\u201d for wood. Hard surface, fast build up, strengthens any pith , fills checking, and hardens softwoods. A \u201c5 in 1\u201d type of finish. 4 coats of epoxy is similar to 40 coats of polyurethane.Cons Glossy, less margin for error. generally low UV stabilization, many brands yellow over time when outside in sunlight Polyurethane - Water basedPros Easy clean up,Fast drying, Easy \u201cpowdering up\u201d sanding. Dries faster than oil based polyurethane and can be heavier coats too. Barrier to moisture and spills. Many available sheens- gloss, semigloss, satin, flat, and matte.Cons Not as rich as an oil or an epoxy, more bland. A developed finish is slow building. Each coat takes several hrs to dry and many coats are generally needed to have a \u201cmarble like\u201dend result.Polyurethane - Oil BasedPros Rich, deep coloring . High levels of contrast. Durable. Barrier to moisture and spills. Many available sheens- gloss, semigloss, satin, flat, and matte. Many UV stabilized versions available.Cons Intense fumes, stickier clean up, respirator required , tacky feel compared to water based. Slow building, cannot lay heavy coats. Heavy coating runs risk of \u201cskin over\u201d. The top surface dries, creating a thin layer preventing the off gasing process and leaving a sticky, tacky finish that will never properly dry and cure.Contactphone  Website: www.EricChristopherArt.comemail Eric@ErichChristopherArtFb @EricChristopherArtIg @EricChristopherArt5325 Gravenstein Highway NorthSebastopol, CA 95472Business HoursMon:\t9:00 AM \u2013 5:00 PMTue:\t9:00 AM \u2013 5:00 PMWed:\t9:00 AM \u2013 5:00 PMThu:\t9:00 AM \u2013 5:00 PMFri:\t9:00 AM \u2013 5:00 PMSat:\t9:00 AM \u2013 5:00 PMSun:\t9:00 AM \u2013 4:00 PM"
             },
             {
-                "id": "7327472254",
-                "name": "Live Edge Wood Slabs And Rough Sawn Lumber Walnut Oak Sycamore Redwood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-live-edge-wood-slabs-and-rough/7327472254.html",
-                "datetime": "2021-06-22 13:56",
-                "price": "$40",
-                "where": "richmond / point / annex",
+                "id": "7340635605",
+                "name": "2 Rectangular Blocks of Wood & Wood Shelves",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/santa-clara-rectangular-blocks-of-wood/7340635605.html",
+                "datetime": "2021-06-22 16:09",
+                "price": "$8",
+                "where": "sunnyvale",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_2q3R5EyNnh3_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01111_5lTuTcNmY0Nz_0gl0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00T0T_2q3R5EyNnh3_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_2q3R5EyNnh3_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_2n2BsUQdxjy_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_b2hnUpdjYl9_50x50c.jpg",
-                    "https://images.craigslist.org/00909_jnRId8kA9vD_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_etzJKGNUO9h_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_2WpBSiv6UcJ_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_aolhWfmoHzr_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_ywMywWpoSO_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_6jHid358Qtb_50x50c.jpg",
-                    "https://images.craigslist.org/00505_kEDVjzWEkoO_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_dF2HD4Y9GYz_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_j37rIkiMPur_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_ev7t7cj3C59_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_4uWwvePUDQv_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_bNuyludiFQj_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_1NgF3EpP2f_50x50c.jpg",
-                    "https://images.craigslist.org/00303_auqfjSqlThF_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_eHaTL3EOVTH_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_3nGPT66lsdl_50x50c.jpg",
-                    "https://images.craigslist.org/00202_4gArmX0X9nc_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_Yz92kEIXkY_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_dQCNdzvVFgn_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_7kPIOH84srs_50x50c.jpg"
+                    "https://images.craigslist.org/01111_5lTuTcNmY0Nz_0gl0t2_600x450.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "Come out and see my warehouse full of reclaimed and salvaged wood from our back door and from around the world.  Live edge slabs, rough sawn lumber, fireplace mantels, barnwood, siding, flooring, shelves, beams, timbers, furniture, shelving, rustic barn wood, and much more.   112 Ohio Ave, Unit 1, Richmond.  10-5 Monday-Saturday.  If the gate is closed, call the number on the sign and I'll open it for you.Species Generally in Stock: Black Acacia, Sycamore, Eucalyptus, American Elm, Giant Sequoia, Poplar, Cottonwood, Black Locust, Black Walnut, Cedar, Honey Locust, Sugar Maple, White Oak, Butternut, White Walnut, Hickory, Grey Elm, Redwood, Claro Walnut, Bay Laurel, Nutmeg, Ash, Old Growth Redwood, Sinker Redwood, Douglas Fir, Cherry, Peroba Rosa, Ipe, Itauba"
-            },
-            {
-                "id": "7329305562",
-                "name": "Sustainably Sourced Reclaimed Wood Beam Mantel Siding Decking",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-sustainably-sourced-reclaimed/7329305562.html",
-                "datetime": "2021-06-22 13:56",
-                "price": "$7",
-                "where": "richmond / point / annex",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_hTFEODCIOE8_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_hTFEODCIOE8_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_hTFEODCIOE8_50x50c.jpg",
-                    "https://images.craigslist.org/01010_8JgMPX2sUZc_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_9maIPJn6BBc_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Offering century old reclaimed hardwood from barns no longer in use.  Wood with a story to tell!  Located just off of 580 in Richmond."
+                "description": "2 blocks of woodAbout 10 x 3.52 shelving piecesAbout 28.25 x 11.5 $8 for everything"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7334044892",
+                "name": "Gucci vintage travel bag suitcase authentic beautiful",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-gucci-vintage-travel-bag/7334044892.html",
+                "datetime": "2021-06-22 16:22",
+                "price": "$510",
+                "where": "San Jose",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00E0E_ap1gWxWFtzk_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00E0E_ap1gWxWFtzk_600x450.jpg",
+                    "https://images.craigslist.org/00E0E_ap1gWxWFtzk_50x50c.jpg",
+                    "https://images.craigslist.org/00707_aFuviRphWEC_50x50c.jpg",
+                    "https://images.craigslist.org/01414_i3Iha790Lal_50x50c.jpg",
+                    "https://images.craigslist.org/00101_b60taNl8fq1_50x50c.jpg",
+                    "https://images.craigslist.org/00101_eDXxwtdVCL2z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_887URLCowcGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_4ELUaobWLdNz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_inwkwW9MXfGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01010_bOOX1jv5tMlz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Gucci vintage travel bag suitcase authentic. Gorgeous bag in very good vintage condition. Perfect for the stylish person on the go show your classic style."
+            },
             {
                 "id": "7328999923",
                 "name": "Make offer! Vintage leather jacket",
@@ -175,32 +197,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Genuine vintage from 1940s / 1950s. Very rare. Dark blue leather with white and red stripes on sleeves. Genuine original patches. Made well and in great shape. Over-size 50 will fit mens size 48-50. Great after gym working out, or socializing around town. Easy to grab and wear, very comfortable. Label shows it's the real thing. Not like store these days. Makes great statement. I enjoyed it but time for someone else."
-            },
-            {
-                "id": "7338102732",
-                "name": "Beautiful Vintage Purses",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/menlo-park-beautiful-vintage-purses/7338102732.html",
-                "datetime": "2021-06-22 13:48",
-                "price": "$10",
-                "where": "menlo park",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_eYOPYMwyWde_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00e0e_eYOPYMwyWde_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_eYOPYMwyWde_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_f3yDygc4CtJ_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_i79SceCztc9_50x50c.jpg",
-                    "https://images.craigslist.org/00101_dottIPS0wGz_50x50c.jpg",
-                    "https://images.craigslist.org/01010_cg8cAOCY2lO_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_6JFOSRefsOY_50x50c.jpg",
-                    "https://images.craigslist.org/01515_fm1P04yw8ma_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_dwKKJLHkgMz_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_gkyYnztpkNF_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_j8hKnv3xNfH_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "$10.00 each ---  ---- 2 black / 1 white ---- Clutch Size ----- Beautiful Beaded Detail on each one.*** please leave your phone number - we do not text"
             }
         ],
         "beaded": [
@@ -329,6 +325,26 @@
         ],
         "wedding dress": [
             {
+                "id": "7340629325",
+                "name": "Allure Bridals Wedding Dress",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/daly-city-allure-bridals-wedding-dress/7340629325.html",
+                "datetime": "2021-06-22 16:05",
+                "price": "$500",
+                "where": "daly city",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00K0K_4eNW8ZAGtg9z_0gy0gP_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00K0K_4eNW8ZAGtg9z_0gy0gP_600x450.jpg",
+                    "https://images.craigslist.org/00K0K_4eNW8ZAGtg9z_0gy0gP_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_2AuMBq2tMKVz_0h10mB_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_4FBKkRHNd8iz_0h80mH_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_cMnMWNHcnNgz_0gS0jj_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "WORN ONLY ONCE :)  BEAUTIFUL wedding gown!!!!!!!! Size 2This dress was altered to fit me.  About me:5'2105 lbsMeasurementsBust: 29.5 in = 74.9 cmWaist: 23.5 in = 57.9 cmHip: 33.5 in = 85.1 cm(I wore 4 stilettos)Mermaid style gown with asymmetrical layers of organza on the skirt. The strapless, fitted bodice features a sweetheart neckline and asymmetrical ruching accented with beaded and crystal appliques.   You may want to get it pressed on your big day, as I still needed to do that even after getting all the alterations done.For the bust I had B cups sewn in.  No bra needed.Lace up back makes for a perfect custom fit.Easy bustle with different coordinating colors for a very quick bustle."
+            },
+            {
                 "id": "7337542201",
                 "name": "*new* Bliss by Watters Wedding Dress (paid $1715, asking $900 OBO)",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/daly-city-new-bliss-by-watters-wedding/7337542201.html",
@@ -365,29 +381,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "*new, never worn for event*Dress name: BlissDesigner: WattersSize: label size - 10 (fits a street size 6-8)Alterations: bustle + cups added & slight shortening of strapsPaid: paid $1415 + $300 in alterationsAsking: $650 OBOOur wedding was cancelled due to COVID so I am selling my dress (we ended up eloping and I wore my grandma's dress).Beautiful crochet lace, comfortable + easy to move in, mermaid/fit to flare, sweep train.Shown on me (size 8/10) and my friend (size 6).Willing to ship anywhere in the US."
-            },
-            {
-                "id": "7331932434",
-                "name": "WEDDING DRESS - DAVID'S NWT",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-wedding-dress-davids-nwt/7331932434.html",
-                "datetime": "2021-06-22 14:17",
-                "price": "$125",
-                "where": "lafayette / orinda / moraga",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00J0J_3kyyXgf7MDaz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00J0J_3kyyXgf7MDaz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00J0J_3kyyXgf7MDaz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_46BGyNPDGl3z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_cbqQbVzVmkz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_5HylRoN89vwz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_9NazLphrUBqz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_h4PCVErUvkbz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01616_dEeJTpj0GUDz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "David's Bridal Dress - size 8 - white. Color on tag noted as SOFTWHITE. Very pretty floor length, fitted, sleeveless dress with bead/stone detail on front of bodice and at waist. Low square back and ball gown skirt. Back zipper. 100% polyester with 100%.Porch pickup. Price is firm. No returns please."
             }
         ],
         "great condition": [
@@ -565,34 +558,6 @@
                 "description": "1998 Toyota Tacoma Regular Cab Short Bed 2DPick up TruckManual 5-Spd 4-Cyl, 2.4 Liter 2WD204,000 MilesClean Title (Clean History)Smog Certificate ready Registration paid Sep 2021This is a clean great running truck that served me well, garage kept mostly. It's pretty clean inside and outside, I bought it and used it as a second car, has Small 2.4 liter engine and gets excellent gas mileage for a light duty truck. This is a Well Serviced Truck, Excellent Mechanical, Drives Great, Strong engine. Services done on regular basis as recommend. It was serviced last month and all checked out fine. This car is perfectly fine for long commute every day and has long life left on it. * Has Upgraded Pioneer stereo with AUX jack, comes with all basic options plus Air conditioning, ABS 4 wheels , Dual airbagsRecent services:- New Ignition Wire set- 2 New belts- New Spark plugs - Oil change done If interested in the Truck please CALL  4 0 8 . 7 2 1 . 2 7 8 1, Serious inquires please, $7,500 priced to sell"
             },
             {
-                "id": "7335911788",
-                "name": "2005 Nissan Murano 190k Miles Nice Car Drives Great",
-                "url": "https://sfbay.craigslist.org/sfc/cto/d/rancho-cordova-2005-nissan-murano-190k/7335911788.html",
-                "datetime": "2021-06-12 19:43",
-                "price": "$5,800",
-                "where": "bayview",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_cu46Qi7apk0z_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_eoA9STr0z7hz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_eeaTZZkpzJCz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_9BAxg4O5oh8z_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_loPwGKk7uLEz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_8zPYATp1rgOz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_dRl1qxSEysZz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00505_azIdCJjsQryz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_dRT3RSWD4XXz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_4fYjXCdMJSez_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_50SWuKNMmegz_0QE0tC_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_gbCwWgmdEkrz_0QE0tC_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "Speak Russian Call Any Time Speak EnglishText For PicturesFor Sale is my Nissan MuranoGold colormiles 190 Khas new battery new alternatornew lower control armkey words murano sentra titan nissan2000 2002 2005 2007 2009 1995"
-            },
-            {
                 "id": "7333144769",
                 "name": "2007 FORD EDGE SE  AWD.  CLEAN TITLE. SMOG.  DRIVES GREAT***",
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2007-ford-edge-se-awd-clean/7333144769.html",
@@ -620,6 +585,46 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2007 Ford Edge se awd.clean title. smog check.164,xxx miles. drives great.cold a/c.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
+            },
+            {
+                "id": "7330272496",
+                "name": "2004 HONDA ELEMENT EX AUTOMATIC.. CLEAN TITLE. SMOG* DRIVES GREAT.",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2004-honda-element-ex-automatic/7330272496.html",
+                "datetime": "2021-06-01 12:23",
+                "price": "$6,995",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00S0S_6HTY2Z2dKMHz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_g2dJt8VEp8sz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_iEngCNZBCQwz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_bwJLt8dUH6yz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_8OdH5pCbZY9z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_lQtn6zNcOo9z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_3zwukfZiVtaz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_5qknxQ09Z3Fz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_cIyH3639wHnz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_76a89jqUjJxz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_8XgSTjsuSAnz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_wtidrP6esIz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_3RqFV52Y6vxz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_cMX1blec4AOz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00909_fXzREF7X5ekz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_jCrZJz5KURz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_eGBb64oZQRIz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01717_bPMhxIjmsU7z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01212_1ZlvsrmzbmEz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_7dCLiih6Cagz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_bc9fLUm1L2uz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_3lAorK7ntpDz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_iP8dtGZXHZZz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_456kablgFV5z_0CI0t2_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2004 Honda Element ex 2wdclean title. smog check.183,xxx miles.  lots to go.4-cylinder.  gas saver!!!drives great. clean in and out.automatic, shifts smooth.cold a/c.    Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [
@@ -902,6 +907,34 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
+                "id": "7340636137",
+                "name": "1880's Isidor Lot Wood Flute",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/berkeley-1880s-isidor-lot-wood-flute/7340636137.html",
+                "datetime": "2021-06-22 16:10",
+                "price": "$2,500",
+                "where": "berkeley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00R0R_5ixcscvmbqKz_0ak07K_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00R0R_5ixcscvmbqKz_0ak07K_600x450.jpg",
+                    "https://images.craigslist.org/00R0R_5ixcscvmbqKz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_2Zc7yfs64ukz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_dvf4jWofxHzz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_e0RygHKEQAaz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_aSgoMwgEYdBz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_49ASanlFTY7z_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_jJH5gdkDwdoz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_5iho64ywyPEz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_jI6WjUNEBxHz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_3AFxl261l7bz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_f7Div5NtUOhz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00808_epXmE4KT6oRz_0ak07K_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "This flute was made by Isidor Lot, perhaps the nephew of the Famous flutemaker Louis Lotin the 1880's. It is openhole, inline G, C foot and was restored by Daniel Deitch in San Francisco.The sound is warm and sweet and has nothing to do with the volume of the 21st century.It comes in the original case."
+            },
+            {
                 "id": "7337176648",
                 "name": "Yamaha DGX-500 digital  piano 88 keys NEW",
                 "url": "https://sfbay.craigslist.org/eby/msg/d/vallejo-yamaha-dgx-500-digital-piano-88/7337176648.html",
@@ -921,34 +954,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Selling brand new  Yamaha DGX-500 portable digital grand piano 88 semi-weighted keys. Item has been pulled out from a box to test functionality, works perfect.   Tons of great sounds: pianos, string, organs, flutes, brass etc etc etc. Built in speakers, MIDI, input for headphones. Power supply is included.  price only  $349  in CASH  or PAYPAL . If you see this add it means the piano is availabletel.   If You are not familiar with latest series DGX pianos, please read below:Built by one of the worlds Premier manufactures, Yamaha's DGX500 is the first full size (88 key) portable keyboard to use actual piano keys, and it's the flagship in a series of instruments from Yamaha called Portable Grand. It's packed with functions and features designed specifically for new piano users. A large, piano-shaped button in the center of the front panel calls up the keyboard's best piano sound. A piano accompaniment style is automatically chosen and readied if you want it. Next to the piano button is a metronome-shaped button for, of course, a metronome feature.The DGX505 features an extra-high-quality stereo piano sample, general MIDI (GM) compatibility, and a selection of Yamaha's famous XG Lite voices, all of which work in concert to give you remarkably good sound quality. The quality is enhanced by the keyboard's two-way speakers with bass-enhancing ports.Polyphony is the ability for a keyboard to sound multiple tones simultaneously. Some keyboards in this price range have 16-, 24 -or 28-note polyphony; the DGX500 has a full 32-note polyphony so you can play intricate instrumental arrangements and dense musical passages without running out of notes or sounds.When you want to record your playing, just press the front panel's record button, the track button for the track you want to record on, and start playing. It's that easy. When you're done, save your song internally or to the keyboard's 3.5-inch floppy disk drive as a standard MIDI file (SMF) to make it compatible with other general MIDI keyboards as well as most computers. Imagine recording your child's first song onto a disk, placing it in your computer and attaching it to e-mail so friends and family can hear.Call up your favorite style of music like Rock, Big Band, Gospel or Country, press a chord or play Single Finger mode, and the DGX505 will follow you through a piece of music, providing all of the drums, bass, piano, guitar, horn and string parts for you. And even though the DGX505 comes with 135 built-in music styles, the disk drive opens up the ability to load even more. The disk drive will allow you to save and organize your favorite data for years to come. Another feature to simplify song playing is the music database. Pull out your favorite music book, select a song from any of the over 200 songs in the database, and the entire keyboard sets itself up. Start playing and the keyboard will follow your every chord--with no other buttons to press.The DGX505 comes with 100 built-in songs with its songbook feature. But if you've never played before, where do you start? Well, if learning to play music is important to you, the Yamaha Education Suite II, a set of music training functions, makes learning music incredibly easy. Seven types of lessons are available as well as a convenient chord dictionary.And finally, no matter what level of playing ability your at, you'll appreciate being able to build combinations of your favorite sounds. Pressing the Split button divides the instrument into two parts, allowing you to have two different sounds on the keyboard at the same time, like piano on the right and bass on the left. That's when you really appreciate the 88 keys.In addition, Layer mode lets you combine two sounds across the keyboard range. For example, you could layer piano and strings and play both sounds at the same time. With over 600 voices to choose from, the combinations are only limited by your imagination.Full Stereo sound with 2-way speakers -88 full size Touch sensitive keys - Tutorial modes with grading - Tons of great features, too many to list This piano will satisfy even an accomplished pianist with its sophistication and stunning full room filling sound.  Yet, its simple enough to turn on and begin playing for even the youngest beginner.  Read any reviews on-line and owners just rave about it.    The piano is in excellent condition and works 100%.  Its includes the power cord and the foot petal.  It will be professionally packed for shipping.  Any questions or concerns, feel free to email.  Original Retail price was $1169.95 and that was a steal for this piano."
-            },
-            {
-                "id": "7332007191",
-                "name": "Roland  KC-110  AC/ DC  PA  amp",
-                "url": "https://sfbay.craigslist.org/scz/msg/d/santa-cruz-roland-kc-110-ac-dc-pa-amp/7332007191.html",
-                "datetime": "2021-06-22 09:39",
-                "price": "$325",
-                "where": "santa cruz",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_1dLuVUGC422z_0oM0x2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00e0e_1dLuVUGC422z_0oM0x2_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_1dLuVUGC422z_0oM0x2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_fkR8Bb2F7Zcz_0oM0x2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_hwFmZZ64Jzwz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_jqINjSlBKxoz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00707_hwFmZZ64Jzwz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_gI2orQuJDsQz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_lDspoUQ1aOjz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_6ZSyneWQ5W3z_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_gfjigNjL1gaz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_7hMz0ougbv3z_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_4wQ93pQNgqDz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_8ZThRjdmft5z_0x20oM_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Up for sale  is a multi purpose  Roland  KC-110  keyboard / PA / busker  ampIt runs on AC  or battery pack .It is in as new condition with the original owner manual and AC  cableUse anywhere any time 3 inputs  one of which is a  3 pin XLR  mic input . On board effectsTilt back legs or stand mountable .Use it for keyboards , acoustic guitar , small PA  , monitor  you nameFamous Roland qualityIncludes a  $60  deluxe padded coverSee demo  at  https://www.youtube.com/watch?v=DSVfH7RkHg0Sorry no trades on this one unless it's something I can't refuse"
             }
         ]
     }

@@ -123,6 +123,36 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7339214504",
+                "name": "Vintage leather jacket",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-jacket/7339214504.html",
+                "datetime": "2021-06-23 13:38",
+                "price": "$299",
+                "where": "San Francisco",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00g0g_3mBjpD9ERt0z_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00g0g_3mBjpD9ERt0z_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00g0g_3mBjpD9ERt0z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_9M4GQYo4hfuz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_7KeokVxiSAOz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_8e0E2mBy3Hrz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_ceuQE1fi3UZz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00303_9VyljnKoGTwz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_POBt1pVD14z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01313_jmaiOp8VdYzz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_4eQhPbVvHW2z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_f8XUTmkxHjgz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_kcPdJtwxBP2z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_2xyAXQpTRWDz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_k3arvmjDtgAz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_5YpXpQ1E617z_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "This is a designer motorcycle jacket from the early nineties. Wilke-Rodriguez brand was in its heyday and this is a prime example of their design. It's simple, but it has all the fine details. The color is rich brown, the leather is thick but supple. Note the front zipper wind flap, the button on the inside pocket, the fine green quilt lining which is perfectly intact. All zippers are working. The jacket is in very good condition with light wear. There is a minor scuff (barely visible) on the upper sleeve as shown in the photo. Bought in San Francisco, I paid close to $1000. Size L"
+            },
+            {
                 "id": "7337544745",
                 "name": "Vintage Pendleton Shirt/Jacket /Blazer",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/pacifica-vintage-pendleton-shirt-jacket/7337544745.html",
@@ -190,26 +220,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Close to Whole Foods on Yulupa in Santa RosaInclude a day & time after 10am you can pick it up.***About this item:Most of these shoes appear to be brand new, tags attached. I'd love to sell the whole box for $35, but I'm willing to sell individual pair for $6/eaI believe you can see the size of each pair in the photo. If you want to try them on, I can leave them on my porch."
-            },
-            {
-                "id": "7341013555",
-                "name": "Vintage Blue Bowling Bag",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-blue-bowling-bag/7341013555.html",
-                "datetime": "2021-06-23 12:05",
-                "price": "$7",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_com6CJHQf6Tz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Y0Y_com6CJHQf6Tz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00Y0Y_com6CJHQf6Tz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_4Rw2Um87DpEz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_dqsMlzEJhqNz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_aLc9CkZJYOcz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Close to Whole Foods on Yulupa in Santa RosaPlease let me know a day you can pick it up.***About this item:Not leatherLove this bag. Used it for art supplies. I have too many bags!"
             }
         ],
         "beaded": [
@@ -335,6 +345,52 @@
         ],
         "wedding dress": [
             {
+                "id": "7341076220",
+                "name": "Vintage 1965 Wedding Dress (size 8)",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-1965-wedding-dress/7341076220.html",
+                "datetime": "2021-06-23 13:57",
+                "price": "$275",
+                "where": "walnut creek",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00101_kPWvEszV71zz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00101_kPWvEszV71zz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00101_kPWvEszV71zz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_hShrlydHBROz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_b7CALnyr4YAz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Handmade one of a kind vintage wedding dress, made of organza fabric, each flower contains a pearl within, size 8, dates to 1965, asking $275."
+            },
+            {
+                "id": "7341060341",
+                "name": "Worn once! Willowby Strapless Wedding Dress",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/san-rafael-worn-once-willowby-strapless/7341060341.html",
+                "datetime": "2021-06-23 13:28",
+                "price": "$600",
+                "where": "San Rafael",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00606_fYrpG7RxaPQz_04J0iy_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00606_fYrpG7RxaPQz_04J0iy_600x450.jpg",
+                    "https://images.craigslist.org/00606_fYrpG7RxaPQz_04J0iy_50x50c.jpg",
+                    "https://images.craigslist.org/00505_gYhJEdczQruz_09J0lB_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_4Xv7oKgtF8Rz_06H0a5_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_juoQDEukPwrz_06D0a5_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_hWIi3oQXoXsz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_dgHUF1B53r2z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_hSbQite6GeSz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_7nFAkl53BISz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_5oD2ywtrkIMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_gmuSEk0BJvtz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_eRgnGHENmWnz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Hello! Selling my wedding dress, worn once and dry cleaned after. Been in the original garment bag since. Bought brand new for $1300.In almost perfect condition. No discoloration or issues on the bottom. Bought in June 2018. Size 4. I think that means street size 6. Has been altered, with added cups so there's no need for a bra. Loops and a central button were added for a bustle. One of the three loops for the bustle ripped, but the rip is smaller than a quarter size as seen in photo. Could probably get it fixed for fairly cheap. You can't see it with the flow of the dress. The length was altered for 5'9 - ish. I'm 5'6 and wore 3 inch heels. The Willowby 58420 Allira wedding dress has a strapless A-line silhouette with a sweetheart neckline, corset bodice, semi-open curved back and court train. This full-length gown is tailored in soft poly chiffon over a knit lining, enriched with laser cut lace coating the fitted bodice.Serious inquiries only."
+            },
+            {
                 "id": "7337605792",
                 "name": "Larger Size Wedding Dress With Train",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-larger-size-wedding-dress-with/7337605792.html",
@@ -357,46 +413,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Will probably need Dry Cleaned. I called a dry cleaner and they said minimum price is $100.00.  No size listed guessing it might be a 12 or 14.  Please come and try it on (not sure of the size).  If nothing else it is worth the price in beads.  If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
-            },
-            {
-                "id": "7340876600",
-                "name": "Romantic wedding dress, size 2",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-romantic-wedding-dress-size/7340876600.html",
-                "datetime": "2021-06-23 08:22",
-                "price": "$200",
-                "where": "berkeley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00202_iEYYc8ihW2az_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00202_iEYYc8ihW2az_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00202_iEYYc8ihW2az_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_btX1bv3bHMzz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_6fPEBVldszNz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_9vAmkEx5OFXz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Romantic ivory backless wedding dress with champagne lining, lace bodice, and tulle skirt. Very light and easy to move in. No train. Size ~2. Length hemmed for 5 ft 5 in height + heels. Cups inserted to fill out the cheat area but can be removed. Happy to have you stop in to try on before purchasing."
-            },
-            {
-                "id": "7328423752",
-                "name": "Paloma Blanca Lace Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/paloma-blanca-lace-wedding-dress/7328423752.html",
-                "datetime": "2021-06-23 07:54",
-                "price": "$999",
-                "where": "alameda",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_6jTrQ7POQQs_0jn0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_4UJL8nxIyfx_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_8RMtFTPzu0Z_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_gtO2svhYewc_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Paloma Blanca Lace Wedding Dress.  Only used once. Fully cleaned and in great condition. Paid $2,800 new. Description: Mikaella Lace Wedding Dress. All lace gown with empire bodice, keyhole back and fit and flare skirt. Ribbon and flower embellishment at empire. Sweep Train. Street size 6-8."
             }
         ],
         "great condition": [

@@ -54,6 +54,25 @@
         ],
         "wood": [
             {
+                "id": "7341105458",
+                "name": "1\"x4\" DF wood",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/santa-clara-1x4-df-wood/7341105458.html",
+                "datetime": "2021-06-23 14:53",
+                "price": "$50",
+                "where": "santa clara",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00b0b_dCozIgTbcsez_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00b0b_dCozIgTbcsez_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00b0b_dCozIgTbcsez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_gi67nQxbYexz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_bxmCvXvRoaTz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Approximately 180 lineal feet of 1x4. Longest pieces are 16' and the shortest one is 5'. These were used to support plywood shelves indoors and they are in good condition. $50 for all."
+            },
+            {
                 "id": "7338619575",
                 "name": "82 - WOOD ACORN FINIAL POST CAPS $2 ea. or",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/cloverdale-82-wood-acorn-finial-post/7338619575.html",
@@ -92,35 +111,57 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Wood boards (some are redwood) previously used as shelving, nice grain and figure - all 3/4 of an inch thick. Quantities and sizing are:3 boards- 12 1/2\u201dx 18 1/2\u201d4boards- 10 1/8\u201dx 28 3/4\u201d1 board -  12 1/2\u201d x 37\u201d4 boards- 11 1/2\u201d x 37 1/4\u201d6 boards- 11 1/8\u201d x 42 3/4\u201d3 boards- 10\u201d x 57\u201d2 boards- 12 1/4\u201d x 58\u201dAsking $6 per foot for under 12\u201d width and $8 per foot for over 12\u201d width. Redwood, shelving, table tops, cabinetry, architectural salvage, PMI"
-            },
-            {
-                "id": "7334042297",
-                "name": "RECLAIMED WOOD-RUSTIC WALL PANELING-1x4\"Doug Fir T&G",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-reclaimed-wood-rustic-wall/7334042297.html",
-                "datetime": "2021-06-23 13:14",
-                "price": "$8",
-                "where": "san carlos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_fIEtkcDLAhk_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00e0e_fIEtkcDLAhk_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_fIEtkcDLAhk_50x50c.jpg",
-                    "https://images.craigslist.org/01313_hbax6tWuRXm_50x50c.jpg",
-                    "https://images.craigslist.org/01212_dV9IScqTwss_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_7DzIOepLv9Y_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_Pr8OUGbk33_50x50c.jpg",
-                    "https://images.craigslist.org/00909_6bl6PJWHgZU_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_bz4CsFdJo72_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_kISFRZAjmv9_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Beautiful Douglas Fir 1x4 (3.25 face) reclaimed wood in various lengths.  This wood paneling has a rough sawn face and is perfect for wall coverings!  All the wood has been cleaned, trimmed and is ready to be put on your wall.  We have 50 s.f. available.  The lengths of the boards go from 1 foot up to 12 feet (see photos).  Asking $8/square footIf the posting is up, it is available.  Thanks!reclaimed wood, rustic, reuse, vintage, wall paneling,"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7333962188",
+                "name": "Vintage Hobo International Dark Pink Leather Clutch",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-hobo/7333962188.html",
+                "datetime": "2021-06-23 14:39",
+                "price": "$25",
+                "where": "nob hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00O0O_5Ove5dKR1MBz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00O0O_5Ove5dKR1MBz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00O0O_5Ove5dKR1MBz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_fm5Odj6kaBoz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01515_7Tu2Hp8k1JTz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_3oshKhc9bdgz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_3AXef8GNZ5Zz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_8ZDysQaVQJaz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Hobo International Dark Pink Leather Clutch Silver hardware8 Width, 4.5 Height, 1 DepthThis item is gently used with minor signs of wearFeatures: Spacious interior, fits your phone, double frame with kiss-lock closure"
+            },
+            {
+                "id": "7338838244",
+                "name": "Kapital Cargo Shorts Vintage Just In Time For Summer",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-kapital-cargo-shorts/7338838244.html",
+                "datetime": "2021-06-23 14:32",
+                "price": "$170",
+                "where": "nob hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_aoNm7IaNRSmz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_4cazl2i6UCpz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_eMWYpC8c3SNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_67d57kj660zz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_4MIcJqCZ9fAz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_dv2wGpLx02Gz_0iM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_39lFWrx42xcz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Very unique pair of Vintage Kapital Shorts made in Japan. The pockets in these are very fun, I also love the vintage look of the front button. The side pocket zippers are made by YKK. There is no stains or tears of any kind. Just usual wear. These unique cargo shorts are sure to catch attentions!"
+            },
             {
                 "id": "7341092400",
                 "name": "Vintage floral boho caftan / dress",
@@ -138,40 +179,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Great as a house dress, also charming for park outings, farmers market jaunts or as a \u201ccover-up.\u201d Hits around mid-thigh in the fromt and longer drape in back. Oversized cut fits most all sizesSuper soft and light combed cotton, like new"
-            },
-            {
-                "id": "7341082045",
-                "name": "Vintage Jacket",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-jacket/7341082045.html",
-                "datetime": "2021-06-23 14:07",
-                "price": "$100",
-                "where": "walnut creek",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_4OjfuIkWAZxz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00W0W_4OjfuIkWAZxz_0t20CI_600x450.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage jacket made in Jerusalem in the early 1950s, asking $100."
-            },
-            {
-                "id": "7341080922",
-                "name": "Vintage Greek Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-greek-dress/7341080922.html",
-                "datetime": "2021-06-23 14:05",
-                "price": "$200",
-                "where": "walnut creek",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00A0A_2LKawU4dj9vz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00A0A_2LKawU4dj9vz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00A0A_2LKawU4dj9vz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00909_cnp78jQZfCbz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Greek dress handmade in Beirut, Lebanon in the early 1960s, asking $200."
             }
         ],
         "beaded": [

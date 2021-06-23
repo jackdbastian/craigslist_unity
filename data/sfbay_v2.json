@@ -2,6 +2,22 @@
     "materials": {
         "gravel": [
             {
+                "id": "7334330772",
+                "name": "Gravel",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/los-altos-gravel/7334330772.html",
+                "datetime": "2021-06-22 20:51",
+                "price": "$0",
+                "where": "los altos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg"
+                ],
+                "query": "gravel",
+                "category": "maa",
+                "description": "NO EMAILS PLEASETEXT Paul to arrange pickup on Aura Way in Los Altos:  Part of a whole house Estate salvage sale. Everything goes!Gravel is $1 /5 gallon bucket  $3/5 gallon bucket"
+            },
+            {
                 "id": "7340193752",
                 "name": "FREE GRAVEL BASE ROCK",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-free-gravel-base-rock/7340193752.html",
@@ -32,160 +48,122 @@
                 "query": "gravel",
                 "category": "maa",
                 "description": "Approx 1/2 cubic yard of clean gravel as delivered by Larm's.  Left over amount from job and shovel ready.You pick up and take away. Please call to make arrangement for location and time for your take."
-            },
-            {
-                "id": "7334330772",
-                "name": "Gravel",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/los-altos-gravel/7334330772.html",
-                "datetime": "2021-06-20 18:05",
-                "price": "$0",
-                "where": "los altos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00M0M_koZDXU3Teek_0hq0ne_600x450.jpg"
-                ],
-                "query": "gravel",
-                "category": "maa",
-                "description": "NO EMAILS PLEASETEXT Paul to arrange pickup on Aura Way in Los Altos:  Part of a whole house Estate salvage sale. Everything goes!Gravel is $1 /5 gallon bucket  $3/5 gallon bucket"
             }
         ],
         "wood": [
             {
-                "id": "7327093782",
-                "name": "WOOD MOULDINGS",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-wood-mouldings/7327093782.html",
-                "datetime": "2021-06-22 18:38",
-                "price": "$1",
-                "where": "walnut creek",
+                "id": "7331303452",
+                "name": "48\" Bathroom vanity (solid wood)",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-48-bathroom-vanity-solid-wood/7331303452.html",
+                "datetime": "2021-06-22 21:24",
+                "price": "$140",
+                "where": "fremont / union city / newark",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_39Zm7y2ttzDz_0p10t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00U0U_39Zm7y2ttzDz_0p10t2_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_39Zm7y2ttzDz_0p10t2_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_hGPk1e2v7vVz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_2nW8ZADzSiBz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_673gDx03Q3Hz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_i8KSfMmLyyWz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_iRcmj2Q9DGMz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
+                    "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_13vb72Qtz63z_09s05n_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_2lgybDKt7gT_0ak07K_50x50c.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "MOULDINGS OF ALL SHAPES AND SIZES 50 cts a footPic 2-6Show ends and shapes of available mouldingMeasure 5' to 8'Most are brand new, never usedThere are edges, corners, baseboards, etc.All are 50 cts a foot"
+                "description": "The vanity made by solid wood, it is very good quality and condition. When it is new, it costed over $1000."
             },
             {
-                "id": "7329843090",
-                "name": "GLUELESS LAMINATED WOOD FLOORING",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-glueless-laminated-wood/7329843090.html",
-                "datetime": "2021-06-22 18:37",
-                "price": "$10",
-                "where": "walnut creek",
+                "id": "7340728413",
+                "name": "Garage door section, wood, 92 x 11.5 inch",
+                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-garage-door-section-wood/7340728413.html",
+                "datetime": "2021-06-22 20:53",
+                "price": "$25",
+                "where": "castro / upper market",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_ffyuO09enesz_0CI0g1_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00r0r_eUxUlHICldG_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00V0V_ffyuO09enesz_0CI0g1_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_ffyuO09enesz_0CI0g1_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_f7EBCoqXccBz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00r0r_eUxUlHICldG_600x450.jpg",
+                    "https://images.craigslist.org/00r0r_eUxUlHICldG_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_4iQJgAbPqVQ_50x50c.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "5 PIECES OF GLUELESS LAMINATED WOOD FLOORINGLIGHT COLORED, LABELED SELECT MAPLEEACH PIECE MEASURES 7mm x 8 x 48WOULD COVER ABOUT 2 2/3 sq ft"
+                "description": "This is a never used custom made white painted wooden garage door section. Standard design with moldings around plywood panel edges.THIS IS ONLY ONE SECTION.The opener and hinge mounting pads can be unscrewed.If add is up it is available."
             },
             {
-                "id": "7336207790",
-                "name": "WOOD PIECES/PLYWOOD/OAK FLOORING/WALNUT",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-wood-pieces-plywood-oak/7336207790.html",
-                "datetime": "2021-06-22 18:36",
-                "price": "$1",
-                "where": "walnut creek",
+                "id": "7339519185",
+                "name": "75x52\u201d wood window",
+                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7339519185.html",
+                "datetime": "2021-06-22 20:52",
+                "price": "$75",
+                "where": "Presidio Heights",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00Z0Z_1snsU1Yu4gFz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00Z0Z_1snsU1Yu4gFz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00Z0Z_1snsU1Yu4gFz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_g5Lgmjo3yQQz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01414_jz54bKte93az_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "VARIETY OF ODDS AND ENDS OF DIFFERENT MATERIALS3/4 7 ply8 1/2 x 36...........$812 x 24............$1018 1/4 x 48............$12 SOLD25 x 27.............$1025 x 48 ...........$12SOLD1/2 5 Ply6 3/4 x 64...........$77 x 32................$610 1/2 x 52.............$710 3/4 x 64.............$712 x 22...........$714 x 96.............$1014 x 28 ............$815 1/2' x 72..............$1015 1/2 x 96 ( 2 pcs)..........$12 each (ONE SOLD)16 x 38...............$7 SOLD16 x 88..................$1223 x 32 3/4............$8BIRCH PLYWOOD1/8x 18 3/4 x 61 1/2 Birch one sided....................$61/8 x 24 x 28. Birch.......................$6 SOLD1/8 21 x 30 Birch....................$51/4 27 X 48 Birch....................$107/16 A-2, 3 ply double sided Birch................13 x 31......................$153/4 7 ply Birch.................24 x 23...................$153/4 7 ply.......................12 x 26......................$12FIR PLYWOOD1/8.................................18 1/2 x 61........................................$71/4 ................................11 x 47.......................................$61/4..................................16 x 23....................................$51/4.....................................25 x 40............................$71/4 .....................................18 X 24...........................$6 ( 3 pieces) 1/4 ...................................31 x 41......................$7 ( 2 pieces)1/4....................................31 x 37........................$71/4 ..................................40 x 41......................$71/4.....................................12 x 40...................$31/4...............................8 x 40........................$21/4...............................27 x 42.............................$83/8.................................32 x 48.....................$7 SOLD3/8..................................16 x 47......................$73/8....................................16 x 8'.........................$73/8................................... 24 x 71.....................$101/2.....................................24 x 54....................$6 SOLD1/2.....................................11 x 46........................$61/2......................................24 x 83........................$7SOLD3/4 .....................................26 x 32....................$6  SOLDOAKBOARDS3/4 x 9 1/2 x 27.................$93/4 x 18 1/2 x 48.............$251 x 7 x 6' 1......................$22 Ashby sells for $5.50 ft DESK TOP3/4 Oak (3 pieces solid glued, 3 eased edges  two rounded corners).........18 1/2 x 4'.....$25Pic 2-3NEW OAK WOOD FLOORING ............... 5/16 x 1 1/2 wide, unused, random lengths ( average is 5')\u2026\u2026\u2026.265' total length\u2026\u2026\u2026.sells for $4.99 sq ft at HD....................my price $2.50 sq ftMAHOGANY1/4 ply......................19 x 27 .............$71/4 ply.......................29 x 31 ..............  $5 ea (2pieces)WALNUT1/4x 16 x 32.........................$43/4 7 ply  17 x 23.................$93/4 x 13 x 15 plywood.........$10REDWOOD SIDING1/4 rough sawn Redwood Siding..................24 x 44................$33/8 rough sawn................................18 x 28.......................$7WOOD STEP1 1/4 wood step (vertical grain) bull nosed..........11 x 38............$9BENCH TOP1 1/2( 2pieces of 3/4 ply) .........  27 X 62 ...........................$25FIBERBOARD1/8.........................26 X 28.......................$31/8..........................19 x 30........................$31/8..........................16 x 32........................$3MASONITE1/8..................36' x 38..................$31/4...................25 x 36....................$3PARTICLE BOARD5/8 particle board...............2' x 6'4.................$95/8 particle board..............16 x 5'...................$53/4particle board...............15' x 45..................$ 3Be sure to click box under map to see more ads by this user"
+                "description": "No EMAILS PLEASE.TEXT Paul to arrange pickup on Washington in San Francisco- (65O)2I8-859675x52 fixed dual glazed wood window to be removed by contractor $75"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7329369120",
-                "name": "vintage Tie: Buck Wheat Little Rascals",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/cupertino-vintage-tie-buck-wheat-little/7329369120.html",
-                "datetime": "2021-06-22 19:19",
-                "price": "$350",
-                "where": null,
+                "id": "7335866244",
+                "name": "Vintage Persian lamb and mink jacket",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-persian-lamb-and-mink/7335866244.html",
+                "datetime": "2021-06-22 21:23",
+                "price": "$90",
+                "where": "Alameda",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_6vQVJSqiByLz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_llYTV8SmkFDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_9QvHRxL0wPFz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_5U1ZYVZHIbrz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_b7q5lnAN3Ykz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_cjzriNSmyvlz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_fJgSySmsdviz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Little Rascals by Ralph MarlinBuck Wheat Tievintagewhere will you find another like this!excellent condition$350"
+                "description": "This was my grandmothers and is in excellent condition.\ufffc"
             },
             {
-                "id": "7339318333",
-                "name": "Brand New RayBAN VINTAGE",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-brand-new-rayban-vintage/7339318333.html",
-                "datetime": "2021-06-22 18:57",
-                "price": "$175",
-                "where": "alameda",
+                "id": "7331196879",
+                "name": "Shirt - American Eagle - Outfitters - Vintage Fit - Size M",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-shirt-american-eagle/7331196879.html",
+                "datetime": "2021-06-22 21:04",
+                "price": "$12",
+                "where": "santa clara",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00606_1GIv6LHiZ0cz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00m0m_2SiomL3YS3oz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00606_1GIv6LHiZ0cz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00606_1GIv6LHiZ0cz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_aGuREZEyaxsz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_aXUHeljaVmMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_lsnAzG4zR6Ez_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_8FDcde44cG7z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_k0xqTUf7Akrz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_kaGsOFhS223z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_fzKilmsc79kz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00m0m_2SiomL3YS3oz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00m0m_2SiomL3YS3oz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_lBPm51puoyYz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_jVh8uhLcorRz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Brand New RayBAN VINTAGE  $175.00nEW"
+                "description": "ShirtAmerican EagleOutfitters - Vintage FitSize MUsed - In very good conditionClick the more ads by this user link to see other items I have for saleNo warranty given or implied"
             },
             {
-                "id": "7326883865",
-                "name": "vintage gloves",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-gloves/7326883865.html",
-                "datetime": "2021-06-22 18:52",
-                "price": "$0",
-                "where": "palo alto",
+                "id": "7340718960",
+                "name": "American Eagle Vintage Graphic Full-Zip Hoodie Size L Brand New",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-american-eagle-vintage/7340718960.html",
+                "datetime": "2021-06-22 20:11",
+                "price": "$44",
+                "where": "sunnyvale",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_rZ60BZ30zE_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_bpljapqIRA_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_7hfj1x1MIER_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_79v9XCekQJD_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_faeQc6paKf2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_4rHSfvitWJ7_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_a1RJoRwIzMY_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_1f6yfn3xGRT_50x50c.jpg",
-                    "https://images.craigslist.org/00808_ap8KMoH5soh_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_ab4oiepMJiD_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_jXLGes6b1WS_50x50c.jpg"
+                    "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_lrQSX52cxroz_0gl0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "These vintage gloves are all small sizes, perfect for small hands or kid's dress-up.pair of black suede gloves with gold lame trim, 10 1/4 long........................................................$10.00pair of black cotton gloves with tiny design, 13 long.....................................................................$5.00pair of size 6, dark brown suede made in France by Saranti Chevreau for I. Magnim, 12 long..$10.00pair of pink cotton gloves with cut design on the edge, 9 long......................................................$4.00pair of size 7, pink cotton gloves with seed pearls, 8 1/4 long.......................................................$4.00pair of pink cotton gloves made in Germany, 7 1/2 long................................................................$4.00pair of cream colored long, leather gloves with three pearl buttons, 22 1/4 long.........................$10.00pair of cream colored long, leather gloves, 22 long......................................................................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 1/2 long...............................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 long.....................................$10.00pair of cream colored long, leather gloves with two pearl buttons, 14 long.................................$10.00pair of size 6 1/2, NEW, short ivory leather gloves, 8 1/2 long....................................................$10.00pair of, short ivory leather gloves, 7 1/2 long...............................................................................$10.00pair of NEW, short ivory leather gloves with open design, 7 1/2 long.........................................$10.00pair of NEW, short white stretchy fabric gloves with beads, 9 long...............................................$5.00 (can ship)"
+                "description": "$44"
             }
         ],
         "beaded": [
@@ -251,6 +229,22 @@
         ],
         "gloves": [
             {
+                "id": "7340713043",
+                "name": "Touchscreen gloves",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/burlingame-touchscreen-gloves/7340713043.html",
+                "datetime": "2021-06-22 19:48",
+                "price": "$10",
+                "where": "burlingame",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_hV5lrVPNbayz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_hV5lrVPNbayz_0t20CI_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Warm Moving soon and selling some items"
+            },
+            {
                 "id": "7326883865",
                 "name": "vintage gloves",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-gloves/7326883865.html",
@@ -295,25 +289,35 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Brand new still in packaging child's wedding gloves"
-            },
-            {
-                "id": "7329225647",
-                "name": "NEW hat + scarf +  gloves set",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-new-hat-scarf-gloves-set/7329225647.html",
-                "datetime": "2021-06-22 08:22",
-                "price": "$9",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_i9bBnhEfkL_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00W0W_i9bBnhEfkL_600x450.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "NEW hat + scarf +  gloves set ............... $9Very soft and niceCollect in Pleasanton"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7340725440",
+                "name": "Ellis Used Wedding Dress, sz 12",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/los-altos-ellis-used-wedding-dress-sz-12/7340725440.html",
+                "datetime": "2021-06-22 20:39",
+                "price": "$100",
+                "where": "mountain view",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00z0z_br1QvxrZ5CWz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00z0z_br1QvxrZ5CWz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00z0z_br1QvxrZ5CWz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_gnKciKPPdZaz_0gu0oC_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_9aZ2M69QSlcz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_l2KL87CzkiNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_bOfOwdB0Qfuz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_bUoG8MeEkhKz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_gMPzDdb7Lz2z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_bksewXCZDnJz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_9R7gGGyHXQLz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_ayxeNexIxtaz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Used Ellis wedding dress, size US 12original price $1,700Illusion v-neck lace over sweetheart bust with built-in bra, American bustlecomes with veilNeeds to be dry cleaned"
+            },
             {
                 "id": "7326877160",
                 "name": "Melissa Sweet wedding dress, Lia, size 8-10",
@@ -354,28 +358,36 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "WORN ONLY ONCE :)  BEAUTIFUL wedding gown!!!!!!!! Size 2This dress was altered to fit me.  About me:5'2105 lbsMeasurementsBust: 29.5 in = 74.9 cmWaist: 23.5 in = 57.9 cmHip: 33.5 in = 85.1 cm(I wore 4 stilettos)Mermaid style gown with asymmetrical layers of organza on the skirt. The strapless, fitted bodice features a sweetheart neckline and asymmetrical ruching accented with beaded and crystal appliques.   You may want to get it pressed on your big day, as I still needed to do that even after getting all the alterations done.For the bust I had B cups sewn in.  No bra needed.Lace up back makes for a perfect custom fit.Easy bustle with different coordinating colors for a very quick bustle."
-            },
-            {
-                "id": "7337542201",
-                "name": "*new* Bliss by Watters Wedding Dress (paid $1715, asking $900 OBO)",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/daly-city-new-bliss-by-watters-wedding/7337542201.html",
-                "datetime": "2021-06-22 14:59",
-                "price": "$650",
-                "where": "daly city",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_gnePdIcoUszz_0a70ku_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00e0e_gnePdIcoUszz_0a70ku_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_gnePdIcoUszz_0a70ku_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_6bjRUpYLkCmz_0eI0jS_50x50c.jpg",
-                    "https://images.craigslist.org/00606_938XAKw6PA9z_077077_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "*new, never worn for event*Dress name: BlissDesigner: WattersSize: label size - 10 (fits a street size 6-8)Alterations: bustle + cups added & slight shortening of strapsPaid: paid $1415 + $300 in alterationsAsking: $650 OBOOur wedding was cancelled due to COVID so I am selling my dress (we ended up eloping and I wore my grandma's dress).Beautiful crochet lace, comfortable + easy to move in, mermaid/fit to flare, sweep train.Shown on me (size 8/10) and my friend (size 6).Willing to ship anywhere in the US."
             }
         ],
         "great condition": [
+            {
+                "id": "7327349936",
+                "name": "Men's/Women's Jackets- Great Condition- Lightweight & Comfy ($5-10 ea)",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-mens-womens-jackets-great/7327349936.html",
+                "datetime": "2021-06-22 20:26",
+                "price": "$0",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00O0O_17JNxo0fRKIz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00O0O_17JNxo0fRKIz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00O0O_17JNxo0fRKIz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_lo5xJ4Is2M5z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_huG5Pl8AK5nz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00707_4l5VeifDNYnz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_53yFmGQNT5rz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_58U6fOo6C53z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_9iu3AuIY2JMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_9dGYdcMaiEZz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_1A1pZnayEA2z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_7WyalXDp6YSz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00606_fbfx2ClTT4Yz_0t20CI_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "Great selection of nice winter/fall jackets and coats that are universal, men's or women's. They are all in great condition and some like new. Some brand names as well, one Izod and one Cabela's jacket. 1 women's warm puffy jacket is like new and a beautiful teal color. The sizes are all XL and a few are XXL or 1x-2x.The medium/heavy fall or winter coats and brand names jackets are $10 each and the other lighter weight or fleece coats/jackets are $5 eachI also have a vintage camel hair beige coat that is pictured last in great condition for $10I have a nice soft brown suede jacket as well, medium size in great condition- $15If you take all of them I will let them all go for $60!!"
+            },
             {
                 "id": "7340523322",
                 "name": "Really Cute Red GUESS 4 1/2\" Platform Shoes, Size 8, Great Condition!",
@@ -423,34 +435,31 @@
                 "query": "great condition",
                 "category": "cla",
                 "description": "Great condition jackets sweaters outerwearSnow jackets rains coats wool jacket etcBuy all for 17$ or prices listed individually. Puffer jacket is new and not used."
-            },
-            {
-                "id": "7334283773",
-                "name": "5 stylish dresses - great condition - S and XS size",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-stylish-dresses-great/7334283773.html",
-                "datetime": "2021-06-21 10:21",
-                "price": "$20",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00M0M_ioIyoVgVURoz_1320MM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00M0M_ioIyoVgVURoz_1320MM_600x450.jpg",
-                    "https://images.craigslist.org/00M0M_ioIyoVgVURoz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_fECJuvnHOW5z_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_438Y7Zd4iLdz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_isarj0bCuNZz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_69xasm2CLNVz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_2k5R3cewQUZz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_bofyJ1ISetSz_0MM132_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "$20 each or $80 for ALLAvailable for a pick up only!Anna"
             }
         ]
     },
     "sports": {
         "autograph": [
+            {
+                "id": "7337869845",
+                "name": "Autographed Patrick Roy jersey",
+                "url": "https://sfbay.craigslist.org/eby/spo/d/fremont-autographed-patrick-roy-jersey/7337869845.html",
+                "datetime": "2021-06-22 19:33",
+                "price": "$200",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00z0z_fSIXlEWBqrGz_0yM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00z0z_fSIXlEWBqrGz_0yM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00z0z_fSIXlEWBqrGz_0yM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_j4OApKOJKWIz_0iP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/01717_58tORM4OXr6z_0n50t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_6KcjIMd8CSnz_0CI0iP_50x50c.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "Autographed Patrick Roy Colorado Avalanches jersey. Brand new jersey with tags. Signed at a game. From 2000-2001 season.Asking $200. Worth a lot more"
+            },
             {
                 "id": "7332490215",
                 "name": "SHARKS AUTOGRAPHED LARGE PICTURE",
@@ -493,24 +502,6 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "Pro Staff Autograph RF97 Tennis RacquetHard to find Limited 'Tuxedo' Black and White versionBrand new. Never played4\u215c gripRacquet and bag and strings combos availableCross Section 21.5 FBHead Size 97 sq in - 625.8 sq cmString Pattern 16x19Unstrung Balance 30.5CM/12 Pts HLSeries Pro StaffUnstrung Weight 340 gLength 27 in - 68.6 cm$200"
-            },
-            {
-                "id": "7332168233",
-                "name": "Team Autographed Harlem Globetrotters Basketball signed Pennant",
-                "url": "https://sfbay.craigslist.org/nby/spo/d/santa-rosa-team-autographed-harlem/7332168233.html",
-                "datetime": "2021-06-22 00:35",
-                "price": "$5",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_f77MaHDJoZf_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00V0V_f77MaHDJoZf_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_f77MaHDJoZf_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_cYkNsUqdaBA_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "2007 Signed Harlem Globetrotters Pennant.  I can't make which signatures are which, but the roster for the 2007 year was:-Anthony Ant Atkinson-Sun Ming Ming-Mario West-Brent Petway-Marcus Kennedy1 tack holes in each corner.First $5 gets it."
             }
         ]
     },
@@ -827,6 +818,29 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
+                "id": "7327676651",
+                "name": "ISP Technologies TRIWEDGE for trade!",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/saratoga-isp-technologies-triwedge-for/7327676651.html",
+                "datetime": "2021-06-22 20:33",
+                "price": "$700",
+                "where": "saratoga",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00D0D_g6CanQFaox7_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00D0D_g6CanQFaox7_600x450.jpg",
+                    "https://images.craigslist.org/00D0D_g6CanQFaox7_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_fGMO7xjv3Wr_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_3oFdpHtZpET_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_be0n85wxNM_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_kuKCFBqsyxg_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_lOFDjNZgaAm_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_dnUOjQ4CCIk_50x50c.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "Trade for a guitar or other music gear?Insanely loud speaker system will provide sound for 300 person venue  amazing DJ the rig or for live gigs Bass is incredible super clear sound 1500$ new and it\u2019s barely been used at all 100% perfect 600 watts RMS active 3-way floor monitor. 12 inch woofer, 10 inch midrange, 2 inch compression driver, internal 4th order crossover network.ISP Technologies brings you the \u201cNo Compromise\u201d high performance, High Fidelity Active 3-Way floor wedge. No longer do you need to compromise the stage monitor mix with the poor performance of a 2-way floor monitor.The all to common result of a 2-way floor monitor is low fidelity, distorted, unintelligible vocals and instruments. The new ISP Technologies TRIWEDGE provides high-output, high fidelity definition throughout the entire spectrum, including that very important, often overlooked critical midrange."
+            },
+            {
                 "id": "7339606539",
                 "name": "Peavey Special 130 guitar amp Solo Series 1x12",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/fremont-peavey-special-130-guitar-amp/7339606539.html",
@@ -844,29 +858,6 @@
                 "query": "loud",
                 "category": "msa",
                 "description": "I have a VERY LOUD AMP in a rather small combo package. Not bad for a solid state amp. Just dont need it anymore; too much amp for small settings.Im pricing it to move quickly. TRADES? what do you have? I am looking for a snake, 8 channel at least 25 feet. Hear it at: https://www.youtube.com/watch?v=rV_yDmgNYBoYou can check out in San Jose (Practice Place)"
-            },
-            {
-                "id": "7334050831",
-                "name": "SALE - Rare Fender Champ II Combo 1981 w/extras",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-sale-rare-fender-champ-ii/7334050831.html",
-                "datetime": "2021-06-22 14:01",
-                "price": "$1,000",
-                "where": "SOMA / south beach",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_600x450.jpg",
-                    "https://images.craigslist.org/00505_jaBfnfF5eaBz_0tE0mf_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_2OqXvNNjCUz_0xe0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_4qvL3CvZgH8z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_aOOH7atEmFuz_0A10r1_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_55ySh7wQa2xz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_io0Yl7KyiSWz_0tq0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_7q7OzbiAX7Zz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "Price Lowered to $1000 - Fender Champ II 18-Watt 1x10 Guitar Combo.  These were only made for a short time: 1981 - 1983It was serviced by Pete Cage last year, he replaced the hard-wired speaker cable with a 'proper' speaker out  which looks factory. Has the original vinyl Cover and original speaker. There are no rips, stains, tears.  The preamp tubes are GE 12ax7a's.  Pete said the power tubes are Sylvania 6VGT's with the Fender Logo.  When I had it serviced he put everything he replaced in a baggie and gave it back to me.  Once I got it back from him it sounded better than ever - it's a very complex clean tone with no noise or hash.Such a great clean tone at comfortable home volumes and it will also get loud. Doesn't break up much beyond crunch with my Les Paul unless you pull the mid boost.$70 - Eminence GA10-SC64 10 20-Watt 8 Ohm Replacement Speaker          This speaker is in pristine condition. It was installed for a couple of weeks and carefully taken out          (stored in a box). No issues of any kind."
             }
         ],
         "famous": [

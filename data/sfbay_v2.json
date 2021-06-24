@@ -141,66 +141,84 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7335817655",
-                "name": "[New] Weatherproof Vintage Ladies' Comfy Vest",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-new-weatherproof-vintage/7335817655.html",
-                "datetime": "2021-06-24 14:20",
-                "price": "$7",
-                "where": "berkeley",
+                "id": "7340135071",
+                "name": "Vintage Faux Fur unique coat / Burning Man",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-faux-fur-unique/7340135071.html",
+                "datetime": "2021-06-24 15:49",
+                "price": "$85",
+                "where": "north beach / telegraph hill",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00N0N_7L9EyBq8Ujq_0aY0aY_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01111_1cGwuPvz6oy_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00N0N_7L9EyBq8Ujq_0aY0aY_600x450.jpg",
-                    "https://images.craigslist.org/00N0N_7L9EyBq8Ujq_0aY0aY_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_ainN78qsdcd_0aY0aY_50x50c.jpg"
+                    "https://images.craigslist.org/01111_1cGwuPvz6oy_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01111_1cGwuPvz6oy_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_8cOYKfPEBl8_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "I have 3 size vests. https://www.amazon.com/Weatherproof-Vintage-Ladies-Comfy-White/dp/B08HST5FNPXXL : $7L: $7M: $7If you buy all 3 items, $20Cash only"
+                "description": "Vintage Faux Fur one of a kind stunning coat. Burning Man or Retro type.$85"
             },
             {
-                "id": "7330344937",
-                "name": "Vintage authentic Swarovski crystal cuff bracelet & dangle earring set",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-authentic-swarovski/7330344937.html",
-                "datetime": "2021-06-24 14:05",
-                "price": "$250",
-                "where": "san mateo foster city",
+                "id": "7341618665",
+                "name": "Vintage 1940's Post World War II Heavy Wool Army Coat",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/pacifica-vintage-1940s-post-world-war/7341618665.html",
+                "datetime": "2021-06-24 15:21",
+                "price": "$80",
+                "where": "pacifica",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00b0b_gV0KxQxqrYo_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00n0n_4we7WigMFX0z_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00b0b_gV0KxQxqrYo_600x450.jpg",
-                    "https://images.craigslist.org/00b0b_gV0KxQxqrYo_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_9injgFnDz3x_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_kWVzRKhIAW_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_44jmFk40A9Z_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_4mJxoANhqWz_50x50c.jpg",
-                    "https://images.craigslist.org/00000_iMRgqRR4eTf_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_cNCm5O60FU2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_gMX0Q8wtWdY_50x50c.jpg"
+                    "https://images.craigslist.org/00n0n_4we7WigMFX0z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00n0n_4we7WigMFX0z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_hAMbzdvOSpIz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_7bOzvmPKNcaz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_4o4UcvGpUYMz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_aUZbApRchkxz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/01111_5HP2e9omN2Zz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_fPZl76Hz6iIz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00202_4r6Ytog7yjjz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/01010_jl3UbXGXGkKz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_9BXGatGa2Ssz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/01414_2mzM2aH3pxsz_0ak07K_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "** If you're reading this post, item is available.**Serious inquiries only please.Only reply if you're ready to buy, thanks.-------------------------------Selling as set only.EXCELLENT CONDITIONGorgeous sophisticated shimmering round double ball earrings AND cuff bangle bracelet add sparkle!  Perfect for bride, bridesmaids, prom or any special occasion!**Vintage - from the 1990 Swarovski Jeweler's Collection (renamed the Atelier Collection)**Made of authentic brilliant Swarovski crystals, gold plated alloy base, set in delicate pave design setting with exquisite sparkling detail.   Gold plated.  Lead, nickel and cadmium free -- will not tarnish per manufacturer. ABOUT EARRINGS:Diameter: 12mm   -- Post backing (for pierced ears); 14K posts -- 1 \u00bd dropABOUT BANGLE BRACELET:Dimensions: 2 \u00be long -- 2 wide -- \u00bc thick (equivalent to size small)  - Security clasp.Original Swarovski booklets and information included. CASH only.  Pickup San Mateo/Foster City area under social distancing protocols.   Or, PayPal payment may be arranged (with additional nominal ship/handling fee based on weight, and your zip code applies).REPLY with your NAME, your PHONE # to arrange meet up/pickup, or PayPal payment /USPS delivery.Meetups arranged and confirmed by phone. Please expect to schedule meet up/pickup,  and/or make Paypal payment within 24 hours of our reply. As is, all sales final. Serious inquiries only.**If you\u2019re reading this post, item is available."
+                "description": "Vintage 1940's Post WWII Heavy Wool Army Coat.  Size 40 L.  Good condition, recently vacuumed, smells good.  Small hole on back right sleeve and one on right side chest.  $80Also have an Army garrison cap with pin.  Good condition.  $20Near Skyline Blvd.jacket trench coat hat war military uniform militaria collectibles"
             },
             {
-                "id": "7341575228",
-                "name": "Vintage suede jacket",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-suede-jacket/7341575228.html",
-                "datetime": "2021-06-24 13:53",
-                "price": "$25",
-                "where": "USF / panhandle",
+                "id": "7334887433",
+                "name": "Coach Leather Essex Black Briefcase Vintage",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/menlo-park-coach-leather-essex-black/7334887433.html",
+                "datetime": "2021-06-24 15:20",
+                "price": "$200",
+                "where": "menlo park",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_giSMlfS4Kljz_0oo0pm_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00202_breRCzMbvnBz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00n0n_giSMlfS4Kljz_0oo0pm_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_giSMlfS4Kljz_0oo0pm_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_5YSkNXm3mxqz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_ir2p2POSyqDz_0kE0gR_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_i7PSNq0LPhVz_0lM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00202_breRCzMbvnBz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00202_breRCzMbvnBz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_ksPKPt0cE5nz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01212_73MNiZ8OoRHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_g5ZmJmJlLzdz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_lulQ0qEIMRlz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_6wVgoEZ8oELz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_2DuTUyKaejXz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_90zc72iPY3rz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_lpT1pt65OBWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_jTcYyHuu9fpz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_bs9VQglITRkz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_jW68xaiIM46z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_anidbd7htU9z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_oRCYn87FHjz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_5NZ3OL2Fc4kz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_cNj4SuoAHc8z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_jORe3UlMvdKz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_cco0wyzTRlNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_f5aTGlElMHDz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage William Barry suede jacket Mens medium to large- approximately size 44. Needs a good dry cleaning otherwise in good condition."
+                "description": "This vintage Coach leatherware Essex briefcase with turn-locks is from the 90s and was used just for a short time with great care.  It is in excellent condition.  Minimal signs of wear with light surface marks on the exterior.  Interior is clean, free of stains.  Briefcase has brass hardware, two divided compartments, one interior zippered pocket, a front slip pocket with card and pen holders, an exterior back slip pocket and a detachable/adjustable shoulder strap with pad.  Made in USA.  $200.  Cash, Paypal or Venmo accepted.Approximate measurementsLength 16Height 11.5Depth 4.5Strap length 42Strap drop, adjustable 18-21If interested, please include your phone number in the reply.  Will text back.Pickup in Menlo Park."
             }
         ],
         "beaded": [
@@ -554,28 +572,26 @@
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2007 Ford Edge se awd.clean title. smog check.164,xxx miles. drives great.cold a/c.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             },
             {
-                "id": "7341513172",
-                "name": "1999 Chevy Astro van LS runs great",
-                "url": "https://sfbay.craigslist.org/eby/cto/d/winters-1999-chevy-astro-van-ls-runs/7341513172.html",
-                "datetime": "2021-06-24 11:58",
-                "price": "$3,200",
-                "where": "fairfield / vacaville",
+                "id": "7341606002",
+                "name": "A great commuter Jetta",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-great-commuter-jetta/7341606002.html",
+                "datetime": "2021-06-24 14:50",
+                "price": "$2,200",
+                "where": "san jose east",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_bYrC83zKVhqz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00Y0Y_hOmI8ZBMarBz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00505_bYrC83zKVhqz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00505_bYrC83zKVhqz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_8Fbnyti88N5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_gf9luCdMIalz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_9gBrFEJXcIfz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_jDdslVXfp3jz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_cufWx5AoRRz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_4GfckwY3IMvz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_57TTUq2FOG4z_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00Y0Y_hOmI8ZBMarBz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00Y0Y_hOmI8ZBMarBz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_e0rnJPw4RHSz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_lHui6IirrBOz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_iSWYqfLlWyPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_6I8q9JU7geoz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_lOS9akTLUt5z_0t20CI_50x50c.jpg"
                 ],
                 "query": "drives great",
                 "category": "cta",
-                "description": "1999 Chevy Astro van Clean title in hand and currently registered, it has a 4.3L V6 with 195,000 miles. Runs and drives fantastic, it has 3rd row seating for a total of 8 passengers. Great for long trips or commute, doesn\u2019t have any mechanical issues. Always well maintained, 2nd and 3rd row are made to be easily and quickly removed for extra space. Call for more info Located in winters 10 miles from Vacaville Serious buyers only Thanks."
+                "description": "I recently bought for a work car, but I no longer need.Pros: New tires. (I put 3k miles on them) I just replaced the ignition coil.(178000 miles)I replaced the rear breaks and front axels. (18100 miles) only reason I\u2019m asking for what I\u2019m asking for.  Oil changed at 179, 500 miles, plus coolant was replaced. Never broke down on me in our short time together. Has an alpine CD player. (Bluetooth device for phone is included)Great on gas. I fill up once a week, and that\u2019s with commuting 6 days a week.Cons:Dashboard goes dead at times, but doesn\u2019t effect headlights while in use. crack on windshield.Driver side window don\u2019t go up, but goes down.Paint is flaky on some panels.All in all, it\u2019s a great car considering it\u2019s age.  Great for a commuter and to learn how to drive a manual.I\u2019m selling as is. I\u2019m asking 2,200/obo"
             }
         ],
         "fix up": [
@@ -784,51 +800,45 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
-                "id": "7335818328",
-                "name": "Suzuki Mini Grand Digital Piano  HP-425e w/bench works perfect",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/vallejo-suzuki-mini-grand-digital-piano/7335818328.html",
-                "datetime": "2021-06-24 14:12",
-                "price": "$899",
-                "where": "vallejo / benicia",
+                "id": "7341617318",
+                "name": "Epiphone SG Bass Guitar and Amp",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/dublin-epiphone-sg-bass-guitar-and-amp/7341617318.html",
+                "datetime": "2021-06-24 15:18",
+                "price": "$370",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00E0E_8lAn9KwO6eXz_0jm0cS_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00A0A_iPLvAm8N9daz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00E0E_8lAn9KwO6eXz_0jm0cS_600x450.jpg",
-                    "https://images.craigslist.org/00E0E_8lAn9KwO6eXz_0jm0cS_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_ilo7zkn6Fb8z_0jm0cS_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_dby22N4AguCz_0kE0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_3KNOqGQ0x61z_0kE0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_j6BlY79EAycz_0kE0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_kft8R9XMBAnz_0kE0fu_50x50c.jpg"
+                    "https://images.craigslist.org/00A0A_iPLvAm8N9daz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00A0A_iPLvAm8N9daz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_2mKk4mxbsKez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_7e6atwPcP8wz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00707_dhdtp8XM5oVz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_7gHCAFowPaTz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "I'm selling Suzuki Mini-Grande Digital Piano HP-425e full-weighted keys(next improved model after GP-3). Instrument   goes with very fancy leather bench. The piano is  in excellent cosmetic  shape, all keys works absolutely great, no any sticky key or dead key.  Piano has tons of features: greatest pianos, electro pianos, basses, organs, strings, voices, clavs, harps, voices etc etc etc, drums on a board sequencer, effect processor,  full MIDI, 2 inputs, 2 outputs, 2 headphone inputs, 6 powerful speakers, sounds just phenomenal, clean, loud, rich. Price $899, retail price was almost $3000!!!   it's really great grand piano in incredible shiny condition. Also piano has 3 floor pedals bar . It\u2019s only 3\u20196\u201d deep so it doesn\u2019t take up too much room and it never needs to be tuned, weight is around 200lbs, so couple guys easy can put put the piano in small van. DELIVERY is possible for small fees.   cell. If you see this ad it means the piano is available."
+                "description": "Epiphone SG Bass. This is the long scale (EB3?), not the EB1 short scale. Floating bridge.Has a great thump, but it's true strength is that Motorhead metallic growl. I couldn't find any flaws, but I'm sure there are a couple. They'll be very small. An honest 9 of 10.Rogue 60w amp. It's not the prettiest; the tolex is peeling a little in the back. I'll throw some 3M spray adhesive on there. Loud enough to either titillate or infuriate your neighbors. Cord and crappy strap if you need them. Come and get it!"
             },
             {
-                "id": "7336167821",
-                "name": "Recording King resonator guitar",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/fremont-recording-king-resonator-guitar/7336167821.html",
-                "datetime": "2021-06-24 14:11",
-                "price": "$1,200",
-                "where": "fremont / union city / newark",
+                "id": "7338688853",
+                "name": "Quilter Labs Micropro Mach II",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/clearlake-park-quilter-labs-micropro/7338688853.html",
+                "datetime": "2021-06-24 14:30",
+                "price": "$800",
+                "where": "Clearlake",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00303_8gTiXtZwcfn_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00k0k_k0Qs3lc6svGz_08g08g_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00303_8gTiXtZwcfn_600x450.jpg",
-                    "https://images.craigslist.org/00303_8gTiXtZwcfn_50x50c.jpg",
-                    "https://images.craigslist.org/00000_911zTds6Pwz_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_kPs2yqdAj9c_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_hfgXA2ZsT2T_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_4zxFjQp8mJD_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_7rwpz0nbrlH_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_75i5VybONms_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_HqxCTLzedh_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_hTJNDV1p2nU_50x50c.jpg"
+                    "https://images.craigslist.org/00k0k_k0Qs3lc6svGz_08g08g_600x450.jpg",
+                    "https://images.craigslist.org/00k0k_k0Qs3lc6svGz_08g08g_50x50c.jpg",
+                    "https://images.craigslist.org/00303_2j40CRHc6uxz_0dS05G_50x50c.jpg",
+                    "https://images.craigslist.org/01717_F91UxxSk7Qz_0a005D_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_drfHoplLqEFz_0c606z_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "new . Recording King resonatorMN/ SO-998 EF This guitar is a great deal . If you ever Wanted  and resonator guitar Not only is it on NAMM show special Was scrolling on the body It comes with a hard case.   ((( it comes with a hard case )))There is one left.The prices will be going up so hurry up and check it out if you're interestedMetal Body Resonator, Style-0, Chickenfoot Coverplate Nickel-Plated Bell Brass Body25\u201d Scale Length1-3/4 Nut WidthHand-Spun Recording King ConeScroll body engravingThis is also a limited edition NAMM Show special.Modeled after the original pre-war resonator guitars, our Recording King resonators are some of the foremost metal body guitars on the market. Thanks to their bell brass bodies, they have incredible projection and classic resonator tone.The Recording King Style-O ppl features a 9.5 hand-spun Recording King cone, a Honduran mahogany neck and a hard maple bridge. From professional artists to beginners, these resonators have made a huge impression on players.Beautiful engraving throughout the body. Weighs 12 lbs. Real nice sounding, loud instrument with that classic sound. I bouht three of these to get a really good discount. I sold the guitars to the owner of the shop. And he asked me to keep the ad up but the raise the price to $1,200. Because of their limited edition and the amount of money they've already gone up to since I bought them.SPECIFICATIONSBody:Nickel-Plated Bell BrassNeck:MahoganyFretboard:PadaukCone Material:Hand-Spun AluminumCone:Recording King, 9.5Coverplate:Chicken Feet (RM-998-D)Headstock:Plated Recording King LogoTailpiece:Bell BrassBridge:Hard Maple with Ebony/Maple SaddlePosition Markers:M.O.P. DotTuners:Nickel-PlatedNut, Width:1-3/4Scale Length:24-7/8Finish Options:Nickel-Plated Bell Brass"
+                "description": "From Quilter:The Quilter 10 inch Mach 2 combo is the smart compromise between the light weight of the 8 and the heavier weight of the 12, and features a very potent Celestion G-10 Vintage driver that offers a more vintage, chewier, and rounder sound, (Weight 21 pounds). In our sealed enclosure, the 10 inch Celestion delivers warm and beautiful mids with a deep and resonant low end articulation. Best for electric instruments, especially when they are overly bright, the 10 inch delivers warm and uncompromising tone. If you already have a 10 inch speaker that you love, or if you are used to the sound of a 10 inch, this is your amp. Combine this with our 12 extension cabinet for staggering power that will easily handle outdoor gigs without a PA system. Key Features:Powerful: 100 watts per channel. 200 watts total when using channel 1 and 2. Toneful: Patented next generation analog technology.Portable: Take it on board the plane and put in the overhead bin.Reliable: Stop fussing with 70 year old unreliable technology and play more!Ultra-Light: This is the second lightest of our combo amps. About as heavy as your guitar in its case.Modular: Combine this with our matching extension speaker, or use your own for outdoor or extremely loud gigs.Flexible: Works with nearly any impedance, or even with the speaker unplugged.Consistent: Our power supply auto-adapts regardless of the voltage the wall is dishing out. Your tone never suffers, even from nightclub voltage.These units usually sell for $1049 plus about $80 for the footswitch. Not a bad deal for $800. Comes with vinyl cover."
             }
         ],
         "famous": [

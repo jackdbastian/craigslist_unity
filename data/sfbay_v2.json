@@ -54,6 +54,29 @@
         ],
         "wood": [
             {
+                "id": "7341211547",
+                "name": "Tile, Expensive Italian-3 Boxes Slate Grey Wood Pattern",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-tile-expensive-italian-boxes/7341211547.html",
+                "datetime": "2021-06-23 19:28",
+                "price": "$75",
+                "where": "willow glen / cambrian",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00B0B_d1vOUELLFAu_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00B0B_d1vOUELLFAu_600x450.jpg",
+                    "https://images.craigslist.org/00B0B_d1vOUELLFAu_50x50c.jpg",
+                    "https://images.craigslist.org/00000_avh0VbTZlQDz_06s03D_50x50c.jpg",
+                    "https://images.craigslist.org/01212_7M4wJkrgXgHz_03D06s_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_Uu8LwccFqZ_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_hqFrNfWPMXt_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_cHk8VmU98HB_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_eWOCEGHqXPe_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "3 Boxes of Grey Wood Pattern Italian Tile-30 Pieces"
+            },
+            {
                 "id": "7341204882",
                 "name": "RECLAIMED WOOD WALL PANELING. FREE SHIPPING!",
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/pismo-beach-reclaimed-wood-wall/7341204882.html",
@@ -113,27 +136,40 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Purchased new in August 2020, stored indoors with primed ends. These surplus beams are straight and true.$480 for both!OR:6x10 Douglas Fir No. 1, surfaced 4 sides (actual 5.5 x 9.5) excellent conditionLength= 12' 2-3/4$2404x12 Con Heart Redwood - clear grain (2 knots ~3/4 dia.) originally surfaced 4 sides to 3.5 x 11.25 zero cracks! undamaged, with surface discoloration and a shoe print (discounted accordingly) Length= 10' 6$290Also selling 1.75ea large 9' rolls of Barricade Wrap, similar to Tyvek house wrap. $30 for all. Prices are FIRM.Please say why you're buying beams so I know if you're a human, to get a response.Barn reclaimed salvaged rustic craftsman table mantel bench siding deck pergola arbor"
-            },
-            {
-                "id": "7330561053",
-                "name": "Wood rods",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/south-san-francisco-wood-rods/7330561053.html",
-                "datetime": "2021-06-23 16:30",
-                "price": "$5",
-                "where": "south san francisco",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00p0p_dNci23Ftqxt_0CI0t2_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Round wooden rods. Possibly could be used for furniture or closet.They are 1.5 inches in diameter. Knob in middle is 2.5 inches in diameter.7 are about 38 inches  long.1 is about 32.5 inches long.$5 each.Leave a number if you want a reply."
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7339277864",
+                "name": "Women's Vintage Floral Lace V Neck Cocktail Party Swing Dress, Dark Green",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-vintage-floral-lace/7339277864.html",
+                "datetime": "2021-06-23 19:29",
+                "price": "$10",
+                "where": "San Mateo",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_600x450.jpg",
+                    "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_cGneaiK47zlz_0pO0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_4GBXwHR88vcz_0pO0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_6MFLVmO0joOz_0pO0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_ckaNZTcaOy2z_0pO0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_agooVXGcXy8z_0pO0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_luIYivxEwB4z_0pO0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_7YMqtvHe61Sz_0pO0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_5lloJaZxYwXz_0pO0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_hSaZKnXg4Jpz_0pO0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_eYRac5tvB5ez_0pO0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_1a7d951byJqz_0CI0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_kbI2z5H9peyz_0CI0CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "I am selling a brand new Women's Vintage Floral Lace V Neck Cocktail Party Swing Dress in Dark Green100% silk and lace!Very good/comfortable quality! I have bulk qty as below:Size S, 11 pcsSize M, 30 pcsSize L, 13 pcsSize XL, 12 pcs Retails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
+            },
             {
                 "id": "7338541854",
                 "name": "Sun Glasses DKNY  Vintage Blue Metal",
@@ -154,51 +190,24 @@
                 "description": "Vintage DKNY Pall Mall K01150 Blue Metal Oval Sunglasses Frames Hong Kong"
             },
             {
-                "id": "7341209912",
-                "name": "Vintage Leather Jacket Size S/M",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-leather-jacket-size-m/7341209912.html",
-                "datetime": "2021-06-23 19:22",
-                "price": "$110",
-                "where": "Oakland",
+                "id": "7341211340",
+                "name": "Glasses Prada Vintage VPR 62G",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-glasses-prada-vintage-vpr-62g/7341211340.html",
+                "datetime": "2021-06-23 19:27",
+                "price": "$50",
+                "where": "willow glen / cambrian",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_5PInuBliZo0z_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00n0n_3KDAvVaYHOz_04Q06s_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00h0h_5PInuBliZo0z_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_5PInuBliZo0z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_ewORwZIVc31z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_cnUnmBbALt2z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_i1YN9mHJO8Zz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_kjntV58Dfxrz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_5iCx1d7YJbmz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_3NXJVa1Jh84z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_c5bLn6O6XSmz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00606_hy4dEFPzUhIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_9xILPLUE4O7z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_9bwYDg35u2xz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_7fGaSVpYsPzz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00n0n_3KDAvVaYHOz_04Q06s_600x450.jpg",
+                    "https://images.craigslist.org/00n0n_3KDAvVaYHOz_04Q06s_50x50c.jpg",
+                    "https://images.craigslist.org/01414_80Ad4V7pZNQz_04Q06s_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_kBDqMcky1oaz_04Q06s_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_iM32PfEpnDRz_04Q06s_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Soft pebble leather jacket with side buckles at the waist and fitted back. Zipper closure in the front.Adjustable leather straps and bronze hardware at cuffs and  both sides of waist. 2 Slash pockets.Dark brown color with matching fabric lining. Detachable shearling fur collar can easily button on or off.Leather is in very good shape with slight wear at cuff edges, see photos.Lining is intact but has some small holes along the bottom right hand corner and some small holes on the  bottom left side as shown in photos.Label says XOE New York. Size S. Fits a size 8-12 women or small to medium man.Measurements:Shoulders 18armpit to armpit 21Sleeves 24Length 29Waist can be adjusted with side buckles"
-            },
-            {
-                "id": "7341198325",
-                "name": "Vintage Red Plastic Necklace",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-red-plastic-necklace/7341198325.html",
-                "datetime": "2021-06-23 18:43",
-                "price": "$3",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_klkGuh5I3PQz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_klkGuh5I3PQz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_klkGuh5I3PQz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_gK2JWhlr3oSz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_7PQmfSOBW4ez_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Close to Whole Foods on Yulupa in Santa RosaPlease let me know a day you can pick it up.***About this item:Uses a neat little screw mechanism to close. One of my favorite types of clasps. In excellent condition."
+                "description": "Prada Vision Glasses 50-18-135 1B0-101Silver Black Half Rim Frame Made in Italy VPR 62G RPO335229Lenses are great and the frame is sound."
             }
         ],
         "beaded": [
@@ -264,6 +273,46 @@
         ],
         "gloves": [
             {
+                "id": "7335404355",
+                "name": "Exceptional famous brand new leather gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/emeryville-exceptional-famous-brand-new/7335404355.html",
+                "datetime": "2021-06-23 19:56",
+                "price": "$0",
+                "where": "cupertino",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Y0Y_7rAi4doxnZz_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Y0Y_7rAi4doxnZz_600x450.jpg",
+                    "https://images.craigslist.org/00Y0Y_7rAi4doxnZz_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_jezswYZueBJ_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_6di5Ccnr56b_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_hdgRMdPoqmz_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Gorgeous Butter Leather Stylish New Gloves by  Famous Michael Kors for unbeatable bargain deal - $35 each ($200.00 each on Amazon)Double Brown Leather Women's Jacket for 80% off -$25"
+            },
+            {
+                "id": "7335656573",
+                "name": "Exceptional Leather Gloves and more",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/emeryville-exceptional-leather-gloves/7335656573.html",
+                "datetime": "2021-06-23 19:35",
+                "price": "$0",
+                "where": "mountain view",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00O0O_9QaPJDUUssl_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00O0O_9QaPJDUUssl_600x450.jpg",
+                    "https://images.craigslist.org/00O0O_9QaPJDUUssl_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_7rAi4doxnZz_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_hdgRMdPoqmz_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_gXJWgC8EQ2E_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "2 Gorgeous Butter Leather Stylish New Gloves by  Famous Michael Kors  - $50.00 ($200 on Amazon)Double Brown Leather Jacket  - $25.00 (originally - $250)"
+            },
+            {
                 "id": "7327658728",
                 "name": "Women's Leather Gloves, size 6.5",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/redwood-city-womens-leather-gloves-size/7327658728.html",
@@ -278,50 +327,31 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Two pairs of long white kid gloves have been soldTwo pairs short white kid gloves, size 6.5, excellent condition, $10 eachOne pair short apricot-colored kid gloves, size 6.5, like new, $20"
-            },
-            {
-                "id": "7341190100",
-                "name": "Men's 3M Thinsulate Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-mens-3m-thinsulate-gloves/7341190100.html",
-                "datetime": "2021-06-23 18:16",
-                "price": "$20",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_PEBpnTzMUz_50x50c.jpg",
-                    "https://images.craigslist.org/01111_5iYmZRnosK4_50x50c.jpg",
-                    "https://images.craigslist.org/01010_gPSZiydve1y_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_6h1re8NpNAR_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Men's 3M Thinsulate Gloves, brand new, never used $20.00 each or make offerFleece, with clips, have Black and Charcoal, 2 pairs of eachCan buy two pairs for $30.00 or make offerSerious offers only and please no offers for trades, thanks.To cut down on spam responses the posting is deleted as soon as the item is sold so there is no need to ask if it is available. Will respond to emails with a phone number, please no email only replies."
-            },
-            {
-                "id": "7332502844",
-                "name": "Youth Goalie Pants and Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-youth-goalie-pants-and-gloves/7332502844.html",
-                "datetime": "2021-06-23 16:25",
-                "price": "$25",
-                "where": "San Ramon",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_ZWMPaNMDYbz_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_dXBI0iFkE4az_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_f8ZSrpnSwmHz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_lLS2Q5zuAFEz_0t20CI_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "\ufffcReusch pants - YLVizari Gloves - Youth$25 for bothYouth large goalie pants and gloves, used only 1 season indoors before the pandemic. Our son has grown out of the clothing and is good quality, while only used for indoor soccer."
             }
         ],
         "wedding dress": [
+            {
+                "id": "7329885750",
+                "name": "NEW La Sposa Wedding Dress - Never Worn",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-new-la-sposa-wedding-dress/7329885750.html",
+                "datetime": "2021-06-23 19:40",
+                "price": "$200",
+                "where": "san jose west",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_600x450.jpg",
+                    "https://images.craigslist.org/00000_ldHwEm8GmaWz_0cG0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_kbTSWex9WdDz_0id0oo_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_hXOrLJW4j1tz_0gN0o6_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_1V69cjnhvsrz_0gw0pA_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_iAInrIzHZRSz_0fF0iv_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_i9Pu9FVbNnxz_08V0hr_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Taffeta La Sposa Fuego Traditional Wedding Dress (was $1415)Size: US 10This dress is brand new, never worn. Could be hemmed and altered to fit any smaller size.Color is Off White.For more information or pictures, message us. Neckline: Strapless Silhouette: A-line Train: Chapel Height With Heels: dress not hemmed.Note:SIZES ARE BRIDAL SIZE, NOT STREET SIZE!"
+            },
             {
                 "id": "7339227993",
                 "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Red",
@@ -392,30 +422,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Black100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size M, 15 pcsSize L, 45 pcsSize XL, 25 pcsSize XXL, 12 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
-            },
-            {
-                "id": "7339230698",
-                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Long Dress, Black",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7339230698.html",
-                "datetime": "2021-06-23 19:21",
-                "price": "$10",
-                "where": "San Mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_600x450.jpg",
-                    "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_hDqpGMA1Ujoz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_ezPJY4aWHkHz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_is7Mt6Hs8Tjz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_fA8FP8jyFHkz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_eYKRYGXXyJvz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_6XqyrwDR2j2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_g7ooeT5COBz_0pO0CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Long Dresses, Black100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size XXL, 15 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
             }
         ],
         "great condition": [
@@ -922,6 +928,25 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
+                "id": "7335404845",
+                "name": "Last century beautiful Violin",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-last-century-beautiful-violin/7335404845.html",
+                "datetime": "2021-06-23 19:52",
+                "price": "$7,500",
+                "where": "castro / upper market",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00O0O_kXMTcQhGpZQ_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00O0O_kXMTcQhGpZQ_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00O0O_kXMTcQhGpZQ_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_ae8MG9DMsxF_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_lsZc2cdXRmT_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Excellent quality Violin from 20th century, made in Europe with official appraiser was played for more , than 50 years by professional violinist, no holes, no cracks,in very perfect condition, with deep violin sound Great Bow is including in a package -  Bargain Deal                               INCLUDING Exceptional Collections of Violin Library Music brought from Europe with bowing-fingering by world famous violinist of last century"
+            },
+            {
                 "id": "7337173719",
                 "name": "Epiphone Dot NA Archtop Semi-Hollow Guitar w/ Epiphone HS case",
                 "url": "https://sfbay.craigslist.org/eby/msg/d/san-leandro-epiphone-dot-na-archtop/7337173719.html",
@@ -941,30 +966,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "for sale is a beautiful Epiphone DOT NA archtop semi-hollow guitar in perfect condition with hardshell Epiphone case; flawless ES-335 style guitar which is great for all types of music;Serial Number 16031500302asking $425Take command of the stage with fat, semi-hollowbody guitar tones with Epiphone's Dot guitar. Designed after the famous ES-335 Dot, this guitar offers up killer blues, rock, jazz, and country tones. Maple top, sides, and back coupled with a solid mahogany center block deliver fat tones while minimizing potential feedback."
-            },
-            {
-                "id": "7334179040",
-                "name": "Very Nice Folkcraft Mountain Dulcimer Solid Wood",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/walnut-creek-very-nice-folkcraft/7334179040.html",
-                "datetime": "2021-06-23 13:06",
-                "price": "$360",
-                "where": "walnut creek",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_6pb2HuPAgPMz_0oY0iJ_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00909_6pb2HuPAgPMz_0oY0iJ_600x450.jpg",
-                    "https://images.craigslist.org/00909_6pb2HuPAgPMz_0oY0iJ_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_88E7Ba5mlnez_0oY0iJ_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_h0rXP0l3i7cz_0oY0iJ_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_4NxEHgBUJWSz_0oY0iJ_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_4gzrM8Z1fC3z_0oY0iJ_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_9Ur5TmN2nQwz_0oY0iJ_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_4klJkoyKe5kz_0oY0iJ_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_kH5nx7YyWGz_0oY0iJ_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "This is a very nice, handmade Mountain Dulcimer in the Hourglass shape made from Folkcraft Instruments. This instrument was handmade in Winsted, Connecticut by legendary dulcimer maker (according to Hayley Speakman of Folkcraft Instruments), either the famous David Marks in their shop in Winsted, CT sometime around 1989.  On the inside is HC? with 486 -H an hourglass shape, and C which means it is solid cherry and , and something else ?). On his nicer instruments, David Marks usually included the 6.5 fret and the 13.5 fret so that is an additional clue as to it's maker. It is entirely solid cherry wood and has a 27 scale. This instrument is in amazing condition and cost at least $800 - 1000 in 1989.  I think $360 right now, make me an offer. You are invited out to Walnut Creek to check it out. Soft case and a set of strings included. Call, text, or email if interested."
             }
         ]
     }

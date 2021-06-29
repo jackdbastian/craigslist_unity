@@ -56,6 +56,25 @@
         ],
         "wood": [
             {
+                "id": "7331180974",
+                "name": "Wood Post Spindles",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/lafayette-wood-post-spindles/7331180974.html",
+                "datetime": "2021-06-28 21:45",
+                "price": "$39",
+                "where": "lafayette / orinda / moraga",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00J0J_g9tTG8w81zf_0CI0lH_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00J0J_g9tTG8w81zf_0CI0lH_600x450.jpg",
+                    "https://images.craigslist.org/00J0J_g9tTG8w81zf_0CI0lH_50x50c.jpg",
+                    "https://images.craigslist.org/00606_e3sUOcLbxjT_0CI0lH_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_hyEDenRxxxL_0CI0lH_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "- Brand New in Original Package- 3 Dia. x 5' Long- 2 Available- Original Price: $79.95 each- Asking: $39 each"
+            },
+            {
                 "id": "7343624570",
                 "name": "Wood",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/el-sobrante-wood/7343624570.html",
@@ -91,35 +110,32 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "White painted paneled door from Mill Valley craftsman home.   in good shape.  Removed with door jamb.Measures 30 inches by 77 inches.See photos.$100.Door, antiques, vintage, home, furnishings, lumber, beams"
-            },
-            {
-                "id": "7334042297",
-                "name": "RECLAIMED WOOD-RUSTIC WALL PANELING-1x4\"Doug Fir T&G",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-carlos-reclaimed-wood-rustic-wall/7334042297.html",
-                "datetime": "2021-06-28 20:28",
-                "price": "$8",
-                "where": "san carlos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_fIEtkcDLAhk_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00e0e_fIEtkcDLAhk_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_fIEtkcDLAhk_50x50c.jpg",
-                    "https://images.craigslist.org/01313_hbax6tWuRXm_50x50c.jpg",
-                    "https://images.craigslist.org/01212_dV9IScqTwss_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_7DzIOepLv9Y_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_Pr8OUGbk33_50x50c.jpg",
-                    "https://images.craigslist.org/00909_6bl6PJWHgZU_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_bz4CsFdJo72_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_kISFRZAjmv9_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Beautiful Douglas Fir 1x4 (3.25 face) reclaimed wood in various lengths.  This wood paneling has a rough sawn face and is perfect for wall coverings!  All the wood has been cleaned, trimmed and is ready to be put on your wall.  We have 50 s.f. available.  The lengths of the boards go from 1 foot up to 12 feet (see photos).  Asking $8/square footIf the posting is up, it is available.  Thanks!reclaimed wood, rustic, reuse, vintage, wall paneling,"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7343632154",
+                "name": "VINTAGE MEN\u2019S MEXICAN STERLING SILVER ONYX RING",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-mens-mexican/7343632154.html",
+                "datetime": "2021-06-28 21:37",
+                "price": "$80",
+                "where": "santa cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00H0H_i2IzKroKAvnz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00H0H_i2IzKroKAvnz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00H0H_i2IzKroKAvnz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_FfxICgpCEez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_eFKM5FxPakTz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_bMTjZW8twhBz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_gkQY9AzQ4psz_0t20t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "VINTAGE MEN\u2019S MEXICAN STERLING SILVER ONYX RING (size 12.5) $80Stamped 925 sterling silver."
+            },
             {
                 "id": "7336289424",
                 "name": "Montana Silversmiths Vintage Silver/Gold Plate Belt Buckle, Letter \"B\"",
@@ -158,29 +174,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage Disney Beauty and The Beast On Broadway Denim Jacket, LargeThis is a vintage 1990's Disney's Beauty and the Beast Broadway musical denim jacket. It is an adult's Size Large ..Made by IDENTITY INC..New York.....100% CottonMEASUREMENTSShoulder to Shoulder - 20Armpit to Armpit - 23Waist Across - 22Shoulder Seam To Cuff - 23Bottom of Collar to Hem - 24CONDITION: Used...Looks very good..Minimal use.. Photos show items current condition and use your best judgement...Sold As is...SHIPPING AVAILABLE*****SF/Bay area buyers, please include a phone number with your response..954Disney Beauty And the Beast Broadway Musical denim jacket large 100% cotton vintage"
-            },
-            {
-                "id": "7330994379",
-                "name": "Vintage YSL Rive Gauche Women's Black Quilted Jacket Blazer, Medium",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-ysl-rive-gauche/7330994379.html",
-                "datetime": "2021-06-28 20:51",
-                "price": "$400",
-                "where": "mission district",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_73vNdRSFim0z_0iD0ne_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00G0G_73vNdRSFim0z_0iD0ne_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_73vNdRSFim0z_0iD0ne_50x50c.jpg",
-                    "https://images.craigslist.org/01414_6pN5JUwQ7Wlz_0ne0gx_50x50c.jpg",
-                    "https://images.craigslist.org/01717_59NnmmYEQF4z_0ne0iC_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_5gGhmJKaFGMz_0n70fh_50x50c.jpg",
-                    "https://images.craigslist.org/01616_dQPckcZi19zz_0ne0i5_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_gfZ3NmXfP3Vz_0ne0fs_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_izlFnPIoWepz_0hj0ne_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Gorgeous Vintage YSL Rive Gauche Women's Black Quilted Jacket Blazer - Medium Beautiful YSL Rive Gauche vintage lightweight black quilted jacket..Label says SAINT LAURENT RIVE GAUCHE PARIS Made in USA.. I didn't notice a size label so please go by my measurements...MEASUREMENTS:SHOULDER TO SHOULDER - 16Armpit to Armpit - 20Waist Flat Across - 21Shoulder Seam To End of Cuff - 23Bottom of Collar to Back Hem - CONDITION: EXCELLENT...Recently professionally dry cleaned, ready to wear..SHIPPING AVAILABLE*****SF/BAY area buyers please include a phone numberYSL SAINT LAURENT PARIS RIVE GAUCHE BLAZER QUILT WOMEN LADIES JACKET"
             }
         ],
         "beaded": [
@@ -530,27 +523,6 @@
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2010 Toyota Camry Hybridclean title. smog check.129,xxx miles.  low for toyota.navigation.  heated seats.power leather seats.sunroof.  cold a/cdrives great.  clean in and out.gas saver!  40+ mpgPrices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             },
             {
-                "id": "7343141538",
-                "name": "2015 Dodge Hemi V8* 4 door Truck* Original Owner* Looks & Drives Great",
-                "url": "https://sfbay.craigslist.org/nby/cto/d/mill-valley-2015-dodge-hemi-v8-door/7343141538.html",
-                "datetime": "2021-06-28 00:04",
-                "price": "$17,500",
-                "where": "mill valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_hNiFVMSYvcJz_0ww0oo_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00o0o_hNiFVMSYvcJz_0ww0oo_600x450.jpg",
-                    "https://images.craigslist.org/00o0o_hNiFVMSYvcJz_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_eYAHVvh7UnRz_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_bBzOazPDojCz_0kE09x_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_63PbE4uVw30z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_9nAvI8gwFQqz_09x0kE_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "*ORIGINAL OWNER DRIVEN ONLY BY ME I BOUGHT IT NEW IN 2015I AM 63 YEARS OLD AND DRIVE VERY SAFE*I JUST BOUGHT THE SAME NEW DODGE RAM 4 DOOR TRUCK THE ONLY DIFFERENCE, IT'S  SILVER and a 4x4SELLING - - - $17,500.00 97,683 ORIGINAL MILES4-DOORS ALL BLACK OUT - BLACK on BLACKLEATHER SEATSCUSTOM WHEEL RIMS AND TIRESHEMI V-8 ENGINESOME SMALL SCRATCHES LES SCHWAB - LIKE NEW REAR SHOCKS AND NEW FRONT BRAKES* I WILL START SHOWING THE TRUCK ON MONDAY - JUNE 28thSELLING - - - $17,500.00 Thank you, John"
-            },
-            {
                 "id": "7342974551",
                 "name": "2004 Toyota Highlander V6 4WD - Drives great but needs TLC",
                 "url": "https://sfbay.craigslist.org/pen/cto/d/stanford-2004-toyota-highlander-v6-4wd/7342974551.html",
@@ -565,6 +537,36 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "Selling 2004 Highlander runs and drives excellent, AC and heater works, has third row of seats. Clean title.I drive this car daily, and it works great. However, selling this in an AS IS condition, as there are a few things that need some work:*Needs either a new catalytic converter or O2 sensor before it would pass another smog test (but current one valid until Sept)*Front bumper needs new screws to attach it to carriage (currently using some duct tape, functional but not pretty)*Tear on leather of Driver's seat*Sun roof doesn't openiVIN Report Summary:This vehicle's market value is $6,544.This vehicle is estimated to have 168,000 miles on the odometer.Projected depreciation: $976 in 5 years."
+            },
+            {
+                "id": "7342543109",
+                "name": "2006 VOLKWAGEN BEETLE 2.5  CLEAN TITLE.  SMOG. DRIVES GREAT. SERVICED!",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2006-volkwagen-beetle-25-clean/7342543109.html",
+                "datetime": "2021-06-26 12:58",
+                "price": "$4,999",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Z0Z_ciiFO3qTf1cz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Z0Z_ciiFO3qTf1cz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00Z0Z_ciiFO3qTf1cz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_e5Px5Xzk4bxz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_bddmIEV9yK8z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_lAvNH4boDbMz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_lRKHGIrJTfOz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_kGmEEDQvdcnz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_6KxYMynGZF9z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_d29Kst8CxnNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_17XFEyycHf6z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_cpVZEgACrRLz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_3N9H1y7cg18z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_8vDZVPuJDTbz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_iQxbFyXlLKYz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_64lrxCYNMjTz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2006 vw beetle. clean title. smog check.112,xxx miles.  lot to godrives great.  cold a/c.  leather seats.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [
@@ -794,24 +796,31 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
-                "id": "7343616871",
-                "name": "1995 Korean-built Epiphone PR350 Guitar",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/napa-1995-korean-built-epiphone-pr350/7343616871.html",
-                "datetime": "2021-06-28 20:21",
-                "price": "$135",
-                "where": "napa county",
+                "id": "7343633521",
+                "name": "Fender Vibroverb clone - from '69 Bandmaster head",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-fender-vibroverb-clone-from-69/7343633521.html",
+                "datetime": "2021-06-28 21:45",
+                "price": "$1,900",
+                "where": "san jose west",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00404_8lNw1Kgjgmgz_0iU0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01616_fbxYhl1wPclz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00404_8lNw1Kgjgmgz_0iU0t2_600x450.jpg",
-                    "https://images.craigslist.org/00404_8lNw1Kgjgmgz_0iU0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_8glXMmIpxEMz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_7m9Y2dMfbcmz_0gx0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_gJhHjBi2Gidz_0jM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/01616_fbxYhl1wPclz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01616_fbxYhl1wPclz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01313_2aMCQ0rxN11z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_bLDyCqaVa6xz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_hlqWsYRcQ1Iz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_bFvR1XglQGGz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_gwujVDAt7zzz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_k7whm8R1rnzz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_3wrTwGJ5Pe0z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_eRF5xP7vSTzz_0gH0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_gIthMLOCCNuz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_sTbpnwbV45z_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Everyone\u2019s ear and taste is different.  I find this to be a loud guitar even with extra light strings.  I believe YouTube reviewers call this punchy and bright.  To get the bass out of it I use an acoustic amp when playing out.  The internet says that this series of the PR 350 was NOT a solid top.However, there\u2019s a PR 350 up on Reverb with a new bone saddle and some kind of magical pins for $349 + $65 shipping.  Seems a bit steep.  In terms of looks it is hard to find a mark on this guitar.  All original.  If you like the \u201cvintage vibe\u201d stuff you\u2019ll know that only some bindings yellow with age.  The neck and body bindings against this black guitar are a golden yellow. Had it set up correctly.  You\u2019ll find it easy to play.  The hardcase is fully functional.  You can tell that\u2019s where this guitar lived formost of its twenty-five years.Fully vaxxed.  You can try it out on your car\u2019s bumper or in the garage.Please email through Craigslist or call Jack @  .  Way too old to text."
+                "description": "A custom-crafted combo amp mod/build inspired by the 1964 Vibroverb, the rare model made iconic by Stevie Ray Vaughan. All parts new except for the reused amp chassis and original '69 Bandmaster Reverb circuit board and components.My pandemic hobby was building amps and I have too many now :(   This one started as a '69 silver-face Bandmaster Reverb head.  The circuit design of this '69 Bandmaster had not changed much from the '64 black-face Vibroverb. It was mostly removal of some additional filter/biasing parts of output section that I can only guess were added to increase manufacturing yield (?).  These unnecessary parts have been removed.  Only a couple of other resistor values needed adjusting and Wha-La it matches the AB763 Vibroverb schematic from '64.I believe the power transformer is the same model used in '64 black-face amps that had 2 6L6 power tube output section like the Vibroverb (date code on power transformer is March 1969) and with the GZ34 rectifier tube the DC voltages are in range of the '64 Vibroverb, some of the highest of any black-face amp.  You can also see that most all of the original chocolate-drop and blue mallory coupling caps along with carbon comp resistors are still there for vintage tone.  A filter cap-job was needed as the filter caps in the doghouse were definitely going bad. See pic of new blue sprague filter caps in doghouse, additionally all the preamp bypass caps were also replaced with new caps.So on to the mods and new upgrades.- The output transformer was upgraded to Mercury Magnetics SRV over-sized model, with multi-tap and switchable impedance selector added. A mercury magnetics choke was also installed.- Reverb and tremolo were added to the normal channel, a mod which also puts the two channels in phase (can jumper together if desired). - The tremolo circuit was modified to slow the pulse rate at lower speeds.- The tone circuit of the normal channel was adjusted to emphasize mids, useful as a lead channel, or just have option of a channel voiced differently to find desired tonal balance.- raw switch (tone circuit bypass) installed on Normal channel.- Bypassable Effects Loop added w/return vol control. (Mojotone active FX loop). - Adjustable power tube bias pot with additional filter cap on bias voltage output.- Switchable fixed or cathode bias for output section.  Fixed would be like '64 Vibroverb with more headroom, cathode bias more like a Tweed-era amp with earlier break-up.- New, properly grounded pwr chord installed with legacy death cap removed.- New reverb tank and cabling installed.- Cabinet is Mojotone pine cabinet.The FX loop mod is particularly useful for this amp. Besides being a great option to insert FX such as delays and reverbs, the return vol control becomes a useful master volume option. This amp is VERY LOUD at raw throttle. Adjusting the pre-amp volumes for lower settings can be touchy and you might prefer pre-amp tone at a higher settings as well - but it's very loud.   It\u2019s much easier to throttle overall volume by using the FX return trim control (in middle of back panel). Even if not using effects you can short the in/out and still use the FX return volume as shown in the back panel pic.  Plus the overall noise floor goes down and the amp is quieter at lower volumes vs. not using FX loop trim and just using preamp volume control.The speaker is a brand new 15 weber alnico speaker (50W).  I tried the JBL D130 per reported preference of SRV setup, but I think the Weber is warmer sounding at a wider range of volumes, plus it's nearly 10lbs lighter than the JBL  !!Ask away with questions. Glad to discuss mods in more detail and see if they are right for you.  If you have been wanting a '64 Vibroverb you should know that the originals go for two or three times this price and all the parts would be 57 years old!   This one is ready to be played now and last another 50 years.New soft cover as shown in pics is included. Also will include new foot switch for reverb and tremolo."
             }
         ],
         "famous": [

@@ -118,6 +118,26 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7336276876",
+                "name": "Vintage Frye Cowboy Boots",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-frye-cowboy-boots/7336276876.html",
+                "datetime": "2021-07-01 15:31",
+                "price": "$50",
+                "where": "oakland downtown",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_eOlhjf4D5GB_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_eOlhjf4D5GB_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_eOlhjf4D5GB_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_6qJtuzWjmmx_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00909_hYvbqeczzF5_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_hHnpGeRfXDa_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Awesome vintage Frye cowboy boots. They have been re-soled and have plenty of life in them. Nice stitching and overall sturdy and elegant. Could use a little polish but otherwise in great shape.10.5 men\u2019s size"
+            },
+            {
                 "id": "7334044892",
                 "name": "Gucci vintage travel bag suitcase authentic beautiful",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-gucci-vintage-travel-bag/7334044892.html",
@@ -173,30 +193,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Gucci authentic vintage leather bag with an enamel tiger face closure. Gorgeous leather bag in excellent vintage condition very rare probably from the 1980s. The only issue is on one of the metal zipper pieces has some darkening and spots on the back of it I have pictured it in the last picture. Exceptionally beautiful vintage authentic Gucci\ufffc"
-            },
-            {
-                "id": "7338838244",
-                "name": "Kapital Cargo Shorts Vintage Just In Time For Summer",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-kapital-cargo-shorts/7338838244.html",
-                "datetime": "2021-07-01 14:46",
-                "price": "$170",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_aoNm7IaNRSmz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_4cazl2i6UCpz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_eMWYpC8c3SNz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_67d57kj660zz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_4MIcJqCZ9fAz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_dv2wGpLx02Gz_0iM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_39lFWrx42xcz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Very unique pair of Vintage Kapital Shorts made in Japan. The pockets in these are very fun, I also love the vintage look of the front button. The side pocket zippers are made by YKK. There is no stains or tears of any kind. Just usual wear. These unique cargo shorts are sure to catch attentions!"
             }
         ],
         "beaded": [
@@ -851,36 +847,20 @@
                 "description": "Used Fender Champ 25 Tube Guitar Amp. Works great! Includes foot pedal with channel select overdrive and reverb! Message me if interested, $180 obo"
             },
             {
-                "id": "7344970244",
-                "name": "1977 Ibanez Concord 699S Vintage Acoustic Guitar - Made in Japan",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/hayward-1977-ibanez-concord-699s/7344970244.html",
-                "datetime": "2021-07-01 15:22",
-                "price": "$650",
-                "where": "hayward / castro valley",
+                "id": "7344975410",
+                "name": "Blackstar Stage 60 Amp",
+                "url": "https://sfbay.craigslist.org/scz/msg/d/santa-cruz-blackstar-stage-60-amp/7344975410.html",
+                "datetime": "2021-07-01 15:34",
+                "price": "$250",
+                "where": "Live Oak",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00000_8lh50yDkAwYz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00c0c_eR09M4i4Kjvz_0uR0j4_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00000_8lh50yDkAwYz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00000_8lh50yDkAwYz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00404_b6AkVraM5jYz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01111_7bTVMYP5iMDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01111_eP63hwMz13oz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_hPVF585U1aEz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_h4D3eFiT9Esz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_lUut7Y0r9Yiz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_4vXOeS2pJADz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_f6NAh7Slhdiz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_1byyFUheyPgz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_drv8OJffAU7z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_bt8TcC3kLFkz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_7IAO4oXEUxpz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00505_gjUZl6ev0Qaz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_43oMDrWuGoZz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_gwxQRN7nGGqz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00c0c_eR09M4i4Kjvz_0uR0j4_600x450.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "1977 Ibanez 699S Dreadnought - spruce top, maple back and sides, and less common maple neck and fretboard.  This one is hard to let go of but the dreadnought body size is too large for me these days so it isn't getting played. I am the second owner of this guitar and other than two spots of fingernail wear on the fretboard it has been played pretty lightly. It has never been outside of the house since I have owned it. This model differs from most Japanese lawsuit guitars of the era in that is has a fixed bridge and saddle.  It also has a nice abalone inlay in the headstock. I have since changed the bridge pins but they look identical to the ones in the photos (black with white dot).This guitar was set up in December of 2019 by Mike at East Bay Guitar Repair and plays fantastic. This is a very solid guitar with a nice tone. It is also very loud. Comes with original hard case.Asking $650. I would only be open to trading toward a 000 or OM body acoustic guitar with a spruce top. If your only question is Is this still available? the answer is Yes."
+                "description": "Blackstar Stage 60 Tube amp with 2-12sVery powerful and loud ampThis is not the newer USB ModelI will not respond without a phone #"
             }
         ],
         "famous": [

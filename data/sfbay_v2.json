@@ -56,6 +56,29 @@
         ],
         "wood": [
             {
+                "id": "7344946340",
+                "name": "Window Blinds & Faux Wood Valances - $5.00 ALL",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/burlingame-window-blinds-faux-wood/7344946340.html",
+                "datetime": "2021-07-01 14:32",
+                "price": "$5",
+                "where": "burlingame",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00303_2aw5fIgpZoUz_1320MM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00303_2aw5fIgpZoUz_1320MM_600x450.jpg",
+                    "https://images.craigslist.org/00303_2aw5fIgpZoUz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_lc9ZMyeXTD1z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_ktCjMIogwXyz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_jojoAL6y1Z4z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_epJSIH7YH8Az_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00101_8PkRPUVJcdiz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/01616_cEVES6kgONBz_1320MM_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Window Blinds and Faux Wood Valances - $5.00 ALL I have 5 Faux Wood Valances are made from faux wood material and matches the color of the blinds, color is off white all blades washed and cleaned.(2) of the Valances measure 54 3/4 L x 3 1/4 W and they go with the blinds. The blind blades are 2 wide.(3) of the Valances measure 47 3/4 L x 3 1/4 W and have no blinds to accompany them. ALL have been meticulously cleaned and are salvageable to whatever your needs. I am a hugh believer in 2nd life to all things before they hit the landfill and if you go On Line there are several ways to repurpose window blinds. So if you have a good imagination for these blinds and valance please respond. If I remember correctly they may still have window covering potential with limited use due to missing wands only."
+            },
+            {
                 "id": "7344909337",
                 "name": "Solid Wood Pocket Door With Obscured Glass",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/redwood-city-solid-wood-pocket-door/7344909337.html",
@@ -88,36 +111,42 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "White interior wood door for bedroom or bathroom2 privacy Satin Stainless Door Knobs 6 PanelsSize: 77 X 36 X 1.3/8Cash or Venmo only - Thanks"
-            },
-            {
-                "id": "7341696573",
-                "name": "Wood White Interior Door",
-                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-wood-white-interior-door/7341696573.html",
-                "datetime": "2021-07-01 13:20",
-                "price": "$20",
-                "where": "sunset / parkside",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_cWZKr3UNu64z_0dp0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00C0C_cWZKr3UNu64z_0dp0t2_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_cWZKr3UNu64z_0dp0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_5eeW3q3RJ5Az_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "White interior wood door for bedroom or bathroomWith 2 Hinges6 PanelsSize: 77 X 30 X 1.3/8Cash or Venmo only - Thanks"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
+                "id": "7338838244",
+                "name": "Kapital Cargo Shorts Vintage Just In Time For Summer",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-kapital-cargo-shorts/7338838244.html",
+                "datetime": "2021-07-01 14:46",
+                "price": "$170",
+                "where": "nob hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_aoNm7IaNRSmz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_4cazl2i6UCpz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_eMWYpC8c3SNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_67d57kj660zz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_4MIcJqCZ9fAz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_dv2wGpLx02Gz_0iM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_39lFWrx42xcz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Very unique pair of Vintage Kapital Shorts made in Japan. The pockets in these are very fun, I also love the vintage look of the front button. The side pocket zippers are made by YKK. There is no stains or tears of any kind. Just usual wear. These unique cargo shorts are sure to catch attentions!"
+            },
+            {
                 "id": "7342727003",
                 "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7342727003.html",
                 "datetime": "2021-07-01 14:00",
                 "price": "$200",
-                "where": "sf city of san francisco ",
+                "where": "sf",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
                 "all_images": [
@@ -147,24 +176,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage silver sandals. Size 7 \u00bd  Wore once for a costume in the 1970s. Still in excellent condition.Buy two pair of sandals, get one half price.How to purchase: Pick up in Hayward and pay with cash. If the item(s) is still up, it means it's still available. Contact me if you have questions about the item or want to arrange to purchase it.If you arrange a time to pick up, please be courteous enough to show or notify me if you change your mind or need to change the time.\ud83d\udc07 For my listings from me, see the more ads by this user link to the right.(255)"
-            },
-            {
-                "id": "7332017854",
-                "name": "Vintage gold sandals. Size 7 \u00bd",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-vintage-gold-sandals-size/7332017854.html",
-                "datetime": "2021-07-01 12:37",
-                "price": "$10",
-                "where": "hayward / castro valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_gygbn5FQoIg_0nj0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00k0k_gygbn5FQoIg_0nj0t2_600x450.jpg",
-                    "https://images.craigslist.org/00k0k_gygbn5FQoIg_0nj0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_3uER5u0w1Y1_0qR0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage gold sandals. Size 7 \u00bd  Wore once for a costume in the 1970s. Still in excellent condition.Buy two pair of sandals, get one half price.How to purchase: Pick up in Hayward and pay with cash. If the item(s) is still up, it means it's still available. Contact me if you have questions about the item or want to arrange to purchase it.If you arrange a time to pick up, please be courteous enough to show or notify me if you change your mind or need to change the time.For my listings from me, see the more ads by this user link to the right.(254)"
             }
         ],
         "beaded": [
@@ -241,6 +252,26 @@
         ],
         "gloves": [
             {
+                "id": "7341190100",
+                "name": "Men's 3M Thinsulate Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-mens-3m-thinsulate-gloves/7341190100.html",
+                "datetime": "2021-07-01 14:41",
+                "price": "$20",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
+                    "https://images.craigslist.org/00U0U_PEBpnTzMUz_50x50c.jpg",
+                    "https://images.craigslist.org/01111_5iYmZRnosK4_50x50c.jpg",
+                    "https://images.craigslist.org/01010_gPSZiydve1y_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_6h1re8NpNAR_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Men's 3M Thinsulate Gloves, brand new, never used $20.00 each or make offerFleece, with clips, have Black and Charcoal, 2 pairs of eachCan buy two pairs for $30.00 or make offerSerious offers only and please no offers for trades, thanks.To cut down on spam responses the posting is deleted as soon as the item is sold so there is no need to ask if it is available. Will respond to emails with a phone number, please no email only replies."
+            },
+            {
                 "id": "7342581725",
                 "name": "NatraCure Therapy Gloves and Slippers",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-natracure-therapy-gloves-and/7342581725.html",
@@ -278,22 +309,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Banana Republic scarf and pair of glovesSize: LargeIn excellent condition: Extra Fine Italian Merino WoolPerfect for SFBA chill."
-            },
-            {
-                "id": "7336681694",
-                "name": "Vintage White Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-vintage-white-gloves/7336681694.html",
-                "datetime": "2021-07-01 10:11",
-                "price": "$25",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00b0b_2RTDyOmmfV3_600x450.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "2 pairs, price is for both.  Great condition."
             }
         ],
         "wedding dress": [
@@ -677,7 +692,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/ctd/d/sacramento-2007-ford-mustang-deluxe-2dr/7342552737.html",
                 "datetime": "2021-06-26 13:16",
                 "price": "$8,990",
-                "where": "$990 Down Most Cars city of san francisco ",
+                "where": "$990 Down Most Cars",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00909_60ZMaUmYUbMz_0jm0a1_600x450.jpg",
                 "all_images": [
@@ -740,7 +755,7 @@
                 "url": "https://sfbay.craigslist.org/scz/cto/d/mount-hermon-2004-mazda-sport-fast/7341224984.html",
                 "datetime": "2021-06-23 20:15",
                 "price": "$5,250",
-                "where": "Mount Hermon santa cruz co ",
+                "where": "Mount Hermon",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00303_kedcJpoCX7Vz_0Bb0CI_600x450.jpg",
                 "all_images": [
@@ -815,20 +830,32 @@
                 "description": "Used Fender Champ 25 Tube Guitar Amp. Works great! Includes foot pedal with channel select overdrive and reverb! Message me if interested, $180 obo"
             },
             {
-                "id": "7339712805",
-                "name": "Milkman - One Watt Plus - 1x12 Combo",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/oakland-milkman-one-watt-plus-1x12-combo/7339712805.html",
-                "datetime": "2021-07-01 13:51",
-                "price": "$1,700",
-                "where": "oakland hills / mills",
+                "id": "7343133681",
+                "name": "TC Electronic RS410 Bass Cab",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-tc-electronic-rs410-bass-cab/7343133681.html",
+                "datetime": "2021-07-01 14:37",
+                "price": "$450",
+                "where": "san jose west",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_5Ce01kV1KTdz_0gw0co_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00l0l_8RPiqwdij4Ez_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00T0T_5Ce01kV1KTdz_0gw0co_600x450.jpg"
+                    "https://images.craigslist.org/00l0l_8RPiqwdij4Ez_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00l0l_8RPiqwdij4Ez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_2MGGsO5evpbz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_lqjK3z15umhz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_2wmnSjq3z5Zz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_fVTBdJ76rCsz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_gfMyzJVCPWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_73wUqayFYTmz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_cRaEEZrltIEz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_7zSsA0SmS3Vz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_i9oQDDhjYtHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_9Uu7rB5rfyRz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_8rAoxUg0RTmz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "For sale is a mint condition Milkman One Watt Plus. Loaded with the Juniper 12 inch Speaker.Details from Milkman Website: The One Watt Plus amplifier adds more to the popular One Watt model. More Power: The One Watt Plus has a pair of 6V6 tubes running in parallel for 10 watts of clean power, and 18 watts of harmonically rich overdriven power. Onboard power scaling drops the amp from 10 watts down to 1 watt so you can get the grind at bedroom volume with no change in tone. More Speaker: Available as a 12 combo, the One Watt Plus can move as much or as little air as you want it to. A bigger cabinet translates into more overall power. The Jupiter small magnet ceramic is transparent with a scooped sound. Upgrade to a Celestion Alnico Blue, and this amplifier becomes a rock box with added midrange focus and punch. More Class: The One Watt Plus has true Class A, single ended design. Both 6V6 power tubes run in parallel for a very dynamic and touch sensitive playing experience rich with even order harmonics. Three speaker options help tailor the One Watt Plus to your unique style:Celestion Greenback 12 is a transparent sounding speaker. Bright, Lively, and efficient. This speaker has a big bottom even at low volume. This speaker has very little breakup and does not color the amp when driven. Jupiter Alnico 12 has a classic American alnico magnet sound. A bit less transparent in the upper midrange, this speaker adds a woody tone. Its lively on top, and a bit more focused in the bass response than the Greenback. The speaker starts to break up and add alnico character as the amp is pushed. Its the most efficient of the 3 speaker options. VSOP Alnico 12 is warm, buttery smooth, and slightly less loud feeling than the other Alnico options. Its very good for getting the full tone from the amp without disruptive volume levels. Celestion Alnico Blue 12 takes the Pint in a different direction. This speaker is very mid forward with little midrange scoop. The top is bright, and the bass response is the tightest out of the three options. This speaker starts to break up when the amp is driven hard. When the amp is overdriven, the Blue is extremely reactive shedding low end and pushing the midrange further into the fun zone. Like all Milkman amplifiers, the One Watt is hand wired onto a turret board with Mercury Magnetics transformers and Jupiter Capacitors standard. It is built into a custom aluminum chassis and housed in a Pine cabinet. WATTAGE10W Class A SPEAKER12\u201d 50W Alnico Jupiter Speaker, 8 ohmEFFECTSVoltage Controlled Power ScalingDIMENSIONS & WEIGHT20 W x 16 H x 9-1/2 D 25lbs"
+                "description": "Bought a few years ago used. Seldom used in house. Works fine, loud, deep. Minor scratches. Cover included. Also have the TC RH450 amp head on another CL ad. Local pick up. Might need a dolly. Please include a legit phone# for text or call. Otherwise no response.TC Electronic RS410 Bass Extension Cabinet Features at a Glance:Power handling of 600 wattsEnclosure made of 18mm plywood side panels and 18mm rounded carved hardwood cornersAnti-skid dual component surface treatmentDual front porting4 x Eminence custom 10 woofersEminence 33mm voice coil and titanium diaphragm tweeterL-pad tweeter adjustment2 speakON (input or link) connectors8 ohms of impedance"
             }
         ],
         "famous": [

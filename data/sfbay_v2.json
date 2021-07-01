@@ -56,6 +56,24 @@
         ],
         "wood": [
             {
+                "id": "7342354881",
+                "name": "Redwood Tank wood 3X6",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-redwood-tank-wood-3x6/7342354881.html",
+                "datetime": "2021-07-01 12:23",
+                "price": "$5",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01515_6eKQSJEHGYEz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01515_6eKQSJEHGYEz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/01515_6eKQSJEHGYEz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_3QmXPTEFrQQz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Various lengths price depends on quantity and quality. Leave your number please"
+            },
+            {
                 "id": "7337314376",
                 "name": "**BRAND NEW WINDOWS worth +$2.7k+  MILGARD White Fiberglass/Wood",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/mill-valley-brand-new-windows-worth-27k/7337314376.html",
@@ -94,95 +112,73 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Salvaged from a historic home in Hillborough, we have 13 painted beams that were used on the exterior of the large home as barge rafters.  Each is 3x10 (actual is roughly 2 3/4 x 9.5\u201d).  Most have scrollwork ends (the lengths below include the scrollwork).  Beautiful old tight grain wood.  Here is the length list by type:REDWOOD:9'12'14' 615'15'15'15' 616' 4DOUGLAS FIR:9' 512' 612' 1014' 616' 11Asking $7.50/linear foot for the DOUG FIR and $12.50/linear foot for the REDWOODIf the posting is up, it is available.reclaimed wood, reuse, repurpose, architectural salvage, beam, beams, rafter, fascia, roof, outside"
-            },
-            {
-                "id": "7343889065",
-                "name": "Brand new unpainted wood cabinet doors, approx 12\" x 16\"",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/mountain-view-brand-new-unpainted-wood/7343889065.html",
-                "datetime": "2021-07-01 11:51",
-                "price": "$15",
-                "where": "mountain view",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00P0P_hptPoZGnt7J_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00P0P_hptPoZGnt7J_600x450.jpg",
-                    "https://images.craigslist.org/00P0P_hptPoZGnt7J_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_6R73ycz6QPW_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_jRSwewIteBR_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "paint grade door frontsI believe this is mapleinset panels12.25 x 16I also have another door of the same size and very similar style.CASH only"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7339484238",
-                "name": "vintage leather bag / tote from the 1970's",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-bag-tote/7339484238.html",
-                "datetime": "2021-07-01 11:50",
-                "price": "$25",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_600x450.jpg",
-                    "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_4DJmQPkFcDGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_4lggMJVhmmBz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_5xCPLLRXPkQz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "vintage leather bag / tote from the 1970'sa total outfit completer!in excellent shape. 14 x 11pics of both sides - both sides have the great design....for other treats, check the more ads by this user link"
-            },
-            {
-                "id": "7339484095",
-                "name": "vintage salvatore ferragamo shoes - size 7.5 - women",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-salvatore/7339484095.html",
-                "datetime": "2021-07-01 11:49",
-                "price": "$25",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_hbVkUlSA36dz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00e0e_hbVkUlSA36dz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_hbVkUlSA36dz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_eTPNy2SMGbaz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_lfSx6DxSGdwz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_ekB6LpeTqV3z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_sKhkoX30z1z_07w0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_c3TDTcdoVJKz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00707_fFNCsnv8zSXz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/01515_leihLxIxE0Wz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00000_iJXnkaRQCDsz_0ak07K_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "(one pair left) amazingly well preserved. hardly worn.likely 40-50 years old and in perfect shape. slim size 7.5's WERE $225, 40-50 years ago...asking $25  - much less $$ than ebay offerings!and  they are from saks fifth avenue. for more goods, check out the more ads by this user link"
-            },
-            {
-                "id": "7344846734",
-                "name": "Vintage leather Banana Republic bomber jacket",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-banana/7344846734.html",
-                "datetime": "2021-07-01 11:29",
+                "id": "7344866919",
+                "name": "Vintage Python Snake Purse or Briefcase for Laptop",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-python-snake-purse/7344866919.html",
+                "datetime": "2021-07-01 12:04",
                 "price": "$50",
-                "where": "inner richmond",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_fFsoL6O1zvY_0hP0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01010_197HDJADT2hz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00h0h_fFsoL6O1zvY_0hP0t2_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_fFsoL6O1zvY_0hP0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_dYDioL0nElA_0kv0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_1vQTHPTgpZH_0Bb0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_4woCDlUUdHt_0mj0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_lfwcfViJsGJ_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/01010_197HDJADT2hz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01010_197HDJADT2hz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_eFfkeCfmogrz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_8nyICJlMiULz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_40h4PBS6MWnz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_2at8P2idDL5z_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage leather Banana Republic bomber jacket. Size 40. Small hole in lining & missing 1 bottom snap. Otherwise in great condition. Measurements upon request"
+                "description": "This is a vintage Python snake purse/briefcase from the 1950's in beautiful condition!  12 3/4 wide by 9 high by 4 deep.  Perfect for a laptop!Zippered compartment inside.Located in Livermore"
+            },
+            {
+                "id": "7344867198",
+                "name": "Vintage Yves Saint Laurent Summer Dress- Med.",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/el-cerrito-vintage-yves-saint-laurent/7344867198.html",
+                "datetime": "2021-07-01 12:05",
+                "price": "$40",
+                "where": "albany / el cerrito",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00D0D_ixIGhDqflROz_0zA0Ug_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00D0D_ixIGhDqflROz_0zA0Ug_600x450.jpg",
+                    "https://images.craigslist.org/00D0D_ixIGhDqflROz_0zA0Ug_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_9Uxgyv4WeKpz_1320MM_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "All Cotton White Summery Retro Dress:Great for a party or outdoor occasion.Size 42 and fits like a 7/8 or 9/10 in the medium categoryPerfect condition; not ironed. No stains or markings.Please let me know if you need the length/measurements.Price $40.El Cerrito area.Happy to Venmo or cash.Can possibly meet up at BART as well.Check out other postings.Thank you!"
+            },
+            {
+                "id": "7344865579",
+                "name": "Vintage RayBan G-150 58mm Aviator Sunglasses",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/sausalito-vintage-rayban-mm-aviator/7344865579.html",
+                "datetime": "2021-07-01 12:02",
+                "price": "$110",
+                "where": "sausalito",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00c0c_9P5j4hFVPRT_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00c0c_9P5j4hFVPRT_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00c0c_9P5j4hFVPRT_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_jZ5Rd01aPlb_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_8VGpJT6dHrj_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_44AshLMzH3l_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_c98efKZxf8d_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_hoPbTeonLlT_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_cYtA6K3tXIB_0Ae0ng_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_agFLLVDOSzu_0tS0k6_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Model No. L2823. One owner. Purchased in 1991, Both lenses display the original, crisp BL laser etched logo - rather than the looser RB engraved logo adopted following the Luxottica buy-out of Bausch and Lomb in 1999. Original soft case with hard shell inner liner no longer provided with post 1999 Aviator models. Original outer box identifies B&L's corporate headquarters in Rochester,NY. Condition: excellent with no scratches on lenses and only minor wear on black frame elements consistent with age. See clips showing comparative (significantly higher) asking prices on eBay for the same model. Plenty of info easily found on the internet for those with questions. Inquiries asking if it or named item is still available will not receive a response (Ad will be taken down upon sale)"
             }
         ],
         "beaded": [

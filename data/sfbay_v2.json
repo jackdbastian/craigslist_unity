@@ -61,7 +61,7 @@
                 "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-wood-plugs/7349325933.html",
                 "datetime": "2021-07-11 00:32",
                 "price": "$15",
-                "where": "Alameda east bay area ",
+                "where": "Alameda",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00Z0Z_7PCFM5m5OCR_600x450.jpg",
                 "all_images": [
@@ -90,7 +90,7 @@
                 "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-wood-cabinet/7346721363.html",
                 "datetime": "2021-07-10 17:44",
                 "price": "$40",
-                "where": "Santa Rosa north bay / marin ",
+                "where": "Santa Rosa",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01515_9FSKJDPsM8kz_0iP0CI_600x450.jpg",
                 "all_images": [
@@ -108,7 +108,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-solid-mahogany-wood/7346051118.html",
                 "datetime": "2021-07-10 16:34",
                 "price": "$0",
-                "where": "San Jose south bay area ",
+                "where": "San Jose",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -598,7 +598,7 @@
                 "url": "https://sfbay.craigslist.org/nby/ctd/d/san-leandro-2014-jeep-wrangler/7348826182.html",
                 "datetime": "2021-07-09 19:39",
                 "price": "$36,991",
-                "where": "San Leandro north bay / marin ",
+                "where": "San Leandro",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_600x450.jpg",
                 "all_images": [
@@ -638,7 +638,7 @@
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/san-leandro-2014-jeep-wrangler/7348330474.html",
                 "datetime": "2021-07-08 20:24",
                 "price": "$36,991",
-                "where": "San Leandro east bay area ",
+                "where": "San Leandro",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00u0u_3UyXvm3vgi2z_0kE0fu_600x450.jpg",
                 "all_images": [
@@ -762,7 +762,7 @@
                 "url": "https://sfbay.craigslist.org/scz/cto/d/mount-hermon-2004-mazda-sport-fast/7348818989.html",
                 "datetime": "2021-07-09 19:12",
                 "price": "$5,000",
-                "where": "Mount Hermon",
+                "where": "Mount Hermon santa cruz co ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00303_kedcJpoCX7Vz_0Bb0CI_600x450.jpg",
                 "all_images": [

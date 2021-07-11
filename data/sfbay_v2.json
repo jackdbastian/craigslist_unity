@@ -25,7 +25,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/menlo-park-free-dirt-and-gravel-clean/7348756892.html",
                 "datetime": "2021-07-09 16:17",
                 "price": "$0",
-                "where": "Menlo Park",
+                "where": "Menlo Park peninsula ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00x0x_1EaYeGaoL8Bz_0CI0lw_600x450.jpg",
                 "all_images": [
@@ -55,6 +55,26 @@
             }
         ],
         "wood": [
+            {
+                "id": "7349448629",
+                "name": "Wood d\u00e9cor pieces",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-wood-dcor-pieces/7349448629.html",
+                "datetime": "2021-07-11 09:42",
+                "price": "$3",
+                "where": "oakland rockridge / claremont",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00a0a_bqlG4GcWZHiz_05O0ak_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00a0a_bqlG4GcWZHiz_05O0ak_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_bqlG4GcWZHiz_05O0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_hq1nGr9tYc2z_05O0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_i7yplXo8zA2z_0lM0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_bBuCFeybOBJz_0lM0CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Wood d\u00e9cor pieces, normally see them at doors for a nice look. Got these for a project a while back but never used  asking $3.00 each piece. Please look at the pictures for details. I am in Oakland hill by the Caldecott tunnel ."
+            },
             {
                 "id": "7345348660",
                 "name": "7 Knape & Vogt John Sterling Dual Trak Adjustable Wood Shelf Brackets",
@@ -88,105 +108,72 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Panels measure out to 7\u201910\u201d wide x 7\u20193\u201d tallPrimed wood with recessed panels4 recessed panels per panel 5 sections highCan be easily ripped downThese panels would cost $2000 or so today\u2019s price.Secure these today to replace your ugly, damaged, worn out, rotted panelsThese were purchased for job and never usedPanels only\u2026use your existing hardwareWill fit in back of truckSave moneyPickup in Sacramento warehouse Thx"
-            },
-            {
-                "id": "7349424385",
-                "name": "RED OAK 2 x 6 Stock Lumber Wood",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-red-oak-x-stock-lumber-wood/7349424385.html",
-                "datetime": "2021-07-11 08:51",
-                "price": "$1",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_g5GFX24MLwgz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00909_g5GFX24MLwgz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00909_g5GFX24MLwgz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_dQtMDfx0lFz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_gW6MOftDDJyz_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00303_6mTgdWxyrfDz_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_5Wt0BivewTnz_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/01313_cjTzkIFSRUWz_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_iyda1PjZlPLz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_j642tqyXpt0z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_h6qDi79JPsqz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_b0Uw1O13iooz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_cNE1Z3a1cp0z_0CI0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "6 Pieces of Clean 2 x 6 stock RED OAKNever usedS3SMike   If no answer in person, leave a message for call back ASAPFurniture gradeDenseSeasonedNever usedI have (2) pieces that are 6/4  thick x 6  W x 6 ' L $ 40.00 / pieceI have (3) pieces that are 6/4  thick x 6  W x 8 ' L $ 55.00 / pieceI have (1) piece that is 6/4  thick x  9.5  W x 33.75  L It has a knot on one side $ 30.00 / pieceYour purchase will also include many other bonus, smaller pieces.Always kept dry and indoorsfrom a pet free, smoke free environmentMike 650-  If no answer in person, leave a message for call back ASAPlumber, wood, plank, cabinetry, marquetry, carpenter, carpentry, wood working, oak, red oak, new, clean, unused, unstained, unfinished"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7349426620",
-                "name": "Vintage Dooney & Burke bag",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/millbrae-vintage-dooney-burke-bag/7349426620.html",
-                "datetime": "2021-07-11 08:56",
-                "price": "$50",
-                "where": "millbrae",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_dvttaUYhsy7z_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_dvttaUYhsy7z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_dvttaUYhsy7z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_9OU06k4N69gz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_k8aLbTi6OtXz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_j7jr8mAtS3Pz_08I0bC_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "In excellent condition"
-            },
-            {
-                "id": "7346069880",
-                "name": "Vintage Mark Cross Ostrich Leather Handbag with Original Coin Purse",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-mark-cross-ostrich-leather/7346069880.html",
-                "datetime": "2021-07-11 08:51",
-                "price": "$4,500",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
-                    "https://images.craigslist.org/01717_fegKs79GWRZ_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_89laq2TpNw5_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_1QMIXx2c0z0_50x50c.jpg",
-                    "https://images.craigslist.org/01212_diz9LEGOG2O_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_ivjqXERtsE9_50x50c.jpg",
-                    "https://images.craigslist.org/00202_Q0rw8qcupz_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_63QEqhLgGwX_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_daWNSjLLlz4_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_hmWKJU1YGZc_50x50c.jpg",
-                    "https://images.craigslist.org/00101_gf4dxdYM2JN_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_bhbizp0Dbrc_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_8huVd4TVxH5_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Pre-owned, vintage Mark Cross ostrich leather handbag in excellent condition.  Base is approximately 4.5 wide and 11.5 long.  Height is approximately 8.  Straps are approximately 17 long.  The handbag opens to reveal two, roughly mirror-imaged sections, each of which contains a roomy compartment, multiple open pouches, and a zippered pouch.  Comes with its original coin purse which is approximately 3-1/8 high and 5-3/8 long.  Sold as is."
-            },
-            {
-                "id": "7336281660",
-                "name": "Vintage Women's Red Cowboy Boots",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-womens-red-cowboy/7336281660.html",
-                "datetime": "2021-07-11 08:06",
+                "id": "7343880877",
+                "name": "Vintage Bombay Company Wooden Jewelry Box",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/mountain-view-vintage-bombay-company/7343880877.html",
+                "datetime": "2021-07-11 09:55",
                 "price": "$20",
-                "where": "santa rosa",
+                "where": "mountain view",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00Q0Q_8Dj0WiH5MFtz_08D09y_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_bnV8MxaUhaMz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_iSrMn2VNkwRz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_4rbla0VWVxaz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00Q0Q_8Dj0WiH5MFtz_08D09y_600x450.jpg",
+                    "https://images.craigslist.org/00Q0Q_8Dj0WiH5MFtz_08D09y_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_iiuFox89rOQz_0oc0q0_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_ldMNTVmt6Wpz_0t00mZ_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_d1sjv9JGKUVz_0oM0x2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_3KCxSM529Zdz_0kq0ox_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Awesome vintage women's cowboy boots.. Summer is here. Great for country concerts, a night out on the town dancing or what ever.. 20.00   Garden yard art deco?NOTE: THEY CAN USE A GOOD CLEANING. BEEN IN A BOX IN THE BARN ATTIC.."
+                "description": "Model 089 Z26Wood Swivel jewelry/trinket box shelfCan also be used as organizer for sewing suppliesAbout 8 tall x 5 x 5 inchesCASH only"
+            },
+            {
+                "id": "7349448919",
+                "name": "Like New! Vintage Eagle Creek Fanny Pack- Black",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-like-new-vintage-eagle-creek/7349448919.html",
+                "datetime": "2021-07-11 09:42",
+                "price": "$20",
+                "where": "berkeley north / hills",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00y0y_c1d6j8XOivZz_07K0ak_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00y0y_c1d6j8XOivZz_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00y0y_c1d6j8XOivZz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_17l3tPPWQoIz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_fqo8EnEv6ysz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_enqCbvNkrpGz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00404_7wBe10Zw90oz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00202_7TsUEfUn1bOz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_a2VCwVZV7VPz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_jVfXDYGRpyPz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00707_luOBvZS9Qcbz_0ak07K_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "used once! Excellent fanny pack/ well constructed and lots of pockets. Comfortable and easy to maintain."
+            },
+            {
+                "id": "7348061938",
+                "name": "vintage scrunchies",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-scrunchies/7348061938.html",
+                "datetime": "2021-07-11 09:36",
+                "price": "$5",
+                "where": "SOMA / south beach city of san francisco ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00J0J_1vnnK4lpKyez_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00J0J_1vnnK4lpKyez_0t20CI_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "$5 for all"
             }
         ],
         "beaded": [
@@ -358,7 +345,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/gorgeous-ivory-wedding-dress-size-12/7349180883.html",
                 "datetime": "2021-07-10 14:17",
                 "price": "$150",
-                "where": "Redwood City",
+                "where": "Redwood City city of san francisco ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00303_lu9vhpfOwWkz_04M06M_600x450.jpg",
                 "all_images": [
@@ -816,7 +803,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-parlor-guitar-project-90/7340409094.html",
                 "datetime": "2021-07-11 09:08",
                 "price": "$300",
-                "where": "Mission",
+                "where": "Mission city of san francisco ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01212_lExy8Vcn7prz_0pS0CI_600x450.jpg",
                 "all_images": [
@@ -882,6 +869,31 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
+                "id": "7349448252",
+                "name": "Martin Special X Series Style 000 cutaway Acoustic Electric Guitar",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/pleasanton-martin-special-series-style/7349448252.html",
+                "datetime": "2021-07-11 09:41",
+                "price": "$375",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00P0P_7Y34e8dst6Wz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00P0P_7Y34e8dst6Wz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00P0P_7Y34e8dst6Wz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_TbQmbwAD5Bz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_lWSsjWb9Hy2z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_j1Egt698R3Bz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_9X66EZG3tZ9z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_jF7Xd1ei1mLz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_1cpNuElxGuTz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01212_8b5Kva1NwHJz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_eXBHlEVZKVXz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Martin 000 (Auditorium) size, cutaway acoustic-electric guitar at an affordable price. Here is an opportunity to own a genuine, high quality, terrific playing Martin guitar.  It will instantly improve your playing and sound! Gorgeous black satin body, scalloped bracing,  and 1 3/4 width nut provides space for easier finger picking. The Fishman pre-amp (with tuner) allows you to play through an amplifier too. Has new light gauge Phosphor Bronze strings and set-up for comfortable play. In great condition with no dents or chips on the guitar.  Includes strap and gig bag. Save yourself some money. These cost $549 new online plus tax and have 5 star reviews! Available to see and play in Dublin. Please provide a phone number with your email.https://www.guitarcenter.com/Martin/Special-X-Series-Style-000-Cutaway-Sized-Acoustic-Electric-Guitar-Black-1500000289200.gc?source=4WWMWXGL&storeCode=&source=4WWRWXGL&gclid=CjwKCAjwieuGBhAsEiwA1Ly_nXU6dzaAec7oJy-i2-k9N4JbiX9_P0SJwnY4Le1gnNEbFkRqjTmbIRoCZhEQAvD_BwE**************************Part of Martin's X Series, this Special X-000CE HPL acoustic-electric guitar combines that world-famous Martin sound with the contemporary playability of an electric guitar. The body is constructed with Martin\u2019s forest-friendly Jett Black HPL to give you an attractive visual look. This guitar was crafted to be a player's dream.The X Series Special X-000CE HPL acoustic-electric guitar features a very playable laminate birch neck with a high-performance neck shape. This precision-cut neck has fast FSC Certified Richlite fingerboard, and a 1-3/4 in. nut width, to give you a comfortable spacing between the strings. Looking for electronics? This Special X-000CE HPL comes complete with an onboard Fishman MX preamp. This sound hole-mounted-preamp features easy-to-use rotary controls for Volume and Tone. The controls are mounted conveniently under the sound hole for easy access while you are performing. All you need to do is plug in and play. You\u2019ll have a studio-quality sound right out of the box.This guitar is everything you\u2019ve come to expect from Martin, at a price that just about anyone can afford. Pick one up. You\u2019ll love the sound and playability of this fine instrument."
+            },
+            {
                 "id": "7335404845",
                 "name": "Last century beautiful Violin",
                 "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-last-century-beautiful-violin/7335404845.html",
@@ -899,36 +911,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Excellent quality Violin from 20th century, made in Europe with official appraiser was played for more , than 50 years by professional violinist, no holes, no cracks,in very perfect condition, with deep violin sound Great Bow is including in a package -  Bargain Deal                               INCLUDING Exceptional Collections of Violin Library Music brought from Europe with bowing-fingering by world famous violinist of last century"
-            },
-            {
-                "id": "7345872590",
-                "name": "Zildjian Cymbals and Drum Hardware Lot",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-zildjian-cymbals-and-drum/7345872590.html",
-                "datetime": "2021-07-10 21:03",
-                "price": "$0",
-                "where": "san jose west",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_bJLcOjavDwbz_1320MM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00505_bJLcOjavDwbz_1320MM_600x450.jpg",
-                    "https://images.craigslist.org/00505_bJLcOjavDwbz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_6TXFenEeuAyz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_gxfE3gxgJk9z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_7BUn36RMuL7z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_gbQJaPAN6iiz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_1apYdi5Qhfsz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_awVQYghqKI9z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_5vyopbpJAEEz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00202_1GxWsMkHYLtz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_dwQoaFdpNw4z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/01313_3tl4c5JPEOSz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_ktLL2kNaZH5z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_5SHXTMyS6b3z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_9h71hJSnRkZz_1320MM_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Hello Drummers, I am clearing out some gear I no longer use. Please look at the list below and the photos and let me know if you are interested in any of the pieces. ALL ITEMS LISTED ARE STILL AVAILABLE! Once sold I will remove from the listing.CYMBALS:1. Zildjian 14 A Quick Beat Hi Hats - $150Good condition, no key-holing or cracks2. Zildjian 15 A New Beat Hi Hats - $275Good condition (original owner), no key-holing or cracks, minor logo fadingHARDWARE:3. WFL Speed King 1950's bass drum pedal - $75All original, working condition - Same pedal made famous by John Bonham!4. Ludwig Speed King 1960's bass drum pedal - $60All original working condition - Great, smooth playing vintage pedal.5. Pearl Gyro-Lock Double Braced Snare Stand - $100Great, super adjustable, sturdy stand. Some pitting, could look new with a polish. 6. Two Pearl Double Braced Straight Cymbal Stands - $25 each ($45 for both)Early 2000's, Some pitting/wear/surface rust but good workhorse stands7. Gibraltar Strap Drive Bass Drum Pedal w/ case $50Good overall condition, locking nut is stripped and needs new nut ($5 part)8. DW 5000 Accelerator Pedal - $150Original owner, great industry standard pedal in good working condition. Comes with original beater, and newly replaced springOpen to reasonable offers."
             }
         ]
     }

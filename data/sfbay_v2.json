@@ -7,7 +7,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/menlo-park-free-dirt-and-gravel-clean/7348756892.html",
                 "datetime": "2021-07-09 16:17",
                 "price": "$0",
-                "where": "Menlo Park peninsula ",
+                "where": "Menlo Park",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00x0x_1EaYeGaoL8Bz_0CI0lw_600x450.jpg",
                 "all_images": [
@@ -129,6 +129,33 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7340677440",
+                "name": "Unique vintage leather saddle purse",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-unique-vintage-leather/7340677440.html",
+                "datetime": "2021-07-11 05:48",
+                "price": "$50",
+                "where": "rohnert pk / cotati",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00R0R_eHECrG4HPQ3z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00R0R_eHECrG4HPQ3z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00R0R_eHECrG4HPQ3z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_gVL5h2lz3lAz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_6D24NiPu1sDz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_iRWLlzzIKaaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_9P33ekVKoMXz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_c6AjKbcJPvaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_foiYWfJKJYz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_6NeuajqpkVxz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_7z79vDRXd9cz_0c60mF_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_5zyV5j8Gvs4z_0c60qc_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_iKnaI1ZH7vsz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Tooled leather, etched pictures. Needs a strap. I put two examples of similar purses with prices.  mines in a little more rough condition (perfect for a real cowgirl) So I\u2019m only asking for $50. No holds unless paying through Venmo otherwise message when you are ready to pick up in Rohnert Park"
+            },
+            {
                 "id": "7349334439",
                 "name": "Raider Vintage Vest",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-raider-vintage-vest/7349334439.html",
@@ -173,26 +200,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "(one pair left) amazingly well preserved. hardly worn.likely 40-50 years old and in perfect shape. slim size 7.5's WERE $225, 40-50 years ago...asking $25  - much less $$ than ebay offerings!and  they are from saks fifth avenue. for more goods, check out the more ads by this user link"
-            },
-            {
-                "id": "7339484238",
-                "name": "vintage leather bag / tote from the 1970's",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-bag-tote/7339484238.html",
-                "datetime": "2021-07-10 23:51",
-                "price": "$25",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_600x450.jpg",
-                    "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_4DJmQPkFcDGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_4lggMJVhmmBz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_5xCPLLRXPkQz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "vintage leather bag / tote from the 1970'sa total outfit completer!in excellent shape. 14 x 11pics of both sides - both sides have the great design....for other treats, check the more ads by this user link"
             }
         ],
         "beaded": [
@@ -350,7 +357,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/gorgeous-ivory-wedding-dress-size-12/7349180883.html",
                 "datetime": "2021-07-10 14:17",
                 "price": "$150",
-                "where": "Redwood City city of san francisco ",
+                "where": "Redwood City",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00303_lu9vhpfOwWkz_04M06M_600x450.jpg",
                 "all_images": [

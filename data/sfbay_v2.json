@@ -56,12 +56,41 @@
         ],
         "wood": [
             {
+                "id": "7349325933",
+                "name": "wood plugs",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-wood-plugs/7349325933.html",
+                "datetime": "2021-07-11 00:32",
+                "price": "$15",
+                "where": "Alameda east bay area ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Z0Z_7PCFM5m5OCR_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Z0Z_7PCFM5m5OCR_600x450.jpg",
+                    "https://images.craigslist.org/00Z0Z_7PCFM5m5OCR_50x50c.jpg",
+                    "https://images.craigslist.org/01111_kAYlpG6pBzO_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_gxHoqaAi0On_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_ajdJHO44XGA_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_g8J1nZBBESB_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_7tBQWRGGQ6H_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_3jHhwpv7TJT_50x50c.jpg",
+                    "https://images.craigslist.org/00303_BJCqHSkWFJ_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_3E8ghfPNQsf_50x50c.jpg",
+                    "https://images.craigslist.org/01010_jRmQEMxsEhi_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_4DMVl9r5jed_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_4C0snseJ1Je_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_cL6MLVQLQsX_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Tapered end grain wood plugs. 350 pieces in a bag. $15 for each bag, or $25 for 2 bags. I have 20 bags available. Someone said these might be black plum, but I don't know what kind of wood they are.  Bigger (outside) surface is about 3/8 diameter. Smaller (inside) surface is about 1/4 diameter. Height (length) is about 3/8 long.  Great wood for woodworkers woodworking on their wooden projects."
+            },
+            {
                 "id": "7346721363",
                 "name": "Wood cabinet",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-wood-cabinet/7346721363.html",
                 "datetime": "2021-07-10 17:44",
                 "price": "$40",
-                "where": "Santa Rosa",
+                "where": "Santa Rosa north bay / marin ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01515_9FSKJDPsM8kz_0iP0CI_600x450.jpg",
                 "all_images": [
@@ -79,29 +108,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-solid-mahogany-wood/7346051118.html",
                 "datetime": "2021-07-10 16:34",
                 "price": "$0",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_6VE4q41ydp9z_0xS0po_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_3duzSuf9UgOz_0lL0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_80e2zp3lXOsz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_1KGex0B3bzkz_0x40oM_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_linJ7mUODuIz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I HAVE MANY MANY PIECES AND BOARDS OF SOLID MAHOGANY WOOD SIZE AS PICTURES AVAILABLE FOR SALE ONLY $.99 AND UP I ONLY RESPOND EMAILS WITH PHONE NUMBER"
-            },
-            {
-                "id": "7349237224",
-                "name": "BRAND NEW SOLID MAHOGANY WOOD",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-solid-mahogany-wood/7349237224.html",
-                "datetime": "2021-07-10 16:34",
-                "price": "$0",
-                "where": "San Jose",
+                "where": "San Jose south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00909_6QPNZwP0Zstz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -121,6 +128,27 @@
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7349334439",
+                "name": "Raider Vintage Vest",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-raider-vintage-vest/7349334439.html",
+                "datetime": "2021-07-11 03:01",
+                "price": "$75",
+                "where": "alameda",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00J0J_eYkM09QXn2oz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00J0J_eYkM09QXn2oz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00J0J_eYkM09QXn2oz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_1WNzpDJB3B4z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_aAzOLhcT4Hbz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_7beIBupPWFWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00303_2tksnhhdCWSz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Raider Vintage Vest $75.00Excellent Conditionperfect for Die Hard Raider Fan"
+            },
             {
                 "id": "7339484095",
                 "name": "vintage salvatore ferragamo shoes - size 7.5 - women",
@@ -165,34 +193,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "vintage leather bag / tote from the 1970'sa total outfit completer!in excellent shape. 14 x 11pics of both sides - both sides have the great design....for other treats, check the more ads by this user link"
-            },
-            {
-                "id": "7339785897",
-                "name": "Vintage 60\u2019s Clothing",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-vintage-60s-clothing/7339785897.html",
-                "datetime": "2021-07-10 23:37",
-                "price": "$40",
-                "where": "half moon bay",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_itNQmuSjO3Pz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01313_dopaBjrbTU6z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01616_64AgPWnmMwKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_7K6Oky2vzSnz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_lkXQGu2Q4Jz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00606_lxp9nxcgpHtz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_hVgRBkOD6Mgz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_giS6xVQjCT6z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_isdjhcdSKNWz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_lpGbztOjL3Qz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_7KM144xAwuiz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage 60\u2019s - 80\u2019s Clothing $10-$40"
             }
         ],
         "beaded": [
@@ -322,12 +322,35 @@
         ],
         "wedding dress": [
             {
+                "id": "7349330780",
+                "name": "Ivoire By Kitty Chen Samantha V1606 Wedding Dress with Veil",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/ivoire-by-kitty-chen-samantha-v1606/7349330780.html",
+                "datetime": "2021-07-11 01:57",
+                "price": "$900",
+                "where": "santa clara",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00a0a_c4WKM9G2CDq_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00a0a_c4WKM9G2CDq_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_c4WKM9G2CDq_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_f8XhDhKEWGq_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_1SvT9PTLy8D_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_k6qzsnzwCQs_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_ksYYdzTQKew_50x50c.jpg",
+                    "https://images.craigslist.org/01212_7SLFrsf9KGP_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_4gMEnqBDbgn_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Hi,We are selling an Ivoire by Kitty Chen size 4 wedding dress named Samantha.  It was purchased for $2100, worn only once, and has been dry cleaned after the wedding.  Only alternations made to the dress are added cups for bra support, and the tailor brought in the sides a little bit around the waist and upper torso.  The dress color is ivory over nude.The dress is the original length since my wife is 5'9, so there was no hemming needed!  We will also include a veil ($200+tax) and adjustable petticoat, both purchased new and worn only once.The attached pictures are the actual photo of the dress worn on the day of the wedding.  I've also attached a few online pictures found in the following link containing more information about the dress: https://www.theknot.com/fashion/samantha-v1606-ivoire-by-kitty-chen-wedding-dressThanks for looking!"
+            },
+            {
                 "id": "7349180883",
                 "name": "gorgeous ivory wedding dress (size 12) - Madeline Gardner NY",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/gorgeous-ivory-wedding-dress-size-12/7349180883.html",
                 "datetime": "2021-07-10 14:17",
                 "price": "$150",
-                "where": "Redwood City city of san francisco ",
+                "where": "Redwood City",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00303_lu9vhpfOwWkz_04M06M_600x450.jpg",
                 "all_images": [
@@ -362,27 +385,32 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Wedding dress featuring sweetheart neckline, A-line skirt, and v-back with buttons. 5-point bustle and sparkle accent on waist added (can be removed on request)Size: 8Street Size: 4Condition: Like New, Used OnceBust: 33Waist: 26Height: Up to 5'6Cash only"
-            },
-            {
-                "id": "7338954866",
-                "name": "Modern Chinese Wedding Dress Qipao Cheongsam Size 4",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-modern-chinese-wedding-dress/7338954866.html",
-                "datetime": "2021-07-10 12:01",
-                "price": "$99",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00D0D_a0u1HjfUWnOz_08C0cU_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00D0D_a0u1HjfUWnOz_08C0cU_600x450.jpg",
-                    "https://images.craigslist.org/00D0D_a0u1HjfUWnOz_08C0cU_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_d3ZHVvqin1yz_0880hW_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Lovely qipao/cheongsam I used for my tea ceremony. Trumpet silhouette, sleeveless, all over lace. Cash only.Measurements:Bust: 33Waist: 26Hip: 37Height w/ heels: 5'6"
             }
         ],
         "great condition": [
+            {
+                "id": "7341153689",
+                "name": "Adidas Originals Rom in US mens 8 - great condition",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-adidas-originals-rom-in/7341153689.html",
+                "datetime": "2021-07-11 02:54",
+                "price": "$65",
+                "where": "SOMA / south beach",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00W0W_9mJdMD8ds8cz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00W0W_9mJdMD8ds8cz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_9mJdMD8ds8cz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_12UL0yeeHdIz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_kRCcOxsD4nhz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_1rkInrCFr6Kz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_9fE1jI1OckAz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_diUA7TKL5JAz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_eAr8lxOE9ziz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "Cleaning out closet.  Selling Adidas Originals Rom in US men's size 8 for $65.  Clean, great condition, and little wear and tear.  Worn less than 5 times.  I do not have the original box.  PCI 789002, Art No. 036636Buyer must pick up shoes in SOMA / South Beach near Oracle Park."
+            },
             {
                 "id": "7343098619",
                 "name": "Great Condition Chelsea leather boots - 8.5M Ariat ($279 new)",
@@ -419,28 +447,6 @@
                 "query": "great condition",
                 "category": "cla",
                 "description": "Coach Genuine Leather Handbag, gorgeous red color with the soft smooth leather top quality. Please call or tet me at   and take it today!"
-            },
-            {
-                "id": "7340523322",
-                "name": "Really Cute Red GUESS 4 1/2\" Platform Shoes, Size 8, Great Condition!",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-really-cute-red-guess/7340523322.html",
-                "datetime": "2021-07-10 09:12",
-                "price": "$35",
-                "where": "half moon bay",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_4sBAbbvXj63z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_hUttjYR95Tzz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_i6IyXo8x2Niz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_dBeGtYxO1c4z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_dDrULSNCDt5z_0t20CI_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "I am selling a pair of really cute GUESS 4 1/2  Platform shoes, in GREAT Condition. The shoes are a shiny red collar, with a tan bow, very Betty Boop like. The platform itself, is 1. They are a size 8, and have only been worn twice. If you have any questions, please feel free to email me. I live on the coast, in El Granada (approx. 5 miles North of Half Moon Bay), but can easily ship to anywhere at a normal cost. Thank you for your interest."
             }
         ]
     },
@@ -592,7 +598,7 @@
                 "url": "https://sfbay.craigslist.org/nby/ctd/d/san-leandro-2014-jeep-wrangler/7348826182.html",
                 "datetime": "2021-07-09 19:39",
                 "price": "$36,991",
-                "where": "San Leandro",
+                "where": "San Leandro north bay / marin ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_600x450.jpg",
                 "all_images": [
@@ -632,7 +638,7 @@
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/san-leandro-2014-jeep-wrangler/7348330474.html",
                 "datetime": "2021-07-08 20:24",
                 "price": "$36,991",
-                "where": "San Leandro",
+                "where": "San Leandro east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00u0u_3UyXvm3vgi2z_0kE0fu_600x450.jpg",
                 "all_images": [
@@ -756,7 +762,7 @@
                 "url": "https://sfbay.craigslist.org/scz/cto/d/mount-hermon-2004-mazda-sport-fast/7348818989.html",
                 "datetime": "2021-07-09 19:12",
                 "price": "$5,000",
-                "where": "Mount Hermon santa cruz co ",
+                "where": "Mount Hermon",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00303_kedcJpoCX7Vz_0Bb0CI_600x450.jpg",
                 "all_images": [

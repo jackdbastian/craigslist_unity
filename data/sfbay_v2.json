@@ -22,6 +22,24 @@
         ],
         "wood": [
             {
+                "id": "7346721363",
+                "name": "Wood cabinet",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-wood-cabinet/7346721363.html",
+                "datetime": "2021-07-17 14:06",
+                "price": "$30",
+                "where": "Santa Rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01515_9FSKJDPsM8kz_0iP0CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01515_9FSKJDPsM8kz_0iP0CI_600x450.jpg",
+                    "https://images.craigslist.org/01515_9FSKJDPsM8kz_0iP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_3YXmokfz4Kcz_0iP0CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "wood cabinet - unused. Has been in storage. 27 wide- 26 1/2 high - 12 deep"
+            },
+            {
                 "id": "7349604080",
                 "name": "40\u2019 dome",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/pescadero-40-dome/7349604080.html",
@@ -76,30 +94,55 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "This is a framing kit for a 40\u2019 dome.I have the complete kit that I bought 10 years ago . It\u2019s includes all connectors, templates, instructions, plans cutting lists all you need to know to build a 3/8  40\u2019 dome .  I paid $ 1,295.00 plus shipping for this dome kit so I\u2019m selling it for $750.00 .  You need 2x6 framing material for struts and 5/8s. plywood. In the plans and instructions there is a cutting list figured out so there will be almost no waist materials at all."
-            },
-            {
-                "id": "7338603752",
-                "name": "Wood Slabs, river tables, single or bulk, very dry, ready to use!",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/sacramento-wood-slabs-river-tables/7338603752.html",
-                "datetime": "2021-07-17 12:58",
-                "price": "$123",
-                "where": "Sacramento",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_jR47e0XLonJz_08P0ev_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00C0C_jR47e0XLonJz_08P0ev_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_jR47e0XLonJz_08P0ev_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_aHcahp5aPs1z_09T0fP_50x50c.jpg",
-                    "https://images.craigslist.org/01717_ltGM4Og7bgzz_04i0d0_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I have dry slabs ready to work for sale at fair prices.  Make your own super cool river tables or furniture pieces. 7-16 years dry, covered! Lots of Redwood, walnut, oak, Deadore cedar, tulip poplar, poplar, alder, sycamore, iron bark eucalyptus boards, etc. Etc. Misc. Other smaller and mixed wood.   2 species of large slabs, redwood and wych elm. Around 44x12'  Some exotics, 300' madrone cabinet grade, Iroko, Iron wood slabs, Touch base for sizes needed and price. Some burl slabs, and other great project lumber, nat. edge walnut. And other.. Bulk deals Also selling some very nice slightly used, cabinet shop machinery. Inquire!   Thanks"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7352534539",
+                "name": "Vintage leather Banana Republic bomber jacket",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-banana/7352534539.html",
+                "datetime": "2021-07-17 14:26",
+                "price": "$50",
+                "where": "inner richmond",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00h0h_fFsoL6O1zvY_0hP0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00h0h_fFsoL6O1zvY_0hP0t2_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_fFsoL6O1zvY_0hP0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_dYDioL0nElA_0kv0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_1vQTHPTgpZH_0Bb0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_4woCDlUUdHt_0mj0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_lfwcfViJsGJ_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage leather Banana Republic bomber jacket. Size 40. Small hole in lining & missing 1 bottom snap. Otherwise in great condition. Measurements upon request"
+            },
+            {
+                "id": "7352531151",
+                "name": "Vintage 50s Samsonite faux Alligator suitcase antique classic rare",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-50s-samsonite-faux/7352531151.html",
+                "datetime": "2021-07-17 14:19",
+                "price": "$55",
+                "where": "san jose east",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00T0T_2X8t7bx8nhVz_05n042_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00T0T_2X8t7bx8nhVz_05n042_600x450.jpg",
+                    "https://images.craigslist.org/00T0T_2X8t7bx8nhVz_05n042_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_eaC8k4OLvJ8z_0uY0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_jEQBMVaonPLz_0uY0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00404_6RlbS3vSMGrz_0uY0ne_50x50c.jpg",
+                    "https://images.craigslist.org/01212_hO7djeHzLj6z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_iLLQkYx8wkkz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_aaREKWhJwZNz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "24\u201d x 19\u201d x 9\u201dInterior clean no bad smells"
+            },
             {
                 "id": "7352512336",
                 "name": "very vintage dresses",
@@ -117,49 +160,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "vintage dresses LOCALS ONLY, (must pick-up) inquire for picturesprice - make offer2 Don Loper Beverly Hills, 2-piece women's suits1 Beaumelle Originals California strapless lace with matching shrug2  Maxwell Shieff Beverly Hills, \u200blace bodice dresses"
-            },
-            {
-                "id": "7346087562",
-                "name": "WP Standard Vintage Leather Messenger Bag",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-wp-standard-vintage/7346087562.html",
-                "datetime": "2021-07-17 13:12",
-                "price": "$120",
-                "where": "bernal heights",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Q0Q_9m8DuOYTAp2z_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Q0Q_9m8DuOYTAp2z_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00Q0Q_9m8DuOYTAp2z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_eOBFkrkzmZcz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_99kP5xm9vqwz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_6KmjwZDG5gaz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_c2WKvV0E6Ygz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00606_6oY8c7RF8Wqz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "WP Standard Vintage Leather Messenger Bag - Purchased about 4 and a half years ago and used to carry my laptop to work. Works great for a 15 MacBook, which is what I used it for, and likely other laptops that are similar sizes.  This bag now retails for $339 and I paid $295 for it back in 2016. See the link below:https://wpstandard.com/products/the-vintage-messengerKey lanyardAdjustable strap with shoulder padSuede lined laptop compartmentExternal pockets on front and backWidth: 18.5Height: 11.5Depth: 4Weight: 3.2lbsTags: Coach, Fossil, Timbuk2, Frye, Vintage"
-            },
-            {
-                "id": "7349303100",
-                "name": "Vintage Mid-Century SWANK \"Travel Shoe Polishing Kit\" 2 Brushes/Cloth",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-mid-century-swank/7349303100.html",
-                "datetime": "2021-07-17 12:57",
-                "price": "$30",
-                "where": "mission district",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_8ajAPDkUlRBz_0ne0gp_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_8ajAPDkUlRBz_0ne0gp_600x450.jpg",
-                    "https://images.craigslist.org/01717_8ajAPDkUlRBz_0ne0gp_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_eT45eDnLFHEz_0nl0h3_50x50c.jpg",
-                    "https://images.craigslist.org/01616_lsgootBdgviz_0ne0hh_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_iz4UvSDYBEPz_0ne0hK_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_fYTnSzNROGRz_0ne0gN_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Mid-Century SWANK Travel Shoe Polishing Kit - Comes with 2 Brushes, Cloth and Shoe Polish..Beautiful reddish brown small portable case measuring 6 wide, x 4 high x 3 deep. Contains 2 barely used brushes, maybe used once polishing cloth and 2 of the coolest shoe polish cans you will ever see...The brown one looks unused but the black one is used up...CONDITION: Very Good Used Condition. Please review photos carefully and judge for yourself. Sold as isSHIPPING AVAILABLE*****PLEASE include a phone number with your response.846"
             }
         ],
         "beaded": [
@@ -802,6 +802,25 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
+                "id": "7352533081",
+                "name": "Orange crush 20 - Guitar amp",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/san-rafael-orange-crush-20-guitar-amp/7352533081.html",
+                "datetime": "2021-07-17 14:23",
+                "price": "$120",
+                "where": "San Rafael",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00W0W_62fqiro9b6Dz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00W0W_62fqiro9b6Dz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_62fqiro9b6Dz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_jIGVBNu9umoz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_eG8TGNuHiUYz_0t20CI_50x50c.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "Orange crush 20 in excellent working condition. This thing gets LOUD amd has the option for distortion.email me if interested."
+            },
+            {
                 "id": "7342045504",
                 "name": "Roland Chorus Ac- 60",
                 "url": "https://sfbay.craigslist.org/pen/msg/d/san-mateo-roland-chorus-ac-60/7342045504.html",
@@ -821,29 +840,6 @@
                 "query": "loud",
                 "category": "msa",
                 "description": "Roland Chorus Ac- 60 w/ Carry bag / caseExc. ConditionText or Call for a reply  / No emails  Cash / will accept VenmoNo ScammersLow BallersCompact stereo acoustic amplifier with pure, natural tone and excellent projection2-Channel design: Guitar input and Mic/Line input with Phantom PowerStereo 30-watt/dual 6.5-inch speaker configuration loud enough for club gigs and small PA applicationsOnboard DSP delivers lush stereo/multi-band chorus, newly developed \u201cwide\u201d chorus and delay/reverb with footswitch controlBuilt-in Auto Anti-Feedback controls allow for maximum volume without feedbackConvenient Mute switch for silent tuning on stageStereo Line Out for PA and recording applications; Subwoofer outputBuilt-in tilt stand offers better acoustic projection; can also be mounted on commercially available speaker stands"
-            },
-            {
-                "id": "7349471708",
-                "name": "1975 Fender Silverface Vibrosonic For Sale/ For Trade",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/port-costa-1975-fender-silverface/7349471708.html",
-                "datetime": "2021-07-17 11:41",
-                "price": "$1",
-                "where": "East Bay",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_fijKKIUXLWVz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00k0k_fijKKIUXLWVz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00k0k_fijKKIUXLWVz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_jQm3qatnplKz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_1y6SJlGHclOz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_1WCAJyWBCn4z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_8dtYWzsOJYfz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_eyly4bdrJ4Xz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_iBz1XodnCkwz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "Looking to mostly trade this 75' Fender Vibrosonic (unless you have some ridiculous cash offer that I couldn't refuse. I suppose I would consider a straight sale).This amp is the definition of loud and heavy. Pedal steel players swear by it and blues / rock guitarist enjoy it for it's volume level (you'll have no issues competing against any other musician on stage or at the jam space).It's loud and it doubles as a boat anchor. Luckily it has wheels so you can cart it around. This is the rarer version with the Cerwin Vega 15 speaker. It also doubles as a whole body massage machine when turned up to full volume. This is the definition of feeling the music because it rattles your bones. Not for the faint of hearts. Since I am a faint heart, I am looking to trade this beast for a guitar. Preferably USA made, the Gibsons, Fenders, PRS, Heritage ect. Also would consider high end Japanese made guitars. Last year I had it serviced and caps changed, ect. So it has a clean bill of health. Feel free to call me with any trade offers at  five 59-464-00 two 0"
             }
         ],
         "famous": [
@@ -891,20 +887,25 @@
                 "description": "Only ever been played a few times,(inside/practice only, never used for a live gig which was the original intention, so it is basically unused). I am not mobile with a car, so only reach out if you are willing to drive over/commute to Hayes Valley and pick it up, serious inquiries only please. Rootmaster heads, combos and cabinets draw on all of our experience working with some of the biggest bands in the world to deliver workhorse reliability, creative tone-shaping, comprehensive recording and performing facilities plus the sonic slam you need to underpin your band's performances night after night - all at a price that won't break the bank.Powered by 420W digital amp, it is ideal for players who favors a tight, defined sound, delivering it's power via a pair of 10 custom, supplemented by a high-frequency piezo for increased top end bite and articulation.Simple, powerful EQIt all starts with an ultra-low-noise instrument input where the accompanying Input Level control helps you perfectly match the output of your bass. Five-band rotary tone controls act with surgical precision to provide total control over your sound, while a Shape switch instantly dials you in to a classic Ashdown tone setting, straight from the world-famous ABM.One-knob CompressionInstantly adding warmth and body to your tone, this simple to use, great sounding compressor delivers a powerful, even sound to make sure your bass will fill out any mix.Footswitchable variable overdriveWith footswitchable flexibility, our tube-emulated overdrive can take your core bass sound and push it into warm overdrive through to distorted filth whenever you need to add extra grind and girth to your tone.Kick it downBringing extra depth and definition to your bass parts, the Sub-Harmonic Generator lets you dial in a sub-octave and kick it in via footswitch whenever you need the extra depth for those super-heavy Godzilla moments.Totally connectedIf you want to use your favorite pedals or multi-effects, you'll find send and return sockets on the back panel, along with a DI output for direct injection into the PA mixer or recording console and a Line Input (with front panel level control) so you can jam along with a backing track in rehearsal.Create the perfect rig2 x 10, 4 x 10 and 2 x 12 cabs all feature custom-designed Ashdown bass drivers plus a high-frequency horn for additional top-end bite. A 1 x 15 completes the range with all cabinets featuring ultra-cool retro cloth grilles, road-ready tolex covering and tough metal protective corners."
             },
             {
-                "id": "7352485887",
-                "name": "Roland TR-8S - Fantastic shape, updated",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-roland-tr-8s-fantastic-shape/7352485887.html",
-                "datetime": "2021-07-17 13:10",
-                "price": "$590",
-                "where": null,
+                "id": "7351174775",
+                "name": "Bogner Shiva EL34 2 Channel Dual Reverb Head - 80W",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/san-anselmo-bogner-shiva-el34-channel/7351174775.html",
+                "datetime": "2021-07-17 13:18",
+                "price": "$1,500",
+                "where": "san rafael",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00808_fnxG4lR9QZsz_0lu0eU_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00x0x_iI9wddP3KKjz_0jm09J_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00808_fnxG4lR9QZsz_0lu0eU_600x450.jpg"
+                    "https://images.craigslist.org/00x0x_iI9wddP3KKjz_0jm09J_600x450.jpg",
+                    "https://images.craigslist.org/00x0x_iI9wddP3KKjz_0jm09J_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_j0SrbJDvEVHz_0jm0ex_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_aJ4vTwzYms0z_0jm0ex_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_hwlq6DXi8dyz_0jm0ex_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_8v8ml8z3Iy4z_0jm0ex_50x50c.jpg"
                 ],
                 "query": "famous",
                 "category": "msa",
-                "description": "I love this drum machine -- it has some of the most flexibility in the market with a great analog feel for performances and/or live tracking. All the classic Roland kits and then some...building custom kits is easy and fun with my own sounds.What is the TR-8S? --> Born of the most famous and influential drum machines ever made, the TR-8S combines the best of its Roland heritage with modern production techniques and professional sound design. The result? A forward-thinking, performance-tuned instrument unlike any other. Build your dream kit from the most iconic drum sounds of all time, plus the finest selection of stereo samples from a vast sound library -- or import your own custom samples. Tap, tune and tweak with hands-on controls and production tools that make your patterns move and groove. And why keep this kind of percussive power confined to the studio? The TR-8S was literally made to play live.Transistor RhythmsThe TR-8S has every sound from the most sought-after TR drum machines, with detailed circuit-models of the 808, 606, 909, 707, 727, 626 and even several modified versions. These are not sound-alike sample-packs or mere recordings of TR drum sounds. Each machine is a detailed, down-to-the-circuit-model that sounds and behaves exactly like the original hardware. All these sounds are yours, at your fingertips, and ready to use in your own productions and performances.#Roland #Korg #Moog #DaveSmith #Arturia #Eurorack"
+                "description": "I am selling my Bogner Shiva EL34 Dual Reverb 2 Channel  80W Head with Footswitch.The amp is in great condition, no rips in tolex, light use touring and studio work.Here's some info on the head:The classic modded-Marshall tone. Bogner is well-known for their top-quality tone. The Shiva is infamous for great clean tone plus hot-rodded rock tones, and this amp delivers. At 80W, it is suitable for any size club, and the Master volume makes it home-friendly as well.This amp is recently tubed and biased. It is the most recent circuit (11 knob, NOT 20th anniversary). This gives excellent flexibility in using the boost, especially for channel 2.Clean, clear tone, cuts through ANY mix. The EL34 power section is the right level of power and character for the famous musical power tube breakup, and the tone is flexible enough for any style of music.This amp is in excellent physical condition.Switchable speaker impedance control makes it compatible with 4, 8 and 16 Ohms. It will drive a small 1x12 or a full 4x12 stack.This amp has reverb and a separate reverb level control for each channel. Reverb is also switchable.There is an effects loop that allows for four-cable connection to effects for best tone.--Firm on price, pickup in San Anselmo studio.D"
             }
         ]
     }

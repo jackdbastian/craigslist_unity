@@ -62,6 +62,28 @@
         ],
         "wood": [
             {
+                "id": "7352836406",
+                "name": "Wood handrails & end caps",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/morgan-hill-wood-handrails-end-caps/7352836406.html",
+                "datetime": "2021-07-18 10:42",
+                "price": "$80",
+                "where": "morgan hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00202_g6J2jhkA1uTz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00202_g6J2jhkA1uTz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00202_g6J2jhkA1uTz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00303_2IBBIgxrSQz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_eyfcz9HSBX7z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_9qvpLAb4j6Az_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01212_5G9OdHbCyxFz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_bwvlVP06MTsz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Traditional 2-1/4W x 2-3/8H 6010 Handrail w/1-1/4 Plow1 \u2013 13\u2019 10\u201d1 \u2013 12\u2019 3\u201dOpening Cap Fitting for 6010 Handrail Returned End Fitting for 6010 HandrailPick-up only\u2026.no delivery $80 for all"
+            },
+            {
                 "id": "7346811467",
                 "name": "Unopened COREtec Vinyl wood flooring: 31.76 SF",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/mountain-view-unopened-coretec-vinyl/7346811467.html",
@@ -96,91 +118,70 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Include your number. I\u2019ll text or callONLY             $207 Knape & Vogt John Sterling Dual Trak Adjustable Wood Shelf Brackets / Warm"
-            },
-            {
-                "id": "7342331726",
-                "name": "Wood kitchen island pillars",
-                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-wood-kitchen-island/7342331726.html",
-                "datetime": "2021-07-18 09:45",
-                "price": "$375",
-                "where": "San Francisco",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00l0l_aLbtFxU6OQKz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00l0l_aLbtFxU6OQKz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00l0l_aLbtFxU6OQKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_2o4ocVB0cLxz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_cDuFSbHoh4az_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Two beautiful kitchen island pillars. Solid cherry wood with a natural walnut colored stain. Ornate, traditional detailing. Cosmetically perfect, with one pillar still wrapped in original packaging. Ordered the wrong pair for my renovation and custom stained so could not return...costly mistake. Willing to negotiate with all reasonable offers."
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7348481946",
-                "name": "VINTAGE BOMBER JACKET 80'S?",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-bomber-jacket-80s/7348481946.html",
-                "datetime": "2021-07-18 10:05",
-                "price": "$0",
-                "where": "oakland lake merritt / grand",
+                "id": "7342886943",
+                "name": "ray bans (vintage)",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-ray-bans-vintage/7342886943.html",
+                "datetime": "2021-07-18 10:47",
+                "price": "$100",
+                "where": "USF / panhandle",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_fMsiTydC5mLz_1320MM_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00G0G_gmReGe1ARbOz_0wJ0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00j0j_fMsiTydC5mLz_1320MM_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_fMsiTydC5mLz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_4HZcw1kHTeUz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_1EgqaadCCdOz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_lfK5v1LWuZUz_1320MM_50x50c.jpg"
+                    "https://images.craigslist.org/00G0G_gmReGe1ARbOz_0wJ0t2_600x450.jpg",
+                    "https://images.craigslist.org/00G0G_gmReGe1ARbOz_0wJ0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_aCuT7U38gY7z_0qk0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_ejtRp8I2GYgz_0p20t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "YEAR UNKNOWN BUT I THINK IT'S FROM THE 80'S I BELIEVE IT'S SIZE LARGE. NO RIPS OR HOLES BUT DOES HAVE SOMETHING ON IT AROUND THE POCKETS BUT DOES COME OFF. 90 OR BEST OFFER"
+                "description": "3 pairs for sale1 Olympian II DLX L0599 4-3/4 gold frame with green/gray lenses and vinyl case  100.001 Olympian II G-1 l1005 5-1/4 gold frame with green/gray lenses and vinyl case $100.001 Ray Ban 5-1/4 gold/brown frame with green/gray lenses and vinyl case  $100.00Ray Bans circa 1990'sPlease TEXT only. If ad is still here,  they are still available."
             },
             {
-                "id": "7348482540",
-                "name": "VINTAGE 70'S TOREL LEATHER JACKET",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-70s-torel-leather-jacket/7348482540.html",
-                "datetime": "2021-07-18 10:06",
-                "price": "$0",
-                "where": "oakland lake merritt / grand",
+                "id": "7349721383",
+                "name": "SANUK CASA BARCO Vintage BOAT CANVAS SHOES MEN'S SIZE 8.5  New in Box",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-sanuk-casa-barco-vintage/7349721383.html",
+                "datetime": "2021-07-18 10:45",
+                "price": "$20",
+                "where": "rohnert pk / cotati",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00W0W_4kpSv0y5oupz_0pO0jm_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_600x450.jpg",
-                    "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_dk0NJo5op7Yz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_2egO0Fen97Vz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_3NuioN7GWjkz_1320MM_50x50c.jpg"
+                    "https://images.craigslist.org/00W0W_4kpSv0y5oupz_0pO0jm_600x450.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "very nice jacket size large. no rips, tears or holes 200 or best offer"
+                "description": "SANUK CASA BARCO Vintage BOAT CANVAS SHOES MEN'S SIZE 8.5 slip on lace up NATURALNew in Box with tags"
             },
             {
-                "id": "7352815568",
-                "name": "Harley Davidson Vintage Motorcruise Leather Jacket",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/harley-davidson-vintage-motorcruise/7352815568.html",
-                "datetime": "2021-07-18 10:00",
-                "price": "$300",
-                "where": "walnut creek",
+                "id": "7342891328",
+                "name": "vintage Neo Nostalgia dress, large, beautiful pattern",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-neo-nostalgia-dress/7342891328.html",
+                "datetime": "2021-07-18 10:43",
+                "price": "$20",
+                "where": "berkeley",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00H0H_3pQw4zpdDkNz_0CI0pO_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00909_aTxiQJ04Ctjz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00H0H_3pQw4zpdDkNz_0CI0pO_600x450.jpg",
-                    "https://images.craigslist.org/00H0H_3pQw4zpdDkNz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_acoDohNZck1z_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_2XSA8zcJlHlz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_8dYAWw5CpVDz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_iGZGx7OYMP4z_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00000_kC9ksEdvDnmz_0CI0pO_50x50c.jpg"
+                    "https://images.craigslist.org/00909_aTxiQJ04Ctjz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00909_aTxiQJ04Ctjz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_5SA5iRgqhGz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_jPRUh155g6Rz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_8i76Mgk7Pc8z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_8xdk1245Q8Vz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_8GgL1zwpKQz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_4eUxl9aMeq9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_5BS4GerRCNTz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_cZAOUV81DqSz_0lM0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Harley Davidson Vintage Motorcruise Jacket Small (Regular). Fits person 5'2- 5'6This was a Limited Edition Special Order.  In fantastic condition.  E-mail replies with phone #'s left will be given first priority."
+                "description": ".Luscious rayon velvet tiered skirt, mid length, subtle black/silver/gold/rose floral pattern. 36 longSize large, but since it's got an elastic drawstring, it will fit multiple sizes. Supple drape and swirl. Perfect for holidays or anytime you\u2019re feeling velvety. excellent condition"
             }
         ],
         "beaded": [
@@ -246,6 +247,22 @@
         ],
         "gloves": [
             {
+                "id": "7347478120",
+                "name": "Chenille hat and gloves, New",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-chenille-hat-and-gloves-new/7347478120.html",
+                "datetime": "2021-07-18 10:47",
+                "price": "$10",
+                "where": "los gatos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00101_4eV5L4zEvdL_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00101_4eV5L4zEvdL_0CI0t2_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Black Chenille hat and gloves with multicolor accentsNew"
+            },
+            {
                 "id": "7352827777",
                 "name": "Exceptional famous brand new leather gloves",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/emeryville-exceptional-famous-brand-new/7352827777.html",
@@ -280,26 +297,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Pair vintage kid leather long gloves marked Lederer of Paris in green script in one glove and 7 1/2 in the other. Gloves have no rips, tears or stains but were worn. Sizes ran smaller so probably more equivalent to a 6-6 1/2 today. Unlined. Measures 14 1/2 inches from cuff to fingertipIf you do not see a reply from me, please check your spam folder"
-            },
-            {
-                "id": "7346084997",
-                "name": "Head Junior Ski Gloves Size Large *** BRAND NEW ***",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/head-junior-ski-gloves-size-large-brand/7346084997.html",
-                "datetime": "2021-07-18 08:46",
-                "price": "$20",
-                "where": "Sunnyvale/Palo Alto",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_79qkZtMgUIb_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_79qkZtMgUIb_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_79qkZtMgUIb_50x50c.jpg",
-                    "https://images.craigslist.org/00505_9q65jmpr9Zh_50x50c.jpg",
-                    "https://images.craigslist.org/00101_fDtlhmML1V8_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_afCUM2QTGR3_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Head Jr Outlast Waterproof Ski Gloves With Heat Pack Pocket For YouthSize:  Large JuniorItem #777658"
             }
         ],
         "wedding dress": [
@@ -538,27 +535,6 @@
     "cars": {
         "drives great": [
             {
-                "id": "7352769143",
-                "name": "1995 Honda Civic.. Drives Great.. Will Sell Fast..",
-                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-1995-honda-civic-drives-great/7352769143.html",
-                "datetime": "2021-07-18 08:17",
-                "price": "$600",
-                "where": "San Jose Ca",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_7NUzm8ap5aRz_0yl0pK_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Y0Y_7NUzm8ap5aRz_0yl0pK_600x450.jpg",
-                    "https://images.craigslist.org/00Y0Y_7NUzm8ap5aRz_0yl0pK_50x50c.jpg",
-                    "https://images.craigslist.org/01414_4Q2K1GA9MH8z_0yl0pK_50x50c.jpg",
-                    "https://images.craigslist.org/01616_get14jwfOqIz_0yl0pK_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_8ZKqawIHiXmz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_8lOnoTTchF0z_0yl0pK_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "I have a 1995 Honda Civic I am going to let go for $600. It is a standard transmission vehicle. It has that dent in the front but other than that it drives really smooth. Mileage is ok. Tags are up to date and good til July of next year. July 2022. Clean title vehicle. Pinkslip in hand. I will not reply to E-Mails but I can be reached at 4. 0. 8... 6..48..   3.  11...5"
-            },
-            {
                 "id": "7343546409",
                 "name": "2010 TOYOTA CAMRY HYBRID. CLEAN TITLE. SMOG.  NAVI**  DRIVES GREAT!!!*",
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2010-toyota-camry-hybrid-clean/7343546409.html",
@@ -613,6 +589,36 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "Selling 2004 Highlander runs and drives excellent, AC and heater works, has third row of seats. Clean title.I drive this car daily, and it works great. However, selling this in an AS IS condition, as there are a few things that need some work:*Needs either a new catalytic converter or O2 sensor before it would pass another smog test (but current one valid until Sept)*Front bumper needs new screws to attach it to carriage (currently using some duct tape, functional but not pretty)*Tear on leather of Driver's seat*Sun roof doesn't openiVIN Report Summary:This vehicle's market value is $6,544.This vehicle is estimated to have 168,000 miles on the odometer.Projected depreciation: $976 in 5 years."
+            },
+            {
+                "id": "7342543109",
+                "name": "2006 VOLKWAGEN BEETLE 2.5  CLEAN TITLE.  SMOG. DRIVES GREAT. SERVICED!",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2006-volkwagen-beetle-25-clean/7342543109.html",
+                "datetime": "2021-06-26 12:58",
+                "price": "$4,999",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Z0Z_ciiFO3qTf1cz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Z0Z_ciiFO3qTf1cz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00Z0Z_ciiFO3qTf1cz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_e5Px5Xzk4bxz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00606_bddmIEV9yK8z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_lAvNH4boDbMz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_lRKHGIrJTfOz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_kGmEEDQvdcnz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_6KxYMynGZF9z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_d29Kst8CxnNz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_17XFEyycHf6z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_cpVZEgACrRLz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_3N9H1y7cg18z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_8vDZVPuJDTbz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_iQxbFyXlLKYz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_64lrxCYNMjTz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2006 vw beetle. clean title. smog check.112,xxx miles.  lot to godrives great.  cold a/c.  leather seats.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [
@@ -717,27 +723,6 @@
         ],
         "fast": [
             {
-                "id": "7352769143",
-                "name": "1995 Honda Civic.. Drives Great.. Will Sell Fast..",
-                "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-1995-honda-civic-drives-great/7352769143.html",
-                "datetime": "2021-07-18 08:17",
-                "price": "$600",
-                "where": "San Jose Ca",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_7NUzm8ap5aRz_0yl0pK_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Y0Y_7NUzm8ap5aRz_0yl0pK_600x450.jpg",
-                    "https://images.craigslist.org/00Y0Y_7NUzm8ap5aRz_0yl0pK_50x50c.jpg",
-                    "https://images.craigslist.org/01414_4Q2K1GA9MH8z_0yl0pK_50x50c.jpg",
-                    "https://images.craigslist.org/01616_get14jwfOqIz_0yl0pK_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_8ZKqawIHiXmz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_8lOnoTTchF0z_0yl0pK_50x50c.jpg"
-                ],
-                "query": "fast",
-                "category": "cta",
-                "description": "I have a 1995 Honda Civic I am going to let go for $600. It is a standard transmission vehicle. It has that dent in the front but other than that it drives really smooth. Mileage is ok. Tags are up to date and good til July of next year. July 2022. Clean title vehicle. Pinkslip in hand. I will not reply to E-Mails but I can be reached at 4. 0. 8... 6..48..   3.  11...5"
-            },
-            {
                 "id": "7352458270",
                 "name": "2003 Chevrolet Corvette Z06 1-Owner 405HP Loaded Fast Low Miles",
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/2003-chevrolet-corvette-z06-owner-405hp/7352458270.html",
@@ -782,6 +767,29 @@
                 "query": "fast",
                 "category": "cta",
                 "description": "2006 Jaguar XJR silver black interior 130,000 miles. Clean nice car. Very fast. Good year for the supercharged 4.2 liter V8. Has VVT(variable valve timing) 410 hp.Mechanically in excellent condition.Converted to coil over springs. Very fast fun car. $7,200"
+            },
+            {
+                "id": "7348106548",
+                "name": "FAST and EASY CREDIT APPROVALS! 2008 CHEVY SILVERADO 1500 4WD",
+                "url": "https://sfbay.craigslist.org/nby/ctd/d/fulton-fast-and-easy-credit-approvals/7348106548.html",
+                "datetime": "2021-07-08 11:46",
+                "price": "$13,500",
+                "where": "healdsburg / windsor",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00z0z_dhdolxdn9xVz_0kE0fu_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00z0z_dhdolxdn9xVz_0kE0fu_600x450.jpg",
+                    "https://images.craigslist.org/00z0z_dhdolxdn9xVz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_h9tZNZZar8gz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00505_4y70jbN8PwDz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_aecfHTjfwuHz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00606_13StlFtPdk6z_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_dD3KO3rI7biz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_5jbUmzaLJp9z_0kE0fu_50x50c.jpg"
+                ],
+                "query": "fast",
+                "category": "cta",
+                "description": "Used 2008 Chevy Silverado 1500 4WD Extended Cab.  For sale.  Excellent condition. Come test drive it today. We are ACE Rent a car. Located at the corner of Fulton and River Road.  We have over 90+ vehicles in stock, ranging from $9,000 - $25,000.  Nissans, Toyotas, Hondas, Mercedes.  Instead of auctioning our fleet, we liquidate our vehicles to the public just below market and above auction price. We can get EVERYONE pre-approved for financing within minutes! Really fast and easy. - GOOD CREDIT, BAD CREDIT, REPO?   - OK- Unemployment? - OK-Uber/Lyft/Doordash?         - OK - $500 Rental Car credit applied to every customer who rents a car and chooses to buy from us. - Service Contracts and GAP products available for loan security. - We have a DMV processing business and can do all the paperwork in house!APPLY TODAY!!   https://getapprovedtoday.acapply.com/templates/9/Main9.aspxIf you are interested in test driving any of our cars we are open Monday- Saturday 9am-5pm.  Please email or call for more information!   ------------------------------------------------------------------------------------------------------------------------------------------------Usado 2008 Chevy Silverado 1500 4WD Extended Cab. En venta. En Excelente condici\u00f3n. Venga a conducirlo hoy. Somos ACE Rent a car. Localizados en la esquina de Fulton y River Road. Tenemos mas de 90 vehiculos, desde $9,000 - $25,000. Nissans, Toyotas, Hondas, Mercedes.  En lugar de subastar nuestra flota, liquidamos nuestros veh\u00edculos al p\u00fablico debajo del precio de mercado y mas cerca del precio de la subasta.Podemos obtener la aprobacion previa de TODOS para la financiacion en cuestion de minutos! Realmente rapido y facil.- BUEN CREDITO, MAL CREDITO, REPOSICIONES? -OK- Desempleo? - OK- Uber/Lyft/Doordash?  - OK- Se aplica un cr\u00e9dito de $ 500 para autos de alquiler a cada cliente que alquila un auto y elige comprarnos.- Contratos de servicio y productos GAP disponibles para garant\u00eda de pr\u00e9stamos.\u00a1\u00a1APLICA HOY!!https://getapprovedtoday.acapply.com/templates/9/Main9.aspxSi est\u00e1 interesado en realizar una prueba de manejo en cualquiera de nuestros autom\u00f3viles, estamos abiertos de lunes a s\u00e1bado de 9am-5pm.\u00a1Env\u00ede un correo electr\u00f3nico o llame para obtener m\u00e1s informaci\u00f3n!"
             }
         ]
     },

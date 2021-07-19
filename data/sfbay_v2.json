@@ -139,6 +139,30 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7353394093",
+                "name": "Vintage 60\u2019s high heels",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/camp-meeker-vintage-60s-high-heels/7353394093.html",
+                "datetime": "2021-07-19 13:14",
+                "price": "$1",
+                "where": "sebastopol",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00q0q_kbUvAl5DCb0z_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00q0q_kbUvAl5DCb0z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_kbUvAl5DCb0z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_hFNEGafSSWyz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_fzhT1365Zszz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_9nMhwkgU0Mbz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_1wtoLjFpKXKz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_dUGycjk7egFz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_2eMkahrf5wVz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00909_g06fFT0UIOGz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Champagne colored leather heels of 60\u2019s vintagePurchased in 1962Still in original box with manufacturers noteBest offer"
+            },
+            {
                 "id": "7340318928",
                 "name": "Shoes,Original Vintage Doc Martens M Size 9",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-bruno-shoesoriginal-vintage-doc/7340318928.html",
@@ -184,27 +208,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Doc Marten's 90's size 9 1/2 MOriginalClean- great Condition$35."
-            },
-            {
-                "id": "7343715595",
-                "name": "Vintage \"Doc Marten's\" size 9 - 9 1/2 M",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/millbrae-vintage-doc-martens-size/7343715595.html",
-                "datetime": "2021-07-19 12:55",
-                "price": "$40",
-                "where": "san bruno",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_eZXwMvmcBBMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_9Zv40GIvDEpz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_4MJeogWxTJ9z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_3Y4E1lNeInfz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Early 90's Doc Marten's LoafersClean Great Condition$40.00"
             }
         ],
         "beaded": [

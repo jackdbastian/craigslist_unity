@@ -120,6 +120,22 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7347321950",
+                "name": "Vintage Mid Calf Leather Boots",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-mid-calf-leather-boots/7347321950.html",
+                "datetime": "2021-07-19 15:27",
+                "price": "$50",
+                "where": "oakland downtown",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00s0s_gQpFDSXyI2c_0pC0ne_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00s0s_gQpFDSXyI2c_0pC0ne_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Round toe creeper boots. Leather with zipper. Newish vibram solesVery nice condition10.5 men\u2019s size"
+            },
+            {
                 "id": "7350219221",
                 "name": "Vintage Black Wool Asian Dress with Mandarin Collar - Size Small",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-black-wool-asian/7350219221.html",
@@ -167,34 +183,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Likely from the 1950\u2019s or before, this vintage purse / handbag is covered in Java aka Ring Lizard Skin in dark brown and buff with the ring pattern evident. It includes the  taxidermied Lizard Head with stuffed and raised, neck, shoulders, arms and hands. The head and front feet are masterfully sewed on the purse front. It\u2019s really unique.  I can\u2019t find anything like it on the internet. The purse has 3 small pouches inside, and a slot on the outside back. It has a spacious interior and doesn\u2019t appear to have ever been used. It measures 10 \u00bc\u201d wide, 6 \u00be\u201d high (excluding the handle), and 9 \u00bd\u201d (with the handle).  It is in excellent vintage condition.We are downsizing our collections, check out our other postings to see if there are other items of interest. Be assured that we practice safe distancing when picking up items at our home and can ship if you pay postage."
-            },
-            {
-                "id": "7341503806",
-                "name": "Vintage Faux Fur Snowland Boots - Womens Size 8",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-faux-fur-snowland/7341503806.html",
-                "datetime": "2021-07-19 14:01",
-                "price": "$35",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_g6eDyBa2N2tz_0AU0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00d0d_g6eDyBa2N2tz_0AU0t2_600x450.jpg",
-                    "https://images.craigslist.org/00d0d_g6eDyBa2N2tz_0AU0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_74vZehlNRZ6z_0zl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_h9kdYNMR2Idz_0zP0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_2byTI4TRW0uz_0yg0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_gTDZBrEAGPWz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_4LxwXCEYfKbz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_2CpvcvCw9UFz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_cFvKLXJKQ2fz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_XdsUKRI3lJz_0yU0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_1sz5ojqilyFz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_lU5O1jFntXmz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_1zZs3TmXJGMz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Here\u2019s a wonderful vintage pair of winter Faux Fur Apres Ski Boots made by Snowland in the 1960\u2019s to 1970\u2019s. They feature crisp black faux fur sides with fuzzy gray faux fur center panels accented with black and white zig zag edging trim. The boots have a back zipper for easy access.The interior is shearling lined, guaranteed to keep your feet toasty warm!. They have leather trim around the bottom, a rounded toe, and a small heel. Excellent vintage condition!Womens Size 8Heel height: <1 inchNo need to ask if they are still available. Posting will be removed immediately when the item is sold. We are clearing out years of collectibles, so check out our other postings for group discounts. Click on the \u201cmore ads by this user\u201d link in this posting.This item is located in Pleasanton from a smoke free home. Cash, PayPal or Venmo only. Please call, email or text with questions, or to make plans to see it. We wear masks and practice safe distancing when pick-ups are at our home. We are happy to ship to you, if you pay postage. Provide your postal zip code, and I will quote you the additional cost of USPS shipping. Pay through PayPal, and you never have to leave your home. Thanks for looking!"
             }
         ],
         "beaded": [
@@ -358,7 +346,7 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-lillian-west-wedding-dress/7350305167.html",
                 "datetime": "2021-07-19 15:03",
                 "price": "$500",
-                "where": "San Jose south bay area ",
+                "where": "San Jose",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00i0i_iNVzQBjJgjE_0jm0t2_600x450.jpg",
                 "all_images": [

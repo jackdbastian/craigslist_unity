@@ -556,7 +556,7 @@
                 "url": "https://sfbay.craigslist.org/eby/cto/d/fairfield-2016-toyota-camry-se-black/7353405948.html",
                 "datetime": "2021-07-19 13:31",
                 "price": "$15,900",
-                "where": " east bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01010_k5BOx33ojoYz_0ne0hq_600x450.jpg",
                 "all_images": [
@@ -844,6 +844,22 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
+                "id": "7349171792",
+                "name": "YAMAHA GA10, GA-10 Guitar & Keyboard Amplifier",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/martinez-yamaha-ga10-ga-10-guitar/7349171792.html",
+                "datetime": "2021-07-19 14:33",
+                "price": "$40",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00808_3eQwUpJmhyZz_0iI0hn_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00808_3eQwUpJmhyZz_0iI0hn_600x450.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "GA10 Yamaha Guitar Practice Amp with 2-band tone controls (treble and bass) AND boost switch for true overdrive/distortion Model GA-10 Can be used for Guitar, Keyboard or Bass but it is specifically designed for guitar. This 10w amp sounds amazing. from a Sweet Clean tone to Dirty Funky Blues to Metal Shredding Madness Headphone jack for discrete jamming. Unbeatable Yamaha quality - features - watts - tone - this amp has it all - Portable AND Loud!!!!"
+            },
+            {
                 "id": "7349558282",
                 "name": "ISP Technologies TRIWEDGE for trade!",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/saratoga-isp-technologies-triwedge-for/7349558282.html",
@@ -865,26 +881,6 @@
                 "query": "loud",
                 "category": "msa",
                 "description": "Trade for a guitar or other music gear?Insanely loud speaker system will provide sound for 300 person venue  amazing DJ the rig or for live gigs Bass is incredible super clear sound 1500$ new and it\u2019s barely been used at all 100% perfect 600 watts RMS active 3-way floor monitor. 12 inch woofer, 10 inch midrange, 2 inch compression driver, internal 4th order crossover network.ISP Technologies brings you the \u201cNo Compromise\u201d high performance, High Fidelity Active 3-Way floor wedge. No longer do you need to compromise the stage monitor mix with the poor performance of a 2-way floor monitor.The all to common result of a 2-way floor monitor is low fidelity, distorted, unintelligible vocals and instruments. The new ISP Technologies TRIWEDGE provides high-output, high fidelity definition throughout the entire spectrum, including that very important, often overlooked critical midrange."
-            },
-            {
-                "id": "7353357774",
-                "name": "Martin D-28 1937 Authentic VTS",
-                "url": "https://sfbay.craigslist.org/pen/msg/d/san-mateo-martin-authentic-vts/7353357774.html",
-                "datetime": "2021-07-19 12:12",
-                "price": "$5,500",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00u0u_cg03u94c3qqz_0j60sE_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00u0u_cg03u94c3qqz_0j60sE_600x450.jpg",
-                    "https://images.craigslist.org/00u0u_cg03u94c3qqz_0j60sE_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_5R4b3A6TMSjz_0j60sE_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_lbHgSGUJJ4Az_0j60sE_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_kzs3wfn7987z_0em09z_50x50c.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "If you're looking you know what this guitar is. Local sales only, to someone who will come by and play it\u2013it is exactly what you're looking for. Loud, fantastic tone, plays beautifully, just the right amount of bass. No excuses guitar. In excellent condition. I bought this in 2016, but shoulder issues are forcing me into a smaller guitar, and I'm mostly playing electric now. Price is firm, I'm in no rush. Will consider trade for OM of similar value, mostly an OM-28 Authentic. I love the tone I just can't deal with the depth as easily as I used to. No trades for dreadnoughts will be considered, I need to downsize the guitar. Thanks for looking! Happy to answer any questions, but if you're not local, trading something other than described, saying you'll just buy it outright w/o playing it, or trying some scam, chances are I'm not responding. I want the new owner to be as happy with it as I've been."
             }
         ],
         "famous": [

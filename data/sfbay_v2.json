@@ -83,7 +83,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7339519185.html",
                 "datetime": "2021-07-19 17:18",
                 "price": "$75",
-                "where": "Presidio Heights city of san francisco ",
+                "where": "Presidio Heights",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
                 "all_images": [
@@ -114,6 +114,30 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7342242263",
+                "name": "Vintage Industrial Wrought Iron Coat Rack",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-industrial-wrought-iron/7342242263.html",
+                "datetime": "2021-07-19 20:56",
+                "price": "$200",
+                "where": "alameda",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00C0C_hLasVDtgH5Ez_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00C0C_hLasVDtgH5Ez_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00C0C_hLasVDtgH5Ez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_6Cu4EMsMCuaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_iZJgfI3W33Bz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_ewly5EfrPOsz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_b0O69y7IyFz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_d1o5pRzftyAz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00808_4nd3c8zyjpaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_9DwAFsZoBv2z_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Industrial Wrought Iron Coat Rack $200.00Six feet tallVery Good condition"
+            },
+            {
                 "id": "7344141676",
                 "name": "Vintage Sopheea tote bag",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-sopheea-tote-bag/7344141676.html",
@@ -140,29 +164,6 @@
                 "id": "7351249046",
                 "name": "Vintage Sopheea tote bag",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-sopheea-tote-bag/7351249046.html",
-                "datetime": "2021-07-19 20:23",
-                "price": "$1",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_bsYt2j2ELOWz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_apgAPIXTI9Nz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_hvgFOZ4giD3z_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_jFvcVnNZJvjz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_chpDoSJz5v1z_0gl0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Hello A very beautiful Sopheea classic, genuine leather tote bag. On line there asking a stupid price I won't even tell you Please make me a reasonable offer Thank you"
-            },
-            {
-                "id": "7343556746",
-                "name": "Vintage Sopheea tote bag",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-sopheea-tote-bag/7343556746.html",
                 "datetime": "2021-07-19 20:23",
                 "price": "$1",
                 "where": "san mateo",

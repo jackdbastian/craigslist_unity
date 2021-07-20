@@ -83,7 +83,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7339519185.html",
                 "datetime": "2021-07-19 17:18",
                 "price": "$75",
-                "where": "Presidio Heights city of san francisco ",
+                "where": "Presidio Heights",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
                 "all_images": [
@@ -114,6 +114,49 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7339821181",
+                "name": "Mardane USA Vintage Evening Purse Light Beige",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-mardane-usa-vintage/7339821181.html",
+                "datetime": "2021-07-19 18:06",
+                "price": "$15",
+                "where": "walnut creek",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_f6fkjqOBkBxz_0d40hq_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_f6fkjqOBkBxz_0d40hq_600x450.jpg",
+                    "https://images.craigslist.org/01010_f6fkjqOBkBxz_0d40hq_50x50c.jpg",
+                    "https://images.craigslist.org/00404_5jbHvH22JVXz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_dymRLZBbh2Qz_0d40hq_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_4AblYbaEBijz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_eyiHCapM2btz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00404_7YYm7dqJ0DJz_0d40hq_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_4uuJJcJTUnqz_0d40hq_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Mardane USA Vintage Evening Purse in Light Beige (circa 1980s). Chain handle can be shortened or lengthened and can even be placed inside purse for use as a clutch. There is a working clasp and an inside attached mirror! It's in mint condition. Never used.Approximately 9 x 6.5From a non-smoking, no pets home. Local pickup. Cash only."
+            },
+            {
+                "id": "7339821736",
+                "name": "Genuine Vintage Coach Leather Purse Zipper Strap",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-genuine-vintage-coach/7339821736.html",
+                "datetime": "2021-07-19 18:06",
+                "price": "$15",
+                "where": "walnut creek",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_T0OVCRAC0hz_0d40hq_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_T0OVCRAC0hz_0d40hq_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_T0OVCRAC0hz_0d40hq_50x50c.jpg",
+                    "https://images.craigslist.org/01313_6m5JhNjQlTMz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00707_5GCcB45LvUQz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_c6ppuzZAUiSz_0d40hq_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Genuine Vintage Coach Leather Purse with Zipper and Long Strap that can be worn on shoulder or across body. Outer pocket. Would make a great gift for a young girl or teenager (first Coach bag!).Color: Burgundy Size: 6\u201d x 6.5\u201d Condition: Gently and lovingly pre-owned (some wearing at bottom corners).From a non-smoking, no pets home.Cash only."
+            },
+            {
                 "id": "7353522768",
                 "name": "Vintage AirMax take a look",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/newark-vintage-airmax-take-look/7353522768.html",
@@ -133,123 +176,65 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage Nike AirMax (2013) White Black Volt University RedSize 11.5Make an offer"
-            },
-            {
-                "id": "7346613663",
-                "name": "Vintage Hartmann Briefcase",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alamo-vintage-hartmann-briefcase/7346613663.html",
-                "datetime": "2021-07-19 17:19",
-                "price": "$75",
-                "where": "walnut creek",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_7ILeQRReQRTz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00L0L_7ILeQRReQRTz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_7ILeQRReQRTz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_lRkwZkgEZKnz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00000_5nUyu15fhB7z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_l4YgL9Nq2QLz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_iWYtuR06cvPz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_651Dq1wly8tz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Hartmann Briefcase. Tan. In excellent condition. Measures approximately 19x13x4. You will see this briefcase on eBay for more than twice the price."
-            },
-            {
-                "id": "7353511448",
-                "name": "Vintage Leather Wallet MTC 1992 w Elephant Red Tan Tooled Design India",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-leather-wallet-mtc-1992/7353511448.html",
-                "datetime": "2021-07-19 17:17",
-                "price": "$40",
-                "where": "alameda",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_izyBAv9PIoZ_0sy0pb_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00505_izyBAv9PIoZ_0sy0pb_600x450.jpg",
-                    "https://images.craigslist.org/00505_izyBAv9PIoZ_0sy0pb_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_koSIFdaj776_0rE0q4_50x50c.jpg",
-                    "https://images.craigslist.org/00303_9bxRLkZlAzf_0zk0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_fHGLiwFD1Hb_0uf0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_9ar8SPw7yYw_0CI0nd_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_4rQFWFOzNo1_0tB0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_1cGWUb3M1y_0xs0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_ckuYjF14AOD_0sg0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_5NJC38gxSZH_0z30t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_jVBlUsdJIfU_0CI0pa_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_a6nwDGzIvQ6_0CI0nL_50x50c.jpg",
-                    "https://images.craigslist.org/01313_5GQ4lFceAVI_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "\u2022\tFabric lined, snap closure and two paper money areas and zip coin compartment, \u2022\tIn good vintage condition, natural wear with age,  has loose and missing stitching on left side.   \u2022\tMeasures around 4.25\u201d tall and 8\u201d wide.  To avoid spam and stay safe, it\u2019s still available and can be purchased at Call Jannie on eBay"
             }
         ],
         "beaded": [
             {
-                "id": "7347852854",
-                "name": "Beaded Drama Sleeveless Dress",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/napa-beaded-drama-sleeveless-dress/7347852854.html",
-                "datetime": "2021-07-19 16:51",
-                "price": "$10",
-                "where": "napa county",
+                "id": "7350344114",
+                "name": "Jovani beaded ivory/nude gown $150",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-jovani-beaded-ivory-nude/7350344114.html",
+                "datetime": "2021-07-19 18:05",
+                "price": "$150",
+                "where": "tenderloin",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00u0u_bsFej7vilXEz_0he0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_600x450.jpg",
-                    "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_bC8cGN1WnvLz_0ev0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_KktgARHovlz_0q20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_92hb8tbAbI3z_0qX0pZ_50x50c.jpg"
+                    "https://images.craigslist.org/00u0u_bsFej7vilXEz_0he0t2_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_bsFej7vilXEz_0he0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_dcu7fU6xZLSz_0iS0so_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_gKufcbk4XqNz_0hv0t2_50x50c.jpg"
                 ],
                 "query": "beaded",
                 "category": "cla",
-                "description": "Selling a used Beaded Drama Sleeveless Dress in great condition size is 14 made off 100% Polyester Color is dark grey. If you have any questions or interested email me with your contact info and I will get back to you.Thanks For LookingDan"
+                "description": "Jovani beaded ivory/nude gownJovani product #16926 This is a spaghetti strapped gown with a boat neck and lace pattern running vertically down. Pearls and small sparkle Adorn this piece. The overlay is ivory with nude underneath. This was Worn only once in store and then was unable to be returned to the merchant because of a cancelled event. Perfect for a wedding party/ reception or even prom. condition: brand new make : Jovani Product number: 16926 Size 8Text"
             },
             {
-                "id": "7350162058",
-                "name": "Cream Beaded See-Through Over-Top",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-carlos-cream-beaded-see-through/7350162058.html",
-                "datetime": "2021-07-19 13:54",
-                "price": "$8",
-                "where": "san carlos",
+                "id": "7350344773",
+                "name": "Jovani beaded ivory/nude gown",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-jovani-beaded-ivory-nude/7350344773.html",
+                "datetime": "2021-07-19 18:06",
+                "price": "$150",
+                "where": "tenderloin",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_hEXfeAatDz3_0ww0oo_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00u0u_bsFej7vilXEz_0he0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00W0W_hEXfeAatDz3_0ww0oo_600x450.jpg",
-                    "https://images.craigslist.org/00W0W_hEXfeAatDz3_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_4YzONrIskva_0ww0oo_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_hoYXbGSfb4j_0ww0oo_50x50c.jpg"
+                    "https://images.craigslist.org/00u0u_bsFej7vilXEz_0he0t2_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_bsFej7vilXEz_0he0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_dcu7fU6xZLSz_0iS0so_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_gKufcbk4XqNz_0hv0t2_50x50c.jpg"
                 ],
                 "query": "beaded",
                 "category": "cla",
-                "description": "Beautiful Cream Beaded See-Through Over-Top.  Never Worn.  Tags still on.Sized Small.Call or Text  ."
+                "description": "Jovani beaded ivory/nude gown Jovani product #16926 This is a spaghetti strapped gown with a boat neck and lace pattern running vertically down. Pearls and small sparkle Adorn this piece. The overlay is ivory with nude underneath. This was Worn only once in store and then was unable to be returned to the merchant because of a cancelled event. Perfect for a wedding party/ reception or even prom. condition: brand new make : Jovani Product number: 16926 Size 8Text"
             },
             {
-                "id": "7351510083",
-                "name": "Corello Brazilian Lamb Leather Beaded Hobo Paisley Shoulder Bag Purse",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-corello-brazilian-lamb/7351510083.html",
-                "datetime": "2021-07-19 11:53",
-                "price": "$75",
-                "where": "rohnert pk / cotati",
+                "id": "7350551958",
+                "name": "Jovani beaded ivory/nude gown",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-jovani-beaded-ivory-nude/7350551958.html",
+                "datetime": "2021-07-19 18:06",
+                "price": "$150",
+                "where": "tenderloin",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00u0u_bsFej7vilXEz_0he0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_l4WvPxvBUp2_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_aJNIBEgXNB2_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_qV0lYllUk8_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_bncLHeFGo8t_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_krQ5FtzyIHY_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_6zH9mjEmLIP_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_fx5pksdsiQd_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_9y805IUYQ6Y_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_gdi4RCjtKNr_0hq0kF_50x50c.jpg"
+                    "https://images.craigslist.org/00u0u_bsFej7vilXEz_0he0t2_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_bsFej7vilXEz_0he0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_dcu7fU6xZLSz_0iS0so_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_gKufcbk4XqNz_0hv0t2_50x50c.jpg"
                 ],
                 "query": "beaded",
                 "category": "cla",
-                "description": "This is a new, with store tag attached, purse by the Brazilian brand Corello. It features a fabric paisley exterior covered in various seed beads and a few iridescent sequins in orange, fuchsia, greens, aqua, lavender, and powder blue. The handles and interior zip pocket opening are taupe lamb leather while the interior is a ribbed ivory fabric. The purse has a single magnetic closure.It measures approximately 10 tall x 14 wide with an 8 handle drop. The tag appears to have a handwritten date of June 11th, 2005 (Brazil's date format of DD/MM/YY).------Please call/text   or email anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
+                "description": "Jovani beaded ivory/nude gown Jovani product #16926 This is a spaghetti strapped gown with a boat neck and lace pattern running vertically down. Pearls and small sparkle Adorn this piece. The overlay is ivory with nude underneath. This was Worn only once in store and then was unable to be returned to the merchant because of a cancelled event. Perfect for a wedding party/ reception or even prom. condition: brand new make : Jovani Product number: 16926 Size 8Text"
             }
         ],
         "gloves": [
@@ -314,6 +299,29 @@
         ],
         "wedding dress": [
             {
+                "id": "7344569304",
+                "name": "WEDDING DRESS & an Eve. Dress!",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7344569304.html",
+                "datetime": "2021-07-19 18:08",
+                "price": "$65",
+                "where": "sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                    "https://images.craigslist.org/01717_d6fzffAhkIk_50x50c.jpg",
+                    "https://images.craigslist.org/00101_bl8y1IxloeK_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_kVlMyl8ifyI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_f8WGDbKtwnN_50x50c.jpg",
+                    "https://images.craigslist.org/00000_tclh2W2lBh_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_9398GASL6Kf_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_airF1iyfhDD_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "2 Amazing dresses for your upcoming event!!!1. Beautiful wedding dress in excellent condition! Knee length!- $653. A LOVELY evening dress; Beautiful, smashing, unique dress/gown for prom, ball, graduation or any other occasion!Designer: Betsy and Adam. Size: 12Color: shades of coralStrapless. Heart shaped bodice decorated with jewels. Side zipper.Worn once. Excellent condition. See pictures.asking price: $65. Paid $380 for this amazing dress!!!TAKE THE 2 DRESSES FOR ONLY $110!!!"
+            },
+            {
                 "id": "7353498707",
                 "name": "Wedding Dress - BRAND NEW w/ TAGS - Unaltered - Size 2 David's Bridal",
                 "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-wedding-dress-brand-new-tags/7353498707.html",
@@ -354,28 +362,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Taffeta La Sposa Fuego Traditional Wedding Dress (was $1415)Size: US 10This dress is brand new, never worn. Could be hemmed and altered to fit any smaller size.Color is Off White.For more information or pictures, message us. Neckline: Strapless Silhouette: A-line Train: Chapel Height With Heels: dress not hemmed.Note:SIZES ARE BRIDAL SIZE, NOT STREET SIZE!"
-            },
-            {
-                "id": "7353454982",
-                "name": "Lazaro couture wedding dress size 4",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/union-city-lazaro-couture-wedding-dress/7353454982.html",
-                "datetime": "2021-07-19 15:08",
-                "price": "$750",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00808_ddGkAEvr0W1z_0aE0fY_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00808_ddGkAEvr0W1z_0aE0fY_600x450.jpg",
-                    "https://images.craigslist.org/00808_ddGkAEvr0W1z_0aE0fY_50x50c.jpg",
-                    "https://images.craigslist.org/01515_jVrPHKrsZLpz_0a40gw_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_81wNiCJErJ3z_0dw0kE_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_3fFz7X6LGlmz_06s06o_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_1EssqhBUkJGz_06n06s_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_flPazpg8YdNz_0gw0co_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Lazaro size 4. Prefect size for someone who is 5\u2019 2\u201d and normal clothing size small or extra small. Only wear once for 3 hour max."
             }
         ],
         "great condition": [
@@ -841,7 +827,7 @@
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Decided to order one of those limited edition used J150 as a future investment. This guitar will help me have a down payment on her.My 1980s J200 has no cracks, no repairs.has some natural relic to it on the paint of back of the neck.Neck is smooth just paint relic.and near the pick-guard.Comes with original Hard case.Beautiful loud sound with a pickup installed.Cheapest one online would cost $4300+ Gibson J200 Fender Taylor Gibson Martin"
+                "description": "Decided to start looking for one of those limited edition J150 as a future investment. This guitar will help me have a down payment on her.My 1980s J200 has no cracks, no repairs.has some natural relic to it on the paint of back of the neck.Neck is smooth just paint relic.and near the pick-guard.Comes with original Hard case.Beautiful loud sound with a pickup installed.Cheapest one online would cost $4100 + tax with cracks.Gibson J200 Fender Taylor Gibson Martin"
             }
         ],
         "famous": [

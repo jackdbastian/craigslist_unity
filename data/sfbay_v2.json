@@ -83,7 +83,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7339519185.html",
                 "datetime": "2021-07-19 17:18",
                 "price": "$75",
-                "where": "Presidio Heights",
+                "where": "Presidio Heights city of san francisco ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
                 "all_images": [
@@ -113,6 +113,27 @@
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7353522768",
+                "name": "Vintage AirMax take a look",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/newark-vintage-airmax-take-look/7353522768.html",
+                "datetime": "2021-07-19 17:47",
+                "price": "$1",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00f0f_bqyrNI00imGz_0ne0ne_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00f0f_bqyrNI00imGz_0ne0ne_600x450.jpg",
+                    "https://images.craigslist.org/00f0f_bqyrNI00imGz_0ne0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_caDR5E1sy3cz_0ne0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_8lfJoVtTn9rz_0ne0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_cMPubxEOQLIz_0ne0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_dXSjJIgif3Fz_0ne0ne_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Nike AirMax (2013) White Black Volt University RedSize 11.5Make an offer"
+            },
             {
                 "id": "7346613663",
                 "name": "Vintage Hartmann Briefcase",
@@ -162,34 +183,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "\u2022\tFabric lined, snap closure and two paper money areas and zip coin compartment, \u2022\tIn good vintage condition, natural wear with age,  has loose and missing stitching on left side.   \u2022\tMeasures around 4.25\u201d tall and 8\u201d wide.  To avoid spam and stay safe, it\u2019s still available and can be purchased at Call Jannie on eBay"
-            },
-            {
-                "id": "7353511689",
-                "name": "Vintage Textured Faux Leather Large Black Wallet",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-textured-faux-leather/7353511689.html",
-                "datetime": "2021-07-19 17:18",
-                "price": "$40",
-                "where": "alameda",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_2qy7NEc3nUTz_0vd0n1_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00U0U_2qy7NEc3nUTz_0vd0n1_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_2qy7NEc3nUTz_0vd0n1_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_8Ht47sytiiQz_0Aq0m4_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_5k62JBdhtQmz_0os0jP_50x50c.jpg",
-                    "https://images.craigslist.org/01515_92JLEp4PL7jz_0CI0oh_50x50c.jpg",
-                    "https://images.craigslist.org/01313_1vhIWrDGP0qz_0os0m6_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_1J1qI8iFQN9z_0CI0iM_50x50c.jpg",
-                    "https://images.craigslist.org/01515_zOo3oy6aTsz_0rE0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_1AORbcZG2zPz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_8W87O4IYUGWz_0va0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_8FuCwPi8wJCz_0CI0mm_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_2CBm9qGSF8Ez_0BI0od_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_fH30D1C0PSbz_0xw0o6_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Soft Faux Suede Interior Stitch TrimIn very good condition, sturdy construction, its thick (around 1.25\u201d), Measures around 4.25\u201d tall and 7.5\u201d wide, snap closure, has a several compartment, two inserts and small mirror.To avoid spam and stay safe, it\u2019s still available and can be purchased at Call Jannie on eBay"
             }
         ],
         "beaded": [
@@ -387,6 +380,29 @@
         ],
         "great condition": [
             {
+                "id": "7341153689",
+                "name": "Adidas Originals Rom in US mens 8 - great condition",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-adidas-originals-rom-in/7341153689.html",
+                "datetime": "2021-07-19 17:39",
+                "price": "$65",
+                "where": "SOMA / south beach",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00W0W_9mJdMD8ds8cz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00W0W_9mJdMD8ds8cz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_9mJdMD8ds8cz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_12UL0yeeHdIz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_kRCcOxsD4nhz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_1rkInrCFr6Kz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_9fE1jI1OckAz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_diUA7TKL5JAz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_eAr8lxOE9ziz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "Cleaning out closet.  Selling Adidas Originals Rom in US men's size 8 for $65.  Clean, great condition, and little wear and tear.  Worn less than 5 times.  I do not have the original box.  PCI 789002, Art No. 036636Buyer must pick up shoes in SOMA / South Beach near Oracle Park."
+            },
+            {
                 "id": "7351178945",
                 "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-authentic-coach-black-leather/7351178945.html",
@@ -423,29 +439,6 @@
                 "query": "great condition",
                 "category": "cla",
                 "description": "Coach Genuine Leather Handbag, gorgeous red color with the soft smooth leather top quality. Please call or tet me at   and take it today!"
-            },
-            {
-                "id": "7352805222",
-                "name": "Women/Junior Clothes - Great Condition/Brand New",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-women-junior-clothes-great/7352805222.html",
-                "datetime": "2021-07-18 09:39",
-                "price": "$10",
-                "where": "san jose east",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00303_fbhuYBmFce4z_0jX0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00303_fbhuYBmFce4z_0jX0t2_600x450.jpg",
-                    "https://images.craigslist.org/00303_fbhuYBmFce4z_0jX0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_cXOwTMTzzfsz_0jX0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_2vOwMZrNSBhz_0jR0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_h9HbhLeO2Loz_0jZ0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_ivzEootJqqmz_0jZ0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_2qSbUhE6rooz_0k10t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_kfr1wGaLXORz_0k40t2_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "Hi! I\u2019m selling various clothing items for women/junior. I also have brand new skin care by Kate Somerville. All great condition or Brand new! Various brands from American Eagle, Hollister, to exclusive brands from Stitch Fix! Please view photos for pricing, starting at $10. Bundle discount available. Thank you!"
             }
         ]
     },
@@ -520,7 +513,7 @@
                 "url": "https://sfbay.craigslist.org/eby/cto/d/fairfield-2016-toyota-camry-se-black/7353405948.html",
                 "datetime": "2021-07-19 13:31",
                 "price": "$15,900",
-                "where": " east bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01010_k5BOx33ojoYz_0ne0hq_600x450.jpg",
                 "all_images": [
@@ -808,36 +801,47 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
-                "id": "7340448164",
-                "name": "Accordion Pigini",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-accordion-pigini/7340448164.html",
-                "datetime": "2021-07-19 15:06",
-                "price": "$450",
-                "where": "san jose east",
+                "id": "7350641257",
+                "name": "ENGL Screamer 50 1x12 all-tube combo amp",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/oakland-engl-screamer-50-1x12-all-tube/7350641257.html",
+                "datetime": "2021-07-19 17:39",
+                "price": "$650",
+                "where": "oakland lake merritt / grand",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00606_liXIZt8ObSLz_0gl0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00g0g_aFXy1s3Ytihz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00606_liXIZt8ObSLz_0gl0t2_600x450.jpg"
+                    "https://images.craigslist.org/00g0g_aFXy1s3Ytihz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00g0g_aFXy1s3Ytihz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_77uShxYHAKQz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_eyqrE8paTfmz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_dKoYplvYL7Yz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_bGprZfYQOT5z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_1qLwAN6drCSz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "UP  FOR  SALE ROSETTI ACCORDION. THE INSTRUMENT  SOUNDS GOOD, IN TUNE AND LOUD WHEN PLAYED. ACCORDION IS IN GOOD SHAPE INCLUDING THE CARRYING CASE AND  WOULD MAKE A FINE ADDITION TO A PLAYER WHO COULD APPRECIATE NORTENO MUSIC. PLEASE CONTACT ME WITH ANY QUESTIONS.Exelentes condiciones, 5 Registros"
+                "description": "Selling my ENGL guitar amp because I recently moved to Texas and don\u2019t have room for it in my apartment. 4 channels with built in reverb. Built like a tank and can get LOUD but still gives great tube sounds even at low volumes. It\u2019s a very versatile amp \u2014 the clean channel is sparkling clean and each channel adds gain with metal tones achievable at the other end. I\u2019ve been the only owner of this amp for the past 11 years and it\u2019s only been gigged once or twice in that time. It\u2019s essentially in mint condition. Let me know if you\u2019d like to come try it out! text, call, or email is fine kevin"
             },
             {
-                "id": "7349171792",
-                "name": "YAMAHA GA10, GA-10 Guitar & Keyboard Amplifier",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/martinez-yamaha-ga10-ga-10-guitar/7349171792.html",
-                "datetime": "2021-07-19 14:33",
-                "price": "$40",
-                "where": "concord / pleasant hill / martinez",
+                "id": "7353517614",
+                "name": "Gibson J200 Vintage Sunburst Acoustic Electric",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/montara-gibson-j200-vintage-sunburst/7353517614.html",
+                "datetime": "2021-07-19 17:33",
+                "price": "$3,500",
+                "where": "pacifica",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00808_3eQwUpJmhyZz_0iI0hn_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00f0f_fFxfaoTDL6Bz_0cv0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00808_3eQwUpJmhyZz_0iI0hn_600x450.jpg"
+                    "https://images.craigslist.org/00f0f_fFxfaoTDL6Bz_0cv0t2_600x450.jpg",
+                    "https://images.craigslist.org/00f0f_fFxfaoTDL6Bz_0cv0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_70qQqgwV48Fz_0fX0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_5yTLZ9NPJwtz_0jQ0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_6JjClqn68l6z_0cJ0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_31bAbB5pciqz_0CI0nZ_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "GA10 Yamaha Guitar Practice Amp with 2-band tone controls (treble and bass) AND boost switch for true overdrive/distortion Model GA-10 Can be used for Guitar, Keyboard or Bass but it is specifically designed for guitar. This 10w amp sounds amazing. from a Sweet Clean tone to Dirty Funky Blues to Metal Shredding Madness Headphone jack for discrete jamming. Unbeatable Yamaha quality - features - watts - tone - this amp has it all - Portable AND Loud!!!!"
+                "description": "Decided to order one of those limited edition used J150 as a future investment. This guitar will help me have a down payment on her.My 1980s J200 has no cracks, no repairs.has some natural relic to it on the paint of back of the neck.Neck is smooth just paint relic.and near the pick-guard.Comes with original Hard case.Beautiful loud sound with a pickup installed.Cheapest one online would cost $4300+ Gibson J200 Fender Taylor Gibson Martin"
             }
         ],
         "famous": [

@@ -120,6 +120,27 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7352153045",
+                "name": "Vintage Stetson Hat",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-stetson-hat/7352153045.html",
+                "datetime": "2021-07-19 16:52",
+                "price": "$45",
+                "where": "San Francisco city of san francisco ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_56OwUdKn93U_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_c6IzVghpohg_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_eQhnkN0VnZd_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_gaIi6OGZX5t_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Size is 6 and 3/4s.  Straw hat"
+            },
+            {
                 "id": "7342743682",
                 "name": "Vintage 1880-1980's Men's Clothing, Frock Coats Tux Tails, 49ers, WWII",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-mens-clothing-frock/7342743682.html",
@@ -198,49 +219,29 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "I have Many Vintage and antique Cloths and costumes that are original back to 1800's to vintage reproductions.Prices start at $39. and up to $$ depending on the Vintage Costume, Uniform, Dress, Jacket, Shirt, Pants, CapeCostumes include but not limited to the following:New Halloween Michael Myers mask, Batman mask, other scary disturbing masks.Thanksgiving type 1600's Pilgrim type top and pants complete size adult Med.  1993 DC Comics Adult Super Man or Superman with Cape size large. $39.3 Men and Women's Nightmare Before Christmas Costumes both Sally and Jack size S to Med. New in wrap.Red British Beefeater or Beef Eater Jacket.1700's Revolutionary War Jacket or George Washington type Coat.Assorted Original Star Trek Uniforms inc Captain Kirk, Uhura Dress, I also have Next Generation Uniforms.Actual Vintage Star Trek The Cage Captain Pike or Spock shirt Small to Med. (Brownish color like original) Vintage but new Star Trek The Next Generation real Leather jacket size Large from Star Trek The Experience.Union and Confederate Civil War uniforms Vintage made 40+ years ago. inc US Cavalry.1800's to 1910 Men's Frock Coat, Tail Coat, Cape.WWII Nurses Cape.Assorted vintage adult capes.WWII US Navy Uniforms.Call for pricing. Email OK, but Text and Phone is faster response."
-            },
-            {
-                "id": "7351123253",
-                "name": "Like new unworn Vintage 80's Jackets.",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-like-new-unworn-vintage-80s/7351123253.html",
-                "datetime": "2021-07-19 16:02",
-                "price": "$45",
-                "where": "sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_7Qy1lyhifoH_0Co0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00d0d_7Qy1lyhifoH_0Co0t2_600x450.jpg",
-                    "https://images.craigslist.org/00d0d_7Qy1lyhifoH_0Co0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_eosWAZt53Eb_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_7THRLbEOtwD_0ln0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_3tqUS77BXDF_0vL0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_4eyu8uuSxyf_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_l49xfLvIlkA_0CI0oT_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_3AiiYstoByL_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_732fBecEe0l_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_gGQ1LoSVIbo_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_9WdMWV2y6Qu_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_klpGFKFkkMH_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_3nxIYpqG5H3_0ku0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_Q2bHCKCDBN_0m50t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_15rvq2GIOub_0mp0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_1u02mx2wwxh_0mf0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_fa2suSSDDkj_0mY0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_3acKGfOIjOv_0l80t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_l4JFaUB6t6q_0jo0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_4ZHRYn3jm23_0jC0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_21uy9p8gih1_0kn0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_6IqWRpPevmH_0nI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_7KDsA7wBx0U_0CI0om_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_bjxuJqWEr2c_0BI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_2Va2SL7CDEv_0CI0st_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "I am selling my REAL Leather Coats or Jackets that are Leather vintage from 70's 80's.Black Leather jackets are size Med or 40R.Light tan jacket is cotton Member Only Style light wait windbreaker size M.The Vintage Leather Vest Size 40 / Med is natural cow hide and in mint cond as are most all items.$45. each. or deal on all.The #5 NASCAR Nutmeg Racing Jacket size M is in new cond $99. Sell as a lot as well.Email, but Call or Text is faster response"
             }
         ],
         "beaded": [
+            {
+                "id": "7347852854",
+                "name": "Beaded Drama Sleeveless Dress",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/napa-beaded-drama-sleeveless-dress/7347852854.html",
+                "datetime": "2021-07-19 16:51",
+                "price": "$10",
+                "where": "napa county",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_bC8cGN1WnvLz_0ev0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_KktgARHovlz_0q20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_92hb8tbAbI3z_0qX0pZ_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "Selling a used Beaded Drama Sleeveless Dress in great condition size is 14 made off 100% Polyester Color is dark grey. If you have any questions or interested email me with your contact info and I will get back to you.Thanks For LookingDan"
+            },
             {
                 "id": "7350162058",
                 "name": "Cream Beaded See-Through Over-Top",
@@ -285,31 +286,6 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "This is a new, with store tag attached, purse by the Brazilian brand Corello. It features a fabric paisley exterior covered in various seed beads and a few iridescent sequins in orange, fuchsia, greens, aqua, lavender, and powder blue. The handles and interior zip pocket opening are taupe lamb leather while the interior is a ribbed ivory fabric. The purse has a single magnetic closure.It measures approximately 10 tall x 14 wide with an 8 handle drop. The tag appears to have a handwritten date of June 11th, 2005 (Brazil's date format of DD/MM/YY).------Please call/text   or email anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
-            },
-            {
-                "id": "7343338298",
-                "name": "Wedding Gown: Exquisitely Embroidered and Beaded Bridal",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-gown-exquisitely-embroidered/7343338298.html",
-                "datetime": "2021-07-19 09:40",
-                "price": "$250",
-                "where": "san jose west",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00F0F_b6LhF1KQ9TV_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00F0F_b6LhF1KQ9TV_600x450.jpg",
-                    "https://images.craigslist.org/00F0F_b6LhF1KQ9TV_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_jfp1kdyFgAU_50x50c.jpg",
-                    "https://images.craigslist.org/01515_4eNRIxH6Lux_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_8XCXPygYLfi_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_6kUeVi6q8kX_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_jaTUUCM28HD_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_f4184hhSDud_50x50c.jpg",
-                    "https://images.craigslist.org/00808_bGaRm7evOmQ_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_2gEqoGUVPYr_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Gorgeous satin silk bridal gown.  Exquisitely decorated with metallic gold and silver motif embroideries,  beaded dragons and Phoenix by master hands all over the dress.This is a small/medium size traditional red Chinese wedding dress, also known as KwanKwa/CheongSam.The skirt is 40 long with adjustable suspender to fit different heights, draw string waist expands to fit maximum 30 waist line."
             }
         ],
         "gloves": [
@@ -374,6 +350,26 @@
         ],
         "wedding dress": [
             {
+                "id": "7353498707",
+                "name": "Wedding Dress - BRAND NEW w/ TAGS - Unaltered - Size 2 David's Bridal",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-wedding-dress-brand-new-tags/7353498707.html",
+                "datetime": "2021-07-19 16:45",
+                "price": "$750",
+                "where": "santa cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00y0y_kTIeHBx5AP6z_0960dE_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00y0y_kTIeHBx5AP6z_0960dE_600x450.jpg",
+                    "https://images.craigslist.org/00y0y_kTIeHBx5AP6z_0960dE_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_3bRUwcihyPzz_0960dE_50x50c.jpg",
+                    "https://images.craigslist.org/00707_7wzx9k3Eplfz_03O05I_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_eFWqxeVXmmcz_0960dE_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Brand New w/ tags - Never altered - Never worn (except to try on) David's Bridal Beaded Lace and Tulle Ball Gown Wedding Dress JEWEL V3836 - Ivory Size 2Includes petticoat that can easily be removed.Garment bag includedFull retail: $1,099 Current sale at David's Bridal: $899My price: $750https://www.davidsbridal.com/Product_beaded-lace-and-tulle-ball-gown-wedding-dress-v3836_all-wedding-dressesI had bought this dress last year but postponed my wedding and ended up choosing a different dress. Hoping this beauty makes some bride very happy!Please email if interested."
+            },
+            {
                 "id": "7350211867",
                 "name": "NEW La Sposa Wedding Dress - Never Worn",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-new-la-sposa-wedding-dress/7350211867.html",
@@ -416,43 +412,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Lazaro size 4. Prefect size for someone who is 5\u2019 2\u201d and normal clothing size small or extra small. Only wear once for 3 hour max."
-            },
-            {
-                "id": "7350305167",
-                "name": "Lillian West Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-lillian-west-wedding-dress/7350305167.html",
-                "datetime": "2021-07-19 15:03",
-                "price": "$500",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00i0i_iNVzQBjJgjE_0jm0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00i0i_iNVzQBjJgjE_0jm0t2_600x450.jpg",
-                    "https://images.craigslist.org/00i0i_iNVzQBjJgjE_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_7HQ5FgzXlcr_0qL0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_63uhi30b9S6_0kY0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_gSYXn6xyiyB_0hg0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_dYVZcnt4HPi_0qZ0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_8MPeCfRN5vR_0dQ0fG_50x50c.jpg",
-                    "https://images.craigslist.org/01717_uyFdd3Y6Al_0CI0r3_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_lcYSeDpIUOA_0zO0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_dEkQuynETnc_0pK0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_d8HPIsCaTaA_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_eTOgniNz9ze_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_eTOgniNz9ze_0jm0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_4J2RfAR2nH9_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_iKjOynOXMG9_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_frAzBZGq91R_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_43QEqaSF9An_01T02q_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_gN7A2RZ3AV6_01T02q_50x50c.jpg",
-                    "https://images.craigslist.org/00707_2ne59vJj0ll_01T02q_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_e6Jt5x7dyKF_01T02q_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_9ak3VOjYA24_01T02q_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_9ptJkDcmIHm_01T02q_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "This is a beautiful Lillian West, lace wedding dress. It has a champaign silk dress that has a built in bra and a lace overlay. It already has a bustle that connects both dresses so they don't drag. It is a size 8 and it fits someone who usually wears a 3-5 size pants and small to medium tops and usually a 0 to 4 in dresses. I am 5'5 and was wearing 3 heels in the picture. Even though it is lace, it is not itchy at all due to the silk dress that goes underneath. From a clean, non-smoking, COVID free and fully vaccinated home. Asking $500 for it OBO.Areas: Davis, Sacramento, Fairfield, Vacaville, Dixon, Bay Area, San Jose, Campbell, Los Gatos, San Francisco, Oakland, Milpitas.Related key words: Bridal gown, wedding dress, rustic, lace, wedding, dress, bustle, modern, formal, gown, silk, party."
             }
         ],
         "great condition": [

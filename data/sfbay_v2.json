@@ -119,6 +119,24 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7349399027",
+                "name": "VINTAGE/ANTIQUE KIMONO",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-antique-kimono/7349399027.html",
+                "datetime": "2021-07-20 23:29",
+                "price": "$200",
+                "where": "Burlingame city of san francisco ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00p0p_3sWLCyp9aDG_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00p0p_3sWLCyp9aDG_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_3sWLCyp9aDG_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_1rh7wurRbD9_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "I bought this antique / vintage KIMONO in Japantaown , San Francisco .A great wall decor that will be a great focal point in any room.My house renovation is on its way,Now I'm looking for a good home to get its old glory and be again the center of attention to a new home It\u2019s in great condition considering it\u2019s vintage but expect fading and vintage look that comes with its age.Bought for $700.00 tax not included but willing to let it go for $200.00.A great deal.CASH onlyLOcal Pick up"
+            },
+            {
                 "id": "7344138500",
                 "name": "vintage gloves",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-gloves/7344138500.html",
@@ -174,32 +192,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "These jackets are in excellent condition and have been stored in a non-smoking, pet-free home.  $10.00 eachAgapo denim buttoned shirt/jacket with embroidery on collar and cuffs. Size XLAgapo denim buttoned shirt/jacket with embroidery on collar and cuffs. Size XLCasey & Max denim buttoned shirt/jacket w/tucked and embroidered front, navy velvet collar. Size MCasey & Max denim buttoned embroidered shirt with 3/4 sleeves. Size LJaclyn Smith Classic, denim buttoned embroidered shirt with 3/4 sleeves. Size ?Willow Ridge, denim buttoned jacket with embroidered collar, cuffs and hem. S 1XWLiz Claiborne Villager Sport, denim shirt w/floral print and snaps. Size XLAlfred Dunner, denim buttoned jacket with embroidered hem. Size 14Carol Little, denim snapped jacket. Size 16IZZI, denim zippered jacket with flannel lining, raglan sleeves and snapped cuffs. size LGHavana Jack's Cafe, denim buttoned jacket. Size LGKatana, denim snapped jacket. Size LGMorona, denim buttoned jacket. Size ? (no text)"
-            },
-            {
-                "id": "7344138881",
-                "name": "7 vintage aprons, 1952 astrology hankie",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-aprons-1952-astrology/7344138881.html",
-                "datetime": "2021-07-20 22:22",
-                "price": "$0",
-                "where": "palo alto",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_3qnzqQQw1aV_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00505_3qnzqQQw1aV_600x450.jpg",
-                    "https://images.craigslist.org/00505_3qnzqQQw1aV_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_dTkHq5SX2Ao_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_1GyyoE8Ptye_50x50c.jpg",
-                    "https://images.craigslist.org/01111_56WKdGtGgzV_50x50c.jpg",
-                    "https://images.craigslist.org/01414_3WH43B4d435_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_6jN7h35mYWY_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_1bB7NlfCOVu_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_a31OyZnu7Pt_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_7IrhPc3tL33_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_7rpA4K51nEC_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "These vintage aprons are all hand-made and have been stored in a pet-free, non-smoking household.....decorative apron, hand-crafted from 5 hankies with two little triangular pockets on top..$15.00sheer, pale pink hostess apron w/pink print pocket, 20 long.............................................$10.002-tone pink cotton kitchen apron, 18 1/2 long....................................................................$5.007-gore satin cocktail apron, 18 long..................................................................................$10.00blue cotton print, reversible kitchen apron, 19 1/2 long....................................................$10.00black and white gingham kitchen apron w/pocket, 17 1/2 long..........................................$5.00sheer black and olive cocktail apron, 18 long....................................................................$10.00UNIQUE vintage 1952 calendar hankie with an astrology theme. Great birthday gift for someone born in 1952. The days of the week are written in English and French. This all-cotton hankie measures 12 1/2 x 13 and is in near mint condition except for two tiny pin holes (August 22 and December 16).....$15.00....."
             }
         ],
         "beaded": [
@@ -300,7 +292,7 @@
                 "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-dainese-womens-leather-gloves/7346836485.html",
                 "datetime": "2021-07-20 21:36",
                 "price": "$25",
-                "where": "Hayward",
+                "where": "Hayward east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_6A14aXI2sGSz_0CI0BJ_600x450.jpg",
                 "all_images": [
@@ -918,6 +910,28 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
             },
             {
+                "id": "7345586888",
+                "name": "MXR CSP102SL Script Dyna Comp Reissue",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/san-leandro-mxr-csp102sl-dyna-comp/7345586888.html",
+                "datetime": "2021-07-20 23:31",
+                "price": "$130",
+                "where": "san leandro",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01111_8LOfxW2vQprz_0mA0cI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01111_8LOfxW2vQprz_0mA0cI_600x450.jpg",
+                    "https://images.craigslist.org/01111_8LOfxW2vQprz_0mA0cI_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_gPNU14yWv0Jz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_whNYhF6w19z_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00707_5WWihC1M0eTz_0mA0cH_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_kt63dgzGK8iz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_9UYnWlYBAsPz_0jm0ew_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Selling a mint-condition MXR CSP102SL Script Dyna Comp Reissue pedal in original box. This was a very recent purchase but I no longer have the need for a compression pedal. Below is the official information on the pedal:The Dyna Comp Compressor is famous for first-rate, no-nonsense approach to tightening up your guitar signal and creating rich, full-bodied sustain. Like the Phase 90, this little red gem is a legend among its kind. The pedals produced in the mid-\u201970s are particularly prized for their unqiue sound and performance.The Script Dyna Comp Compressor combines that old-school sound with a couple of upgrades for modern gigging convenience. Spec\u2019d from our own 1976 Dyna Comp Compressor, this pedal is built around the rare CA3080 metal can integrated circuit (IC), which yields quieter operation, greater transparency, and increased dynamic range. Thanks to its bypass status LED and AC power jack, you can put this pedal right on your board without worrying over whether the pedal is on or about to lose power.Features    Classic sound with modern upgrades    Quieter operation, greater transparency, and increased dynamic range    Bypass status LED and AC power jackNo trades. Will accept cash, PayPal, or Venmo. Local buyers only. Good luck"
+            },
+            {
                 "id": "7354058222",
                 "name": "Hammond D-152 classic organ (Hammond B-3) from 1968 - $1,800 (Arcata)",
                 "url": "https://sfbay.craigslist.org/nby/msg/d/arcata-hammond-152-classic-organ/7354058222.html",
@@ -952,27 +966,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "I have a Hammond D-152 organ that I am selling. \u00a0My reason for selling it is to clear out the space. \u00a0It's big.The Hammond is located in Arcata, about 5 hour trip from SF.  If you are serious about owning a vintage Hammond, it may be worth the trip for this one.The D-152 is electrically the same as a Hammond B-3.  The difference is that the D-100 series have a built-in amplifier, speakers, and reverb. \u00a0There are adapters available to hook it up to a Leslie, or you could make your own connections.It has the famous Hammond B-3 percussion, the same slide bars, same keyboard, the same pre-sets.Mine has a serial number of 2427, probably manufactured in 1967-1968. \u00a0Originally sold in Eureka, CA.It is over 50 years old, and everything functions. Could use cleaning and up-dating, of course. \u00a0The B-3 percussion sounds great. \u00a0Has a small amount of hum at the loud settings, possibly a pre-amp tube.Has two 12 speakers and two 8 speakers.It is missing the bass pedals. \u00a0The cabinet is in decent condition for its age -- still has a good polish, but does have a few scrapes on the corners.Includes a new unopened bottle of Hammond oil. \u00a0The instructions for modifying the presets are inside, as well as the original cloth bag of extra preset screws. \u00a0(See photos)This would be ideal for someone who wants to make a cut-down portable Hammond B3.Any questions please write. \u00a0Cash, no trades. In Arcata. \u00a0------------------------------------------------Here are some Internet links and info:http://www.tonewheelgeneral.com/agelist/agelist.php \u00a0https://ethw.org/Hammond_B3_Organ \u00a0The B3, C3, A100, A105, RT-3, and D-152 all had the same electronics that produced the famed B-3 sound.The same vibrato, chorus, and 2nd & 3rd harmonic percussion.Model B3 \u00a0 \u00a0 \u00a0(Manufactured from January 1955 through 1975)Model B2 \u00a0 \u00a0 \u00a0(Manufactured from December 1949 through December 1954)Model C3 \u00a0 \u00a0 \u00a0(Manufactured from January 1955 through 1975)Model A100 Series \u00a0 (Manufactured from ~1959 through 1965)Note: \u00a0 Model A105 continued to be manufactured until January/February 1975.Model RT3 \u00a0 \u00a0 \u00a0(Manufactured from January 1955 through 1974)Model D100 series \u00a0 \u00a0(Manufactured from July 1963 through September 1969)The Cadillac of Hammonds. Tipping the scales at 575 lbs, this beast is just an RT-3 with a built in PR-40 amplifier. \u00a0Just like an A-100 (except better)"
-            },
-            {
-                "id": "7354016872",
-                "name": "Stella Acoustic guitar 1955 with provenance",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/nicasio-stella-acoustic-guitar-1955/7354016872.html",
-                "datetime": "2021-07-20 18:38",
-                "price": "$400",
-                "where": "fairfax",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_6eAYEvWwX3xz_0k80t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00909_6eAYEvWwX3xz_0k80t2_600x450.jpg",
-                    "https://images.craigslist.org/00909_6eAYEvWwX3xz_0k80t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_aCMFTzOBotfz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_QOpwzeUeuCz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_ip7B1LQuVWPz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_lW8DxFeY5jXz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "1955-ish Stella, Letter of Authenticity from his heirs, owned by Terry Teene who was the opening act for Buddy Holly and was there that famous night \u201cthe music died\u201d in Iowa. Includes his one hit 45 record Curse of the Hearse and Pussy Galore. Other songs include: Happiness is Coming, (which he recorded under the name of Blaine Bel Aire), and We're Going to put Iowa on the Map. Terry's personal favorites are Fun To Be With and Perfect 36.He also opened for Kenny Rogers, Loretta Lynn, Larry Gatlin, Rick Dees, The Solid Gold Dancers and Dolly Parton were all the featured performers.He performed with Alice Cooper, Nazerath, Flo and Kinks, S H A N A N A, Knack, Cheap Trick, Bobby Vee and many, many more.He is in the Rockabilly Hall of Fame.  Was the 1st Ronald MacDonald. Good to fair condition, no case.He also appeared on dozens of TV shows."
             }
         ]
     }

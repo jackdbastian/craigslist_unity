@@ -54,6 +54,25 @@
         ],
         "wood": [
             {
+                "id": "7352451964",
+                "name": "Wood drawers 9x",
+                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-wood-drawers-9x/7352451964.html",
+                "datetime": "2021-07-21 06:55",
+                "price": "$60",
+                "where": "alamo square / nopa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00r0r_bUueEJUFZ5Lz_0jm0ew_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00r0r_bUueEJUFZ5Lz_0jm0ew_600x450.jpg",
+                    "https://images.craigslist.org/00r0r_bUueEJUFZ5Lz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_7uWsPNB13mQz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/01212_4EqMajG4qzDz_0jm0ew_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "9 wood drawers. From old closet built in unit. Great for custom workbenches or storage units. Sure beats trying to build your own drawers.Size is 26-3/4w 19d 5hSelling 9 together as a set. Only 1 is pictured."
+            },
+            {
                 "id": "7346811467",
                 "name": "Unopened COREtec Vinyl wood flooring: 31.76 SF",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/mountain-view-unopened-coretec-vinyl/7346811467.html",
@@ -91,110 +110,73 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Old wood framed windows, various sizes. Most have missing glass panes.15.00 to 30.00 depending on size and kind.Cash only, I do not deliver.Social Distancing you will have to load yourself what you buy.Livermore"
-            },
-            {
-                "id": "7341847484",
-                "name": "Miscellaneous barn wood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-miscellaneous-barn-wood/7341847484.html",
-                "datetime": "2021-07-20 21:35",
-                "price": "$150",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_5K4mrMovwsaz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_llXTfe0hsvuz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_51b4U46Szdrz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_kYnYBXOqy5tz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01111_2X6Z7kGAN4Nz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I have some miscellaneous barn wood. I have boards, 2x3s, 2x4s, couple 2x6s and 4x4s. They range from 2-16 feet long. Most is Doug fir some redwood. All have nail holes some have splits and notches. Price will depend on what type of wood and how much you are buying or $150 for all. Located in Livermore. I don\u2019t deliver. Cash only. No holds."
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7344124922",
-                "name": "Vintage clothes",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/gilroy-vintage-clothes/7344124922.html",
-                "datetime": "2021-07-21 06:23",
-                "price": "$100",
-                "where": "gilroy",
+                "id": "7354136763",
+                "name": "Men's Vintage Forever 21 Flags Windbreaker Size Large NEW",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-mens-vintage-forever-21-flags/7354136763.html",
+                "datetime": "2021-07-21 06:55",
+                "price": "$30",
+                "where": "oakland",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00N0N_kXlWhmFmjMnz_0g80g8_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_atfbO4R4l3Oz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_gfFNclyiy1Bz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_9fyyvtJrx0iz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00909_gC6NqMHGMsxz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_2CXZPERdywGz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_hdkLjmh3bIhz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_JKUbnv8xTVz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01111_879W5OX1Xpbz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_dHDsRPdAgmcz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_6pA55sUyQprz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00N0N_kXlWhmFmjMnz_0g80g8_600x450.jpg",
+                    "https://images.craigslist.org/00N0N_kXlWhmFmjMnz_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/00303_fd46Eacqznsz_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_8TpB5Hq1I9z_0g80g8_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Selling some vintage clothes. The brown jacket is corduroy and the black and grey jackets are members only. All are in good condition but will need a good cleaning. Haven\u2019t been worn or used in years. I would prefer to sell as a lot, so please no offers on individual items. I prefer text so please let me know if you\u2019re interested."
+                "description": "Men's vintage Forever 21 international flags pattern windbreaker jacket. Size: Large. Shell and lining: 100% polyester, Zippered front, drawstring hood. NEW and never used, no tags."
             },
             {
-                "id": "7340677440",
-                "name": "Unique vintage leather saddle purse",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-unique-vintage-leather/7340677440.html",
-                "datetime": "2021-07-21 06:22",
-                "price": "$50",
-                "where": "rohnert pk / cotati",
+                "id": "7354136899",
+                "name": "Authentic Vintage Versace Jeans Couture New York Pop Art Men's Shirt",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-authentic-vintage-versace-jeans/7354136899.html",
+                "datetime": "2021-07-21 06:55",
+                "price": "$500",
+                "where": "oakland",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_eHECrG4HPQ3z_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00r0r_j3Z8hcjJK48z_0g80g8_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00R0R_eHECrG4HPQ3z_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00R0R_eHECrG4HPQ3z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_gVL5h2lz3lAz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_6D24NiPu1sDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00909_iRWLlzzIKaaz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_9P33ekVKoMXz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_c6AjKbcJPvaz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_foiYWfJKJYz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_6NeuajqpkVxz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_7z79vDRXd9cz_0c60mF_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_5zyV5j8Gvs4z_0c60qc_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_iKnaI1ZH7vsz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00r0r_j3Z8hcjJK48z_0g80g8_600x450.jpg",
+                    "https://images.craigslist.org/00r0r_j3Z8hcjJK48z_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_dseIHVrA9zzz_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/01313_49udykvaAxFz_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_4yZ961zCqyLz_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/01515_51k5wLk6SkEz_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_hiWMMP9z6zQz_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_bWr9Iaf6eYz_0g80g8_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Tooled leather, etched pictures. Needs a strap. I put two examples of similar purses with prices.  mines in a little more rough condition (perfect for a real cowgirl) So I\u2019m only asking for $50. No holds unless paying through Venmo otherwise message when you are ready to pick up in Rohnert Park"
+                "description": "Authentic and gorgeous vintage Gianni Versace Jeans Couture New York City Pop Art men's short-sleeve shirt circa 1980's. An all over colorful print of New York City sights. Not only is it very rare, it's in excellent like-new condition. Made in Italy. 100% cotton. There is no size label but is estimated to be an XL or XXL. Measurement from armpit seam to armpit seam is 24 1/2 inches."
             },
             {
-                "id": "7352685117",
-                "name": "Vintage 1950's Silver Glitter Lucite Handbag",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/pacifica-vintage-1950s-silver-glitter/7352685117.html",
-                "datetime": "2021-07-21 01:34",
-                "price": "$150",
-                "where": "pacifica",
+                "id": "7354136493",
+                "name": "Vintage Japanese Kimono",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-japanese-kimono/7354136493.html",
+                "datetime": "2021-07-21 06:54",
+                "price": "$60",
+                "where": "oakland",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00f0f_4dkMa1LS51g_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00y0y_55BSnxUtzkLz_0g80g8_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00f0f_4dkMa1LS51g_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00f0f_4dkMa1LS51g_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_jWVdQNWJxNf_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_bacxvb6Yq3n_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_iqgVWnz45wm_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_2VOqLGnqnym_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_jv7raHSnDxh_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_cwfzg5JS4q7_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_f58Wl0Bqguy_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00y0y_55BSnxUtzkLz_0g80g8_600x450.jpg",
+                    "https://images.craigslist.org/00y0y_55BSnxUtzkLz_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_qZhwuvQPobz_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_aikr0uXFg6yz_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_3NWrfUBMiwcz_0g80g8_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_kHI3A0mJCEdz_0g80g8_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Beautiful Vintage Lucite Handbag with Silver Glitter and Sterling Clasp.  Made in Florida during the 1950's.  In excellent condition.  Extremely unique, one-of-a-kind piece.  Purchased at a vintage shop specializing in Vintage Lucite Handbags in Soho, New York City.10.5 long4.5 high5 wide6 handle drop"
+                "description": "Fabulous vintage Japanese kimono robe in excellent condition. One size."
             }
         ],
         "beaded": [
@@ -335,6 +317,29 @@
         ],
         "wedding dress": [
             {
+                "id": "7354136545",
+                "name": "Wedding Dress from Wine Country Bridal",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/rio-nido-wedding-dress-from-wine/7354136545.html",
+                "datetime": "2021-07-21 06:54",
+                "price": "$800",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00N0N_jimbJPMbVYrz_0e80t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00N0N_jimbJPMbVYrz_0e80t2_600x450.jpg",
+                    "https://images.craigslist.org/00N0N_jimbJPMbVYrz_0e80t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_li6VjjU59TCz_0e80t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_dABA6J0IKNDz_0e80t2_50x50c.jpg",
+                    "https://images.craigslist.org/00303_2zx3v0ImSgEz_0e80t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_gy9YrYuXHcSz_0e80t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_dqewMsPNlEVz_0e80t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_j22ylaCiuXxz_0e80t2_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "***Purchased for $2,000 asking $800***CasaBlanca wedding dress from wine country bridal boutique. - wedding size 12 that's been altered down. - mermaid style with trainColor: ivory-champagneWorn in May 2017 for a beach wedding. The dress is beautiful and in great condition, it just needs to be dry cleaned which is why I'm asking for $800"
+            },
+            {
                 "id": "7354075544",
                 "name": "Casablanca 1900 wedding dress",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-casablanca-1900-wedding-dress/7354075544.html",
@@ -379,43 +384,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Beautiful Melissa Sweet wedding dress, packed professional and stored since 2008. It's the Lia style (8-10) and originally cost $3,500.00. asking $375.00"
-            },
-            {
-                "id": "7343123218",
-                "name": "San Patrick 1964 Seymour Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-san-patrick-1964-seymour/7343123218.html",
-                "datetime": "2021-07-20 22:14",
-                "price": "$1",
-                "where": "santa clara",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_hAOUXgvAQN1z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_4Uc6GB9vMvcz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00404_4kVnnsNL0r0z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_1xhDvzvVew4z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_fOd2elmRSjpz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01313_5Y4PUgfXiV1z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01616_9e6PU5SMzMgz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_jaJcKqgcSZoz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00101_cUosCc4J3ppz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_cwAn6xNi0xnz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_a75jckavc6iz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_7isCBP3Sq0lz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_enin0D1Vhkuz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_bg2KvKY3uGYz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_4FX6ZSYrOTSz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_3oy8lRGYrfnz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_efmojbs3jg4z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_3o7LZNOzPemz_0c60fi_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_ntkAflrEsqz_0g80lw_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_kFVb0VZaqH7z_0bC0fu_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Seymour wedding dress from the Fashion 2015 - St Patrick collection | St. PatrickI am selling my wedding dress that I wore once. The original tag is attached still.Size is US 8, as seen on the picture. This dress is a custom with a corset waist, so the dress is actually a US size 8, but using the corset the size can go down to a 0. Please see pictures of back with corset. ASKING $1,500.00If you see this ad, then the dress is still available. Email me your cell phone and we will setup and date and time.CASH ONLY, No IO'S, NO TRADES, NO CHECKS."
             }
         ],
         "great condition": [
@@ -556,7 +524,7 @@
                 "url": "https://sfbay.craigslist.org/eby/cto/d/fairfield-2016-toyota-camry-se-black/7353405948.html",
                 "datetime": "2021-07-19 13:31",
                 "price": "$15,900",
-                "where": null,
+                "where": " east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01010_k5BOx33ojoYz_0ne0hq_600x450.jpg",
                 "all_images": [

@@ -119,6 +119,60 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7344124922",
+                "name": "Vintage clothes",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/gilroy-vintage-clothes/7344124922.html",
+                "datetime": "2021-07-21 06:23",
+                "price": "$100",
+                "where": "gilroy",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_atfbO4R4l3Oz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_gfFNclyiy1Bz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_9fyyvtJrx0iz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_gC6NqMHGMsxz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_2CXZPERdywGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_hdkLjmh3bIhz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01515_JKUbnv8xTVz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_879W5OX1Xpbz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_dHDsRPdAgmcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_6pA55sUyQprz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Selling some vintage clothes. The brown jacket is corduroy and the black and grey jackets are members only. All are in good condition but will need a good cleaning. Haven\u2019t been worn or used in years. I would prefer to sell as a lot, so please no offers on individual items. I prefer text so please let me know if you\u2019re interested."
+            },
+            {
+                "id": "7340677440",
+                "name": "Unique vintage leather saddle purse",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-unique-vintage-leather/7340677440.html",
+                "datetime": "2021-07-21 06:22",
+                "price": "$50",
+                "where": "rohnert pk / cotati",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00R0R_eHECrG4HPQ3z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00R0R_eHECrG4HPQ3z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00R0R_eHECrG4HPQ3z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_gVL5h2lz3lAz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_6D24NiPu1sDz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_iRWLlzzIKaaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_9P33ekVKoMXz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_c6AjKbcJPvaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_foiYWfJKJYz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_6NeuajqpkVxz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_7z79vDRXd9cz_0c60mF_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_5zyV5j8Gvs4z_0c60qc_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_iKnaI1ZH7vsz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Tooled leather, etched pictures. Needs a strap. I put two examples of similar purses with prices.  mines in a little more rough condition (perfect for a real cowgirl) So I\u2019m only asking for $50. No holds unless paying through Venmo otherwise message when you are ready to pick up in Rohnert Park"
+            },
+            {
                 "id": "7352685117",
                 "name": "Vintage 1950's Silver Glitter Lucite Handbag",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/pacifica-vintage-1950s-silver-glitter/7352685117.html",
@@ -141,56 +195,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Beautiful Vintage Lucite Handbag with Silver Glitter and Sterling Clasp.  Made in Florida during the 1950's.  In excellent condition.  Extremely unique, one-of-a-kind piece.  Purchased at a vintage shop specializing in Vintage Lucite Handbags in Soho, New York City.10.5 long4.5 high5 wide6 handle drop"
-            },
-            {
-                "id": "7354078068",
-                "name": "San Francisco 49ers Vintage 80's Starter Heavy Parka Small",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/moreno-valley-san-francisco-49ers/7354078068.html",
-                "datetime": "2021-07-21 01:01",
-                "price": "$175",
-                "where": null,
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_3zKZsZQyRno_0ej0g4_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00q0q_3zKZsZQyRno_0ej0g4_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_3zKZsZQyRno_0ej0g4_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_36tezDGS7b7_0eB0gT_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_3rJPkpQFL49_0g70eR_50x50c.jpg",
-                    "https://images.craigslist.org/01515_iNmVxZutSwb_0GU12G_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_hjyDIHad86u_0fQ0eK_50x50c.jpg",
-                    "https://images.craigslist.org/01212_ftAbQnOHwbU_0d20aU_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_biMR2aE0hLj_0aX09M_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_3TfVqvebuDK_0ER0Ne_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_6Uuy1FXA1pQ_0GU0K9_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "\u2022 Officially NFL-licensed Starter heavy parka jacket with quilted lining. \u2022 Pre-owned and in excellent condition, feels and looks barely worn.\u2022 No tears, rips or stains.\u2022 All zipper pulls are intact and no chipping on buttons.\u2022 Size small: approx. 28 length (bottom of collar to the hem); 23.25 chest (pit to pit); and 20.25 (pit to end of sleeve).\u2022 I'm 5'7 and 144 lbs.GO NINERS!!"
-            },
-            {
-                "id": "7354077764",
-                "name": "San Francisco 49ers Vintage 80's Starter Heavy Parka Small",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/moreno-valley-san-francisco-49ers/7354077764.html",
-                "datetime": "2021-07-21 00:56",
-                "price": "$175",
-                "where": null,
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_3zKZsZQyRno_0ej0g4_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00q0q_3zKZsZQyRno_0ej0g4_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_3zKZsZQyRno_0ej0g4_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_36tezDGS7b7_0eB0gT_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_3rJPkpQFL49_0g70eR_50x50c.jpg",
-                    "https://images.craigslist.org/01515_iNmVxZutSwb_0GU12G_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_hjyDIHad86u_0fQ0eK_50x50c.jpg",
-                    "https://images.craigslist.org/01212_ftAbQnOHwbU_0d20aU_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_biMR2aE0hLj_0aX09M_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_3TfVqvebuDK_0ER0Ne_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_6Uuy1FXA1pQ_0GU0K9_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "\u2022 Officially NFL-licensed Starter heavy parka jacket with quilted lining. \u2022 Pre-owned and in excellent condition, feels and looks barely worn.\u2022 No tears, rips or stains.\u2022 All zipper pulls are intact and no chipping on buttons.\u2022 Size small: approx. 28 length (bottom of collar to the hem); 23.25 chest (pit to pit); and 20.25 (pit to end of sleeve).\u2022 I'm 5'7 and 144 lbs.GO NINERS!!"
             }
         ],
         "beaded": [
@@ -291,7 +295,7 @@
                 "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-dainese-womens-leather-gloves/7346836485.html",
                 "datetime": "2021-07-20 21:36",
                 "price": "$25",
-                "where": "Hayward east bay area ",
+                "where": "Hayward",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_6A14aXI2sGSz_0CI0BJ_600x450.jpg",
                 "all_images": [
@@ -926,7 +930,7 @@
                 "url": "https://sfbay.craigslist.org/nby/msg/d/arcata-hammond-152-classic-organ/7354058222.html",
                 "datetime": "2021-07-20 21:49",
                 "price": "$1,800",
-                "where": "Arcata north bay / marin ",
+                "where": "Arcata",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01313_lNAhbv4tuB1z_0CI0t2_600x450.jpg",
                 "all_images": [

@@ -124,7 +124,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-antique-kimono/7349399027.html",
                 "datetime": "2021-07-20 23:29",
                 "price": "$200",
-                "where": "Burlingame city of san francisco ",
+                "where": "Burlingame",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00p0p_3sWLCyp9aDG_600x450.jpg",
                 "all_images": [
@@ -292,7 +292,7 @@
                 "url": "https://sfbay.craigslist.org/eby/clo/d/hayward-dainese-womens-leather-gloves/7346836485.html",
                 "datetime": "2021-07-20 21:36",
                 "price": "$25",
-                "where": "Hayward east bay area ",
+                "where": "Hayward",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_6A14aXI2sGSz_0CI0BJ_600x450.jpg",
                 "all_images": [
@@ -332,6 +332,31 @@
         ],
         "wedding dress": [
             {
+                "id": "7354075544",
+                "name": "Casablanca 1900 wedding dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-casablanca-1900-wedding-dress/7354075544.html",
+                "datetime": "2021-07-21 00:23",
+                "price": "$400",
+                "where": "San Ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_5yoozsEGssXz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_40kE52ndVnUz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_gh9fC6x3MEaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01010_aaHpPC6dYCPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_4rpgMtotGZz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_a1x33IchIzAz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_lU3l338E21Kz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_dRvrftjpE8Cz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Color: Champagne (shades of ivory)Size: 5.6 with no heals floor lengthLength: The entire length of the dress is about 4\u20194\u201dLabel size is 12 but it is altered to fit a street size 8 (it will fit bust 37, waist 31, hip 38)Condition: it\u2019s in great condition with no tears but I haven\u2019t dried cleaned so the hem of the dress is still dirty from the wedding at a vineyard (please see photos)Veil included. Cash or Venmo. https://www.casablancabridal.com/collections/spring-2008/style-1900/"
+            },
+            {
                 "id": "7344138436",
                 "name": "Melissa Sweet wedding dress, Lia, size 8-10",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-melissa-sweet-wedding-dress/7344138436.html",
@@ -356,43 +381,6 @@
                 "id": "7343123218",
                 "name": "San Patrick 1964 Seymour Wedding Dress",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-san-patrick-1964-seymour/7343123218.html",
-                "datetime": "2021-07-20 22:14",
-                "price": "$1",
-                "where": "santa clara",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_hAOUXgvAQN1z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_4Uc6GB9vMvcz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00404_4kVnnsNL0r0z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_1xhDvzvVew4z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_fOd2elmRSjpz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01313_5Y4PUgfXiV1z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01616_9e6PU5SMzMgz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_jaJcKqgcSZoz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00101_cUosCc4J3ppz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_cwAn6xNi0xnz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_a75jckavc6iz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_7isCBP3Sq0lz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_enin0D1Vhkuz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_bg2KvKY3uGYz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_4FX6ZSYrOTSz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_3oy8lRGYrfnz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_efmojbs3jg4z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_3o7LZNOzPemz_0c60fi_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_ntkAflrEsqz_0g80lw_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_kFVb0VZaqH7z_0bC0fu_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Seymour wedding dress from the Fashion 2015 - St Patrick collection | St. PatrickI am selling my wedding dress that I wore once. The original tag is attached still.Size is US 8, as seen on the picture. This dress is a custom with a corset waist, so the dress is actually a US size 8, but using the corset the size can go down to a 0. Please see pictures of back with corset. ASKING $1,500.00If you see this ad, then the dress is still available. Email me your cell phone and we will setup and date and time.CASH ONLY, No IO'S, NO TRADES, NO CHECKS."
-            },
-            {
-                "id": "7348455146",
-                "name": "San Patrick 1964 Seymour Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-san-patrick-1964-seymour/7348455146.html",
                 "datetime": "2021-07-20 22:14",
                 "price": "$1",
                 "where": "santa clara",
@@ -867,24 +855,20 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$400"
             },
             {
-                "id": "7351711271",
-                "name": "Leslie Speaker 971",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/hayward-leslie-speaker-971/7351711271.html",
-                "datetime": "2021-07-20 22:20",
-                "price": "$1,800",
-                "where": "hayward / castro valley",
+                "id": "7354073742",
+                "name": "Guitar amp repair",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/richmond-guitar-amp-repair/7354073742.html",
+                "datetime": "2021-07-21 00:19",
+                "price": "$100",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00a0a_e85wMh6Srgkz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00X0X_csiF2fOMrUIz_0jc0go_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00a0a_e85wMh6Srgkz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00a0a_e85wMh6Srgkz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_1cVJt87EheYz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_c0wCHtnwapDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00000_iD0AeuHMqBMz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00X0X_csiF2fOMrUIz_0jc0go_600x450.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "This is a high powered 300-watt leslie speaker, designed to be 2X's as loud as 40-watt tube leslie. This single-channel leslie connects to instruments (Diversi, Nord, Korg, Yamaha, Roland etc.,) through the 11-pin connector or \u00bc jack. It has controls for bass, treble and volume, it has it's own AC plug, a footswitch-jack and \u00bc\u201d line-out jack. The internal speaker(s) is a massive 15\u201d woofer and high-power handling ferro-fluid treble-driver. Its' rugged solid-state power amp provides long life, reliability and plenty of power for professional applications. It's the same size as (but heavier than) the 122, 147 and 122XB. The 971 is a great sounding leslie and it's available for audition and inspection by appointment. The cabinet is beautiful red-walnut (footswitch will be included with purchase)."
+                "description": "ALL tube amps were built to be serviced every 10-15 years. If a vintage amp hasn't been serviced since it was new, it's time. Or if it's just making too much noise I can fix that too. There is no reason an old Fender can't run stone quiet if serviced properly and fixed in the traditional fashion with the right parts. Specializing in vintage amps, I service them the way that preserves value and maximizes tone. If your amp is 40 or 50 years old, there is no reason it can't run another 40 or 50 years. If it worked right once, it can work right again.If your vintage amp is needed to gig regularly and provide your income, I can also skip some of the vintage schtick and make it bulletproof with all new parts. That's up to you.If you have a re-issue I'm also happy to take a look. Lots can be done to help a printed circuit board amp sound better, or just be serviced as all tube amps routinely require. However, unlike a vintage amp that can be fixed even if it's blown to bits, fixing a blown to bits printed circuit board is usually not worth it. General Prices Vintage Amps (handwired)-Basic service of 40 watts or lower amp is $125+cost of parts-Above 40 watts $180+ cost of parts-Add $40 to above prices for printed circuit board amps.(Some prices may vary slightly for odd situations)If your old Fender needs more than basic service, like the board is conductive or has moisture damage, a full re-build/refurbish can cost you, but it's well worth preserving the old parts if they can be salvaged and still sound great. Don't let some tech tell you ALL the caps are bad or ALL the tubes are bad. Usually not the case, that is a bunch of malarky techs use to make money. This is a side gig for me, I don't need to eek out another 100$ to eat.Services include;Voicing the ampTube socketsElectrolytic capsBad pots fixed or replacedReverbNo signal/No soundTransformer replacement3 prong cord changed (at your discretion)Tubes tested and replaced where needed (usually not all of them need it)Speaker swapsBad JacksMany other repairs...What makes me different;1. I didn't learn this on the internet, where more than half the information out there is just silly folklore.2. I do this because I love it. I have a real job, and don't NEED to do it.3. I'm a musician, and I can hear a lot of nuance that a plain old electrician can't. I know what TONE is. I'm willing to listen to your tone as well, and help you find your own tonal nirvana. 4. Although I'm not above doing mods, if your amp has been modded to kingdom come over many years, you may find putting it back to original stock sounds better. 95% of the time, that's just how it is. I love putting a chop job back to stock and blowing it's owner's mind.5. I don't mark up parts. I only charge cost for parts. For new tubes, given their fickle nature I provide you with direct sources. That way if there is an issue with a defective new tube you can deal directly with the seller for a replacement. I'll be happy to re-bias the amp at no charge after new tubes get replaced should that be the case.I have a very large assortment of vintage tubes if you would like to roll a few through your amp for some different tones. No problem. My location allows you to play as loud as you want.I stand behind all my work and any vintage tubes for 90 days, sometimes more if a minor previously undetected issue arises. Send me any questions. I can take emergency cases if I'm available for a small rush fee. Plentiful references upon request.Dumble Train Wreck Fender Marshall Vox Ampeg Reverb Deluxe Bandmaster Bassman Tremolux Tweed Twin Pro Reverb JCM 800 Vibrolux Vibroverb VibroChamp Champ Tweed Blackface Silverface Woody Brownface Hot Rod Deluxe Blues Jr. Traynor"
             }
         ],
         "famous": [

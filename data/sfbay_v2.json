@@ -93,7 +93,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-beautiful-solid-wood-door/7347130126.html",
                 "datetime": "2021-07-21 21:30",
                 "price": "$200",
-                "where": "San jose",
+                "where": "San jose south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00p0p_hT5EjIWsXXDz_0cW0of_600x450.jpg",
                 "all_images": [
@@ -107,6 +107,38 @@
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7354543578",
+                "name": "Gucci vintage near new briefcase",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/danville-gucci-vintage-near-new/7354543578.html",
+                "datetime": "2021-07-22 00:19",
+                "price": "$699",
+                "where": "danville / san ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00f0f_qR5cHPtSXI_0t20t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00f0f_qR5cHPtSXI_0t20t2_600x450.jpg",
+                    "https://images.craigslist.org/00f0f_qR5cHPtSXI_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_jWcY4PivsDt_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_9jEAe7kurHr_0CI0t1_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_5n4InfUOFKG_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_9SxhaaoxnOL_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_jehQIXNDXOS_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_f0s1hXNi8o6_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_1R5ZgJ60A4q_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00505_7XmFVbpEso1_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_cObTUTjec9y_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_gy4F4A1aHFS_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_hMPovnyK2cr_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_lhrXNMb8sar_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_aEWmAkzrZyA_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_idnjAW1g1wR_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01717_k92R8oc6CfC_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "A very rare vintage Gucci monogram briefcase in near new condition. Old label.I bought this from Gucci 30 years ago and used it a few times. Very little wear and the leather aroma is like it just came out from the factory. Lamb skin lined interior is simple beautiful. The craftsmanship is no longer seen in corporate owned Gucci. This was made when the House of Gucci was still a thriving independent force.Please feel free to ask question or for more images. I am open to reasonable offers.Both keys in the pouch. Original Gucci box."
+            },
             {
                 "id": "7350872713",
                 "name": "Vintage flower purse and purple wallet",
@@ -145,28 +177,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage 70\u2019s Ray-Ban glasses and caseTortoiseshell Vagabond styleUnisexGlasses with case $85Please reply with your contact information if interestedPlease leave your best vintage information for a return call/text"
-            },
-            {
-                "id": "7342952024",
-                "name": "Vintage Playboy & Pierre Cardon sun glasses",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-playboy-pierre-cardon/7342952024.html",
-                "datetime": "2021-07-21 21:37",
-                "price": "$30",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00K0K_kJpt2axGcMMz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00K0K_kJpt2axGcMMz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00K0K_kJpt2axGcMMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00808_fyaVJK9qfFyz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_dqHfHEG4H2Iz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_8tLq1GJjx2Ez_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_35hv2MuB9Sqz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_4kK1QAP0BkKz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage 70s Playboy Aviator sun glasses $30Vintage Pierre Cardin Sun Glasses $50Both In excellent conditionPlease leave your contact information if interested.Thanks!"
             }
         ],
         "beaded": [
@@ -245,6 +255,46 @@
         ],
         "gloves": [
             {
+                "id": "7352827777",
+                "name": "Exceptional famous brand new leather gloves",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/emeryville-exceptional-famous-brand-new/7352827777.html",
+                "datetime": "2021-07-22 00:06",
+                "price": "$0",
+                "where": "mountain view",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Y0Y_7rAi4doxnZz_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Y0Y_7rAi4doxnZz_600x450.jpg",
+                    "https://images.craigslist.org/00Y0Y_7rAi4doxnZz_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_jezswYZueBJ_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_6di5Ccnr56b_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_hdgRMdPoqmz_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Gorgeous Butter Leather Stylish New Gloves by  Famous Michael Kors for unbeatable bargain deal - $35 each ($200.00 each on Amazon)Double Brown Leather Women's Jacket for 80% off -$25"
+            },
+            {
+                "id": "7352940530",
+                "name": "Exclusive Quality Brand for the best Leather Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-exclusive-quality-brand-for/7352940530.html",
+                "datetime": "2021-07-22 00:03",
+                "price": "$0",
+                "where": "emeryville",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00O0O_9QaPJDUUssl_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00O0O_9QaPJDUUssl_600x450.jpg",
+                    "https://images.craigslist.org/00O0O_9QaPJDUUssl_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_6di5Ccnr56b_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_7rAi4doxnZz_50x50c.jpg",
+                    "https://images.craigslist.org/01616_eKiULFLV3Lc_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "2 NEW pair of exceptional butter leather gorgeous gloves by famous Michael Kors on amazon listings - $200 each, selling for unbeatable price  - $35 eachExcellent  double women's jacket for 80% off - $25.00"
+            },
+            {
                 "id": "7353090212",
                 "name": "Exclusive Quality Brand for the best Leather Gloves",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/emeryville-exclusive-quality-brand-for/7353090212.html",
@@ -263,46 +313,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "2 NEW pair of exceptional butter leather gorgeous gloves by famous Michael Kors on amazon listings - $200 each, selling for unbeatable price  - $35 eachExcellent  double women's jacket for 80% off - $25.00"
-            },
-            {
-                "id": "7353091144",
-                "name": "Exceptional Leather Gloves and more",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/emeryville-exceptional-leather-gloves/7353091144.html",
-                "datetime": "2021-07-21 23:41",
-                "price": "$0",
-                "where": "cupertino",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00O0O_9QaPJDUUssl_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00O0O_9QaPJDUUssl_600x450.jpg",
-                    "https://images.craigslist.org/00O0O_9QaPJDUUssl_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_7rAi4doxnZz_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_hdgRMdPoqmz_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_gXJWgC8EQ2E_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "2 Gorgeous Butter Leather Stylish New Gloves by  Famous Michael Kors  - $50.00 ($200 on Amazon)Double Brown Leather Jacket  - $25.00 (originally - $250)"
-            },
-            {
-                "id": "7353406205",
-                "name": "Excellent Fashion Real Leather gloves",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/emeryville-excellent-fashion-real/7353406205.html",
-                "datetime": "2021-07-21 23:34",
-                "price": "$0",
-                "where": "laurel hts / presidio",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00g0g_9M6EgEsnyBb_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00g0g_9M6EgEsnyBb_600x450.jpg",
-                    "https://images.craigslist.org/00g0g_9M6EgEsnyBb_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_9QaPJDUUssl_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_6di5Ccnr56b_50x50c.jpg",
-                    "https://images.craigslist.org/01616_eKiULFLV3Lc_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Exceptional Beauty Butter Leather 2 New Pairs Gloves by the very famous Michael Kors - $35 each ($200.00 on Amazon)Double  Real Leather Jacket with many pockets, zippers,  for bargain  - $25.00  (ORIGINALLY - $250)"
             }
         ],
         "wedding dress": [
@@ -588,29 +598,44 @@
                 "description": "2004 Toyota Prius Hybrid. Generation 2. It has faded paint. Please view all the pictures. Runs great. The engine is super quiet and purrs like a sewing machine. Clean title196,010 original milesCatalytic converter guard protection (anti-theft cat shield)LeatherPower windowsPower door locksPower mirrorsCruise controlLED headlightsCold A/CUpgraded stereo and speakersSmog just completed for the sale 07/20/2021Current registration With 196k miles, it runs amazing but is certainly isn't a looker. It has a few dings and scratches and most notably, the paint is fading due to age. Mostly on the left side and on the rear bumper. Also, there are a few random drops of paint on the right side. (A homeless guy decided to do his art project next to it a few years back. sigh..) If you're patient, you can get it off without damaging the paint but it takes a long time and I simply don't have the patience. Again, please look at ALL the pictures. If you're looking for a pretty car, this is not it. If you're looking for a very reliable and great running Prius, this is it!On a positive note, The hybrid battery is very healthy and charges to the full green hash mark. And, the leather interior looks like it just came off the showroom floor. Absolutely gorgeous! Yet again, please view all the pictures.$3900 Firm. I've priced it fairly for someone looking for a great commuter. Please e-mail and include your phone number and availability. Thank you."
             },
             {
-                "id": "7354492099",
-                "name": "2003 Chrysler minivan Runs great",
-                "url": "https://sfbay.craigslist.org/eby/cto/d/oakland-2003-chrysler-minivan-runs-great/7354492099.html",
-                "datetime": "2021-07-21 18:58",
-                "price": "$2,600",
-                "where": null,
+                "id": "7354441915",
+                "name": "\ud83d\udca5 Great Deal \ud83d\udca5 2015 Lexus RX 350 FWD 4dr",
+                "url": "https://sfbay.craigslist.org/nby/ctd/d/santa-rosa-great-deal-lexus-rx-350-fwd/7354441915.html",
+                "datetime": "2021-07-21 16:31",
+                "price": "$20,950",
+                "where": "2015 Lexus RX 350 FWD 4dr",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00000_gInX7hZitfqz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00T0T_7a2suSEDde6z_09G07g_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00000_gInX7hZitfqz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00000_gInX7hZitfqz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_fvEuXMhMNGez_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_d8hM22VRxUoz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_4RLot2fhy3bz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_aR7TO2twScfz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_3RuKwToWJ9Vz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_6n4Gr3IbF20z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_fb2gyev4C4dz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_i523iDawXYRz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00T0T_7a2suSEDde6z_09G07g_600x450.jpg",
+                    "https://images.craigslist.org/00T0T_7a2suSEDde6z_09G07g_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_7ZPBUOLtddOz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_bPkPhrxa5w1z_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/01717_aPco5qI06nkz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00101_gokGJAoRGQmz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_8r5wMD34luDz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_7yyJ4TrB36Xz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_hqHe83mfgcAz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_b49CWChfjyMz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_cSbhleBj4NCz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_lbl5LVQPmnjz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_gGHFl1BYS0Ez_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_dvZEscs6qiRz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_5rEvxeegTfxz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_bFNLNs18WNxz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00000_cXm5jtsQIGEz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00606_4KGPq6vweyTz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_ilhwfiybR4Xz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_bkILI9sdyE8z_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_2IEv5PCZv1Iz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/01212_kdSlvJt5MFpz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_6Idr4Q5JEhDz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_jZtua4q4zcSz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_bJtQGL3IjR3z_0cU09G_50x50c.jpg"
                 ],
                 "query": "drives great",
                 "category": "cta",
-                "description": "Automatic  Transmission,142 High way Miles, Stereo Player, Power  windows,Great Gas saver, Fairly New Tires, Fairly new struts, Good brakes, AC Air condition works great,Clean inside ,Clean Title , currently Registered 2021,Start and Drive, Please contact   thank you."
+                "description": "2015 Lexus RX 350 FWD 4dr SUV Ready To Upgrade Your Ride Today? We Make It Fast & Easy!Call (or text) \u260f (707) 578\u22121592 Angel Motors 3160 Santa Rosa Ave, Santa Rosa, CA 95407Or use the link belowto view more information!https://angelmotors.net/Year : 2015Make : LexusModel : RX 350Mileage : 115,603 milesTransmission : AutomaticExterior Color : SilverInterior Color : Series : SUVDrivetrain :  FWDCondition : ExcellentVIN : 2T2ZK1BA9FC158697Stock ID : A2799Engine : 3.5L 270.0hp> > > $20,950 < < < Description of this Lexus RX 350 FWD 4dr SUVAngel Motors is proud to offer this Silver Lining Metallic 2015 Lexus RX350 with only 115,603 on the odometer. This is a great SUV for someone looking for a premium ride without a premium price tag. These RX350s also have a great reputation for being incredibly reliable. This RX350 comes equipped with tons of great features including Power Tilt/Telescoping Steering Column, Day-Night Auto-Dimming Rearview Mirror, Deep Tinted Glass, Fully Automatic Projector Beam Halogen Daytime Running Headlamps w/Delay-Off and more.  If this looks like the right car for you, don't hesitate to schedule your test drive today or give us a call with any questions!  Specs: Mechanical and Powertrain: Engine: 3.5L 6-Cylinder 24-Valve Dual VVT-iTransmission: 6-Spd Sequential Shift Auto (ECT-i) -inc: multi-mode and snow mode4.398 Axle RatioGVWR: 5,560 lbsFront-Wheel DriveGas-Pressurized Shock AbsorbersFront And Rear Anti-Roll BarsElectric Power-Assist Speed-Sensing Steering19.2 Gal. Fuel TankSingle Stainless Steel ExhaustStrut Front Suspension w/Coil SpringsDouble Wishbone Rear Suspension w/Coil Springs4-Wheel Disc Brakes w/4-Wheel ABS, Front Vented Discs, Brake Assist and Hill Hold ControlSafety: Side Impact BeamsLow Tire Pressure WarningDual Stage Driver And Passenger Front AirbagsCurtain 1st And 2nd Row AirbagsAirbag Occupancy SensorRear Child Safety LocksFirst Aid KitOutboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3 Point, Height Adjusters and PretensionersInterior: Driver SeatPassenger Seat40-20-40 Folding Split-Bench Front Facing Manual Reclining Fold Forward Seat back Rear Seat w/Manual Fore/AftPower Tilt/Telescoping Steering ColumnFront Cup holderRear Cup holderCompassValet FunctionHomeLink Garage Door TransmitterCruise Control w/Steering Wheel ControlsDual Zone Front Automatic Air ConditioningHVAC -inc: Under seat Ducts and Console DuctsIlluminated Locking Glove BoxDriver Foot RestInterior Trim -inc: Metal-Look Instrument Panel Insert, Genuine Wood Door Panel Insert, Genuine Wood Console Insert and Chrome Interior AccentsFull Cloth HeadlinerCloth Door Trim InsertLeather/Chrome Gear Shifter MaterialDay-Night Auto-Dimming Rearview MirrorDriver And Passenger Visor Vanity Mirrors w/Driver And Passenger IlluminationFull Floor Console w/Covered Storage, Mini Overhead Console w/Storage and 3 12V DC Power OutletsFront And Rear Map LightsFade-To-Off Interior LightingCarpet Floor Trim and Carpet Trunk Lid/Rear Cargo Door TrimTrunk/Hatch Auto-LatchCargo Area Concealed StorageRoll-Up Cargo CoverCargo Space LightsTracker SystemDriver And Passenger Door BinsDelayed Accessory PowerOutside Temp GaugeAnalog DisplayManual Anti-Whiplash Adjustable Front Head Restraints and Manual Adjustable Rear Head RestraintsFront Center Armrest and Rear Center Armrest2 Seat back Storage PocketsPerimeter AlarmEngine Immobilizer3 12V DC Power OutletsAir FiltrationExterior: Steel Spare WheelCompact Spare Tire Mounted Inside Under CargoClear coat PaintBody-Colored Front BumperBody-Colored Rear Step BumperChrome Body side Insert and Black Body side CladdingChrome Side Windows TrimBody-Colored Door HandlesBody-Colored Power w/Tilt Down Heated Side Mirrors w/Manual Folding and Turn Signal IndicatorFixed Rear Window w/Fixed Interval Wiper and DefrosterDeep Tinted GlassFront Windshield -inc: Sun Visor StripFully Galvanized Steel PanelsLip SpoilerColored Grille w/Chrome SurroundFully Automatic Projector Beam Halogen Daytime Running Headlamps w/Delay-OffPerimeter/Approach LightsLED Brake lightsFind larger pictures of our entire inventory at our website  Angel Motors -   is an independent auto dealership specializing in pre-owned cars. We have a large inventory of pre-owned cars in the North Bay. We have been in business for over 30 years and are dedicated to quality customer service and integrity.ANGEL MOTORS   - 3160 Santa Rosa Ave., Santa Rosa, CA 95407707.578.1592  707.526.2162 fax HOURS: Mon-Sat 10:00-6:00pm, Sunday 10:00am-4:00pm \ud83d\udcac\ud83d\udcac\ud83d\udcac HABLAMOS ESPANOL. FINANCIAMIENTO FACIL. \ud83d\udcac\ud83d\udcac\ud83d\udcacTODOS CALIFICAN NO IMPORTA SU CREDITOPara mas informacion, llamar al \u260e (707) 392-2770Optional equipment of this Lexus RX 350 FWD 4dr SUV   Call (or Text)  (707) 578\u22121592 for quick answers to your questions about this Lexus RX 350 FWD 4dr.***** Lexus RX 350 FWD 4dr SUV *****2016, 2017, 2018, 2015, 2014, 2013, 2012, Lexus, RX 350, ES 350, IS-F, IS 250, IS 350, [Model5]Disclaimer :  * Please Note All Inventory And Inventory Pricing Is Subject To Change Please See Dealer For Further Details * Ready To Upgrade Your Ride Today? We Make It Fast & Easy!Call (or text) \u260f (707) 578\u22121592 *Lexus* *ES 350* *IS-F* *Lexus* IS 250* Lexus* *IS 350* *Automatic* *FWD 4dr* *Lexus* *Silver* *Automatic* *SUV* *3.5L 270.0hp* *FWD* *Angel Motors* *Call us today at (707) 578\u22121592* *Lexus RX 350 FWD 4dr SUV FWD 3.5L 270.0hp* *Lexus* *FWD 4dr* *Lexus RX 350 FWD 4dr SUV FWD 3.5L 270.0hp**Lexus* *Silver* *Automatic* *SUV* *3.5L 270.0hp* *FWD* *Call us today at (707) 578\u22121592* *Lexus* *Silver* *Automatic* *Angel Motors* *SUV* *3.5L 270.0hp* 2011 2010 2009 2008 2007 2006"
             }
         ],
         "fix up": [
@@ -859,25 +884,23 @@
         ],
         "famous": [
             {
-                "id": "7343867981",
-                "name": "Famous FS-1 Soprano Ukulele OBO",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/napa-famous-fs-soprano-ukulele-obo/7343867981.html",
-                "datetime": "2021-07-14 15:26",
-                "price": "$190",
-                "where": "napa county",
+                "id": "7352828425",
+                "name": "Last century beautiful Violin",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-last-century-beautiful-violin/7352828425.html",
+                "datetime": "2021-07-22 00:06",
+                "price": "$7,500",
+                "where": "inner sunset / UCSF",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_izIvoOFL2MH_07K0ak_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00O0O_kXMTcQhGpZQ_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00C0C_izIvoOFL2MH_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_izIvoOFL2MH_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01212_atxu8WckWzo_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_equUQMmTfxo_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01717_cAckhZ990o3_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_8hVyVMoQgEX_0ak07K_50x50c.jpg"
+                    "https://images.craigslist.org/00O0O_kXMTcQhGpZQ_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00O0O_kXMTcQhGpZQ_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_ae8MG9DMsxF_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_lsZc2cdXRmT_50x50c.jpg"
                 ],
                 "query": "famous",
                 "category": "msa",
-                "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most sold-wood ukes. Extremely light, with excellent projection and beautiful resonance. The FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Nice, low action and great intonation. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail. One-of-a-kind cloth gig bag included. Reasonable offers are welcome."
+                "description": "Excellent quality Violin from 20th century, made in Europe with official appraiser was played for more , than 50 years by professional violinist, no holes, no cracks,in very perfect condition, with deep violin sound Great Bow is including in a package -  Bargain Deal                               INCLUDING Exceptional Collections of Violin Library Music brought from Europe with bowing-fingering by world famous violinist of last century"
             },
             {
                 "id": "7354468717",

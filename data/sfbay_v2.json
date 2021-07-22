@@ -854,16 +854,15 @@
                 "price": "$1,599",
                 "where": "san jose south",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_bMArQrJxj5kz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00u0u_dDPLHtmyssBz_0By0s8_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01010_bMArQrJxj5kz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_dDPLHtmyssBz_0By0s8_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_dDPLHtmyssBz_0By0s8_50x50c.jpg",
                     "https://images.craigslist.org/01010_bMArQrJxj5kz_0CI0t2_50x50c.jpg",
                     "https://images.craigslist.org/01313_jQ1WdwKWqkfz_0CI0t2_50x50c.jpg",
                     "https://images.craigslist.org/00V0V_embmwN9EUGvz_0CI0t2_50x50c.jpg",
                     "https://images.craigslist.org/00e0e_49NQjqYB0axz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_3rLP3ODp9Pkz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_cxhtpT2QHUqz_0rL06o_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_dDPLHtmyssBz_0By0s8_50x50c.jpg"
+                    "https://images.craigslist.org/00Z0Z_3rLP3ODp9Pkz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",

@@ -54,6 +54,22 @@
         ],
         "wood": [
             {
+                "id": "7347130126",
+                "name": "Beautiful solid wood door.",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-beautiful-solid-wood-door/7347130126.html",
+                "datetime": "2021-07-21 21:30",
+                "price": "$200",
+                "where": "San jose south bay area ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00p0p_hT5EjIWsXXDz_0cW0of_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00p0p_hT5EjIWsXXDz_0cW0of_600x450.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Beautiful solid wood door in very good condition.  It has double pane windows."
+            },
+            {
                 "id": "7352388865",
                 "name": "1920s solid wood doors with glass knobs",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/redwood-city-1920s-solid-wood-doors/7352388865.html",
@@ -97,93 +113,94 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Wood slabs in many types of wood...redwood,cedar,walnut etc.lots of solid cherry wood flooring...cut wood in any shape or size....wood for any project...tables,shelves,clocks..any questions MUST leave number...NO number...NO response...thank you"
-            },
-            {
-                "id": "7354512721",
-                "name": "Jeldwen  window",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/redwood-city-jeldwen-window/7354512721.html",
-                "datetime": "2021-07-21 20:26",
-                "price": "$500",
-                "where": "redwood city",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00b0b_3KYu9IZlaVvz_0CI0sV_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00b0b_3KYu9IZlaVvz_0CI0sV_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "For sale brand new jeldwen  aluminum white clad wood window 1/2 fixed other half double hung horizontal grids SDL insulated glass 5-0X4-6 meets egress net frame size 62 7/8 X 55 7/8\u201d my cost $897 selling for $500 OBO.Still in the wrapping. Contact Pierre between the hours of 9 AM to 8 PM I take email and phone calls onlyNo texting!"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7342891328",
-                "name": "vintage Neo Nostalgia dress, large, beautiful pattern",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-neo-nostalgia-dress/7342891328.html",
-                "datetime": "2021-07-21 20:59",
-                "price": "$20",
-                "where": "berkeley",
+                "id": "7350872713",
+                "name": "Vintage flower purse and purple wallet",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasant-hill-vintage-flower-purse-and/7350872713.html",
+                "datetime": "2021-07-21 21:42",
+                "price": "$25",
+                "where": "Pleasant Hill east bay area ",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_aTxiQJ04Ctjz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00M0M_3XiouqAp4dRz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00909_aTxiQJ04Ctjz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00909_aTxiQJ04Ctjz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_5SA5iRgqhGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_jPRUh155g6Rz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_8i76Mgk7Pc8z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_8xdk1245Q8Vz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_8GgL1zwpKQz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_4eUxl9aMeq9z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_5BS4GerRCNTz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_cZAOUV81DqSz_0lM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00M0M_3XiouqAp4dRz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00M0M_3XiouqAp4dRz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_8ctdj93k4biz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": ".Luscious rayon velvet tiered skirt, mid length, subtle black/silver/gold/rose floral pattern. 36 longSize large, but since it's got an elastic drawstring, it will fit multiple sizes. Supple drape and swirl. Perfect for holidays or anytime you\u2019re feeling velvety. excellent condition"
+                "description": "Selling Black flower purse that is vintage and an express purple Slim wallet. \ufffc"
             },
             {
-                "id": "7342903424",
-                "name": "vintage mens Adidas ATP tennis jacket mens's Large",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-vintage-mens-adidas-atp-tennis/7342903424.html",
-                "datetime": "2021-07-21 20:58",
-                "price": "$99",
-                "where": "berkeley",
+                "id": "7342948460",
+                "name": "Vintage Ray-Ban Glasses and case",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-ray-ban-glasses-and/7342948460.html",
+                "datetime": "2021-07-21 21:38",
+                "price": "$85",
+                "where": "san mateo",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_2mqTM6qIIOj_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00X0X_7KPg7t2FOSgz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00909_2mqTM6qIIOj_600x450.jpg",
-                    "https://images.craigslist.org/00909_2mqTM6qIIOj_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_gd3YhvviGt6_50x50c.jpg",
-                    "https://images.craigslist.org/01616_8yZBEZi4Ows_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_dc0yVpriyEZ_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_gDwGkeZ4688_50x50c.jpg",
-                    "https://images.craigslist.org/00202_cFEPfO4GlHv_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_lNxygrrJOA0_50x50c.jpg"
+                    "https://images.craigslist.org/00X0X_7KPg7t2FOSgz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00X0X_7KPg7t2FOSgz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01010_lUhB5kJtFpLz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_5XnOLm26zF5z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_2RpDfNgtrvdz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_eOAaYifcrt3z_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Men's Large - $99 > rare ATP Ventex made in FranceThis is a rare, authentic Association of Tennis Professionals vintage Adidas jacketit's not some re-make, or a knock-offit's vintage, real, and in great shapein Berkeley'''''''''''''mcenroe borg connors sampras lendl edberg roddick becker federer nadal"
+                "description": "Vintage 70\u2019s Ray-Ban glasses and caseTortoiseshell Vagabond styleUnisexGlasses with case $85Please reply with your contact information if interestedPlease leave your best vintage information for a return call/text"
             },
             {
-                "id": "7352574543",
-                "name": "LADIES VINTAGE SHOE STAYS",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/ladies-vintage-shoe-stays/7352574543.html",
-                "datetime": "2021-07-21 20:55",
-                "price": "$4",
-                "where": "corte madera",
+                "id": "7342952024",
+                "name": "Vintage Playboy & Pierre Cardon sun glasses",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-playboy-pierre-cardon/7342952024.html",
+                "datetime": "2021-07-21 21:37",
+                "price": "$30",
+                "where": "san mateo",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01313_8KDUBpwCQ8c_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00K0K_kJpt2axGcMMz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01313_8KDUBpwCQ8c_600x450.jpg"
+                    "https://images.craigslist.org/00K0K_kJpt2axGcMMz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00K0K_kJpt2axGcMMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00808_fyaVJK9qfFyz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_dqHfHEG4H2Iz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_8tLq1GJjx2Ez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_35hv2MuB9Sqz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_4kK1QAP0BkKz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "I have a collection of wonderful vintage shoes stays or shoe trees, as some call them, in a variety of colors. They are wonderful for keeping your shoes in good condition and looking new."
+                "description": "Vintage 70s Playboy Aviator sun glasses $30Vintage Pierre Cardin Sun Glasses $50Both In excellent conditionPlease leave your contact information if interested.Thanks!"
             }
         ],
         "beaded": [
+            {
+                "id": "7347852854",
+                "name": "Beaded Drama Sleeveless Dress",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/napa-beaded-drama-sleeveless-dress/7347852854.html",
+                "datetime": "2021-07-21 21:51",
+                "price": "$10",
+                "where": "napa county",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_ig9QfqoUL69z_0dY0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_bC8cGN1WnvLz_0ev0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_KktgARHovlz_0q20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_92hb8tbAbI3z_0qX0pZ_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "Selling a used Beaded Drama Sleeveless Dress in great condition size is 14 made off 100% Polyester Color is dark grey. If you have any questions or interested email me with your contact info and I will get back to you.Thanks For LookingDan"
+            },
             {
                 "id": "7343338298",
                 "name": "Wedding Gown: Exquisitely Embroidered and Beaded Bridal",
@@ -235,32 +252,6 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "\u2022\tBahama Water Blue, nice reminder or that fun Caribbean vacation and you will get plenty of compliments.  \u2022\tIn very good condition, any blemishes are natural, elastic to fit any wrist, three strands joined by smooth center piece, layered measures around 1.5\u201d wide.To avoid spam and stay safe, it\u2019s still available and can be purchased at Call Jannie on eBay"
-            },
-            {
-                "id": "7351510083",
-                "name": "Corello Brazilian Lamb Leather Beaded Hobo Paisley Shoulder Bag Purse",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-corello-brazilian-lamb/7351510083.html",
-                "datetime": "2021-07-21 12:22",
-                "price": "$75",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_l4WvPxvBUp2_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_aJNIBEgXNB2_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_qV0lYllUk8_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_bncLHeFGo8t_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_krQ5FtzyIHY_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_6zH9mjEmLIP_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_fx5pksdsiQd_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_9y805IUYQ6Y_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_gdi4RCjtKNr_0hq0kF_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "This is a new, with store tag attached, purse by the Brazilian brand Corello. It features a fabric paisley exterior covered in various seed beads and a few iridescent sequins in orange, fuchsia, greens, aqua, lavender, and powder blue. The handles and interior zip pocket opening are taupe lamb leather while the interior is a ribbed ivory fabric. The purse has a single magnetic closure.It measures approximately 10 tall x 14 wide with an 8 handle drop. The tag appears to have a handwritten date of June 11th, 2005 (Brazil's date format of DD/MM/YY).------Please call/text   or email anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
             }
         ],
         "gloves": [
@@ -403,6 +394,25 @@
         ],
         "great condition": [
             {
+                "id": "7346710218",
+                "name": "Size 9 Uggs in great condition",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-size-uggs-in-great-condition/7346710218.html",
+                "datetime": "2021-07-21 21:31",
+                "price": "$50",
+                "where": "95128",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_j0ogjODdE3az_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_j0ogjODdE3az_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_j0ogjODdE3az_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_bA6Uw9OC5CYz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_4v9guObihifz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "Size 9 Uggs in good condition"
+            },
+            {
                 "id": "7354500751",
                 "name": "GREAT CONDITION Crocs LiteRide size 11 Slip On Women's",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/saratoga-great-condition-crocs-literide/7354500751.html",
@@ -436,26 +446,6 @@
                 "query": "great condition",
                 "category": "cla",
                 "description": "Selling my tortoise Oakley Gascan's because I don't really wear them anymore. Great condition and look awesome!"
-            },
-            {
-                "id": "7351178945",
-                "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-authentic-coach-black-leather/7351178945.html",
-                "datetime": "2021-07-21 08:44",
-                "price": "$30",
-                "where": "san jose east",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
-                    "https://images.craigslist.org/00E0E_alQnTb2seNO_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_3AuKuSn7N2e_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_6bBOQCLgFzB_50x50c.jpg",
-                    "https://images.craigslist.org/01111_feyWSZAZYb1_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "My sister used 3 times. It looks great. You can check before you pay.Text or call at   ONLY when you are ready to pick up near 1600 Hopkins Drive, SAN JOSE"
             }
         ]
     },
@@ -585,44 +575,44 @@
                 "description": "Automatic  Transmission,142 High way Miles, Stereo Player, Power  windows,Great Gas saver, Fairly New Tires, Fairly new struts, Good brakes, AC Air condition works great,Clean inside ,Clean Title , currently Registered 2021,Start and Drive, Please contact   thank you."
             },
             {
-                "id": "7354441915",
-                "name": "\ud83d\udca5 Great Deal \ud83d\udca5 2015 Lexus RX 350 FWD 4dr",
-                "url": "https://sfbay.craigslist.org/nby/ctd/d/santa-rosa-great-deal-lexus-rx-350-fwd/7354441915.html",
-                "datetime": "2021-07-21 16:31",
-                "price": "$20,950",
-                "where": "2015 Lexus RX 350 FWD 4dr",
+                "id": "7354442223",
+                "name": "\ud83d\udca5 Great Deal \ud83d\udca5 2012 Honda Pilot 2WD 4dr EX-L w/Navi",
+                "url": "https://sfbay.craigslist.org/nby/ctd/d/santa-rosa-great-deal-honda-pilot-2wd/7354442223.html",
+                "datetime": "2021-07-21 16:32",
+                "price": "$17,950",
+                "where": "2012 Honda Pilot 2WD 4dr EX-L w/Navi",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_7a2suSEDde6z_09G07g_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00V0V_fgeH3fd16G5z_09G07g_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00T0T_7a2suSEDde6z_09G07g_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_7a2suSEDde6z_09G07g_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_7ZPBUOLtddOz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_fgeH3fd16G5z_09G07g_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_fgeH3fd16G5z_09G07g_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_eCHJYCWc47Fz_0cU09G_50x50c.jpg",
                     "https://images.craigslist.org/00F0F_bPkPhrxa5w1z_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/01717_aPco5qI06nkz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00101_gokGJAoRGQmz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_8r5wMD34luDz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_7yyJ4TrB36Xz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_hqHe83mfgcAz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_b49CWChfjyMz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_cSbhleBj4NCz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_lbl5LVQPmnjz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_gGHFl1BYS0Ez_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_dvZEscs6qiRz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_5rEvxeegTfxz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_bFNLNs18WNxz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00000_cXm5jtsQIGEz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00606_4KGPq6vweyTz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_ilhwfiybR4Xz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_bkILI9sdyE8z_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_2IEv5PCZv1Iz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/01212_kdSlvJt5MFpz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_6Idr4Q5JEhDz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_jZtua4q4zcSz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_bJtQGL3IjR3z_0cU09G_50x50c.jpg"
+                    "https://images.craigslist.org/00q0q_5fm8RBkafKwz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/01212_34QwngsIaGLz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_9dXVWJSeLmJz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_dIjfqJnXRAkz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_1rEDmvpv4NEz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_4oWsPyQqf6Iz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_jT53yN9YfxRz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_4xggKAQ7sOgz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_7AxiuUZccpnz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_fTXmOd6K5uHz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_9QNxz9J5PJUz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_kwx23UT6TbSz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_cxf2JwwcmDsz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_4dnRyw7pPrkz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/01111_7jzcYEYvaO3z_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_SIz5I35u0ez_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_4ZMeYemH4FKz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_6YbGOlKfzNcz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/01616_6eKAcoamGXDz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_38r7V3oD9Snz_0cU09G_50x50c.jpg",
+                    "https://images.craigslist.org/01616_8GJPWenhmjnz_0cU09G_50x50c.jpg"
                 ],
                 "query": "drives great",
                 "category": "cta",
-                "description": "2015 Lexus RX 350 FWD 4dr SUV Ready To Upgrade Your Ride Today? We Make It Fast & Easy!Call (or text) \u260f (707) 578\u22121592 Angel Motors 3160 Santa Rosa Ave, Santa Rosa, CA 95407Or use the link belowto view more information!https://angelmotors.net/Year : 2015Make : LexusModel : RX 350Mileage : 115,603 milesTransmission : AutomaticExterior Color : SilverInterior Color : Series : SUVDrivetrain :  FWDCondition : ExcellentVIN : 2T2ZK1BA9FC158697Stock ID : A2799Engine : 3.5L 270.0hp> > > $20,950 < < < Description of this Lexus RX 350 FWD 4dr SUVAngel Motors is proud to offer this Silver Lining Metallic 2015 Lexus RX350 with only 115,603 on the odometer. This is a great SUV for someone looking for a premium ride without a premium price tag. These RX350s also have a great reputation for being incredibly reliable. This RX350 comes equipped with tons of great features including Power Tilt/Telescoping Steering Column, Day-Night Auto-Dimming Rearview Mirror, Deep Tinted Glass, Fully Automatic Projector Beam Halogen Daytime Running Headlamps w/Delay-Off and more.  If this looks like the right car for you, don't hesitate to schedule your test drive today or give us a call with any questions!  Specs: Mechanical and Powertrain: Engine: 3.5L 6-Cylinder 24-Valve Dual VVT-iTransmission: 6-Spd Sequential Shift Auto (ECT-i) -inc: multi-mode and snow mode4.398 Axle RatioGVWR: 5,560 lbsFront-Wheel DriveGas-Pressurized Shock AbsorbersFront And Rear Anti-Roll BarsElectric Power-Assist Speed-Sensing Steering19.2 Gal. Fuel TankSingle Stainless Steel ExhaustStrut Front Suspension w/Coil SpringsDouble Wishbone Rear Suspension w/Coil Springs4-Wheel Disc Brakes w/4-Wheel ABS, Front Vented Discs, Brake Assist and Hill Hold ControlSafety: Side Impact BeamsLow Tire Pressure WarningDual Stage Driver And Passenger Front AirbagsCurtain 1st And 2nd Row AirbagsAirbag Occupancy SensorRear Child Safety LocksFirst Aid KitOutboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3 Point, Height Adjusters and PretensionersInterior: Driver SeatPassenger Seat40-20-40 Folding Split-Bench Front Facing Manual Reclining Fold Forward Seat back Rear Seat w/Manual Fore/AftPower Tilt/Telescoping Steering ColumnFront Cup holderRear Cup holderCompassValet FunctionHomeLink Garage Door TransmitterCruise Control w/Steering Wheel ControlsDual Zone Front Automatic Air ConditioningHVAC -inc: Under seat Ducts and Console DuctsIlluminated Locking Glove BoxDriver Foot RestInterior Trim -inc: Metal-Look Instrument Panel Insert, Genuine Wood Door Panel Insert, Genuine Wood Console Insert and Chrome Interior AccentsFull Cloth HeadlinerCloth Door Trim InsertLeather/Chrome Gear Shifter MaterialDay-Night Auto-Dimming Rearview MirrorDriver And Passenger Visor Vanity Mirrors w/Driver And Passenger IlluminationFull Floor Console w/Covered Storage, Mini Overhead Console w/Storage and 3 12V DC Power OutletsFront And Rear Map LightsFade-To-Off Interior LightingCarpet Floor Trim and Carpet Trunk Lid/Rear Cargo Door TrimTrunk/Hatch Auto-LatchCargo Area Concealed StorageRoll-Up Cargo CoverCargo Space LightsTracker SystemDriver And Passenger Door BinsDelayed Accessory PowerOutside Temp GaugeAnalog DisplayManual Anti-Whiplash Adjustable Front Head Restraints and Manual Adjustable Rear Head RestraintsFront Center Armrest and Rear Center Armrest2 Seat back Storage PocketsPerimeter AlarmEngine Immobilizer3 12V DC Power OutletsAir FiltrationExterior: Steel Spare WheelCompact Spare Tire Mounted Inside Under CargoClear coat PaintBody-Colored Front BumperBody-Colored Rear Step BumperChrome Body side Insert and Black Body side CladdingChrome Side Windows TrimBody-Colored Door HandlesBody-Colored Power w/Tilt Down Heated Side Mirrors w/Manual Folding and Turn Signal IndicatorFixed Rear Window w/Fixed Interval Wiper and DefrosterDeep Tinted GlassFront Windshield -inc: Sun Visor StripFully Galvanized Steel PanelsLip SpoilerColored Grille w/Chrome SurroundFully Automatic Projector Beam Halogen Daytime Running Headlamps w/Delay-OffPerimeter/Approach LightsLED Brake lightsFind larger pictures of our entire inventory at our website  Angel Motors -   is an independent auto dealership specializing in pre-owned cars. We have a large inventory of pre-owned cars in the North Bay. We have been in business for over 30 years and are dedicated to quality customer service and integrity.ANGEL MOTORS   - 3160 Santa Rosa Ave., Santa Rosa, CA 95407707.578.1592  707.526.2162 fax HOURS: Mon-Sat 10:00-6:00pm, Sunday 10:00am-4:00pm \ud83d\udcac\ud83d\udcac\ud83d\udcac HABLAMOS ESPANOL. FINANCIAMIENTO FACIL. \ud83d\udcac\ud83d\udcac\ud83d\udcacTODOS CALIFICAN NO IMPORTA SU CREDITOPara mas informacion, llamar al \u260e (707) 392-2770Optional equipment of this Lexus RX 350 FWD 4dr SUV   Call (or Text)  (707) 578\u22121592 for quick answers to your questions about this Lexus RX 350 FWD 4dr.***** Lexus RX 350 FWD 4dr SUV *****2016, 2017, 2018, 2015, 2014, 2013, 2012, Lexus, RX 350, ES 350, IS-F, IS 250, IS 350, [Model5]Disclaimer :  * Please Note All Inventory And Inventory Pricing Is Subject To Change Please See Dealer For Further Details * Ready To Upgrade Your Ride Today? We Make It Fast & Easy!Call (or text) \u260f (707) 578\u22121592 *Lexus* *ES 350* *IS-F* *Lexus* IS 250* Lexus* *IS 350* *Automatic* *FWD 4dr* *Lexus* *Silver* *Automatic* *SUV* *3.5L 270.0hp* *FWD* *Angel Motors* *Call us today at (707) 578\u22121592* *Lexus RX 350 FWD 4dr SUV FWD 3.5L 270.0hp* *Lexus* *FWD 4dr* *Lexus RX 350 FWD 4dr SUV FWD 3.5L 270.0hp**Lexus* *Silver* *Automatic* *SUV* *3.5L 270.0hp* *FWD* *Call us today at (707) 578\u22121592* *Lexus* *Silver* *Automatic* *Angel Motors* *SUV* *3.5L 270.0hp* 2011 2010 2009 2008 2007 2006"
+                "description": "2012 Honda Pilot 2WD 4dr EX-L w/Navi SUV Ready To Upgrade Your Ride Today? We Make It Fast & Easy!Call (or text) \u260f (707) 578\u22121592 Angel Motors 3160 Santa Rosa Ave, Santa Rosa, CA 95407Or use the link belowto view more information!https://angelmotors.net/Year : 2012Make : HondaModel : PilotMileage : 97,098 milesTransmission : AutomaticExterior Color : GrayInterior Color : Gray LeatherSeries : SUVDrivetrain :  FWDCondition : ExcellentVIN : 5FNYF3H75CB044263Stock ID : A2810Engine : 3.5L 250.0hp> > > $17,950 < < < Description of this Honda Pilot 2WD 4dr EX-L w/Navi SUVThis is a beautiful GRAY 2012 HONDA PILOT 4 DOOR WAGON 5 SPEED AUTOMATIC car with 97098 miles.Specs:  Mechanical and Powertrain: 3.5L SOHC MPFI 24-valve i-VTEC V6 engineVariable Cylinder Management (VCM)Active control engine mount system (ACM)Active Noise Cancellation (ANC)Drive-by-wire throttle5-speed automatic transmission w/ODHill start assistFront-wheel driveUnit-body constructionMacPherson strut front suspensionMulti-link rear suspension w/trailing armsFront & rear stabilizer barsVariable power rack & pinion steeringHeavy-duty power steering fluid coolerPower ventilated front/solid rear disc brakesChrome exhaust finishers Safety: 4-wheel anti-lock braking system (ABS) w/electronic brake distribution (EBD)Brake assistVehicle Stability Assist (VSA) w/traction controlAdvanced Compatibility Engineering (ACE) body structureSide-impact door beamsDaytime running lightsDual front dual-stage, multiple-threshold airbagsDual front side-impact airbags w/passenger-side occupant position detection systemSide curtain airbags on all rows w/rollover sensorFront 3-point seat belts -inc: automatic tensioning system, adjustable anchors2nd & 3rd row 3-point seat belts -inc: 2nd row adjustable anchors2nd row lower anchors & tethers for children (LATCH)Passenger-side 3rd row lower child seat anchors & tethers for children (LATCH)Child-proof rear door locksTire pressure monitoring system -inc: location indicators Interior: Front seat adjustable active head restraints2nd row leather-trimmed 60/40 split reclining, sliding, flat-folding bench seatHead restraints at all seating positionsMulti-functional center consoleTilt & telescoping steering columnInstrumentation -inc: digital odometer, (2) digital trip meters, average speed, average/instant fuel consumption, miles-to-empty, exterior temperature, elapsed time, compass8 multi-information display -inc: interface dial, customizable wallpaper settingsWarning lights -inc: low-fuel, low-oil pressure, door/tailgate open, passenger airbags status, vehicle stability assistMaintenance Minder systemPower windows w/dual front auto-up/downHome Link universal garage door openerRemote fuel filler door releaseSecurity systemImmobilizer theft-deterrent systemTri-zone automatic air conditioning -inc: humidity control, air-filtration systemRear seat heater ductsRear window defroster w/timer(3) 12V aux power outlets(12) cup holdersConversation mirror w/sunglasses holderDual illuminated visor vanity mirrorsSliding sun visor extensionsMap lights on all rowsCourtesy door lightsAmbient console lightingUpper & lower front row seat back pocketsCargo area -inc: cargo light, (4) tie-down anchors, bag hooksRear hidden storage compartment Exterior: P235/60R18 all-season tiresCompact spare tire1-touch power moon roof w/tilt, manual sunshadeBody-colored body side moldingFront & rear splash guardsMulti-reflector halogen headlights -inc: auto-on/off headlightsBody-colored power mirrorsAcoustic windshieldHeat-rejecting green-tinted glassRear privacy glassVariable intermittent windshield wipersIntermittent rear window wiper/washerPower tailgate w/lift-up glass hatchBody-colored door handlesFind larger pictures of our entire inventory at our website  Angel Motors -   is an independent auto dealership specializing in pre-owned cars. We have a large inventory of pre-owned cars in the North Bay. We have been in business for over 30 years and are dedicated to quality customer service and integrity.ANGEL MOTORS   - 3160 Santa Rosa Ave., Santa Rosa, CA 95407707.578.1592  707.526.2162 fax HOURS: Mon-Sat 10:00-6:00pm, Sunday 10:00am-4:00pm \ud83d\udcac\ud83d\udcac\ud83d\udcac HABLAMOS ESPANOL. FINANCIAMIENTO FACIL. \ud83d\udcac\ud83d\udcac\ud83d\udcacTODOS CALIFICAN NO IMPORTA SU CREDITOPara mas informacion, llamar al \u260e (707) 392-2770Optional equipment of this Honda Pilot 2WD 4dr EX-L w/Navi SUV   Call (or Text)  (707) 578\u22121592 for quick answers to your questions about this Honda Pilot 2WD 4dr EX-L w/Navi.***** Honda Pilot 2WD 4dr EX-L w/Navi SUV *****2013, 2014, 2015, 2012, 2011, 2010, 2009, Honda, Pilot, Accord, CR-V, Civic, Civic Hybrid, [Model5]Disclaimer :  * Please Note All Inventory And Inventory Pricing Is Subject To Change Please See Dealer For Further Details * Ready To Upgrade Your Ride Today? We Make It Fast & Easy!Call (or text) \u260f (707) 578\u22121592 *Honda* *Accord* *CR-V* *Honda* Civic* Honda* *Civic Hybrid* *Automatic* *2WD 4dr EX-L w/Navi* *Honda* *Gray* *Automatic* *SUV* *3.5L 250.0hp* *FWD* *Angel Motors* *Call us today at (707) 578\u22121592* *Honda Pilot 2WD 4dr EX-L w/Navi SUV FWD 3.5L 250.0hp* *Honda* *2WD 4dr EX-L w/Navi* *Honda Pilot 2WD 4dr EX-L w/Navi SUV FWD 3.5L 250.0hp**Honda* *Gray* *Automatic* *SUV* *3.5L 250.0hp* *FWD* *Call us today at (707) 578\u22121592* *Honda* *Gray* *Automatic* *Angel Motors* *SUV* *3.5L 250.0hp* 2008 2007 2006 2005 2004 2003"
             }
         ],
         "fix up": [
@@ -846,23 +836,27 @@
                 "description": "Tested and working perfectly. Missing one plastic knob, but the pot works just fine. Cleaned all the pots and jacks, nothing is scratchy. 15\u201d Speaker is in great shape. It even smells pretty nice, which is surprising for vintage music gear. This is stupidly loud. I can\u2019t go past 3 without shaking stuff off my walls and pissing off the neighbors. It would be a perfect small gig combo amp, or to drown out your overzealous drummer. Happy to deliver or even bring it over so you can give it a spin because my neighbors are already sick of it.$200 OBO"
             },
             {
-                "id": "7354507142",
-                "name": "Ampeg BA210 Bass Amp",
-                "url": "https://sfbay.craigslist.org/scz/msg/d/santa-cruz-ampeg-ba210-bass-amp/7354507142.html",
-                "datetime": "2021-07-21 20:00",
-                "price": "$150",
-                "where": "santa cruz",
+                "id": "7354523795",
+                "name": "Roland digital piano FP-90 (piano + custom stand bundle))",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-roland-digital-piano-fp-90/7354523795.html",
+                "datetime": "2021-07-21 21:32",
+                "price": "$1,599",
+                "where": "san jose south",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00K0K_jPM5t0fDREoz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01010_bMArQrJxj5kz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00K0K_jPM5t0fDREoz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00K0K_jPM5t0fDREoz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_iPoLGzH3RtYz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_2QQ7F1ud8piz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/01010_bMArQrJxj5kz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01010_bMArQrJxj5kz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01313_jQ1WdwKWqkfz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_embmwN9EUGvz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_49NQjqYB0axz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_3rLP3ODp9Pkz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_cxhtpT2QHUqz_0rL06o_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_dDPLHtmyssBz_0By0s8_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Ampeg BA210 Bass amp.  2 10 speakers and a tweeter.  Pretty loud, but also pretty heavy, has wheels.Knobs are a little scratchy and touchy.  Likely there's just dust in the electronics which is common maintenance."
+                "description": "BEST IN CLASS PORTABLE DIGITAL PIANO. LIKE NEWIt has been casually practiced on for 1 year, after that no more time to play. I personally loved * the PHA-50 keys actions feel almost like acoustic piano's (this is the same keys in Roland's LX708 model for $6000+ that comes w/ 10 years warranty so it is really durable, wood, long key for control, weight like acoustic pianos, 100 level of touch sensitivity, ivory feel, escapement and triple sensors) * Supernatural sound modeling engine, not from sound sampling. So many nuisances are noticeable and many effects (like lid, types of soundboard, hammer sound, reverb, etc) are editable (FP-90X upgraded the engine a bit but I personally can't tell the difference)* speaker is 60W, loud enough for medium venue and performancesee overview and reviews herehttps://www.youtube.com/watch?v=6aGzcCjVVPA&t=3shttps://www.roland.com/us/products/fp-90/https://www.youtube.com/watch?v=St14HPA6Wighttps://www.pianodreamers.com/roland-fp90-review/see price comparisons here: https://www.adorama.com/rofp90bkc.html?gclid=Cj0KCQjw0K-HBhDDARIsAFJ6UGiX-l8LEFzODtq3yZjDLcYeSYz5JJ5jL1RL0FY6k5XJ6zzVfixeXIYaAiDAEALw_wcB&gclsrc=aw.ds&utm_source=nmpi-google-dsa-newhttps://www.guitarcenter.com/Roland/FP-90-Digital-Piano-Black-with-Stand-and-Pedal-Board-J45588.gchttps://www.bhphotovideo.com/c/product/1298892-REG/roland_fp_90_digital_piano_kit.htmlhttps://www.amazon.com/ROLAND-88-keys-Digital-Pianos/dp/B01MQDY2JB (amazon has no stand)It is heavy ~90 lb. pls bring a friend to carry with you if needed. Stand can be disassembled in a few minutes (if you want to do it yourself). Piano's original box and packaging is available if you want.Price is firm, which is ~30-35% off new prices after taxFeel free to ask me any questions or come and try it out. Please pay by paypal or venmo only"
             }
         ],
         "famous": [

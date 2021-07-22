@@ -77,7 +77,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-beautiful-solid-wood-door/7347130126.html",
                 "datetime": "2021-07-21 21:30",
                 "price": "$200",
-                "where": "San jose south bay area ",
+                "where": "San jose",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00p0p_hT5EjIWsXXDz_0cW0of_600x450.jpg",
                 "all_images": [
@@ -388,6 +388,55 @@
         ],
         "great condition": [
             {
+                "id": "7348086950",
+                "name": "Great condition jackets sweaters outerwear",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/ramona-great-condition-jackets-sweaters/7348086950.html",
+                "datetime": "2021-07-21 22:43",
+                "price": "$2",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00s0s_fYMvZpc8Yv8_0ew0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00s0s_fYMvZpc8Yv8_0ew0jm_600x450.jpg",
+                    "https://images.craigslist.org/00s0s_fYMvZpc8Yv8_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_6Ct2Dei0zPg_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00303_aibAf7M0bdi_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_4RMloDAA5Mg_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_k7PVMWJz489_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00606_kvfnDjkA7W0_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_fXev3nLvwRo_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_5dRA0gZdqmV_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00101_icjuz5mjeNS_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/01010_95PO8Tg5rUT_0ew0jm_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "Great condition jackets sweaters outerwearSnow jackets rains coats wool jacket etcBuy all for 17$ or prices listed individually. Puffer jacket is new and not used."
+            },
+            {
+                "id": "7341153689",
+                "name": "Adidas Originals Rom in US mens 8 - great condition",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-adidas-originals-rom-in/7341153689.html",
+                "datetime": "2021-07-21 22:37",
+                "price": "$65",
+                "where": "SOMA / south beach",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00W0W_9mJdMD8ds8cz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00W0W_9mJdMD8ds8cz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_9mJdMD8ds8cz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_12UL0yeeHdIz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_kRCcOxsD4nhz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_1rkInrCFr6Kz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_9fE1jI1OckAz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_diUA7TKL5JAz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_eAr8lxOE9ziz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "Cleaning out closet.  Selling Adidas Originals Rom in US men's size 8 for $65.  Clean, great condition, and little wear and tear.  Worn less than 5 times.  I do not have the original box.  PCI 789002, Art No. 036636Buyer must pick up shoes in SOMA / South Beach near Oracle Park."
+            },
+            {
                 "id": "7346710218",
                 "name": "Size 9 Uggs in great condition",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-size-uggs-in-great-condition/7346710218.html",
@@ -405,41 +454,6 @@
                 "query": "great condition",
                 "category": "cla",
                 "description": "Size 9 Uggs in good condition"
-            },
-            {
-                "id": "7354500751",
-                "name": "GREAT CONDITION Crocs LiteRide size 11 Slip On Women's",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/saratoga-great-condition-crocs-literide/7354500751.html",
-                "datetime": "2021-07-21 19:34",
-                "price": "$5",
-                "where": "saratoga",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00N0N_3LEQQe0G0fYz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00N0N_3LEQQe0G0fYz_0t20CI_600x450.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "Smoke free, pet free, germ free home.  Extremely comfortable year round Crocs slip ons.  Great grip and feels so good on the feet. Fits women size 11 or men size 9."
-            },
-            {
-                "id": "7354231151",
-                "name": "Oakley Gascan. Matte Brown Tortoise. Great Condition!",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-oakley-gascan-matte-brown/7354231151.html",
-                "datetime": "2021-07-21 09:47",
-                "price": "$55",
-                "where": "san jose downtown",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_4zCs5f5Lmepz_0fu0bC_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00n0n_4zCs5f5Lmepz_0fu0bC_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_4zCs5f5Lmepz_0fu0bC_50x50c.jpg",
-                    "https://images.craigslist.org/01717_gGP9m5PTbysz_0fu0bC_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_h0HOdUvBcR3z_0fu0bC_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "Selling my tortoise Oakley Gascan's because I don't really wear them anymore. Great condition and look awesome!"
             }
         ]
     },

@@ -108,6 +108,26 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7354553137",
+                "name": "VINTAGE LOOK RED PURSE WITH RHINESTONE X BY SASHA",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/vintage-look-red-purse-with-rhinestone/7354553137.html",
+                "datetime": "2021-07-22 02:56",
+                "price": "$20",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_4joQaBsnr8Z_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_4joQaBsnr8Z_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_4joQaBsnr8Z_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_kRb3eViiiG8_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_1BknjckhMR6_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_k682oNERnm8_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "VINTAGE LOOK  BRAND NEW RED PURSE WITH RHINESTONE X ON FRONT HAS CIRCLE CARRY HANDLE & A LONG RED STRAP AND MAGNETIC SNAP CLOSURE MADE BY SASHA $20.00 FIRM"
+            },
+            {
                 "id": "7348810294",
                 "name": "Vintage Leather Jackets \u2013 Gently Used",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/vallejo-vintage-leather-jackets-gently/7348810294.html",
@@ -160,24 +180,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "A very rare vintage Gucci monogram briefcase in near new condition. Old label.I bought this from Gucci 30 years ago and used it a few times. Very little wear and the leather aroma is like it just came out from the factory. Lamb skin lined interior is simple beautiful. The craftsmanship is no longer seen in corporate owned Gucci. This was made when the House of Gucci was still a thriving independent force.Please feel free to ask question or for more images. I am open to reasonable offers.Both keys in the pouch. Original Gucci box."
-            },
-            {
-                "id": "7350872713",
-                "name": "Vintage flower purse and purple wallet",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasant-hill-vintage-flower-purse-and/7350872713.html",
-                "datetime": "2021-07-21 21:42",
-                "price": "$25",
-                "where": "Pleasant Hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00M0M_3XiouqAp4dRz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00M0M_3XiouqAp4dRz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00M0M_3XiouqAp4dRz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_8ctdj93k4biz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Selling Black flower purse that is vintage and an express purple Slim wallet. \ufffc"
             }
         ],
         "beaded": [
@@ -449,7 +451,7 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-size-uggs-in-great-condition/7346710218.html",
                 "datetime": "2021-07-21 21:31",
                 "price": "$50",
-                "where": "95128 south bay area ",
+                "where": "95128",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00V0V_j0ogjODdE3az_0lM0t2_600x450.jpg",
                 "all_images": [

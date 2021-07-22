@@ -93,7 +93,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-beautiful-solid-wood-door/7347130126.html",
                 "datetime": "2021-07-21 21:30",
                 "price": "$200",
-                "where": "San jose",
+                "where": "San jose south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00p0p_hT5EjIWsXXDz_0cW0of_600x450.jpg",
                 "all_images": [
@@ -113,7 +113,7 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-gucci-vintage-travel-bag/7352581902.html",
                 "datetime": "2021-07-22 05:06",
                 "price": "$510",
-                "where": "San Jose south bay area ",
+                "where": "San Jose",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00E0E_ap1gWxWFtzk_600x450.jpg",
                 "all_images": [
@@ -542,7 +542,7 @@
                 "url": "https://sfbay.craigslist.org/eby/cto/d/fairfield-2016-toyota-camry-se-black/7353405948.html",
                 "datetime": "2021-07-19 13:31",
                 "price": "$15,300",
-                "where": " east bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01010_k5BOx33ojoYz_0ne0hq_600x450.jpg",
                 "all_images": [
@@ -594,25 +594,29 @@
                 "description": "2004 Toyota Prius Hybrid. Generation 2. It has faded paint. Please view all the pictures. Runs great. The engine is super quiet and purrs like a sewing machine. Clean title196,010 original milesCatalytic converter guard protection (anti-theft cat shield)LeatherPower windowsPower door locksPower mirrorsCruise controlLED headlightsCold A/CUpgraded stereo and speakersSmog just completed for the sale 07/20/2021Current registration With 196k miles, it runs amazing but is certainly isn't a looker. It has a few dings and scratches and most notably, the paint is fading due to age. Mostly on the left side and on the rear bumper. Also, there are a few random drops of paint on the right side. (A homeless guy decided to do his art project next to it a few years back. sigh..) If you're patient, you can get it off without damaging the paint but it takes a long time and I simply don't have the patience. Again, please look at ALL the pictures. If you're looking for a pretty car, this is not it. If you're looking for a very reliable and great running Prius, this is it!On a positive note, The hybrid battery is very healthy and charges to the full green hash mark. And, the leather interior looks like it just came off the showroom floor. Absolutely gorgeous! Yet again, please view all the pictures.$3900 Firm. I've priced it fairly for someone looking for a great commuter. Please e-mail and include your phone number and availability. Thank you."
             },
             {
-                "id": "7354441956",
-                "name": "Great Deal 2013 Hyundai Sonata 4dr Sdn 2.4L Auto GLS *Ltd Avail*",
-                "url": "https://sfbay.craigslist.org/nby/ctd/d/santa-rosa-great-deal-2013-hyundai/7354441956.html",
-                "datetime": "2021-07-21 16:31",
-                "price": "$13,950",
-                "where": "2013 Hyundai Sonata 4dr Sdn 2.4L Auto GLS *Ltd Avail* north bay / marin ",
+                "id": "7354492099",
+                "name": "2003 Chrysler minivan Runs great",
+                "url": "https://sfbay.craigslist.org/eby/cto/d/oakland-2003-chrysler-minivan-runs-great/7354492099.html",
+                "datetime": "2021-07-21 18:58",
+                "price": "$2,600",
+                "where": null,
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_2AelOQgKBWez_09G07g_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00000_gInX7hZitfqz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00e0e_2AelOQgKBWez_09G07g_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_2AelOQgKBWez_09G07g_50x50c.jpg",
-                    "https://images.craigslist.org/00000_gI4R26MEx9kz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_1CLs9joHgHJz_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_bPkPhrxa5w1z_0cU09G_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_3FdxWZ7wiXyz_0cU09G_50x50c.jpg"
+                    "https://images.craigslist.org/00000_gInX7hZitfqz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00000_gInX7hZitfqz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_fvEuXMhMNGez_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_d8hM22VRxUoz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_4RLot2fhy3bz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_aR7TO2twScfz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_3RuKwToWJ9Vz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_6n4Gr3IbF20z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_fb2gyev4C4dz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_i523iDawXYRz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "drives great",
                 "category": "cta",
-                "description": "2013 Hyundai Sonata 4dr Sdn 2.4L Auto GLS *Ltd Avail* Sedan Ready To Upgrade Your Ride Today? We Make It Fast & Easy!Call (or text) \u260f (707) 578\u22121592 Angel Motors 3160 Santa Rosa Ave, Santa Rosa, CA 95407Or use the link belowto view more information!https://angelmotors.net/Year : 2013Make : HyundaiModel : SonataMileage : 58,988 milesTransmission : AutomaticExterior Color : SilverInterior Color : Series : SedanDrivetrain :  FWDCondition : ExcellentVIN : 5NPEB4ACXDH752460Stock ID : A2817Engine : 2.4L> > > $13,950 < < < Description of this Hyundai Sonata 4dr Sdn 2.4L Auto GLS *Ltd Avail* Sedan\ud83d\udcac\ud83d\udcac\ud83d\udcac HABLAMOS ESPANOL. FINANCIAMIENTO FACIL. \ud83d\udcac\ud83d\udcac\ud83d\udcacTODOS CALIFICAN NO IMPORTA SU CREDITOPara mas informacion, llamar al \u260e (707) 392-2770Optional equipment of this Hyundai Sonata 4dr Sdn 2.4L Auto GLS *Ltd Avail* Sedan   Call (or Text)  (707) 578\u22121592 for quick answers to your questions about this Hyundai Sonata 4dr Sdn 2.4L Auto GLS *Ltd Avail*.***** Hyundai Sonata 4dr Sdn 2.4L Auto GLS *Ltd Avail* Sedan *****2014, 2015, 2016, 2013, 2012, 2011, 2010, Hyundai, Sonata, Accent, Azera, Elantra, Genesis, [Model5]Disclaimer :  * Please Note All Inventory And Inventory Pricing Is Subject To Change Please See Dealer For Further Details * Ready To Upgrade Your Ride Today? We Make It Fast & Easy!Call (or text) \u260f (707) 578\u22121592 *Hyundai* *Accent* *Azera* *Hyundai* Elantra* Hyundai* *Genesis* *Automatic* *4dr Sdn 2.4L Auto GLS *Ltd Avail** *Hyundai* *Silver* *Automatic* *Sedan* *2.4L* *FWD* *Angel Motors* *Call us today at (707) 578\u22121592* *Hyundai Sonata 4dr Sdn 2.4L Auto GLS *Ltd Avail* Sedan FWD 2.4L* *Hyundai* *4dr Sdn 2.4L Auto GLS *Ltd Avail** *Hyundai Sonata 4dr Sdn 2.4L Auto GLS *Ltd Avail* Sedan FWD 2.4L**Hyundai* *Silver* *Automatic* *Sedan* *2.4L* *FWD* *Call us today at (707) 578\u22121592* *Hyundai* *Silver* *Automatic* *Angel Motors* *Sedan* *2.4L* 2009 2008 2007 2006 2005 2004"
+                "description": "Automatic  Transmission,142 High way Miles, Stereo Player, Power  windows,Great Gas saver, Fairly New Tires, Fairly new struts, Good brakes, AC Air condition works great,Clean inside ,Clean Title , currently Registered 2021,Start and Drive, Please contact   thank you."
             }
         ],
         "fix up": [

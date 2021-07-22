@@ -2,6 +2,24 @@
     "materials": {
         "gravel": [
             {
+                "id": "7341355772",
+                "name": "Glazed Porcelain Floor Tile - Gravel Road",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/brentwood-glazed-porcelain-floor-tile/7341355772.html",
+                "datetime": "2021-07-21 16:58",
+                "price": "$20",
+                "where": "brentwood / oakley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00l0l_fYE99AxwlGcz_084084_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00l0l_fYE99AxwlGcz_084084_600x450.jpg",
+                    "https://images.craigslist.org/00l0l_fYE99AxwlGcz_084084_50x50c.jpg",
+                    "https://images.craigslist.org/00404_6czJSeHaKGhz_0pO0jm_50x50c.jpg"
+                ],
+                "query": "gravel",
+                "category": "maa",
+                "description": "6 boxes of extras we didn't use.  $20 per box (9 tiles)Porch pickup in Brentwood.Cash, Venmo or Paypal.Daltile Saddle Brook XT 6 in. x 36 in. Glazed Porcelain Floor TileGravel Road XTSaddle Brook XT\u2122 is designed to defeat exterior challenges! This tile is slip-resistant and is easy to maintain and is great for commercial applications as well as any outdoor space. - Achieve the look of authentic hardwood in exterior spaces without the maintenance- Contains Daltile\u2019s patent-pending StepWise\u2122 technology for superior slip-resistance    Size: 6 x 36 Field Tile* - (5 7/8 x 35 7/16) - (15.00 cm x 90.00 cm)     Pieces Per Carton: 9    SQFT Per Carton: 13.05Info:https://floorzz.com/products/daltile-saddle-brook-xt-6-in-x-36-in-glazed-porcelain-floor-tile-gravel-road-xt"
+            },
+            {
                 "id": "7353920362",
                 "name": "Trex Transcend grooved Gravel Path",
                 "url": "https://sfbay.craigslist.org/scz/mat/d/scotts-valley-trex-transcend-grooved/7353920362.html",
@@ -32,30 +50,6 @@
                 "query": "gravel",
                 "category": "maa",
                 "description": "NO EMAILS PLEASETEXT Paul to arrange pickup on Aura Way in Los Altos:  Part of a whole house Estate salvage sale. Everything goes!Gravel is $1 /5 gallon bucket  $3/5 gallon bucket"
-            },
-            {
-                "id": "7352579220",
-                "name": "Tank for sale- Includes decorations, filter, heater, bubbler, plants",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-tank-for-sale-includes/7352579220.html",
-                "datetime": "2021-07-17 16:12",
-                "price": "$160",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00u0u_9LDEbMd6kroz_0Cc0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00u0u_9LDEbMd6kroz_0Cc0t2_600x450.jpg",
-                    "https://images.craigslist.org/00u0u_9LDEbMd6kroz_0Cc0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_bzh99rhk6xVz_0no0kE_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_8ShTJpE8Y4jz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_h0HOSaQGlJYz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_lCMlhu2aWZQz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_934pYeJhndvz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_dw0ODaw7MgXz_0CI0a1_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_1pd45AD31iwz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "gravel",
-                "category": "maa",
-                "description": "Hello, I have the necessities for a fish for sale that include: - 10 gallon tank - 30 gallon filter (it cleans more efficiently) - 10 gallon heater - 6 live plants - Oxygen bubbler - A blue light - A top cover for the tank- possibly a few small fish (minnows, tetras, and danios)  - Water conditioner - Betta, goldfish, and cichild food - The decorations are included, in which are *a few small opalite eggs, gravel, a quartz crystal and 3 other store bought decorations) I am selling these because I have lost interest in the hobby of fish keeping, due to it being too difficult for me. If interested, please Text me at:"
             }
         ],
         "wood": [
@@ -120,12 +114,35 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7354461477",
+                "name": "Vintage Black Gucci Sunglasses - Horsebit",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-black-gucci/7354461477.html",
+                "datetime": "2021-07-21 17:27",
+                "price": "$150",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00s0s_gE72YhIy9Nqz_0iP0CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00s0s_gE72YhIy9Nqz_0iP0CI_600x450.jpg",
+                    "https://images.craigslist.org/00s0s_gE72YhIy9Nqz_0iP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_l5CYv10zkv9z_0iP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_gQI3rJuD80lz_0CI0iP_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_iYfOanRMA4pz_0iP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/01616_3uecnqz0Ld1z_0iP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_giKjHIuB4x4z_0iP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_wMEeVeudI0z_0iP0CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Authentic Gucci  Sunglasses - Gold Horse Bit detail   / Black Frame with Gradient Lens. Signature Gucci horse bit accent on frame w/ gold logo at temples. Excellent, pre-owned condition.  No scratches or scuffs on lenses or frames.  Comes with original case and cleaning cloth, both with Gucci logo.  I bought these for myself and have rarely used them.  See photos.  Cash only.  Price of $150 is firm."
+            },
+            {
                 "id": "7345496053",
                 "name": "Vintage Stetson Hat",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-stetson-hat/7345496053.html",
                 "datetime": "2021-07-21 16:52",
                 "price": "$45",
-                "where": "San Francisco",
+                "where": "San Francisco city of san francisco ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
                 "all_images": [
@@ -161,28 +178,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Downsizing my closet and this beautiful vintage rabbit fur coat is looking for a new home! 100% vintage genuine rabbit fur + silky soft acetate gold lining. Details include: 3 clip/buttons, two pockets, collar coat, & perfect amount of shoulder action.Size Small. I'm 5'7 and 135lbs - usually a Medium in shirts but this coat fits perfectly.In great vintage condition - no tears or stains, and non-smoker home.  Email / text if you have any questions - thanks!"
-            },
-            {
-                "id": "7343270195",
-                "name": "vintage LeSportSac zipper tote",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-lesportsac-zipper/7343270195.html",
-                "datetime": "2021-07-21 15:47",
-                "price": "$11",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_hPNGLBXsj99z_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_hPNGLBXsj99z_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_hPNGLBXsj99z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_kAYPX6a7ob9z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00606_lVTLykxz2vrz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_8lz3riUuJhaz_0ak084_50x50c.jpg",
-                    "https://images.craigslist.org/00606_kpkyHiPdT1yz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_3dqYomx0q8Qz_07T0ak_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "vintage LeSportSac zipper tote19 x 16light as a feather - use in its own or throw it into a purse or another tote or luggage and have an extra stylish LIGHT spare useful and zipper-safe bag. for more things check the more ads by this user link"
             }
         ],
         "beaded": [
@@ -903,7 +898,7 @@
                 "url": "https://sfbay.craigslist.org/nby/msg/d/arcata-hammond-152-classic-organ/7354058222.html",
                 "datetime": "2021-07-20 21:49",
                 "price": "$1,800",
-                "where": "Arcata north bay / marin ",
+                "where": "Arcata",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01313_lNAhbv4tuB1z_0CI0t2_600x450.jpg",
                 "all_images": [

@@ -923,7 +923,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-erica-synths-acidbox-iil/7352157233.html",
                 "datetime": "2021-07-22 17:19",
                 "price": "$440",
-                "where": " city of san francisco ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00404_dR1RZnnQYfIz_0fs0b8_600x450.jpg",
                 "all_images": [
@@ -939,7 +939,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-roland-tr-8s-fantastic-shape/7352485887.html",
                 "datetime": "2021-07-22 17:19",
                 "price": "$590",
-                "where": " city of san francisco ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00808_fnxG4lR9QZsz_0lu0eU_600x450.jpg",
                 "all_images": [

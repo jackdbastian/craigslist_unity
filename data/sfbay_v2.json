@@ -54,6 +54,26 @@
         ],
         "wood": [
             {
+                "id": "7354972546",
+                "name": "SOLID WOOD DOORS FOR SALE",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-solid-wood-doors-for-sale/7354972546.html",
+                "datetime": "2021-07-22 19:30",
+                "price": "$300",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00h0h_e9ukDrsI4y4z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00h0h_e9ukDrsI4y4z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_e9ukDrsI4y4z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_cfKj037lnUfz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_9iJUhWPHdUGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_eoZt6Ik9JYwz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "9 SOLID WOOD SIX-PANEL INTERIOR DOORS and 1 pair of three-panel doors. All are 80 high, solid wood, lightly-used and pre-hung with hinges and door knobs. Two have keyed door set and deadbolt. Professionally removed prior to reconstruction. $300 each or b/o. $2500 for all.Sizes vary:1 pair of 1'2W doors. Total 28 width. Painted2  28W doors. One painted, one stained1  30W door, painted3  32W doors. Two painted, one stained3  36W doors. One painted, two stained"
+            },
+            {
                 "id": "7347666750",
                 "name": "Large wood Patio Gazebo 19'x14'",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/rohnert-park-large-wood-patio-gazebo/7347666750.html",
@@ -99,37 +119,41 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Include your number. I\u2019ll text or callONLY             $207 Knape & Vogt John Sterling Dual Trak Adjustable Wood Shelf Brackets / Warm"
-            },
-            {
-                "id": "7354934039",
-                "name": "**BRAND NEW WINDOWS worth +$2.7k+  MILGARD White Fiberglass/Wood",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/mill-valley-brand-new-windows-worth-27k/7354934039.html",
-                "datetime": "2021-07-22 17:25",
-                "price": "$700",
-                "where": "mill valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_g6X0DdXAKKO_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00n0n_g6X0DdXAKKO_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_g6X0DdXAKKO_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_jNZ9wPxE6kQ_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_2BjLZ4EmaBb_0CI0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "PLEASE LEAVE CONTACT PHONE NUMEBR WITH REPLY Selling 3 brand new never used and still sealed in original wrap Milgard Windows (top of the line and not vinyl)* First bought for     $1,600  ;  net frame 62.5 x 43.5* Second bought for   $1,105  ; net frame 53.5 x 43.5Best Cash offer takes them ; No need to wait for a long order - Must be able to pick up in Marin County 1. Paid $1,600 -- Best Cash Offer Model = Composite Design Size = Net Frame 62 1/2 x 43 1/2Glass = 1/8 SuncCoat Max (Low-E) over 1/8 ClearArgon Gas Filled Glazing = Dual Glaze, Gray Foam Spacer with ArgonGrids = 1.1 PWR Fixed 1.3 PWR Fixed Standard Vintage Ext Frost/Int Painted Wood 12 Valance 2W1H 1.2-PWR Fixed Standard Vintage Ext Frost/In Painted Wood 12 Valance 3W1HLow Profile Wood Mull Cap, Cut Window Finish Size, Glass Breakage Warranty 2. Paid $1,105 -- Best Cash Offer Model = Picture Two WideSize = RO 54 x 44Net Frame = 53 1/2 x 43 1/2Energy Package = Title 24 2019Glass = 1/8 SuncCoat Max (Low-E) over 1/8 ClearArgon Gas Filled Glazing = Dual Glaze, Gray Foam Spacer with ArgonGrids = Standard Vintage Ext Frost/In Painted Wood 12 Valance 6W1HWindow Windows Pella Milgard Home Depot Lowes Anderson Marvin glasses glass"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
+                "id": "7341476417",
+                "name": "Vintage Western Boots",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/healdsburg-vintage-western-boots/7341476417.html",
+                "datetime": "2021-07-22 19:30",
+                "price": "$150",
+                "where": "healdsburg / windsor",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00H0H_cquXjQ3Esjq_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00H0H_cquXjQ3Esjq_600x450.jpg",
+                    "https://images.craigslist.org/00H0H_cquXjQ3Esjq_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_iIivY1kwKis_50x50c.jpg",
+                    "https://images.craigslist.org/01111_fbh9vY1tdwj_50x50c.jpg",
+                    "https://images.craigslist.org/00808_62KhSCW4qmT_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_70oA3rzBsyX_50x50c.jpg",
+                    "https://images.craigslist.org/01313_e7Tq9qJ69O9_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_fvNzgP2rM7e_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Western Boots Women size 7"
+            },
+            {
                 "id": "7354965653",
                 "name": "Designer Vintage Check Cotton Tote Bag With Genuine Leather Straps",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-designer-vintage-check-cotton/7354965653.html",
                 "datetime": "2021-07-22 19:05",
                 "price": "$20",
-                "where": "San Mateo peninsula ",
+                "where": "San Mateo",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -160,29 +184,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "vintage BUSHNELL aviator sunglasses $150.00very gently used, stunning looking pair of 56mm lens BUSHNELL #750 1/10 12K GF RED UV GLASS LENS AVIATOR SUNGLASSES. Please see pictures for further details & markings. OVERALL EXCELLENT CONDITION/SUPER CLEAR UV GLASS LENSES. Measures 5 1/8 across the hinges, maximum width across is 5 1/4 & overall vertical height is slightly over 2."
-            },
-            {
-                "id": "7345807916",
-                "name": "Vintage overcoat. Air Force",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-overcoat-air-force/7345807916.html",
-                "datetime": "2021-07-22 18:51",
-                "price": "$50",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00z0z_1m90Rv8NRHMz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00z0z_1m90Rv8NRHMz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00z0z_1m90Rv8NRHMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_N1OLH9F4Xlz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_3Mn86sSFf2Vz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01717_jVORAyQG3VGz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_27QxiqUyIslz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_kmIxyp2M7vKz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_6PkyzC8aXdWz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "In relatively good condition considering it\u2019s age. Probably from the Korean War era."
             }
         ],
         "beaded": [
@@ -248,6 +249,22 @@
         ],
         "gloves": [
             {
+                "id": "7350226769",
+                "name": "Touchscreen gloves",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/burlingame-touchscreen-gloves/7350226769.html",
+                "datetime": "2021-07-22 19:29",
+                "price": "$10",
+                "where": "burlingame",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_hV5lrVPNbayz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_hV5lrVPNbayz_0t20CI_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Warm Moving soon and selling some items"
+            },
+            {
                 "id": "7345051977",
                 "name": "Women's Leather Gloves, size 6.5",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/redwood-city-womens-leather-gloves-size/7345051977.html",
@@ -286,34 +303,32 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "All bought from cyclegear on 11th st.Used for about a year, still in good condition. Never had an accident or fell.For reference I am 5'11 160lbs and these fit me well.Jacket, Medium: https://www.cyclegear.com/gear/sedici-matteo-waterproof-jacket has removable inner linings to reduce temp when not wet out.Boots: US 13Gloves, Medium: one glove has a small hole on middle finger.Helmet: XL, not sure what model. Has transitional visor shade and open/close air vents.Taking offers, let me know when you'd like to meet up, thanks.Cash only, pickup only, include answer to 5 plus 2 if not a robot"
-            },
-            {
-                "id": "7346243744",
-                "name": "Wells Lamont Leather Work Gloves 3 pk 40% off",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wells-lamont-leather-work/7346243744.html",
-                "datetime": "2021-07-22 14:46",
-                "price": "$30",
-                "where": "san jose west",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_600x450.jpg",
-                    "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_eOaBQfRZNAlz_0q70t2_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "I have a 3 pack of Wells Lamont Leather work gloves for sale.  Never opened, in original sealed packageAmazon sells it for $50, I'm selling this one for $30 https://www.amazon.com/Wells-Lamont-Premium-Leather-X-Large/dp/B00Y3OVFMQ/ref=asc_df_B00Y3OVFMQ/?tag=hyprod-20&linkCode=df0&hvadid=310054314911&hvpos=&hvnetw=g&hvrand=6205822267755036434&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061320&hvtargid=pla-572577013656&psc=1Patented Precurved Design: Our Patented Construction makes our precurved gloves the most comfortable you can buy. The longer glove back pattern required make this more expensive leather construction. The shorter palm pattern lets the leather hug the palm eliminating bunching of excess material in the area. This allows more natural, treer hand movement and the meas less hand fatigue. 100% recyclable"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7352651560",
+                "name": "Anthropologie Iva Crepe Maxi Wedding Dress Size 2",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-anthropologie-iva-crepe-maxi/7352651560.html",
+                "datetime": "2021-07-22 19:30",
+                "price": "$140",
+                "where": "oakland east",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00K0K_luYYFauKh9Oz_0jl0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00K0K_luYYFauKh9Oz_0jl0t2_600x450.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Perfect condition, only wore once for a few hours and professionally dry cleaned, no adjustments made to original size. This dress is so beautif and very flattering! I wore it for my wedding, it is extremely simple and elegant, I felt so comfortable wearing it. Size 2Ivory colorNo adjustments made."
+            },
             {
                 "id": "7354948056",
                 "name": "Wedding dress",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wedding-dress/7354948056.html",
                 "datetime": "2021-07-22 18:06",
                 "price": "$200",
-                "where": "San Jose",
+                "where": "San Jose south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00c0c_3E7xgxZmildz_0Mo12w_600x450.jpg",
                 "all_images": [
@@ -332,7 +347,7 @@
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7353601999.html",
                 "datetime": "2021-07-22 17:25",
                 "price": "$10",
-                "where": "San Mateo",
+                "where": "San Mateo peninsula ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00303_cpjLjb2HBL7z_0pO0CI_600x450.jpg",
                 "all_images": [
@@ -365,30 +380,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Red100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size S 5 pcs Size M, 13 pcsSize L, 39 pcsSize XL, 24 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
-            },
-            {
-                "id": "7353602013",
-                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Long Dress, Black",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7353602013.html",
-                "datetime": "2021-07-22 17:25",
-                "price": "$10",
-                "where": "San Mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_600x450.jpg",
-                    "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_hDqpGMA1Ujoz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_ezPJY4aWHkHz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_is7Mt6Hs8Tjz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_fA8FP8jyFHkz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_eYKRYGXXyJvz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_6XqyrwDR2j2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_g7ooeT5COBz_0pO0CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Long Dresses, Black100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size XXL, 15 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
             }
         ],
         "great condition": [
@@ -580,27 +571,41 @@
                 "description": "Selling our family Sedan because we purchased a new Truck.   2016 Toyota Camry SE clean title in hand, vehicle is paid off. Backup camera. Bluetooth. clean title drives great very reliable, great 30+ mpg and fun to drive, ice. Cold AC, black leather seats, power windows, automaticLow 70k miles, All service completed Serious buyers only please,Text when ready to see the car please.  9   1 6  - 5 9  6 -  8  5  82I am a Private party. No Trades.No Dealers.No Emails.No Low ball offers.Thank youAccord camry civic corolla prius hybridaccord, Camry, is250, Q50, Acura    Tacoma hybrid xA xB Yaris S Altima Versa Elantra SL1 New Beetle A6 325i Jetta Corolla civic Fiat Focus Fusion"
             },
             {
-                "id": "7354963870",
-                "name": "2004 Hyundai Accent Gl great condition -4300(Santa Clara)",
-                "url": "https://sfbay.craigslist.org/sby/cto/d/santa-clara-2004-hyundai-accent-gl/7354963870.html",
-                "datetime": "2021-07-22 18:54",
-                "price": "$4,300",
-                "where": "Santa Clara",
+                "id": "7354977438",
+                "name": "Nissan Frontier XE V6 A/T  Crew Cab 2WD short bed - great condition",
+                "url": "https://sfbay.craigslist.org/nby/cto/d/santa-rosa-nissan-frontier-xe-v6-t-crew/7354977438.html",
+                "datetime": "2021-07-22 19:45",
+                "price": "$10,500",
+                "where": "santa rosa",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_6JVevtSM2Zxz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00B0B_bhe3DpuO36Gz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00R0R_6JVevtSM2Zxz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00R0R_6JVevtSM2Zxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_l9lOfoZbGNaz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_7bMz9sodtwxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_ewf3dn47ncrz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_lCvYvkN5bRjz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_heaKp17n1LPz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_d4vq194VpkFz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00B0B_bhe3DpuO36Gz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00B0B_bhe3DpuO36Gz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_j4ojc3YBbZJz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_aEK1eX8iUIuz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_lPh0ux9pkDBz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_8YsT3PjGhPvz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_5zvv8vHOZqAz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_b94BYvKbAELz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_1ijlDLFofgGz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_c1CJq3yqedsz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_4m3g5RrYByUz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_ivt3p4Oa93iz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_apwc5CC9Tpoz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_7qRByH0x5z9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_bU457D9MY2Oz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_aGWNNrFLfRVz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_ebKWRKxISnFz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_9Nv3ZUdozmNz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_MIkob86xTHz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_8dGLEk86n47z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_7pX1yQEkvCpz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01515_6X61i2HIvzYz_0t20CI_50x50c.jpg"
                 ],
                 "query": "drives great",
                 "category": "cta",
-                "description": "Great condition and well maintained 2004 Hyundai Accent GL .It has 125000 Miles.1.6 4 Cylinder .Power windows,power door locks,power mirrors,Cold AC,heater.Everything is original.Regularly serviced at Hyundai Dealership and local mechanic.It runs and drives great.Never been accident.Inside is very clean.Title in hand and passed smog inspection.Price is 4300.Only ,Serious responses,please.Low offers will be ignored.Contact me at  . Thanks"
+                "description": "I bought this from an elderly gentleman in June 2021  who has had this truck in his family since new.I am selling it now because my soon to be licensed daughter feels more comfortable driving a car than a truck. This is a great truck and you won't be disappointed.This truck has been THOROUGHLY gone through by my mechanic after purchasing it and everything that needed to be done at this time has been done.Mechanical work completed in July 2021 to make the truck safe and reliable for my daughter;- Timing Belt replaced- Upper and lower head gaskets replaced- Water pump and thermostat replaced- Rear main seal replaced- Spark plugs changed- ALL belts and hoses replaced- Brake fluid changed- Transmission fluid changed- Oil and filter changed- Power steering fluid changed- New front brake pads and rotors resurfaced- Rear brakes adjusted and cleaned- New cabin air filter- New engine air filter- Oil pan gasket replacedTruck is in great condition, clean title, freshly detailed, no accidents, clean interior, A/C blows cold, body in great shape and has a trailer hitch.This is a CASH deal with transaction to take place at the local AAA or DMV office to complete the ownership transfer.Title in hand and smog completed.Lets respect each others time, serious inquiries only.Please email with any questions.No trades."
             }
         ],
         "fix up": [
@@ -712,6 +717,37 @@
         ],
         "fast": [
             {
+                "id": "7354973553",
+                "name": "Nissan Leaf 2013 with CHADeMO Fast Charge Port",
+                "url": "https://sfbay.craigslist.org/scz/cto/d/santa-cruz-nissan-leaf-2013-with/7354973553.html",
+                "datetime": "2021-07-22 19:30",
+                "price": "$5,950",
+                "where": "santa cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00J0J_cG3ThX4Mxmuz_0CI0ke_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00J0J_cG3ThX4Mxmuz_0CI0ke_600x450.jpg",
+                    "https://images.craigslist.org/00J0J_cG3ThX4Mxmuz_0CI0ke_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_8jUBproF0euz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_27NBKl2hzUez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_3miNESsRScSz_0CI0uk_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_laolSrTF0Vyz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_1Fiij38jtzkz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_3azNX71JFa9z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_6jsrFvruit4z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_2uuepSIPx8qz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_kJa1ASiukTjz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_cNRPa0yekpDz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_lzMmQok8SuZz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_3g3ugVehcwEz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00000_39mJeHpAW8tz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_17WO3daC9luz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "fast",
+                "category": "cta",
+                "description": "2013 Nissan LeafAll electric, fully loaded, two charging ports: one regular charge plug into any regular outlet and a CHADeMo Fast Charge plug to fully charge in approx 20mins. No accidents, well cared for. Silver with black interior, no dents. Excellent condition. This is my most favorite car I've ever owned! So fun to drive and no gas expense. I'm moving to Hawaii so I have to sell. Purchased from Santa Cruz Toyota in 2019 and have had no issues, it's been an excellent, reliable car. Great for zippin around town. 50 mile range on full charge. Ask any questions that you need to :)"
+            },
+            {
                 "id": "7354721802",
                 "name": "lightning fast /// 4 new tires with resent brake service front and r",
                 "url": "https://sfbay.craigslist.org/pen/ctd/d/san-carlos-lightning-fast-new-tires/7354721802.html",
@@ -770,29 +806,6 @@
                 "query": "fast",
                 "category": "cta",
                 "description": "Our store and showroom are now open!2003 Chevrolet Corvette Z06 Hard Top 6 Speed - $25,999For more details and photos, please go to our website: www.mybaycars.comWe are selling a 2003 Chevrolet Corvette Z06 Hardtop Package.  This is a 100% bone stock and not modified car!  Please see the pictures to appreciate the condition of this beautiful car.  It looks like a 2-3 year old vehicle inside and out.  One owner since new with 40k+ original miles!  You will be very impressed with the way this one drives.  The car is super comfortable to drive.  The suspension and interior are super tight and feel like a new car.  The engine is amazing, very smooth with a ton of power!    This is a very nice running and Corvette, it comes with the LS6 5.7 Liter (350ci) 8 cylinder Fuel Injected Engine pared with the 6 Speed Manual Transmission with Overdrive.  This is a 405HP+ 8 Cylinder engine that is able to deliver close to 30MPG on the highway during cruise.  The torque and power are amazing.  These cars are very easy to drive and come with all sort of safety features (Anti Lock Brakes, Dual Air Bags, Active Handling, Side Protection etc).   This Corvette comes with all of the of the luxury and power options.   All of the power windows, power door locks, tilt steering, cruise control, AC, glass, factory alloy wheels, full leather interior, SRS Air Bags, 4 Wheel Disk Brakes, ABS and many more options.  This is a very well taken car of car.  All of the options work great.  The engine makes excellent power.  The car is quick and well handling.  The Automatic transmission shifts great.  There is no slipping in any of the gears.  Great car for long drives and it is rated at 27MPG+ on the freeway.  This is a very fuel efficient highway machine as well as a hotrod.  The Chevrolet has a Clean Title and passed the Smog Check for the next owner.FINANCING AVAILABLE ON MOST QUALIFIED VEHICLES THROUGH CREDIT UNIONS OR BANKS INTEREST RATES AS LOW AS 2.99% OACTRADE-INS ARE WELCOMEWARRANTIES ARE AVAILABLE FOR ADDITIONAL COST RANGING FROM POWER TRAIN TO FULL COVERAGEIf you have any questions or would like to schedule a test drive, please call us.Bay City Motors at (510)-351-8000 GDREB1"
-            },
-            {
-                "id": "7348106548",
-                "name": "FAST and EASY CREDIT APPROVALS! 2008 CHEVY SILVERADO 1500 4WD",
-                "url": "https://sfbay.craigslist.org/nby/ctd/d/fulton-fast-and-easy-credit-approvals/7348106548.html",
-                "datetime": "2021-07-08 11:46",
-                "price": "$13,500",
-                "where": "healdsburg / windsor",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00z0z_dhdolxdn9xVz_0kE0fu_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00z0z_dhdolxdn9xVz_0kE0fu_600x450.jpg",
-                    "https://images.craigslist.org/00z0z_dhdolxdn9xVz_0kE0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_h9tZNZZar8gz_0kE0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00505_4y70jbN8PwDz_0kE0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_aecfHTjfwuHz_0kE0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00606_13StlFtPdk6z_0kE0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_dD3KO3rI7biz_0kE0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_5jbUmzaLJp9z_0kE0fu_50x50c.jpg"
-                ],
-                "query": "fast",
-                "category": "cta",
-                "description": "Used 2008 Chevy Silverado 1500 4WD Extended Cab.  For sale.  Excellent condition. Come test drive it today. We are ACE Rent a car. Located at the corner of Fulton and River Road.  We have over 90+ vehicles in stock, ranging from $9,000 - $25,000.  Nissans, Toyotas, Hondas, Mercedes.  Instead of auctioning our fleet, we liquidate our vehicles to the public just below market and above auction price. We can get EVERYONE pre-approved for financing within minutes! Really fast and easy. - GOOD CREDIT, BAD CREDIT, REPO?   - OK- Unemployment? - OK-Uber/Lyft/Doordash?         - OK - $500 Rental Car credit applied to every customer who rents a car and chooses to buy from us. - Service Contracts and GAP products available for loan security. - We have a DMV processing business and can do all the paperwork in house!APPLY TODAY!!   https://getapprovedtoday.acapply.com/templates/9/Main9.aspxIf you are interested in test driving any of our cars we are open Monday- Saturday 9am-5pm.  Please email or call for more information!   ------------------------------------------------------------------------------------------------------------------------------------------------Usado 2008 Chevy Silverado 1500 4WD Extended Cab. En venta. En Excelente condici\u00f3n. Venga a conducirlo hoy. Somos ACE Rent a car. Localizados en la esquina de Fulton y River Road. Tenemos mas de 90 vehiculos, desde $9,000 - $25,000. Nissans, Toyotas, Hondas, Mercedes.  En lugar de subastar nuestra flota, liquidamos nuestros veh\u00edculos al p\u00fablico debajo del precio de mercado y mas cerca del precio de la subasta.Podemos obtener la aprobacion previa de TODOS para la financiacion en cuestion de minutos! Realmente rapido y facil.- BUEN CREDITO, MAL CREDITO, REPOSICIONES? -OK- Desempleo? - OK- Uber/Lyft/Doordash?  - OK- Se aplica un cr\u00e9dito de $ 500 para autos de alquiler a cada cliente que alquila un auto y elige comprarnos.- Contratos de servicio y productos GAP disponibles para garant\u00eda de pr\u00e9stamos.\u00a1\u00a1APLICA HOY!!https://getapprovedtoday.acapply.com/templates/9/Main9.aspxSi est\u00e1 interesado en realizar una prueba de manejo en cualquiera de nuestros autom\u00f3viles, estamos abiertos de lunes a s\u00e1bado de 9am-5pm.\u00a1Env\u00ede un correo electr\u00f3nico o llame para obtener m\u00e1s informaci\u00f3n!"
             }
         ]
     },
@@ -838,27 +851,27 @@
                 "description": "Tested and working perfectly. Missing one plastic knob, but the pot works just fine. Cleaned all the pots and jacks, nothing is scratchy. 15\u201d Speaker is in great shape. It even smells pretty nice, which is surprising for vintage music gear. This is stupidly loud. I can\u2019t go past 3 without shaking stuff off my walls and pissing off the neighbors. It would be a perfect small gig combo amp, or to drown out your overzealous drummer. Happy to deliver or even bring it over so you can give it a spin because my neighbors are already sick of it.$200 OBO"
             },
             {
-                "id": "7346256062",
-                "name": "Fishman PRO-LBX-700 Loudbox Performer 180W",
-                "url": "https://sfbay.craigslist.org/scz/msg/d/santa-cruz-fishman-pro-lbx-700-loudbox/7346256062.html",
-                "datetime": "2021-07-22 19:15",
-                "price": "$425",
-                "where": "santa cruz",
+                "id": "7354964136",
+                "name": "Blue Bluebird SL Large Diaphragm Cardioid Condenser Microphone",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-blue-bluebird-sl-large/7354964136.html",
+                "datetime": "2021-07-22 19:36",
+                "price": "$200",
+                "where": "mission district",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00y0y_7BS6K68gmzpz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00000_lCcSShVu5Q9z_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00y0y_7BS6K68gmzpz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00y0y_7BS6K68gmzpz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_lOerkXmMfDQz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_dy3q9v7vtQ9z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_8JdD1KakLLPz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_eMASBIAt5lVz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_8G2TMFPRfEIz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_h3vwzipuxQXz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00000_lCcSShVu5Q9z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00000_lCcSShVu5Q9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01313_5HxR3PeTNK4z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00303_fynzs5c2LaJz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01313_8F4ssJVEFMqz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00606_8v8UtkHyH10z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00505_idKuiUqpX9zz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00505_8FIglWMWGf7z_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Include a phone number to be taken seriously.  Lowballers ignored.This is a super lightly used unit with some dings and damage to edges from moving and storage.My music career took a turn shortly after I purchased this and it has been in the closet for the vast majority of its life.The Loudbox Performer features 180 watts of transparent bi-amplified acoustic sound and two versatile input channels that accept both 1/4\u201d and XLR sources for instruments and microphones. Each channel includes Fishman\u2019s renowned 3-band EQ, feedback-fighting controls, and a new effects section for more tonal options than ever before.The dedicated midrange control provides enhanced detail and note definition over conventional 2-way designs. An improved, integrated kickstand design allows the Loud box Performer to be tilted back 50\u00ba for better sound projection at short range.The 2 channels are great if you are a singer.This and the built is effects are all you need for live acoustic self accompaniment.Two mic/instrument channels with 3-band EQ and feedback controlsBi-amplified with passive crossover for tweeter and midrangeLong throw acoustic suspension woofer for clean bass Input gain controlAuxiliary stereo input with level control and 1/4\u201d & 1/8\u201d connectorsDual digital effects section, with independent channel & effects levelReverb, Chorus, Flanger, Delay, Echo and Slap EchoBalanced XLR D.I. outputs on each channel and main mixChannel Mute to silence both input channelsHeadphone outputThree-way speaker design with built-in 10\u00ba baffle angleIntegrated, low profile kickstand for a tilt angle of 50\u00baFoot Switch input for remote muting of Input Channels or Chorus, Flanger, & Slap EchoDual Foot Switch (ACC-LBX-FSW) sold separatelyLoudbox Performer Slip Cover (ACC-LBX-SC7) sold separatelyInstrument & Microphone Channels:Combination 1/4\u201d & XLR input with 10dB pad and clip indicatorResonant bass and midrange with shelving-style treble controlFeedback-fighting Phase switch and Notch filterPhantom power for condenser mics (24V, high current spec.)Reverb / Delay effects levelChorus, Flanger and Slap Echo on/offSpecs:Power: 180 Watts, bi-ampedDrivers: one 1\u201d soft dome twitterOne 5\u201d midrangeOne 8\u201d wooferSPL: 114dB SPL @ 1 meterSpeaker Baffle: 10\u00ba built-in tilt50\u00ba with kickstandDimensions: 18.2\u201d H x 15.8\u201d W x 11.5\u201d D (46cm) x (40cm) x (29cm)Weight: 29.4 lbs (13.3 kg)"
+                "description": "This microphone looks pretty much brand new and has been used very rarely. It has been kept in great condition in my gear closet with no blemishes on the mic. It does not come with the original box.The Blue Bluebird SL large-diaphragm cardioid condenser microphone captures every nuance of your sound. With high-frequency clarity, smooth mid frequencies, and rich lows, your tracks will sound better than ever. Record electric guitars with presence and acoustic guitars with incredible detail. Throw up a pair and capture the full power of a drum kit. The Bluebird SL offers excellent off-axis rejection, thanks to its unusually tight cardioid polar pattern. A highpass filter minimizes mud and rumble, while a -20dB pad effectively handles loud sources. An excellent workhorse mic for any studio, the Blue Bluebird SL large-diaphragm cardioid condenser microphone delivers accurate presence and transparency for any voice or instrument."
             }
         ],
         "famous": [

@@ -59,7 +59,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/fresno-two-solid-wood-doors-x/7355224720.html",
                 "datetime": "2021-07-23 10:56",
                 "price": "$4,995",
-                "where": "Fresno city of san francisco ",
+                "where": "Fresno",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00c0c_kZIWe3hHbmC_0t20CI_600x450.jpg",
                 "all_images": [
@@ -81,7 +81,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/fresno-two-solid-wood-doors-x/7355224994.html",
                 "datetime": "2021-07-23 10:57",
                 "price": "$4,995",
-                "where": "Fresno city of san francisco ",
+                "where": "Fresno",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00c0c_kZIWe3hHbmC_0t20CI_600x450.jpg",
                 "all_images": [
@@ -124,85 +124,108 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7355236787",
-                "name": "Vintage NASA Space Shuttle M Windbreaker Jacket Pla-Jac Dunbrooke Navy",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-nasa-space-shuttle/7355236787.html",
-                "datetime": "2021-07-23 11:15",
-                "price": "$275",
-                "where": "rohnert pk / cotati",
+                "id": "7353992233",
+                "name": "Vintage Black and White Dress With Rhinestone and Crocheted Trim",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-black-and-white-dress/7353992233.html",
+                "datetime": "2021-07-23 11:56",
+                "price": "$20",
+                "where": "san jose north",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00a0a_looDQrHPjT5z_0t20t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00a0a_looDQrHPjT5z_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00a0a_looDQrHPjT5z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_92Tm1KPX6uBz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_1Xe1rkT377Cz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_6ap7obJGcaCz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_gOQTCPgkTUaz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_7ae8E2ia2JUz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_ayCtaSxSy3lz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_ih3F1CdA4BXz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_fe4yZc2UrKLz_0rk0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_d8jSr3bRYs1z_0fu0fu_50x50c.jpg"
+                    "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
+                    "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_cb9tsGNes82z_03v07g_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_bAvihnxc497z_09G07g_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_1Eze4MZzHoKz_09G07g_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_68SIoiySKeyz_05r07g_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_j7r0i0al8Q0z_05r07g_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This is a vintage, 1970s/80s Nasa Space Shuttle windbreaker jacket size medium. The jacket itself was made by Dunbrooke. It's labeled a size medium (40/42) however underarm to underarm is approximately 22 (44 all around, no stretch) and the length from shoulder to hem is approximately 28.5. This is in previously owned condition but looks very nice. All snaps are present and work as they should, there is also a drawstring at the hem. The care tag text is perfectly legible. There is some light discoloration around the collar as shown as well as tiny blemishes on the front and back as circled. There is no fading or cracking of the Nasa graphics or text.------Please call/text   or email anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
+                "description": "If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
             },
             {
-                "id": "7350021260",
-                "name": "Vintage leather jacket",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-jacket/7350021260.html",
-                "datetime": "2021-07-23 11:02",
-                "price": "$299",
-                "where": "San Francisco",
+                "id": "7355251139",
+                "name": "American Eagle Vintage Graphic Full-Zip Hoodie Size L Brand New",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-american-eagle-vintage/7355251139.html",
+                "datetime": "2021-07-23 11:40",
+                "price": "$44",
+                "where": "sunnyvale",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00g0g_3mBjpD9ERt0z_0lM0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00g0g_3mBjpD9ERt0z_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00g0g_3mBjpD9ERt0z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_9M4GQYo4hfuz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_7KeokVxiSAOz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_8e0E2mBy3Hrz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_ceuQE1fi3UZz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_9VyljnKoGTwz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_POBt1pVD14z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_jmaiOp8VdYzz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_4eQhPbVvHW2z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_f8XUTmkxHjgz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_kcPdJtwxBP2z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01111_2xyAXQpTRWDz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_k3arvmjDtgAz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_5YpXpQ1E617z_0lM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_lrQSX52cxroz_0gl0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This is a designer motorcycle jacket from the early nineties. Wilke-Rodriguez brand was in its heyday and this is a prime example of their design. It's simple, but it has all the fine details. The color is rich brown, the leather is thick but supple. Note the front zipper wind flap, the button on the inside pocket, the fine green quilt lining which is perfectly intact. All zippers are working. The jacket is in very good condition with light wear. There is a minor scuff (barely visible) on the upper sleeve as shown in the photo. Bought in San Francisco, I paid close to $1000. Size L"
+                "description": "$44"
             },
             {
-                "id": "7353957270",
-                "name": "Vintage black Fendi laptop case",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-vintage-black-fendi-laptop/7353957270.html",
-                "datetime": "2021-07-23 10:32",
-                "price": "$99",
-                "where": "danville / san ramon",
+                "id": "7354255368",
+                "name": "Vintage Persian lamb and mink jacket",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-persian-lamb-and-mink/7354255368.html",
+                "datetime": "2021-07-23 11:35",
+                "price": "$70",
+                "where": "Alameda",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00t0t_afWnB7OAtYwz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00t0t_afWnB7OAtYwz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00t0t_afWnB7OAtYwz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_g6rX91Ffn6fz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_igPCdLYtlBVz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_hpIVEKajf3gz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_3hdAQyF6RO6z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_ls4av5Q2kWdz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_b7q5lnAN3Ykz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_cjzriNSmyvlz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_fJgSySmsdviz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage black Fendi laptop caseLength: 16 in.Height: 11 in.Thickness: 0.5 in.Needs cleaning (see photos). Reply to this posting if interested. Pick up only. Will take this listing down after it's sold."
+                "description": "This was my grandmothers and is in excellent condition.\ufffc"
             }
         ],
         "beaded": [
+            {
+                "id": "7353935900",
+                "name": "Very Nice Royal Blue Beaded Party Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-very-nice-royal-blue-beaded/7353935900.html",
+                "datetime": "2021-07-23 11:53",
+                "price": "$40",
+                "where": "san jose north",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_ceXWMCpQU04z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00303_h9Y8F9bzv4yz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_84HZ4L1AYBoz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00808_aCkTw8rJLB1z_0t20CI_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "One Piece but, looks like a two piece.  Comes with extra beads.If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+            },
+            {
+                "id": "7355257154",
+                "name": "Nice Tea Length Beaded Ivory Ladies Size XL Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-nice-tea-length-beaded-ivory/7355257154.html",
+                "datetime": "2021-07-23 11:50",
+                "price": "$20",
+                "where": "san jose north",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00202_bImgl259Uq2z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_4WlsfFe8CV2z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_kLuaxvHe0lOz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00707_ebXushrU6xpz_0t20CI_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+            },
             {
                 "id": "7348425330",
                 "name": "Black beaded evening purse",
@@ -222,54 +245,28 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "Black beaded evening purse can be worn as a clutch or over the shoulder"
-            },
-            {
-                "id": "7350228136",
-                "name": "Beaded Clutch Hand Bags",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-beaded-clutch-hand-bags/7350228136.html",
-                "datetime": "2021-07-22 21:58",
-                "price": "$10",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_gtuSlSJJM0Wz_0MM132_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_gtuSlSJJM0Wz_0MM132_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_gtuSlSJJM0Wz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/01616_9IEWttFzfroz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00707_c3nmluulk6Dz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_j5Bnie2W9Ljz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/01010_24eFiuGboXbz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_9oTH41cn9Cvz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/01515_4DxqsRs4lzNz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_5CvCFY0ynpvz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_j3SeI1nl7rjz_1320MM_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Very lovely clutches, one black beaded, one cream beaded. The plain cream one lists brand Bon Soir, made in Hong Kong from Italian beads. Some wear noticeable on inner flap and back. See pictures for bead design and wear.  5 x10 dimensions.Black beaded purse is really lovely. Much detail and sophistication in the detail.  Made in Hong Kong. No noticeable wear. 6x8.5 dimensionsI believe these are vintage and rare to find in this condition. $10 each"
-            },
-            {
-                "id": "7354854557",
-                "name": "Beaded Handbag",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-beaded-handbag/7354854557.html",
-                "datetime": "2021-07-22 14:18",
-                "price": "$40",
-                "where": "cole valley / ashbury hts",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_eYshYt2UL7Rz_0xJ0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Y0Y_eYshYt2UL7Rz_0xJ0t2_600x450.jpg",
-                    "https://images.craigslist.org/00Y0Y_eYshYt2UL7Rz_0xJ0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_86UxKz6tA3yz_0q30t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_lUhIqzt39Yz_0vG0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_lJ43yxkc2u7z_0lM0CI_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Beautiful vintage beaded handbag.  Excellent condition, no loose or missing beads.  $40 OBO"
             }
         ],
         "gloves": [
+            {
+                "id": "7355244159",
+                "name": "Bilt Motorcycle Leather Gloves Mens XL",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-bilt-motorcycle-leather-gloves/7355244159.html",
+                "datetime": "2021-07-23 11:28",
+                "price": "$59",
+                "where": "oakland north / temescal",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01414_dBVhbQqGaWv_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01414_dBVhbQqGaWv_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01414_dBVhbQqGaWv_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_kGWTobQLrdu_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_aeraX4Qhc6Y_0CI0t2_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "I\u2019m selling a pair of Bilt motorcycle leather gloves. Size: XLIf interested please text or call for pickup."
+            },
             {
                 "id": "7342000004",
                 "name": "Merino Wool Gloves & Scarf",
@@ -320,49 +317,33 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "I live about 25 miles south of central San Jose, or about 7 miles west of downtown Morgan Hill.OUTDOORS on my patio.Appointments Required--only one family at a time. MASKS REQUIRED.available  10am-6pm  every day.Large collection. Many more than shown in the individual photos. All in excellent condition. Most are black. The first ones are mens'--Harley, Street and Steel, New Age, Vetter distressed.The Harley with the black and orange is a boys XL which could also be worn by a woman. The next 5 photos are women's. Lastly Leather Gloves.Motorcycle jackets in Caf\u00e9 Racer or Brando Biker style are priced from $50.Extra heavy buffalo leather jackets start at $85. Joe Rocket leather jackets with armor $150 Hein Gerke First Gear leather jacket is $400 (originally over $1000.) Motorcycle leather pants start at $50.Casual leather pants start at $35, leather gloves $25. Casual leather jackets are $35-$50.Please text. I am hard of hearing and voice mails do not work for me."
-            },
-            {
-                "id": "7352405612",
-                "name": "Scarves, bags, pashminas, leather gloves etc",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-scarves-bags-pashminas/7352405612.html",
-                "datetime": "2021-07-23 09:28",
-                "price": "$0",
-                "where": "sf",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_f491W7iR6Fy_0pO0pO_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Y0Y_f491W7iR6Fy_0pO0pO_600x450.jpg",
-                    "https://images.craigslist.org/00Y0Y_f491W7iR6Fy_0pO0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_ezCilJ17GbN_0uj0qT_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_iE4TsqViHLE_0CI0oc_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_1WgC1SraxIg_0ei0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_lcIMRv6RTkv_0CI0oc_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_kXTa3LVlHmm_08c07b_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_hLSwSng8qmX_0CI0oc_50x50c.jpg",
-                    "https://images.craigslist.org/00505_5fTXD6Wwh3C_0i90t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_hYP5HHWZwi5_01n01W_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_7ieIqEDvZBN_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_lxOETgolYFh_0jX0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00202_eS98JbIQPcf_084084_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_bFbLmtft4Mb_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_9eC4YT9z1YO_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_4XplAdVsz11_0pO0lv_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_eakQEotq0_0CI0rn_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_4HFN0kr6qAq_0CI0rn_50x50c.jpg",
-                    "https://images.craigslist.org/00202_1aOTdc7Kvve_0es09y_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_lbL0Ey1gHPO_0p10qK_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_6LXOwFXQ9ex_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01212_eUegjwUCD5T_0rM0q1_50x50c.jpg",
-                    "https://images.craigslist.org/00606_e11aJPYANQO_0kJ0qe_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_6qpYw1IAu1A_0pO0kO_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_62PP6BNzzOs_0jm0pO_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "much more in links belowClearing 3 closets full of unique vintage fashions in best offer auction: please reply with the photo number of the item you want and send your offer. If your price is acceptable and no one outbids, you can call and pick up in SF. If no show, the next bidder gets it. No reply means your offer was too low.Discount for 10+ items - bonanza for vintage resellers. 100s of tops, dresses, jackets, suits, blazers, skirts, pants, shoes, accessories, jewellery etc. etc. - too many to post. Many rare designer outfits. Check these links for more items.More and bigger photos:DRESSES:https://photos.google.com/share/AF1QipMAx1RCA9H-3N3xMSNHi8CgAxx0cB7N0ENQiC4Z_aGAqat5ucRUSl2oxZiwQxGpNw?key=MFZRWlBkS1BBOUY2Y1p6ZFg2bUthVXRMZXhKYU5RTOPS AND SWEATERS:https://photos.google.com/share/AF1QipOLcKmSUiCNSa5zg-56bIAcSl4ujC6Is2eZm_yqmm743Vy8xnc7Mb8aHl3VTQV-5w?key=NUFPM2J1UEp0ZWpnTDhLdUZ3SHJ4WjRIdGVPczh3COATS, JACKETS AND SUITS:https://photos.google.com/share/AF1QipPPM9khppYOY6saAcqn8jpP2j7zkALfLt62WffqtZxmxuordC5zwbvR2-45zq_QqA?key=YndWTHQ5d3NDTlEwdDJYNHdGLUZvTmZ3MjFuWFRBJUMPSUITS, SKIRTS, PANTS, SHORTS.https://photos.google.com/share/AF1QipMAAy1bGxvovZKacZ3tLfxSWhr-_y98o2RTAfuIxSsgRIMD3eeUSNyP_luzXnHZJQ?key=TVhfY0xrWHlqdFZIUHNUNEotbXNfaXdiVC1aTlVRLINGERIEhttps://photos.google.com/share/AF1QipMHYh86mDFKmeTLHxlnGq4gVtkgmAKqZOXgkX7zRQh6kMFfXBYVJtaGe2KS4mSa_g?key=ZVoxODNaeV8zbVRlR09rSWZ1blY2QmY2bWVUVjVRDESIGNERhttps://photos.google.com/share/AF1QipO64n8tWi2A_EzHvlu7X25xDh0S6JeA1DdEKxNawAwbrXZ3N6oHkRQUpbtPS3d59w?key=NVRYWm53Q0RxMVJCVkhzRjNWaVFBcVlnZWp0blhnKIMONO COAT. ETHNIC WAREhttps://photos.google.com/share/AF1QipPC4s2D9N4wucWq3g7L2X1hqZCF4524OwpgL5MZ4KefwuiPhQg_20UrJ7kK94z-LQ?key=RG9yVXFXUmlsNGFrQmUwTTZrRkVTTnJCQzQweXBBBELTS AND ACCESSORIEShttps://photos.google.com/share/AF1QipNq_KIUCYBxi5rKoJep9uBhHXG_tUoACojHwWduLdXHkwQewnZz5NICc6fXExTETg?key=Z19LTEd3bzJuU1YwT3RDaVA2LXNGaVJELTdHdkNBSHOEShttps://photos.google.com/share/AF1QipOTtTlREUWUCtllFXic_sr_tYbBvw21shzBSAYSQ9HZyuJfjNnGzLaCNdEOyShrpg?key=Qzd5WXhBVkc4dm9ON3laMGRRdnZsSGFmWTZWdTh3JEWELLERYhttps://photos.google.com/share/AF1QipMyXvCa3ygKlMolOcw1H8EmUv60ZugjbKjsZ9ssTYbp7g5Dckz5BUQzNccO_dUfXg?key=UmczLXU1QmRndFJlNkVCRWNSNDF0azJTSmdZemJ3"
             }
         ],
         "wedding dress": [
+            {
+                "id": "7353936435",
+                "name": "Larger Size Wedding Dress With Train",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-larger-size-wedding-dress-with/7353936435.html",
+                "datetime": "2021-07-23 11:53",
+                "price": "$65",
+                "where": "san jose north",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00c0c_iPp3LLxBnSUz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00c0c_iPp3LLxBnSUz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00c0c_iPp3LLxBnSUz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00606_deXCTXU2hKfz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00404_7srpqpCQVzEz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00909_luA9n4IifdIz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_3CppPtFmu0lz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_60QTGvraAW6z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01717_8jA4er7v3KDz_0in0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_liy8COY6QOYz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Will probably need Dry Cleaned. I called a dry cleaner and they said minimum price is $100.00.  No size listed guessing it might be a 12 or 14.  Please come and try it on (not sure of the size).  If nothing else it is worth the price in beads.  If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+            },
             {
                 "id": "7343123218",
                 "name": "San Patrick 1964 Seymour Wedding Dress",
@@ -436,31 +417,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Seymour wedding dress from the Fashion 2015 - St Patrick collection | St. PatrickI am selling my wedding dress that I wore once. The original tag is attached still.Size is US 8, as seen on the picture. This dress is a custom with a corset waist, so the dress is actually a US size 8, but using the corset the size can go down to a 0. Please see pictures of back with corset. ASKING $1,500.00If you see this ad, then the dress is still available. Email me your cell phone and we will setup and date and time.CASH ONLY, No IO'S, NO TRADES, NO CHECKS."
-            },
-            {
-                "id": "7355172136",
-                "name": "WEDDING DRESS WITH TRAIN SIZE 12",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-wedding-dress-with-train-size/7355172136.html",
-                "datetime": "2021-07-23 09:30",
-                "price": "$200",
-                "where": "Sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Q0Q_hybRx1lIHIpz_0lM0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Q0Q_hybRx1lIHIpz_0lM0CI_600x450.jpg",
-                    "https://images.craigslist.org/00Q0Q_hybRx1lIHIpz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/01616_1F2qHqtJ7KAz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_7siy9NhBHvuz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_ffcOF7BysmWz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_iqNG0fxjy2uz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00303_bHyBWH8y7gWz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_2vx72LIMYYFz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_gy2mW6aPDEBz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00303_iBSDA3816vnz_0CI0lM_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "$200 perfect beaded and laced dresssize 12quick sale"
             }
         ],
         "great condition": [
@@ -738,35 +694,44 @@
                 "description": "2014 Jeep Wrangler Unlimited Sahara ~ L@@K ~ Many Upgrades ~ Loaded ~ We Financ - $34,991Year: 2014Make:JeepModel:Wrangler UnlimitedTrim:Sahara ~ L@@K ~ Many Upgrades ~ Loaded ~ We FinancMileage:74,152Stock #:8290VIN:1C4BJWEG7EL273022Trans:AutomaticColor:Bright WhiteVehicle Type:WagonState:CADrive Train:4WDEngine:3.6L V6 24V VVTNotes~ L@@K ~ Just Arrived ~ 2014 Jeep Wrangler Sahara Unlimited ~ WOW ~ What A SUV ~ Ton's Of Extras ~ Must SEE ~ Fully Loaded ~ Upgraded Lights ~ Upgraded Wheels & Tires ~ Automatic ~ Navigation System ~ Leather ~ Hard Top ~4WD ~ Carfax Available With Every Single Purchase ~ Credit Union Direct Dealership ~ We Offer Great Buying Experience ~ Clean Title ~ SE HABLA ESPANOL ~ MATRICULA OK ~ Clean Title ~ Hurry Will Not Last ~ We Finance ~ WE SAY YES ~ EZ Finance Options ~ Ask About Our Fresh Start Program ~ Bad Credit ~ No Credit ~ Welcome ~ All Cash Buyers Welcome ~ All Trades Welcome ~ We Finance Your Future Not Your Past ~ 5 Start Dealer On Yelp ~ Call US Today !Vehicle OptionsDeep Tinted GlassLeather Steering WheelDeep Tinted GlassLeather Steering Wheel160 Amp Alternator2 12V DC Power Outlets2 12V DC Power Outlets and 1 AC Power Outlet2 Seatback Storage Pockets2 Skid Plates22.5 Gal. Fuel Tank3.21 Rear Axle Ratio4-Way Passenger Seat -inc: Manual Recline and Fore/Aft Movement4-Wheel Disc Brakes w/4-Wheel ABS, Front And Rear Vented Discs, Brake Assist and Hill Hold Control6-Way Driver Seat -inc: Manual Recline, Height Adjustment and Fore/Aft Movement60-40 Folding Split-Bench Front Facing Fold Forward Seatback Rear Seat600CCA Maintenance-Free Battery880# Maximum PayloadAirbag Occupancy SensorAluminum Spare WheelAnalog DisplayAuto Locking HubsBlack Door HandlesBlack Power Heated Side Mirrors w/Manual FoldingBlack Side Windows TrimBody-Colored Fender FlaresBody-Colored GrilleBrake Actuated Limited Slip DifferentialCarpet Floor Trim, Carpet And Rubber MatClearcoat PaintCompassConventional Rear Cargo AccessConvertible w/Fixed Roll-Over ProtectionCruise Control w/Steering Wheel ControlsDay-Night Auto-Dimming Rearview MirrorDelayed Accessory PowerDriver And Passenger Visor Vanity MirrorsDual Stage Driver And Passenger Front AirbagsEngine oil coolerEngine: 3.6L V6 24V VVTFade-To-Off Interior LightingFixed AntennaFront And Rear Anti-Roll BarsFront Center Armrest w/StorageFront CupholderFront Fog LampsFront Map LightsFull Floor Console w/Locking Storage, 2 12V DC Power Outlets and 1 AC Power OutletFull-Size Spare Tire Mounted Outside RearFully Automatic Aero-Composite Halogen HeadlampsFully Galvanized Steel PanelsGVWR: 5,500 lbsHD Shock AbsorbersHeavy Duty Suspension w/Gas ShocksHydraulic Power-Assist SteeringInstrument Panel Bin, Dashboard Storage, Driver And Passenger Door BinsInterior Trim -inc: Deluxe Sound Insulation, Metal-Look Instrument Panel Insert, Metal-Look Door Panel Insert and Metal-Look Interior AccentsLeading Link Front Suspension w/Coil SpringsLeather/Chrome Gear Shifter MaterialLocking Glove BoxManual Adjustable Front Head Restraints and Fixed Rear Head RestraintsManual Tilt Steering ColumnManual Transfer CaseOutboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3 Point, Height Adjusters and PretensionersOutside Temp GaugePart-Time Four-Wheel DrivePerimeter AlarmPremium AmplifierRear Child Safety LocksRear CupholderRemovable Rear WindowSentry Key Engine ImmobilizerSide Impact BeamsSingle Stainless Steel ExhaustTires: P255/70R18 OWL On/Off RoadTowing Equipment -inc: Trailer Sway ControlTrailing Arm Rear Suspension w/Coil SpringsVariable Intermittent WipersPlatinum MotorsSales Department14141 E. 14 Street San LeandroCA94578510-346-2700BatchID: N068RAO361ID: 17633533"
             },
             {
-                "id": "7351502031",
-                "name": "2017 Ford Transit 150 Cargo Van - low mileage with $6,500 in upgrades",
-                "url": "https://sfbay.craigslist.org/nby/cto/d/san-rafael-2017-ford-transit-150-cargo/7351502031.html",
-                "datetime": "2021-07-15 12:14",
-                "price": "$34,500",
-                "where": "san rafael",
+                "id": "7348826182",
+                "name": "2014 Jeep Wrangler Unlimited Sahara ~ L@@K ~ Many Upgrades ~ Loaded ~",
+                "url": "https://sfbay.craigslist.org/nby/ctd/d/san-leandro-2014-jeep-wrangler/7348826182.html",
+                "datetime": "2021-07-09 19:39",
+                "price": "$34,991",
+                "where": "San Leandro north bay / marin ",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_fI4qFZZaVG0z_1320MM_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00W0W_fI4qFZZaVG0z_1320MM_600x450.jpg",
-                    "https://images.craigslist.org/00W0W_fI4qFZZaVG0z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_l52taBAIwidz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_kmWNWr5I7vcz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_eDKhGivXGDyz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_fhd2Jgsyelnz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/01313_6He0643OPqlz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_e3q8nI6eCWJz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00808_l5B3RqjwOmMz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_5acRc4xmJZQz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_3kHdpC8i8BDz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00707_b2mPNCkfnmGz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/01313_lLfEoqdvcIOz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00505_gYiZmX13Zohz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_1WztOzQZ5dkz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00202_27AICWTQhMqz_0jc0cU_50x50c.jpg"
+                    "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_600x450.jpg",
+                    "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00303_fhoV0jC1UGKz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_ffosLH8vqIyz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_6GU3m5m9GxGz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_bKeE9geBUuGz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_iokqoBcW0V3z_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_JzvDCZPgD2z_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_bAUIsQXaKiXz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_eTLsNJOa9UTz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00909_6khcelkuhrmz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_6GmQFzkAbTGz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_6mdmKVbf67xz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00303_8gxI5IAyf9Cz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_iqRLqwesR5fz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_baQWpKo6MXTz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_b46vOVu8l8vz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/01111_comaaEnFSOuz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_UFC5l0JCf5z_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_5PL9tvsJJAPz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_duZG7HnUZbFz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_dSfPZYE1eBLz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00505_4AdFaoWdrlIz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_luwJvolkyjfz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/01515_dxtJCZLGbYmz_0kE0fu_50x50c.jpg"
                 ],
                 "query": "fix* up*",
                 "category": "cta",
-                "description": "Cargo van with $6,500 in upgrades. Single owner and dealer maintained for all services2017 15 MR Cargo Van- 130 Wheelbase- 3.5L GTDI V6 Ecoboost Engine- 6-SPD Auto Select Shift TrExterior: - Single sliding side door- Interval wipers- Spare tire and wheel- Black grille/bumpersInterior: - Cargo hooks- Air conditioning - front- Powerpoints - 12v(2)Functional- Power locks and windows- Power steering- 25.0 Gallon fuel tank- Rear view cameraSafety/Security- Driver/Passenger air bags- Airbags - side air curtains- 3 point safety belts- 4-wheel disk brakes- Advancetrac w/RSC- Tire pressure monitor systemIncludes- Preferred equipment package 101A- 3.31 Limited slip axle X3L- Front license plate bracket- Floor covering carpet front with protective rubber floor mat- Fixed rear door glass- 8600# GVWR package- Charcoal cloth 10 way power / Heated driver- 50 state emissions- AM/FM Stereo SGL-CD w/Sync Bluetooth- Cruise control- Heavy duty alternator- Keys 2 additional- 6 speakers (4 front/2 rear)Owner upgrades- Weather Guard drop down dual ladder racks- Rear Partition wall with lockable door- Van Shelving with small parts components- Rear sway bar- Cooper tires"
+                "description": "2014 Jeep Wrangler Unlimited Sahara ~ L@@K ~ Many Upgrades ~ Loaded ~ We Financ - $34,991Year: 2014Make:JeepModel:Wrangler UnlimitedTrim:Sahara ~ L@@K ~ Many Upgrades ~ Loaded ~ We FinancMileage:74,152Stock #:8290VIN:1C4BJWEG7EL273022Trans:AutomaticColor:Bright WhiteVehicle Type:WagonState:CADrive Train:4WDEngine:3.6L V6 24V VVTNotes~ L@@K ~ Just Arrived ~ 2014 Jeep Wrangler Sahara Unlimited ~ WOW ~ What A SUV ~ Ton's Of Extras ~ Must SEE ~ Fully Loaded ~ Upgraded Lights ~ Upgraded Wheels & Tires ~ Automatic ~ Navigation System ~ Leather ~ Hard Top ~4WD ~ Carfax Available With Every Single Purchase ~ Credit Union Direct Dealership ~ We Offer Great Buying Experience ~ Clean Title ~ SE HABLA ESPANOL ~ MATRICULA OK ~ Clean Title ~ Hurry Will Not Last ~ We Finance ~ WE SAY YES ~ EZ Finance Options ~ Ask About Our Fresh Start Program ~ Bad Credit ~ No Credit ~ Welcome ~ All Cash Buyers Welcome ~ All Trades Welcome ~ We Finance Your Future Not Your Past ~ 5 Start Dealer On Yelp ~ Call US Today !Vehicle OptionsDeep Tinted GlassLeather Steering WheelDeep Tinted GlassLeather Steering Wheel160 Amp Alternator2 12V DC Power Outlets2 12V DC Power Outlets and 1 AC Power Outlet2 Seatback Storage Pockets2 Skid Plates22.5 Gal. Fuel Tank3.21 Rear Axle Ratio4-Way Passenger Seat -inc: Manual Recline and Fore/Aft Movement4-Wheel Disc Brakes w/4-Wheel ABS, Front And Rear Vented Discs, Brake Assist and Hill Hold Control6-Way Driver Seat -inc: Manual Recline, Height Adjustment and Fore/Aft Movement60-40 Folding Split-Bench Front Facing Fold Forward Seatback Rear Seat600CCA Maintenance-Free Battery880# Maximum PayloadAirbag Occupancy SensorAluminum Spare WheelAnalog DisplayAuto Locking HubsBlack Door HandlesBlack Power Heated Side Mirrors w/Manual FoldingBlack Side Windows TrimBody-Colored Fender FlaresBody-Colored GrilleBrake Actuated Limited Slip DifferentialCarpet Floor Trim, Carpet And Rubber MatClearcoat PaintCompassConventional Rear Cargo AccessConvertible w/Fixed Roll-Over ProtectionCruise Control w/Steering Wheel ControlsDay-Night Auto-Dimming Rearview MirrorDelayed Accessory PowerDriver And Passenger Visor Vanity MirrorsDual Stage Driver And Passenger Front AirbagsEngine oil coolerEngine: 3.6L V6 24V VVTFade-To-Off Interior LightingFixed AntennaFront And Rear Anti-Roll BarsFront Center Armrest w/StorageFront CupholderFront Fog LampsFront Map LightsFull Floor Console w/Locking Storage, 2 12V DC Power Outlets and 1 AC Power OutletFull-Size Spare Tire Mounted Outside RearFully Automatic Aero-Composite Halogen HeadlampsFully Galvanized Steel PanelsGVWR: 5,500 lbsHD Shock AbsorbersHeavy Duty Suspension w/Gas ShocksHydraulic Power-Assist SteeringInstrument Panel Bin, Dashboard Storage, Driver And Passenger Door BinsInterior Trim -inc: Deluxe Sound Insulation, Metal-Look Instrument Panel Insert, Metal-Look Door Panel Insert and Metal-Look Interior AccentsLeading Link Front Suspension w/Coil SpringsLeather/Chrome Gear Shifter MaterialLocking Glove BoxManual Adjustable Front Head Restraints and Fixed Rear Head RestraintsManual Tilt Steering ColumnManual Transfer CaseOutboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3 Point, Height Adjusters and PretensionersOutside Temp GaugePart-Time Four-Wheel DrivePerimeter AlarmPremium AmplifierRear Child Safety LocksRear CupholderRemovable Rear WindowSentry Key Engine ImmobilizerSide Impact BeamsSingle Stainless Steel ExhaustTires: P255/70R18 OWL On/Off RoadTowing Equipment -inc: Trailer Sway ControlTrailing Arm Rear Suspension w/Coil SpringsVariable Intermittent WipersPlatinum MotorsSales Department14141 E. 14 Street San LeandroCA94578510-346-2700BatchID: 1O2AYKI628ID: 17633533 Updated 7/15/2021 10:32:10 PM EST"
             }
         ],
         "fast": [
@@ -905,22 +870,23 @@
                 "description": "Tested and working perfectly. Missing one plastic knob, but the pot works just fine. Cleaned all the pots and jacks, nothing is scratchy. 15\u201d Speaker is in great shape. It even smells pretty nice, which is surprising for vintage music gear. This is stupidly loud. I can\u2019t go past 3 without shaking stuff off my walls and pissing off the neighbors. It would be a perfect small gig combo amp, or to drown out your overzealous drummer. Happy to deliver or even bring it over so you can give it a spin because my neighbors are already sick of it.$200 OBO"
             },
             {
-                "id": "7355225601",
-                "name": "Tube Driver TD-752 112 100 watt amp",
-                "url": "https://sfbay.craigslist.org/pen/msg/d/san-carlos-tube-driver-td-watt-amp/7355225601.html",
-                "datetime": "2021-07-23 10:57",
-                "price": "$195",
-                "where": "san carlos",
+                "id": "7355258545",
+                "name": "Blackstar ID:260 TVP",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/richmond-blackstar-id260-tvp/7355258545.html",
+                "datetime": "2021-07-23 11:53",
+                "price": "$200",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_gGQtz8ZdEL0z_0pE0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00K0K_iGRUwdU9ECkz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00n0n_gGQtz8ZdEL0z_0pE0t2_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_gGQtz8ZdEL0z_0pE0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_f2RVpkfghDQz_0r50t2_50x50c.jpg"
+                    "https://images.craigslist.org/00K0K_iGRUwdU9ECkz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00K0K_iGRUwdU9ECkz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_kFlj8dIJXuvz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_inZQQJy5VACz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Mid nineties T.K Butler Tube Works amp. 2 Channel amp 100 watt 1-12. Tube preamp channel (12 ax7) that can be turned on/off parallel with the SS Power/Preamp. Lots of tonal shaping options available. This amp has tons of headroom available and can get very loud. These are somewhat rare these days. Spring reverb.No issues..."
+                "description": "Blackstar ID:260 TVP2x12, 60WCondition: goodIncludes footswitch (typically sold separately. retail: $99)This is a great sounding and loud amp, loaded with all the effects you can think of. You can really dial in almost any tone you're looking for with the TVP (True Valve Power--allows you to shape your tone based on highly accurate power tube models) and ISF (Infinite Shape Feature--allows you to choose between American and British mid-range tones)  controls. DISCLOSURE: There is a crack in the cabinet (see last pic). This is due to Guitar Center not knowing how to pack a heavy amp for shipping. However, this crack does not affect the tone or function of the amp. In terms of structural integrity, the cabinet still feels VERY SOLID, as the crack does not move nor do any of the cabinet panels. If it were not for this crack, this amp would be considered to be in EXCELLENT condition.REASON FOR SELLING: I'm more into floor-based amp modelers/effect processors, e.g. Headrush, Line 6, etc. these days. And I'm moving so it's time to clean out the garage.Feel free to reach out with any questions or to schedule a time if you'd like to come by and check it out."
             }
         ],
         "famous": [

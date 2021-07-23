@@ -323,6 +323,22 @@
         ],
         "gloves": [
             {
+                "id": "7346589836",
+                "name": "NEW hat + scarf +  gloves set",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-new-hat-scarf-gloves-set/7346589836.html",
+                "datetime": "2021-07-23 06:52",
+                "price": "$9",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00W0W_i9bBnhEfkL_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00W0W_i9bBnhEfkL_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "NEW hat + scarf +  gloves set ............... $9Very soft and niceCollect in Pleasanton"
+            },
+            {
                 "id": "7350226769",
                 "name": "Touchscreen gloves",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/burlingame-touchscreen-gloves/7350226769.html",
@@ -353,30 +369,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Two pairs of long white kid gloves have been soldTwo pairs short white kid gloves, size 6.5, excellent condition, $10 eachOne pair short apricot-colored kid gloves, size 6.5, like new, $20"
-            },
-            {
-                "id": "7354895961",
-                "name": "Set of Used Motorcycle Gear: Helmet, gloves, jacket, boots. Men's Medi",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-set-of-used-motorcycle/7354895961.html",
-                "datetime": "2021-07-22 15:48",
-                "price": "$180",
-                "where": "richmond / seacliff",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01212_EYBDHFyHQ0z_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01212_EYBDHFyHQ0z_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/01212_EYBDHFyHQ0z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_emoOgq0DTUkz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_a17aO0apBYYz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_am1EYJmDjsKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01616_8btixBDTkCCz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_htLhoXuQZGkz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_hdPqsPR0sDyz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_aTG7OlWZiygz_0t20CI_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "All bought from cyclegear on 11th st.Used for about a year, still in good condition. Never had an accident or fell.For reference I am 5'11 160lbs and these fit me well.Jacket, Medium: https://www.cyclegear.com/gear/sedici-matteo-waterproof-jacket has removable inner linings to reduce temp when not wet out.Boots: US 13Gloves, Medium: one glove has a small hole on middle finger.Helmet: XL, not sure what model. Has transitional visor shade and open/close air vents.Taking offers, let me know when you'd like to meet up, thanks.Cash only, pickup only, include answer to 5 plus 2 if not a robot"
             }
         ],
         "wedding dress": [
@@ -426,7 +418,7 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wedding-dress/7354948056.html",
                 "datetime": "2021-07-22 18:06",
                 "price": "$200",
-                "where": "San Jose south bay area ",
+                "where": "San Jose",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00c0c_3E7xgxZmildz_0Mo12w_600x450.jpg",
                 "all_images": [
@@ -629,44 +621,39 @@
                 "description": "Selling our family Sedan because we purchased a new Truck.   2016 Toyota Camry SE clean title in hand, vehicle is paid off. Backup camera. Bluetooth. clean title drives great very reliable, great 30+ mpg and fun to drive, ice. Cold AC, black leather seats, power windows, automaticLow 70k miles, All service completed Serious buyers only please,Text when ready to see the car please.  9   1 6  - 5 9  6 -  8  5  82I am a Private party. No Trades.No Dealers.No Emails.No Low ball offers.Thank youAccord camry civic corolla prius hybridaccord, Camry, is250, Q50, Acura    Tacoma hybrid xA xB Yaris S Altima Versa Elantra SL1 New Beetle A6 325i Jetta Corolla civic Fiat Focus Fusion"
             },
             {
-                "id": "7355028143",
-                "name": "2020 Honda Accord LX LOW MILES, RUNS GREAT!",
-                "url": "https://sfbay.craigslist.org/scz/ctd/d/santa-cruz-2020-honda-accord-lx-low/7355028143.html",
-                "datetime": "2021-07-23 03:02",
-                "price": "$25,999",
-                "where": "alohamotors.net",
+                "id": "7355066112",
+                "name": "\u272d2002 BMW 5 Series M5 only 80k miles in great condition BLACK",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/2002-bmw-series-m5-only-80k-miles-in/7355066112.html",
+                "datetime": "2021-07-23 06:09",
+                "price": "$43,000",
+                "where": "walnut creek",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_awakd8aXT1Lz_0fe0bq_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00303_iMvkjw3Y1NDz_0kE0dL_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00k0k_awakd8aXT1Lz_0fe0bq_600x450.jpg",
-                    "https://images.craigslist.org/00k0k_awakd8aXT1Lz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_aYcnlI4V6Rqz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00101_lEvYFU6S5rOz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_4mBRe0pdDsYz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_iGr2M8ZahmHz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_eqk1NygNLJ8z_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_fcdsR8iJKP7z_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_dTJ14KHNhaaz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_817Pzf62fojz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_TDdXQh7RbGz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_i7J0jR6Aa7az_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_idnYHlFx4xnz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00303_fPbRH41m9uiz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_3HhXuwy9hAIz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_jvE6W61OBQIz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_mEwhD4ksxAz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_g4ifkPDxOgaz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_4JDHeiWYcPwz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_2VrEnTqz1o7z_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_3VX8tLgdSuaz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_7ex0R3JBpUhz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_5OsqPzG8bXKz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_3d2ftXErngXz_0fe0bq_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_6vY959nr0hMz_0fe0bq_50x50c.jpg"
+                    "https://images.craigslist.org/00303_iMvkjw3Y1NDz_0kE0dL_600x450.jpg",
+                    "https://images.craigslist.org/00303_iMvkjw3Y1NDz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_5Vxsm9AoDgSz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_kxQkh8XXvEPz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_aNMZg55eUREz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_jEgzNfcWBjz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00606_b1of4BvtzVoz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_4F3M7I93GJGz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00909_in2981laS6tz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/01414_ikl10s32HSuz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00909_cevpZY9WgOJz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00202_6aPkpPGEbR2z_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_dlFMlPrqXFOz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_lWFQDYQLxEKz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00808_iv3umFpB09lz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_7ZckzB20vWSz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_5rVQcTd1OGLz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_eqjGQHSSl8Pz_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_b4OUHuriS05z_0kE0dL_50x50c.jpg",
+                    "https://images.craigslist.org/00606_ecIUt74vUHMz_0kE0dL_50x50c.jpg"
                 ],
                 "query": "drives great",
                 "category": "cta",
-                "description": "2020 Honda Accord LX LOW MILES, RUNS GREAT!25,167 mi. - Automatic - 4D Luxury - 4 Cyl - FWD: Front Wheel Drive - VIN# 1HGCV1F18LA015396 - STK# LA015396alohamotors.netCall or Text (831) 428-8006www.alohamotors.netAddress: 512 B Pacific Ave, Santa Cruz, CA 95060The automatic transmission provides for a smooth yet reliable ride, on top of that this reliable 4 Cylinder engine is one of the most economical engines on the market. You can expect better fuel economy thanks to the front wheel drive, on top of that .\ud83c\uddea\ud83c\uddf8\u00a0SE HABLA ESPANOL!\ud83c\udf3a WHY CHOOSE ALOHA MOTORS:GOOD/BAD/NO CREDIT -\u00a0\ud83c\udd97BANKRUPTCIES, PREVIOUS REPOS -\u00a0\ud83c\udd97SSI, DISABILITIES -\u00a0\ud83c\udd97\ud83d\udcdd FOR FAST & EASY APPROVAL GO TO:\u21d2\u00a0https://www.alohamotors.net/credit-application\ud83d\ude98 Vehicle Information:STOCK:\u00a0LA015396YEAR:\u00a02020MAKE:\u00a0HondaMODEL:\u00a0AccordTRIM: LXMILES:\u00a025,167\ud83e\udd8a FREE CARFAX AVAILABLE!\ud83d\ude97 WE BUY CARS!\ud83e\udd1d TRADE-INS WELCOME!\ud83d\udcc3 WARRANTIES UP TO 8 YEARS!\ud83d\udda5\ufe0f FOR MORE INVENTORY VISIT:\u21aa\u00a0https://www.alohamotors.net/view-inventory\ud83c\udf3a ABOUT US:Aloha Motors is located in Santa Cruz CA\u00a0and offering\u00a0amazing used cars at great low prices. We have been in the automotive business since 2013 and our staff has many years in the automotive industry. You can rest assured that we will do our best to get you the best price and also the best deals on your auto loan. We are a family-owned business that makes our customer satisfaction its main priority regardless if you're buying a car or not. \ud83d\udd57 Hours:Monday: 10:00AM - 6:30PMTuesday: 10:00AM - 6:30PMWednesday: 10:00AM - 6:30PMThursday:\u00a010:00AM - 6:30PMFriday: 10:00AM - 6:30PMSaturday: 10:00AM - 6:30PMSunday: CLOSED\ud83c\uddea\ud83c\uddf8 Se Habla Espa\u00f1ol*Si buscas un auto y tienes un numero de (ITIN) O una Matricula yo te puedo ayudar, Mi nombre es Gabriel Nu\u00f1ez soy el Gerente de Financiamiento aqui en Aloha Motors de Santa Cruz, tengo muchos a\u00f1os ayudando a la comunidad hispana de Watsonville, Salinas, Hollister, Gilroy, Morgan Hill, y ahora estoy aqui en Santa Cruz, ven y platica conmigo dime tu situacion y yo con los diferentes Bancos y Credit Unions con que trabajamos te podre poner en el auto que buscas.There are other similar years of vehicles to choose from such as 2022 2021 2020  2019 2018 2017 2016 2015 2014 22 21 0  19 18 17 16 15 14 Honda Accord LX - Contact us today for more information.\ud83d\udcf2 Call or Text:\u00a0(831) 428-8006\ud83d\udccd VISIT US AT 512 Pacific Ave, Santa Cruz, CA 95060\ud83c\uddea\ud83c\uddf8\u00a0SE HABLA ESPANOL!Disclaimer: The monthly payment on this vehicle is an estimate, based on the sales price of\u00a0$25,999\u00a0calculated on a\u00a02.72% APR\u00a0for\u00a048 months\u00a0with a down-payment of\u00a015%, on approved credit. All advertised prices exclude government fees and taxes, any finance charges, any dealer document preparation charge, and any emission testing charge. Down Payment, Monthly payment, and interest rate are based\u00a0on approved credit. Prices do not include Sales Tax and DMV registration fees. While we try to make sure that all prices posted here are accurate at all times, we cannot be responsible for typographical and other errors. Please call us for availability on all vehicles since our inventory moves fast.The Honda back-up camera provides you with both added convenience and improved safety while having the key in your pocket is one less step and makes it easier to handle armloads of more important things. The Bluetooth connection on this vehicle not only cuts down on possible law violations, but also keeps both your hands free to grip the wheel, not to mention the MP3 player enables you to listen to hours of uninterrupted music. The AUX input lets you control exactly what you want to hear, whats more is the keyless entry option adds to the convenience of owning this vehicle.The installed stability control stabilizes the vehicle during sudden evasive maneuvers, whats more is the cruise control takes much of the foot-work out of long distance driving. The security system keeps your vehicle safe and saves you money on insurance, not to mention the brake assist delivers a huge safety advantage - if the system identifies an emergency, it automatically initiates full braking faster than any driver can move their foot. The tire pressure monitor allows you to maintain proper tire inflation which leads to maximum miles per gallon, in addition to the power windows are definitely a must have option.The traction control helps to provide more protection in dangerous weather while the steering wheel audio controls let you control almost every aspect of your music without taking your hands off the wheel.You can't lose on this 2020 Honda Accord Luxury at only $25,999.Visit our showroom to test drive this 2020 Honda Accord whenever it's convenient for youalohamotors.netCall or Text (831) 428-8006www.alohamotors.netAddress: 512 B Pacific Ave, Santa Cruz, CA 950602020* Honda* Accord* 2020_Honda_Accord_ 2020_ Honda_ Accord_ *Honda Accord* *Honda Accord LX* *Honda* *Accord* *LX* *2020 Honda Accord* *2020 Honda Accord LX* *Accord 2020* *Honda Accord 2020* *Accord 2020* *Honda Accord 2020* *Honda Accord 2020 LX* *Honda Accord Automatic* *Honda Accord Automatic LX* *Automatic Honda Accord* *Honda Automatic Accord* *Automatic* *1.5L Turbo I4 192hp 192ft. lbs. S 4dr* *Honda* *Accord 2020* *Honda Accord * * Honda Accord* ** *1.5L Turbo I4 192hp 192ft. lbs. SV 4dr* *Honda Accord 2020* *1.5L Turbo I4 192hp 192ft. lbs. SL 4dr* *Honda* *Accord 2020* *1.5L Turbo I4 192hp 192ft. lbs. + 4dr* *Honda Accord 2020* *1.5L Turbo I4 192hp 192ft. lbs. S Luxury* *Honda* *Accord 2020* *1.5L Turbo I4 192hp 192ft. lbs. Luxury* *Honda Accord 2020* *1.5L Turbo I4 192hp 192ft. lbs. Luxury Accord* *Honda* *Accord 2020* *1.5L Turbo I4 192hp 192ft. lbs. Luxury Accord LX Chevy Ram Dodge Ram Dodge-Ram DodgeRamPowered by WizPoster.com \u2014 #1 Craigslist Posting Tool."
+                "description": "For more information on this car, please call Sales Department at: \u260e 925-979-1111   PAYMENTS AS LOW AS \ud83d\udcb2 \ud83d\udcb2  537 PER MONTH!!!\ud83d\udcb2\ud83d\udcb2  ****   \ud83d\udcbb For High Resolution Pictures and Easy Pre-Approval visit our website: www.northstateauto.com2002 BMW 5 Series M5==============================================North State Auto - Walnut Creek, California  Price:43,000 Mileage:80,777 Stock No: 7026 Vin:WBSDE93462CF90580 Engine:\t5.0L DOHC 32-Valve V8 Engine Transmission: Manual Engine : 8 Cylinders City MPG : 13.00 Hwy MPG : 21.00============================================== Contact Information: 925-979-1111==============================================\ud83d\ude98 North State Auto    \ud83d\udc4d Get Pre-Approved in Seconds!    \u2705 ASK FOR OUR CRAIGSLIST SPECIAL!!!     \u27051st time buyers are welcome!!!    \u2705 We accept ITIN!!    \u2705 Competiteive prices we beat all local competitors***    \u2705 Get a Decision today, no need to wait for approval!!\ud83d\ude98  North State Auto is an locally-owned and operated premium used automotive dealer located in beautiful Walnut Creek, CA.  Our goal is to provide you a car that YOU want at a price we both can live with. Additionally, we know that buying cars can be mentally draining at large dealerships and downright weird at used car sled lots.  The last thing you want to do is sit around for hours only to be told the car you want isn't available or that you don't qualify.  Our prices are ultra competitive due to our innovative business model. \ud83d\ude98  You can take advantage of a great offer by calling 925-979-1111 or texting 925-979-8712 for further details. Call \u260e (925)-979-1111ORText \ud83d\udcf1 (925)-979-8712\ud83d\udc49 \u272dWe want to get you into a vehicle with\ud83d\udcb2  ZERO DOWN PAYMENT AND AN UNBELIEVABLE LOW PAYMENT\ud83d\udcb2  Call our Sales department at (925) 979-1111 \u272d  \ud83d\udc49\u272d Bay Area's Top Pre-owned luxury vehicles and SUV's. HUGE inventory of Audi, BMW, Mercedes, and Porsche\u272d  \ud83d\udc49\u272d High quality luxury vehicles at competitive prices. \u272d\ud83d\udca5  North State Auto is the leading independent luxury car dealership in the bay area for over 9 years.\ud83d\udca5  \u2b50Your satisfaction is our #1 priority\u2b50  \ud83d\udca5We take pride in offering high quality vehicles with aggressive pricing.\ud83d\udca5\u2b50All North State Auto vehicles go through an extensive pre-sale inspection by our experienced technicians\u2b50\ud83d\udca5****WE BACK IT UP***\ud83d\udca5\u2b50All vehicles receive a COMPLIMENTARY 3 MONTH OR 3,000 MILE WARRANTY AND A 5 DAY EXCHANGE POLICY!!!\u2b50\u2b50North State Auto offers extended warranties for further piece of mind.\u2b50\ud83d\udca5***FINANCING***RATES AS LOW AS 3.49 FOR 60 MONTHS**\ud83d\udca5 \ud83d\udca5BANKRUPTCIES AND FORECLOSURES OK!!!!\ud83d\udca5\u2b50Call 925-979-1111 to schedule a test drive today. Visit our website at www.northstateauto.com\u2b50****\ud83d\udcb2 20%down for 96 months on approved credit*** We beat local competitors such as: Toyota of Walnut Creek ** Volvo Walnut Creek ** Lithia Diablo** Subaru of Walnut Creek ** Walnut Creek Ford ** California Auto Brokers ** Walnut Creek Honda ** Cole European ** Dirito Brothers ** Mercedes-Benz of Walnut Creek ** Stead Motors ** Michael Stead Cadillac ** Porsche Walnut Creek ** CarMax ** Eastbay Motorcars ** Cal West Motors ** East Bay Auto Brokers ** Supreme Motors Walnut Creek ** Platinum Motors ** Diamond Auto Sales ** Concord Auto 1 ** Disclaimer: All vehicles subject to prior sale. We reserve the right to make changes without notice, and are not responsible for errors or omissions. All prices exclude government fees and taxes, any finance charges, and any emissions test charge. Payments do not include sales tax; registration and or other fees."
             }
         ],
         "fix up": [
@@ -912,31 +899,23 @@
                 "description": "Tested and working perfectly. Missing one plastic knob, but the pot works just fine. Cleaned all the pots and jacks, nothing is scratchy. 15\u201d Speaker is in great shape. It even smells pretty nice, which is surprising for vintage music gear. This is stupidly loud. I can\u2019t go past 3 without shaking stuff off my walls and pissing off the neighbors. It would be a perfect small gig combo amp, or to drown out your overzealous drummer. Happy to deliver or even bring it over so you can give it a spin because my neighbors are already sick of it.$200 OBO"
             },
             {
-                "id": "7355069627",
-                "name": "1933 Epiphone Blackstone archtop guitar",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/concord-1933-epiphone-blackstone/7355069627.html",
-                "datetime": "2021-07-23 06:22",
-                "price": "$1,850",
-                "where": "concord / pleasant hill / martinez",
+                "id": "7351799625",
+                "name": "vintage Peavey Studio Pro 60 made in USA w 12\" speaker",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/dublin-vintage-peavey-studio-pro-60/7351799625.html",
+                "datetime": "2021-07-23 06:51",
+                "price": "$125",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00y0y_aJDr6z1hqNz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00y0y_aJDr6z1hqNz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00y0y_aJDr6z1hqNz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_2mTcIuet5Ozz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_ajTnDgmFppxz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_6bB43N4r8edz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_crWhp1ddQLdz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_fLEILs25tBDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_jGwgzYsWIq7z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01717_1RViWXIWPlFz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00808_euGnruvK5hgz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00404_7PuF6QewzPGz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_crWhp1ddQLdz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_8uxX7juohG5z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_MGLyWh7Lbjz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Extremely rare Epiphone Blackstone from 1933!!!Replacement tuners ( period accurate)Comes with soft casePlays nice with low action Smallish archtop , very comfortable to play on your lap.New strings and intonation ( 13-56)Pretty loud for a small archtop No cracks or repairs ( that I know off )Want a small 1930\u2019s Epiphone Archtop ?This may be it !In ConcordJeff"
+                "description": "olid state vintage 80s Peavey Studio Pro amplifier. Made in USA. Fully functional and loud, with a 12 speaker.PEAVEY STUDIO PRO 60 Amp made in U.S.A in Meridian, Miss. High quality American parts and Transformer, works great. the amp is portable, weighs about 25 lbs. Amp is 50 Watts and has a warm tube like tone these are known for (amp is solid state) . These are getting hard to find and have bullet proof reliability. Same quality as a usa Fender amp, sounds good with effects. They are selling for $175 on Reverb.Youtube demonstration of the Studio Pro 60https://www.youtube.com/watch?v=Wbk3SrPGRO"
             }
         ],
         "famous": [

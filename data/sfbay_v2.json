@@ -54,6 +54,45 @@
         ],
         "wood": [
             {
+                "id": "7355278034",
+                "name": "280 sqft Engineering wood floor plunk",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-280-sqft-engineering-wood/7355278034.html",
+                "datetime": "2021-07-23 12:25",
+                "price": "$640",
+                "where": "san jose east",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00y0y_5X38g0rcxMyz_0ak05O_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00y0y_5X38g0rcxMyz_0ak05O_600x450.jpg",
+                    "https://images.craigslist.org/00y0y_5X38g0rcxMyz_0ak05O_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_25FD7LAsfOkz_09V06C_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_lr9mejOU4f3z_09V06C_50x50c.jpg",
+                    "https://images.craigslist.org/01616_5VlvU5qdjd4z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_9hRYWr5CiDzz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "12 boxes, 23.31 sqft in each box. totally 280 sqft engineering wood floor plunk, brand new leftover from a project.Originally price:$5 /sqftsale for $3/sqft, so totally $640no low ball, you have to take them all, if you see this, means still available. so dont ask if it is still available.pickup in East San Jose, 95122"
+            },
+            {
+                "id": "7346721363",
+                "name": "Wood cabinet",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/santa-rosa-wood-cabinet/7346721363.html",
+                "datetime": "2021-07-23 12:16",
+                "price": "$30",
+                "where": "Santa Rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01515_9FSKJDPsM8kz_0iP0CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01515_9FSKJDPsM8kz_0iP0CI_600x450.jpg",
+                    "https://images.craigslist.org/01515_9FSKJDPsM8kz_0iP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_3YXmokfz4Kcz_0iP0CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "wood cabinet - unused. Has been in storage. 27 wide- 26 1/2 high - 12 deep"
+            },
+            {
                 "id": "7355224720",
                 "name": "TWO SOLID WOOD DOORS 3' x 8'",
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/fresno-two-solid-wood-doors-x/7355224720.html",
@@ -74,114 +113,70 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "TWO SOLID WOOD FRONT DOORS WITH ALL THE HARDWARE, MINT CONDITION, HINDGES, DOOR HANDLES, PEEP HOLE, $4,995.00  EXECELENT LIKE NEW CONDITION, SEE THE PICTURES, (3 FEET X 8 FEET) SEE THE PICTURES, REPLACEMENT COST WELL OVER $8900.00"
-            },
-            {
-                "id": "7355224994",
-                "name": "TWO SOLID WOOD DOORS 3' x 8'",
-                "url": "https://sfbay.craigslist.org/sfc/mat/d/fresno-two-solid-wood-doors-x/7355224994.html",
-                "datetime": "2021-07-23 10:57",
-                "price": "$4,995",
-                "where": "Fresno",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_kZIWe3hHbmC_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_kZIWe3hHbmC_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_kZIWe3hHbmC_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_i0wmSesrf0c_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_2KNX0DdACK1_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00000_cZrTuLg9szE_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_fOd7b228y6m_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_ePBG39hE9et_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "TWO SOLID WOOD FRONT DOORS WITH ALL THE HARDWARE, MINT CONDITION, HINDGES, DOOR HANDLES, PEEP HOLE, $4,995.00  EXECELENT LIKE NEW CONDITION, SEE THE PICTURES, (3 FEET X 8 FEET) SEE THE PICTURES, REPLACEMENT COST WELL OVER $8900.00"
-            },
-            {
-                "id": "7353785833",
-                "name": "BEHR 5 Gallon Paint Interior Exterior Elastomeric Water Proofing Wood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-behr-gallon-paint-interior/7353785833.html",
-                "datetime": "2021-07-23 10:19",
-                "price": "$80",
-                "where": "alameda",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00303_kM7BjyBU3hp_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00303_kM7BjyBU3hp_600x450.jpg",
-                    "https://images.craigslist.org/00303_kM7BjyBU3hp_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_kzx5TIyipQP_50x50c.jpg",
-                    "https://images.craigslist.org/00404_bxJTBBSbnb1_50x50c.jpg",
-                    "https://images.craigslist.org/00404_jWh4wwa7l4F_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_eOV8dRDydLyz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_botMooN7loEz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "BEHR 5 Gallon Paint Interior Exterior Elastomeric Water Proofing Wood Protector. Never been used. This will cost $150 - $200 in store. The colors show in the pictures are the ones available.  One bucket Gliden white color interior eggshell available. $80 each. Price is firm."
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7353992233",
-                "name": "Vintage Black and White Dress With Rhinestone and Crocheted Trim",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-black-and-white-dress/7353992233.html",
-                "datetime": "2021-07-23 11:56",
+                "id": "7343880877",
+                "name": "Vintage Bombay Company Wooden Jewelry Box",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/mountain-view-vintage-bombay-company/7343880877.html",
+                "datetime": "2021-07-23 12:23",
                 "price": "$20",
-                "where": "san jose north",
+                "where": "mountain view",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00Q0Q_8Dj0WiH5MFtz_08D09y_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_cb9tsGNes82z_03v07g_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_bAvihnxc497z_09G07g_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_1Eze4MZzHoKz_09G07g_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_68SIoiySKeyz_05r07g_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_j7r0i0al8Q0z_05r07g_50x50c.jpg"
+                    "https://images.craigslist.org/00Q0Q_8Dj0WiH5MFtz_08D09y_600x450.jpg",
+                    "https://images.craigslist.org/00Q0Q_8Dj0WiH5MFtz_08D09y_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_iiuFox89rOQz_0oc0q0_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_ldMNTVmt6Wpz_0t00mZ_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_d1sjv9JGKUVz_0oM0x2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_3KCxSM529Zdz_0kq0ox_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+                "description": "Model 089 Z26Wood Swivel jewelry/trinket box shelfCan also be used as organizer for sewing suppliesAbout 8 tall x 5 x 5 inchesCASH only"
             },
             {
-                "id": "7355251139",
-                "name": "American Eagle Vintage Graphic Full-Zip Hoodie Size L Brand New",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-american-eagle-vintage/7355251139.html",
-                "datetime": "2021-07-23 11:40",
-                "price": "$44",
-                "where": "sunnyvale",
+                "id": "7355265561",
+                "name": "Vintage Faux Fur unique coat / Burning Man",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-faux-fur-unique/7355265561.html",
+                "datetime": "2021-07-23 12:04",
+                "price": "$85",
+                "where": "north beach / telegraph hill",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01111_1cGwuPvz6oy_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_600x450.jpg",
-                    "https://images.craigslist.org/00p0p_10vlxFHlBqxz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_lrQSX52cxroz_0gl0t2_50x50c.jpg"
+                    "https://images.craigslist.org/01111_1cGwuPvz6oy_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01111_1cGwuPvz6oy_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_8cOYKfPEBl8_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "$44"
+                "description": "Vintage Faux Fur one of a kind stunning coat. Can be worn by woman or man.Fake fur and beautiful pattern.Had this forever and am passing the diva on.$85"
             },
             {
-                "id": "7354255368",
-                "name": "Vintage Persian lamb and mink jacket",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-persian-lamb-and-mink/7354255368.html",
-                "datetime": "2021-07-23 11:35",
-                "price": "$70",
-                "where": "Alameda",
+                "id": "7355264183",
+                "name": "Abrocromie Rich red vintage zipper hoodie ladies M",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-abrocromie-rich-red/7355264183.html",
+                "datetime": "2021-07-23 12:02",
+                "price": "$10",
+                "where": "San Francisco city of san francisco ",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00U0U_2Fsqs2yc5hPz_0bC0pa_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00N0N_6XfkZb9tuBcz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_b7q5lnAN3Ykz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_cjzriNSmyvlz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_fJgSySmsdviz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00U0U_2Fsqs2yc5hPz_0bC0pa_600x450.jpg",
+                    "https://images.craigslist.org/00U0U_2Fsqs2yc5hPz_0bC0pa_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_24oEqIpoOpSz_09t0g8_50x50c.jpg",
+                    "https://images.craigslist.org/00202_d8R3sGU5CKz_0bC0cN_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_3RwDjkUqJQiz_0aq0cF_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_xRRW05vp0Wz_06O0e0_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This was my grandmothers and is in excellent condition.\ufffc"
+                "description": "Please note the first picture is to show the exact color.  But does not have the logo on front only on arm as in other pictures. And iconic moose logo on left upper side.Items are kept in smoke free,  air controlled storage to keep pristine quality.   Used once immaculate condition.  Ladies size M"
             }
         ],
         "beaded": [
@@ -321,6 +316,42 @@
         ],
         "wedding dress": [
             {
+                "id": "7355274098",
+                "name": "WTOO Ryder Wedding dress",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/daly-city-wtoo-ryder-wedding-dress/7355274098.html",
+                "datetime": "2021-07-23 12:19",
+                "price": "$1,000",
+                "where": "San Francisco",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00u0u_bJzXnnPvXZKz_0i70t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00u0u_bJzXnnPvXZKz_0i70t2_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_bJzXnnPvXZKz_0i70t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_iFFaMPZfZI8z_0lN0CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "New style (Feb 2021) Ryder by W.TOO (Watters Designs)Dress was worn for Photoshoot only. Tags are still Attached. This item was never altered in anyway. Ive got it sample sale right off the floor of local San Jose boutique. Pristine condition. Size 6.model in the photo is 57' wearing 4 heels.Please, serious inquires only.Ive attached link to the dress https://www.watters.com/products/ryder/W.TOOSTYLE # 16711Effortless and ethereal, this full skirt and shirred bodice is something out of a fairytale. The Lawson Lace inserts at the neckline and back add that extra-romantic touch.Let me know if you have any questions408 seven nine seven 8571Key Words :wedding dress weddingdress white ceremony"
+            },
+            {
+                "id": "7355268293",
+                "name": "Wedding Dress by W.TOO ( style Ryder)",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wedding-dress-by-wtoo-style/7355268293.html",
+                "datetime": "2021-07-23 12:09",
+                "price": "$1,000",
+                "where": "san jose north",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00u0u_bJzXnnPvXZKz_0i70t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00u0u_bJzXnnPvXZKz_0i70t2_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_bJzXnnPvXZKz_0i70t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_iFFaMPZfZI8z_0lN0CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "New style (Feb 2021) Ryder by W.TOO (Watters Designs) Dress was worn for Photoshoot only. Tags are still Attached. This item was never altered in anyway. Ive got it sample sale right off the floor of local San Jose boutique. Pristine condition. Size 6. model in the photo is  57' wearing 4 heels. Please, serious inquires only. Ive attached link to the dress  https://www.watters.com/products/ryder/W.TOOSTYLE # 16711Effortless and ethereal, this full skirt and shirred bodice is something out of a fairytale. The Lawson Lace inserts at the neckline and back add that extra-romantic touch.Let me know if you have any questions408 seven nine seven 8571Key Words :wedding dress weddingdress white ceremony"
+            },
+            {
                 "id": "7353936435",
                 "name": "Larger Size Wedding Dress With Train",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-larger-size-wedding-dress-with/7353936435.html",
@@ -343,80 +374,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Will probably need Dry Cleaned. I called a dry cleaner and they said minimum price is $100.00.  No size listed guessing it might be a 12 or 14.  Please come and try it on (not sure of the size).  If nothing else it is worth the price in beads.  If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
-            },
-            {
-                "id": "7343123218",
-                "name": "San Patrick 1964 Seymour Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-san-patrick-1964-seymour/7343123218.html",
-                "datetime": "2021-07-23 10:39",
-                "price": "$1",
-                "where": "santa clara",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_hAOUXgvAQN1z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_4Uc6GB9vMvcz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00404_4kVnnsNL0r0z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_1xhDvzvVew4z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_fOd2elmRSjpz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01313_5Y4PUgfXiV1z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01616_9e6PU5SMzMgz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_jaJcKqgcSZoz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00101_cUosCc4J3ppz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_cwAn6xNi0xnz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_a75jckavc6iz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_7isCBP3Sq0lz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_enin0D1Vhkuz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_bg2KvKY3uGYz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_4FX6ZSYrOTSz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_3oy8lRGYrfnz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_efmojbs3jg4z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_3o7LZNOzPemz_0c60fi_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_ntkAflrEsqz_0g80lw_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_kFVb0VZaqH7z_0bC0fu_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Seymour wedding dress from the Fashion 2015 - St Patrick collection | St. PatrickI am selling my wedding dress that I wore once. The original tag is attached still.Size is US 8, as seen on the picture. This dress is a custom with a corset waist, so the dress is actually a US size 8, but using the corset the size can go down to a 0. Please see pictures of back with corset. ASKING $1,500.00If you see this ad, then the dress is still available. Email me your cell phone and we will setup and date and time.CASH ONLY, No IO'S, NO TRADES, NO CHECKS."
-            },
-            {
-                "id": "7348455146",
-                "name": "San Patrick 1964 Seymour Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-san-patrick-1964-seymour/7348455146.html",
-                "datetime": "2021-07-23 10:39",
-                "price": "$1",
-                "where": "santa clara",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_hAOUXgvAQN1z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_4Uc6GB9vMvcz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00404_4kVnnsNL0r0z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_1xhDvzvVew4z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_fOd2elmRSjpz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01313_5Y4PUgfXiV1z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/01616_9e6PU5SMzMgz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_jaJcKqgcSZoz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00101_cUosCc4J3ppz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_cwAn6xNi0xnz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_a75jckavc6iz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_7isCBP3Sq0lz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_enin0D1Vhkuz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_bg2KvKY3uGYz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_4FX6ZSYrOTSz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_3oy8lRGYrfnz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_efmojbs3jg4z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_3o7LZNOzPemz_0c60fi_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_ntkAflrEsqz_0g80lw_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_kFVb0VZaqH7z_0bC0fu_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Seymour wedding dress from the Fashion 2015 - St Patrick collection | St. PatrickI am selling my wedding dress that I wore once. The original tag is attached still.Size is US 8, as seen on the picture. This dress is a custom with a corset waist, so the dress is actually a US size 8, but using the corset the size can go down to a 0. Please see pictures of back with corset. ASKING $1,500.00If you see this ad, then the dress is still available. Email me your cell phone and we will setup and date and time.CASH ONLY, No IO'S, NO TRADES, NO CHECKS."
             }
         ],
         "great condition": [
@@ -582,7 +539,7 @@
                 "url": "https://sfbay.craigslist.org/eby/cto/d/fairfield-2016-toyota-camry-se-black/7353405948.html",
                 "datetime": "2021-07-19 13:31",
                 "price": "$14,950",
-                "where": null,
+                "where": " east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01010_k5BOx33ojoYz_0ne0hq_600x450.jpg",
                 "all_images": [
@@ -891,6 +848,27 @@
         ],
         "famous": [
             {
+                "id": "7351174775",
+                "name": "Bogner Shiva 60w 2 Channel Dual Reverb Guitar Amp Head",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/san-anselmo-bogner-shiva-60w-channel/7351174775.html",
+                "datetime": "2021-07-23 12:17",
+                "price": "$1,400",
+                "where": "san rafael",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00x0x_iI9wddP3KKjz_0jm09J_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00x0x_iI9wddP3KKjz_0jm09J_600x450.jpg",
+                    "https://images.craigslist.org/00x0x_iI9wddP3KKjz_0jm09J_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_j0SrbJDvEVHz_0jm0ex_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_aJ4vTwzYms0z_0jm0ex_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_hwlq6DXi8dyz_0jm0ex_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_8v8ml8z3Iy4z_0jm0ex_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "I am selling my 60W Bogner Shiva Guitar Head Amp with EL34 tubes, Dual Spring Reverb 2 Channels. This is a 60W Head with Footswitch that controls overdrive, reverb and second channel.The amp is in great condition, no rips in tolex, light use touring and studio work.The cleanest tone ever. I went with a combo for ease of touring/shows so selling this head, no cab.Here's some info on the head:The classic modded-Marshall tone. Bogner is well-known for their top-quality tone. The Shiva is infamous for great clean tone plus hot-rodded rock tones, and this amp delivers. At 80W, it is suitable for any size club, and the Master volume makes it home-friendly as well.This amp is recently tubed and biased. It is the most recent circuit (11 knob, NOT 20th anniversary). This gives excellent flexibility in using the boost, especially for channel 2.Clean, clear tone, cuts through ANY mix. The EL34 power section is the right level of power and character for the famous musical power tube breakup, and the tone is flexible enough for any style of music.This amp is in excellent physical condition.Switchable speaker impedance control makes it compatible with 4, 8 and 16 Ohms. It will drive a small 1x12 or a full 4x12 stack.This amp has reverb and a separate reverb level control for each channel. Reverb is also switchable.There is an effects loop that allows for four-cable connection to effects for best tone.--Firm on price, pickup in San Anselmo studio.Don"
+            },
+            {
                 "id": "7345586888",
                 "name": "MXR CSP102SL Script Dyna Comp Reissue",
                 "url": "https://sfbay.craigslist.org/eby/msg/d/san-leandro-mxr-csp102sl-dyna-comp/7345586888.html",
@@ -934,22 +912,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "JCR timbales in excellent condition for sale! The heads are originally from JCR factory and they look pretty much unplayed. Previously owner was the original owner and hardly played it, and (shame on me) neither did I, the second owner. My teacher is most famous as a timbales player, so I wanted to take it up. But I realize now that I don't have the bandwidth to pick it up while also learning bongos and congas (not to mention guitar, woodwinds, harmonica...I have a lot of interests!). And now I need to collect funds for a recent surgery. Hence the reluctant sale!Everything is from JCR, except the Bullfrog block (which came with the set when I bought it) and the LP cha-cha bell (which I bought new). Set also comes with the JCR stand, and a couple of non-JCR bags which don't look like they were necessarily for timbales, but they do the job. JCR, the man and master maker, is no longer with us on earth. And neither is his company. So no more JCR timbales are being made. It's hard enough to find one for sale. From what I see online, this is one of the few left in the world in this kind of excellent condition available for sale!"
-            },
-            {
-                "id": "7352157233",
-                "name": "Erica Synths Acidbox IIl",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-erica-synths-acidbox-iil/7352157233.html",
-                "datetime": "2021-07-22 17:19",
-                "price": "$440",
-                "where": null,
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00404_dR1RZnnQYfIz_0fs0b8_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00404_dR1RZnnQYfIz_0fs0b8_600x450.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Really doin't want to sell this guy, but my loss is your gain. No low ballers or trade offers pleaseWhat is the Acidbox lll? --> Erica Synths Acidbox III brings you the core of the famous Polivoks VCF in stereo version with a unique audio signal overdrive circuit, built in LFO and envelope follower in a compact, full aluminium case. Features Polivoks core stereo lowpass/bandpass VCF with the original programmable opamps Unique audio overdrive circuit Versatile syncable LFO with 8 waveforms Tap tempo button Envelope follower with modulation level attenuverter Master modulation control Manual and CV control over cutoff frequency Configurable control input for footswitch, expression pedal and external LFO/cutoff control Adjustable input gain The Acidbox III has adjustable input gain, therefore it works with various sound sources \u2013 guitars, units with line level signals (synthesizers, grooveboxes, etc.) and modular synths. Configurable control input allows you to connect a bypass footswitch, expression pedal, external cutoff control voltage source and LFO synchronization trigger. This makes the Acidbox an ideal companion in almost every production or live performance setup. A characterful, gritty analogue effect, made all the more flexible by its stereo signal path and modulation options. -Future Music Magazinelists Acidbox III among the best new studio gear of 2018 The acidbox III should appeal to many, thanks to its flexibility. On the most basic of levels, the stereo I/O makes it a perfect addition to a DJ rig, where real-time filtering is easy to control and trip in and out, thanks to the Bypass switch. The envelope follower will appeal to live musicians and there is nothing to stop users from using pedals to control elements such as Bypass on the fly. The Polivoks filter is characterful, with tons of charm, but very dirty with it \u2013 and as a useful colour in a number of settings, this could become a very valuable piece of kit for both live and studio work. - MusicTech Magazine rates Acidbox III 9 out of 10! Erica Synths has finally made the Acidbox' third generation - stereo capable and thus hits the bull's eye. Now it can be applied to all types of signals: for flat mono synths, as a strong character filter or as a special effect in the DJ Booth. On top of that, guitarists and bass players can hook up their instruments and indulge in the funk creating by Envelope Follower shaping the input signal. The Acidbox III can also sound warm, but if you're looking for a comforting soft filter then you should look elsewhere. The Acidbox III sounds confidently different and immediately delivers inspiring results.tags: #moog #oberheim #waldorf #Boss #Pioneer #Yamaha #Roland #Korg #Meris #Strymon #Eurorack #EHX #DeathByAudio"
             }
         ]
     }

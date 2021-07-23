@@ -387,7 +387,7 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wedding-dress/7354948056.html",
                 "datetime": "2021-07-22 18:06",
                 "price": "$200",
-                "where": "San Jose",
+                "where": "San Jose south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00c0c_3E7xgxZmildz_0Mo12w_600x450.jpg",
                 "all_images": [
@@ -572,7 +572,7 @@
                 "url": "https://sfbay.craigslist.org/eby/cto/d/fairfield-2016-toyota-camry-se-black/7353405948.html",
                 "datetime": "2021-07-19 13:31",
                 "price": "$14,950",
-                "where": " east bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01010_k5BOx33ojoYz_0ne0hq_600x450.jpg",
                 "all_images": [
@@ -590,27 +590,23 @@
                 "description": "Selling our family Sedan because we purchased a new Truck.   2016 Toyota Camry SE clean title in hand, vehicle is paid off. Backup camera. Bluetooth. clean title drives great very reliable, great 30+ mpg and fun to drive, ice. Cold AC, black leather seats, power windows, automaticLow 70k miles, All service completed Serious buyers only please,Text when ready to see the car please.  9   1 6  - 5 9  6 -  8  5  82I am a Private party. No Trades.No Dealers.No Emails.No Low ball offers.Thank youAccord camry civic corolla prius hybridaccord, Camry, is250, Q50, Acura    Tacoma hybrid xA xB Yaris S Altima Versa Elantra SL1 New Beetle A6 325i Jetta Corolla civic Fiat Focus Fusion"
             },
             {
-                "id": "7354963870",
-                "name": "2004 Hyundai Accent Gl great condition -4300(Santa Clara)",
-                "url": "https://sfbay.craigslist.org/sby/cto/d/santa-clara-2004-hyundai-accent-gl/7354963870.html",
-                "datetime": "2021-07-22 18:54",
-                "price": "$4,300",
-                "where": "Santa Clara south bay area ",
+                "id": "7354977127",
+                "name": "1993 Honda Civic-Runs Great-Gas Saver",
+                "url": "https://sfbay.craigslist.org/eby/cto/d/el-sobrante-1993-honda-civic-runs-great/7354977127.html",
+                "datetime": "2021-07-22 19:44",
+                "price": "$1,500",
+                "where": "richmond / point / annex",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_6JVevtSM2Zxz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00g0g_hvX2r9P9JGHz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00R0R_6JVevtSM2Zxz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00R0R_6JVevtSM2Zxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_l9lOfoZbGNaz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_7bMz9sodtwxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_ewf3dn47ncrz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_lCvYvkN5bRjz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_heaKp17n1LPz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_d4vq194VpkFz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00g0g_hvX2r9P9JGHz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00g0g_hvX2r9P9JGHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_6lQPkxAWgH0z_09G0cU_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_3q4TdKupMb8z_0lM0t2_50x50c.jpg"
                 ],
                 "query": "drives great",
                 "category": "cta",
-                "description": "Great condition and well maintained 2004 Hyundai Accent GL .It has 125000 Miles.1.6 4 Cylinder .Power windows,power door locks,power mirrors,Cold AC,heater.Everything is original.Regularly serviced at Hyundai Dealership and local mechanic.It runs and drives great.Never been accident.Inside is very clean.Title in hand and passed smog inspection.Price is 4300.Only ,Serious responses,please.Low offers will be ignored.Contact me at  . Thanks"
+                "description": "I have a 1993 Honda Civic for sale that ran reliably for me for a year. I bought it from the original owner.  Was taken care of very well and the interior is in great condition with no rips or tears.  The exterior has a few noticeable dents and fading paint, but does not affect the performance at all. Previous owner rebuilt the engine.  It currently has around 198,000 miles.  Very basic car and reliable to get to work.  I am selling it because I am moving to Sacramento, and I bought a new car. Price is firm, no negotiations.  I have pink slip that I signed, so we will do a title transfer as well. The tags are not current and it will need a smog.Only available for showings on the weekends, as I work during the week."
             }
         ],
         "fix up": [

@@ -59,7 +59,7 @@
                 "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-unused-wood/7355764743.html",
                 "datetime": "2021-07-24 12:48",
                 "price": "$85",
-                "where": " east bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00I0I_hQECHYRAhUUz_0CI0t2_600x450.jpg",
                 "all_images": [
@@ -110,6 +110,24 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7352116925",
+                "name": "(3) Vintage Leather Choker Necklaces w/Ceramic Pendants- Pretty! (NEW)",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-leather-choker/7352116925.html",
+                "datetime": "2021-07-24 13:39",
+                "price": "$8",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_8ts4uphqTn6z_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Pretty colorful vintage 1960's leather corded choker necklaces with different ceramic beads/pieces. All in in new condition and unique and different. Asking $8 each or take all 3 with an extra pendant piece for only $20!"
+            },
+            {
                 "id": "7352467704",
                 "name": "2 Beautiful vintage Hawaiian shirts 60's",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-beautiful-vintage-hawaiian/7352467704.html",
@@ -147,25 +165,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "6 VINTAGE WALL MOUNTED METAL CLOTHING HANGERS. $15EA, CLEAN, IN GOOD CONDITION WITHOUT ANY DAMAGES OR REPAIRS. GOOD TO DISPLAY LONG DRESSES, JACKETS AND HATS. ALSO FOR SALE FEMALE MOLDED SHIRT FORM SIZE 5-10  $5.  LOCAL SALE, CASH ONLY."
-            },
-            {
-                "id": "7351535327",
-                "name": "49ers sweatshirts vintage throwback 1980's classic",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-49ers-sweatshirts-vintage/7351535327.html",
-                "datetime": "2021-07-24 13:21",
-                "price": "$35",
-                "where": "novato",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_lc8Nxlac803z_0pq0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00V0V_lc8Nxlac803z_0pq0t2_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_lc8Nxlac803z_0pq0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_3aQMC97gtefz_06s06s_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_cwMtIyYEV9bz_0hm0hp_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "2 Vintage  throwback 49ers Team of the Decade sweatshirts from the 80's, collectors special.50 / 50 blend, both made in the USA,  no visible damage. XL made by Tee Jays, and a Large by Tultex.Both for $60, or $35 each."
             }
         ],
         "beaded": [
@@ -245,7 +244,7 @@
                 "url": "https://sfbay.craigslist.org/eby/clo/d/pinole-almost-new-onefit-leather-and/7348912141.html",
                 "datetime": "2021-07-24 10:23",
                 "price": "$25",
-                "where": "Pinole",
+                "where": "Pinole east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00v0v_4QCczIvlCYWz_0CI0t2_600x450.jpg",
                 "all_images": [
@@ -303,6 +302,31 @@
         ],
         "wedding dress": [
             {
+                "id": "7354075544",
+                "name": "Casablanca 1900 wedding dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-casablanca-1900-wedding-dress/7354075544.html",
+                "datetime": "2021-07-24 13:41",
+                "price": "$400",
+                "where": "San Ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_5yoozsEGssXz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_40kE52ndVnUz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_gh9fC6x3MEaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01010_aaHpPC6dYCPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_4rpgMtotGZz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_a1x33IchIzAz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_lU3l338E21Kz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_dRvrftjpE8Cz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Color: Champagne (shades of ivory)Size: 5.6 with no heals floor lengthLength: The entire length of the dress is about 4\u20194\u201dLabel size is 12 but it is altered to fit a street size 8 (it will fit bust 37, waist 31, hip 38)Condition: it\u2019s in great condition with no tears but I haven\u2019t dried cleaned so the hem of the dress is still dirty from the wedding at a vineyard (please see photos)Veil included. Cash only. https://www.casablancabridal.com/collections/spring-2008/style-1900/"
+            },
+            {
                 "id": "7355767825",
                 "name": "WEDDING DRESS",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-wedding-dress/7355767825.html",
@@ -340,29 +364,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Beautiful Calvin Klein wedding gown size 4."
-            },
-            {
-                "id": "7344569304",
-                "name": "WEDDING DRESS & an Eve. Dress!",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7344569304.html",
-                "datetime": "2021-07-24 11:09",
-                "price": "$65",
-                "where": "sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
-                    "https://images.craigslist.org/01717_d6fzffAhkIk_50x50c.jpg",
-                    "https://images.craigslist.org/00101_bl8y1IxloeK_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_kVlMyl8ifyI_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_f8WGDbKtwnN_50x50c.jpg",
-                    "https://images.craigslist.org/00000_tclh2W2lBh_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_9398GASL6Kf_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_airF1iyfhDD_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "2 Amazing dresses for your upcoming event!!!1. Beautiful wedding dress in excellent condition! Knee length!- $653. A LOVELY evening dress; Beautiful, smashing, unique dress/gown for prom, ball, graduation or any other occasion!Designer: Betsy and Adam. Size: 12Color: shades of coralStrapless. Heart shaped bodice decorated with jewels. Side zipper.Worn once. Excellent condition. See pictures.asking price: $65. Paid $380 for this amazing dress!!!TAKE THE 2 DRESSES FOR ONLY $110!!!"
             }
         ],
         "great condition": [

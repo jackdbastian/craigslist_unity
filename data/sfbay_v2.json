@@ -59,7 +59,7 @@
                 "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-unused-wood/7355764743.html",
                 "datetime": "2021-07-24 12:48",
                 "price": "$85",
-                "where": null,
+                "where": " east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00I0I_hQECHYRAhUUz_0CI0t2_600x450.jpg",
                 "all_images": [
@@ -110,71 +110,62 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7351189579",
-                "name": "Vintage Ornate Sterling Silver Filagree Vermeil Flower Pin Brooch",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-ornate-sterling/7351189579.html",
-                "datetime": "2021-07-24 12:33",
+                "id": "7352467704",
+                "name": "2 Beautiful vintage Hawaiian shirts 60's",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-beautiful-vintage-hawaiian/7352467704.html",
+                "datetime": "2021-07-24 13:26",
+                "price": "$30",
+                "where": "berkeley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00p0p_lniCQJZUBX4z_0cX0fu_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00p0p_lniCQJZUBX4z_0cX0fu_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_lniCQJZUBX4z_0cX0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_JDZ6gIlLWvz_0nY0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_1Qb7zeLwWJtz_0bC0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00808_5v6eMLiKwuVz_0bC0fu_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Aloha!These are two great condition Hawaiian shirts from the 60s. Both are medium and in great shape. Very desirable, sought after brands. Both look great! Photos are here for reference."
+            },
+            {
+                "id": "7355783766",
+                "name": "6 VINTAGE WALL MOUNTED CLOTHING HANGERS",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-wall-mounted-clothing/7355783766.html",
+                "datetime": "2021-07-24 13:25",
+                "price": "$15",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00e0e_hjdxEad9Bq7_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00e0e_hjdxEad9Bq7_600x450.jpg",
+                    "https://images.craigslist.org/00e0e_hjdxEad9Bq7_50x50c.jpg",
+                    "https://images.craigslist.org/00404_2aTLgBNjN1s_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_7YzntQW37W3_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "6 VINTAGE WALL MOUNTED METAL CLOTHING HANGERS. $15EA, CLEAN, IN GOOD CONDITION WITHOUT ANY DAMAGES OR REPAIRS. GOOD TO DISPLAY LONG DRESSES, JACKETS AND HATS. ALSO FOR SALE FEMALE MOLDED SHIRT FORM SIZE 5-10  $5.  LOCAL SALE, CASH ONLY."
+            },
+            {
+                "id": "7351535327",
+                "name": "49ers sweatshirts vintage throwback 1980's classic",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-49ers-sweatshirts-vintage/7351535327.html",
+                "datetime": "2021-07-24 13:21",
                 "price": "$35",
-                "where": "mission district",
+                "where": "novato",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00O0O_iJRfN1taFd7z_0iv0ne_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00V0V_lc8Nxlac803z_0pq0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00O0O_iJRfN1taFd7z_0iv0ne_600x450.jpg",
-                    "https://images.craigslist.org/00O0O_iJRfN1taFd7z_0iv0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_9FZPCtdpxuaz_0ne0if_50x50c.jpg",
-                    "https://images.craigslist.org/00606_1TjrGdrNKfz_0ii0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_jMpAPOYeLANz_0ne0ji_50x50c.jpg"
+                    "https://images.craigslist.org/00V0V_lc8Nxlac803z_0pq0t2_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_lc8Nxlac803z_0pq0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_3aQMC97gtefz_06s06s_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_cwMtIyYEV9bz_0hm0hp_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Signed and marked STERLING SILVER Vintage Ornate Sterling Silver Filagree Vermeil Flower Pin BroochStamped STERLING SILVER with a VG and stars hallmark..I have not identified it yet...Measures 2 3/4 in length x 2 1/4 wideTotal Weight is 13.1 GramsCONDITION: Overall good condition...shows age...pin in back works...Please see photos for items current condition..SHIPPING AVAILABLE*****Please include a phone number with your response..812"
-            },
-            {
-                "id": "7346168520",
-                "name": "Solid Vintage Sterling Silver Cuff Bracelet With Style - 28.8 Grams",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-solid-vintage-sterling/7346168520.html",
-                "datetime": "2021-07-24 12:16",
-                "price": "$115",
-                "where": "mission district",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00x0x_3Fq7zTGO1NNz_0ne0gH_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00x0x_3Fq7zTGO1NNz_0ne0gH_600x450.jpg",
-                    "https://images.craigslist.org/00x0x_3Fq7zTGO1NNz_0ne0gH_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_34q0ZAutmtJz_0ne0he_50x50c.jpg",
-                    "https://images.craigslist.org/00909_5F58bxz2hbKz_0ne0gF_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_3W1itGLFSbEz_0ne0gD_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_Q3sDvNCmdzz_0ne0h2_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_2NoLi4gi2rWz_0ne0h2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Solid Vintage Sterling Silver Cuff Bracelet With Style - 28.8 Grams SignedGreat looking stylized Sterling Silver Cuff Bracelet with blackened background to a beautiful free form style..Has what looks like initials on the inside but a little worn and hard to make out..First letter looks like MMEASUREMENTSFITS SIZES - 6-7WIDTH - 1GAP - 1 1/4TOTAL WEIGHT - 28.8 GramsCONDITION: Very Good. minor wear, mostly on the inside of the cuff. Please see photos for items current condition and judge for yourself...Sold As is...SHIPPING AVAILABLE*****PLEASE INCLUDE A PHONE NUMBER WITH YOUR RESPONSE.925Freeform artisan handmade sterling silver signed 925 black"
-            },
-            {
-                "id": "7351012027",
-                "name": "Zuni Fred Weekoty Vintage 1960's Sterling Silver & Coral Watch Cuff",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-zuni-fred-weekoty-vintage/7351012027.html",
-                "datetime": "2021-07-24 12:16",
-                "price": "$150",
-                "where": "mission district",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00E0E_jYBMqcrY26ez_0ne0hh_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00E0E_jYBMqcrY26ez_0ne0hh_600x450.jpg",
-                    "https://images.craigslist.org/00E0E_jYBMqcrY26ez_0ne0hh_50x50c.jpg",
-                    "https://images.craigslist.org/01313_cHTmalqmHZIz_0ne0hh_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_9FEjZNi2WbGz_0ne0ht_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_in2QKx86fFwz_0ne0hf_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_8oh0261cioXz_0ne0hv_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_eCQwshR5S2dz_0id0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_a4h4IhpkWJEz_0ne0hp_50x50c.jpg",
-                    "https://images.craigslist.org/01717_79LosnEUGzyz_0i60ne_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_6ztO3pNZB4Kz_0ne0hq_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Zuni Fred Weekoty Vintage 1960's Sterling Silver & Coral Watch Cuff- Signed FW on the back, also ZUNIOutstanding vintage 1960's Zuni Fred Weekoty original unpolished, natural patina sterling silver watchband...He mostly produced his silver work pre-1970...This is an elegant watchband with 8 separately inlaid coral pieces on each side with lots of stamping on both sides, including where the watch attaches to the cuff..Watch included but not tested..Considered at time of pricing..TOTAL WEIGHT - 40.9 GramsINNER CIRCUMFERENCE - 5 1/2GAP 1' The bracelet should fit from a 5 1/2 - 6 1/2 wrist with a touch of adjustment if needed. It has a little flexibilityCONDITION: Used.in good condition.. wear consistent with age...Please review photos for items current condition...Selling as is...SHIPPING AVAILABLE*****SF bay area buyers, PLEASE include a phone number with your response982Fred Weekoty Zuni vintage 1960's sterling silver coral bracelet watchband ladies mens"
+                "description": "2 Vintage  throwback 49ers Team of the Decade sweatshirts from the 80's, collectors special.50 / 50 blend, both made in the USA,  no visible damage. XL made by Tee Jays, and a Large by Tultex.Both for $60, or $35 each."
             }
         ],
         "beaded": [
@@ -860,29 +851,61 @@
                 "description": "Tested and working perfectly. Missing one plastic knob, but the pot works just fine. Cleaned all the pots and jacks, nothing is scratchy. 15\u201d Speaker is in great shape. It even smells pretty nice, which is surprising for vintage music gear. This is stupidly loud. I can\u2019t go past 3 without shaking stuff off my walls and pissing off the neighbors. It would be a perfect small gig combo amp, or to drown out your overzealous drummer. Happy to deliver or even bring it over so you can give it a spin because my neighbors are already sick of it.$200 OBO"
             },
             {
-                "id": "7355762363",
-                "name": "Soldano Astroverb 16 combo guitar amp in very good t",
-                "url": "https://sfbay.craigslist.org/pen/msg/d/mountain-view-soldano-astroverb-16/7355762363.html",
-                "datetime": "2021-07-24 12:54",
-                "price": "$1,000",
-                "where": "mountain view",
+                "id": "7345858840",
+                "name": "Ehrlund Microphones EHR-D Directional Condenser Microphone",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/sebastopol-ehrlund-microphones-ehr/7345858840.html",
+                "datetime": "2021-07-24 13:21",
+                "price": "$690",
+                "where": "santa rosa",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_7tsNLsNO81Mz_0lM0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01414_3uOIlRldNaUz_0gw0co_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00909_7tsNLsNO81Mz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00909_7tsNLsNO81Mz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_iRbLqoOUwrJz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_84OoF642u0Cz_0lK0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_faBPK9kGJj1z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_efs834hhYuZz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_7iGsWyNdLqBz_0CI0ir_50x50c.jpg"
+                    "https://images.craigslist.org/01414_3uOIlRldNaUz_0gw0co_600x450.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "This a class A/B, 20 Watt, single-channel tube guitar amp with a reverb tank and 1 x 12 inch speaker. (I believe the speaker is made by Eminence but I am not sure). Tubes are five 12AX7 (3 in the preamp, 1 for the reverb, 1 for the phase inverter) and  two EL84 power tubes. The tubes are easy to access if you wish to replace them. Just remove the back panel as shown in the pictures. Controls are Preamp, Reverb, Bass, Middle, Treble, Volume and Presence. There are two speaker jacks so you can use an additional external cab. The amp is covered in black tolex and has metal corner protectors. The Presence control is part of the power amp and it  boosts the upper frequencies to give a livelier sound. The other tone controls (Bass, Middle and Treble) are part of the preamp.  This amp can give you anything from a great blues crunch to a glassy clean tone. And it goes to 11 - make no mistake, this amp can get loud. Soldano doesn't make this amp anymore which is a pity because it is a very versatile and powerful amp in a nice compact package. The amp is in very good to excellent condition. The tubes have low hours on them so should last for a long time to come. If you would like any additional information or photographs, please let me know. I am also happy to talk on the phone if you wish. Located in Mountain View, California 94040."
+                "description": "\u201cOur most robust microphone. Designed specifically to block out unwanted sounds from sides and back, the EHR-D is a microphone designed for loud sound sources, tentatively for drums, horns and guitars. The housing is made for the rough life of being on the road.\u201d Great for isolating an acoustic guitar when recording vocals at same time."
             }
         ],
         "famous": [
+            {
+                "id": "7345756673",
+                "name": "Yamaha PM1000 Discrete 16 channel mixer frame, 6 channels + new parts",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/sebastopol-yamaha-pm1000-discrete-16/7345756673.html",
+                "datetime": "2021-07-24 13:21",
+                "price": "$690",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00R0R_kXvEC82YbPmz_1320MM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00R0R_kXvEC82YbPmz_1320MM_600x450.jpg",
+                    "https://images.craigslist.org/00R0R_kXvEC82YbPmz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_OpFqtWqvciz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00707_8GIYdy8Uo6Xz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_5yIA3vixFMtz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_d0PII7NP2skz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_eddsUP2OXqsz_1320MM_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Fully discrete these are famous for their thick and rich tone... great as mic preamps or as a summing unit or as an analog mixer. You just can't get a transformer loaded discrete channel with preamp, line amp, sends and EQ for anywhere near this price.Comes with enough new parts to recap a few channels and you can add more channel strips later if you need more.... they come up on ebay every few weeks or so.The 6 individual strips alone often sell for about 125-150 each plus tax and shipping.  The GA80080 Tamura Output Transformers sell for about 60-65 each."
+            },
+            {
+                "id": "7345862868",
+                "name": "Warm Audio Bus-Comp Stereo VCA Compressor SSL 4k Cinemag Transformers",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/sebastopol-warm-audio-bus-comp-stereo/7345862868.html",
+                "datetime": "2021-07-24 13:21",
+                "price": "$590",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01616_hCpAJ24igRvz_0gw0co_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01616_hCpAJ24igRvz_0gw0co_600x450.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Sounds great especially when driving the Cinemag transformers.Designed for recording and mixing stereo tracks, the BUS-COMP is Warm Audio's take on a classic VCA bus compressor, one made famous by companies such as Solid State Logic. This is a clean, stereo compressor, one quite suited to handling the dynamics of stereo instruments. It's also handy for stereo-buss work, imparting the sonic glue VCA compressors are known for.The BUS-COMP takes a classic design and adds some nifty improvements, such as the ability to switch CineMag transformers in and out of the signal path at the press of a button. With this feature, you can opt for sonic transparency or colorful vibe with the touch of your finger.The BUS-COMP also offers a selectable high-pass filter, a sidechain input, a useful bypass/engage switch for making comparisons, and a versatile I/O path. Indeed, you'll find XLR and 1/4 TRS terminations used in both the inputs and outputs.Key FeaturesAll analog, 2-channel stereo VCA compressorBased on legendary VCA compressor technologySelectable discrete opamp stage with CineMag USA transformersExternal sidechain source selectSelectable Hi-pass Filter at 30, 60, 105, 125, and 185 HzCompressor engage switch for easy comparisonsPerforms well on stereo mixes, drum mixes, drum overheads, acoustic guitars, keyboards, piano, orchestral instruments, voice-overs, and endless other sourcesCan be used on mono as well as stereo sourcesUses THAT 2180 VCA ICProvides both XLR and 1/4 TRS connectivityFEATURESClassic VCA Compressor DesignAdd Glue & Control DynamicsSwitchable CineMag TranformersSonic Transparency or Colorful Vibe"
+            },
             {
                 "id": "7355716180",
                 "name": "Sabian assorted sizes, prices in excellent condition. Also have ClearSonic drum",
@@ -915,50 +938,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "* Txt me Four One Five 527 Zero One SIXTY-NINE SERIOUS INQUIRIES ONLY. LOW BALLERS WILL BE IGNORED* Hello what\u2019s left :- 16\u201d evolution- China 8\u201d wuhan (lol) splash- HHX 18\u201d crash- HHXplosion 18\u201d crash- AAXtreme chinese- 17\u201d upside down crash- HHX 10\u201d splash- HHX 12\u201d splash,  jazz groove hat -high hats- 20\u201d jazz hand hammered bounce rideSabian 17 AAX X-Treme Chinese Brilliant Finish, inch (21786XB) $200Sabian HHX 16 Evolution Crash Cymbal, Brilliant Finish$200Sabian Crash Cymbal, 17$280Sabian HHX 18 X-Plosion Crash Cymbal, Brilliant Finish$290SabianSabian Hand Hammered Heavy Ride Cymbal 20 $480Sabian HHX 10 Evolution Splash Cymbal, Brilliant Finish$120Sabian HHX 12 Evolution Splash Cymbal, Brilliant Finish $13513\u201d HHX Evolution Hats$355And the Signature Sabian cymbal  bag will throw in if someone buys the whole lot otherwise will sell the beautiful thick padded velvet inside bag separately for sale once most of the cymbals are goneHello getting rid of what oil have left of various sizes of Sabian is one of the most famous brands in the cymbals business. As you probably know, it traces its roots back to Zildjian, and by default, old Constantinople. So, if someone knows cymbals, it's Sabian. The ride cymbal is an essential part of every drum kit, so it is important to choose which one will suit you best, $288/obo. The  HHX Groove Hats have a nice crisp sound $250/obo. Will be on eBay soon as I want to sell all as a package and will throw in the bag as well since I\u2019m not gigging any longer.\u201c if this doesn\u2019t make any sense to you then may I suggest you wiki Sabian\u201dAlso have ClearSonic drum shield the PRICE IS $500:https://sfbay.craigslist.org/pen/msg/d/san-francisco-clear-sonic-premium-drum/7251210993.html"
-            },
-            {
-                "id": "7346122134",
-                "name": "1964 Selmer Mark VI Alto Saxophone",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-1964-selmer-mark-vi-alto/7346122134.html",
-                "datetime": "2021-07-24 08:07",
-                "price": "$6,500",
-                "where": "san jose north",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_6jiz7ARQ8GDz_0aT0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_kihImx6oDqfz_08a0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_7QYfxqFrfOdz_0aT0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_6FTeV4cf8uiz_0aT0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_7y98fEATbuFz_0aT0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_dinEUiyLySVz_0aT0ew_50x50c.jpg",
-                    "https://images.craigslist.org/01616_6acN97j2FRZz_0aT0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_c1klptbf7Qpz_0ew0ew_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Do not pass on this instrument, if you are looking at this, then you know the reputation of the Mark VI, and this one is a good example. This would also be a great investment unlike a new sax that would depreciate in value.This sax plays nice and has that tone the Mark VI is famous for. Original finish but does show slight wear, but very nice for it\u2019s age. No dents & the serial numbers do match, and the original case is in very good condition. Please email with any questions."
-            },
-            {
-                "id": "7352828425",
-                "name": "Last century beautiful Violin",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-last-century-beautiful-violin/7352828425.html",
-                "datetime": "2021-07-24 01:13",
-                "price": "$7,500",
-                "where": "inner sunset / UCSF",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00O0O_kXMTcQhGpZQ_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00O0O_kXMTcQhGpZQ_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00O0O_kXMTcQhGpZQ_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_ae8MG9DMsxF_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_lsZc2cdXRmT_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Excellent quality Violin from 20th century, made in Europe with official appraiser was played for more , than 50 years by professional violinist, no holes, no cracks,in very perfect condition, with deep violin sound Great Bow is including in a package -  Bargain Deal                               INCLUDING Exceptional Collections of Violin Library Music brought from Europe with bowing-fingering by world famous violinist of last century"
             }
         ]
     }

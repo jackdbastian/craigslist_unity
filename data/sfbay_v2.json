@@ -116,6 +116,46 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7343369813",
+                "name": "Vintage Cocktail Dresses",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-cocktail-dresses/7343369813.html",
+                "datetime": "2021-07-24 11:22",
+                "price": "$30",
+                "where": "walnut creek",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01717_fMOs6E2o2ds_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01717_fMOs6E2o2ds_600x450.jpg",
+                    "https://images.craigslist.org/01717_fMOs6E2o2ds_50x50c.jpg",
+                    "https://images.craigslist.org/00909_aW94AR91UNW_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_jPEQviMkvrB_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_hntSKRQFUZ7_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Beautiful cocktail dresses, some black, one white, one blue, one silver and black, one from Maceys, cost $350, it's, $40. Rest are $30 each. One looks like a flapper dress. Sizes 6 to 10. Please call after 2:30pm  and if you leave a message please speak slowly and clearly and remember to leave your number. Must sell. Moving.  Cash only. Thanks. Sorry I don't answer blocked calls. Too many scammers."
+            },
+            {
+                "id": "7355703227",
+                "name": "@@ Vintage Vuarnet #003 Sunglasses @@",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-vintage-vuarnet-003/7355703227.html",
+                "datetime": "2021-07-24 10:59",
+                "price": "$75",
+                "where": "santa cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00s0s_inRdmfsZ3MKz_0ak07K_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00s0s_inRdmfsZ3MKz_0ak07K_600x450.jpg",
+                    "https://images.craigslist.org/00s0s_inRdmfsZ3MKz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_gtiSgeIUbFkz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_e9pAJr8lYlzz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00101_7P5hG7QUvVyz_0ak07K_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Vuarnet #003 Sunglasses             Thanks"
+            },
+            {
                 "id": "7355686828",
                 "name": "Coach Leather Station Bag Black Vintage",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/albany-coach-leather-station-bag-black/7355686828.html",
@@ -140,48 +180,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "I'm pretty sure that this is a vintage Station bag. Looks to be in excellent condition (NO WEAR/SCRAPING ON BOTTOM, etc.). Has various shoulder straps, but none of them are the original that came with this bag. See photos. ---$25 is a FIRM price for the bag and straps, BUT IF YOU SHOW-UP  ON TIME!  I'll drop the price ten dollars.Has rear slash pocket and zippered inside pocket. Inside it has # D9P-9870 I live near the Albany Library (1247 Marin at Masonic). Always plenty of free parking in the lot behind the building. No time-wasters, please!"
-            },
-            {
-                "id": "7355679739",
-                "name": "Vintage handkerchiefs, set of 5",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/cupertino-vintage-handkerchiefs-set-of/7355679739.html",
-                "datetime": "2021-07-24 10:19",
-                "price": "$15",
-                "where": "cupertino",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01212_6SoQjCQBnn0z_0Ad0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01212_6SoQjCQBnn0z_0Ad0t2_600x450.jpg",
-                    "https://images.craigslist.org/01212_6SoQjCQBnn0z_0Ad0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_2ST5g90hjnWz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_4RSEO6c0Saqz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00606_47wsL8Gd3poz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_aj3yNWvnMTcz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_gXRTjBltixiz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_15DkQXfwC8Pz_0B00t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Charming handkerchiefs from the 1930s and 1940s, five in total. Two are hand embroidered and made of linen, two have scalloped edges. Use for decoration or craft projects or just to carry a bit of history around with you to use for yourself. Classic, collectible, and lovely."
-            },
-            {
-                "id": "7343790088",
-                "name": "Vintage Blue Sequins Beaded Flowered Clutch Purse",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-blue-sequins-beaded/7343790088.html",
-                "datetime": "2021-07-24 10:05",
-                "price": "$8",
-                "where": "san jose east",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_KnmrEZxZV4z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_bkDmDwNsT7oz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "This is a really nice vintage flowered blue sequins beaded clutch purse.  Silver chain handle.  Pocket inside.In great condition!Handbag"
             }
         ],
         "beaded": [
@@ -319,6 +317,29 @@
         ],
         "wedding dress": [
             {
+                "id": "7344569304",
+                "name": "WEDDING DRESS & an Eve. Dress!",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-dress-an-eve-dress/7344569304.html",
+                "datetime": "2021-07-24 11:09",
+                "price": "$65",
+                "where": "sunnyvale",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01717_d6fzffAhkIk_600x450.jpg",
+                    "https://images.craigslist.org/01717_d6fzffAhkIk_50x50c.jpg",
+                    "https://images.craigslist.org/00101_bl8y1IxloeK_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_kVlMyl8ifyI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_f8WGDbKtwnN_50x50c.jpg",
+                    "https://images.craigslist.org/00000_tclh2W2lBh_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_9398GASL6Kf_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_airF1iyfhDD_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "2 Amazing dresses for your upcoming event!!!1. Beautiful wedding dress in excellent condition! Knee length!- $653. A LOVELY evening dress; Beautiful, smashing, unique dress/gown for prom, ball, graduation or any other occasion!Designer: Betsy and Adam. Size: 12Color: shades of coralStrapless. Heart shaped bodice decorated with jewels. Side zipper.Worn once. Excellent condition. See pictures.asking price: $65. Paid $380 for this amazing dress!!!TAKE THE 2 DRESSES FOR ONLY $110!!!"
+            },
+            {
                 "id": "7353732398",
                 "name": "Casablanca Bridal Wedding Gown / Dress",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-casablanca-bridal-wedding-gown/7353732398.html",
@@ -363,30 +384,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Ideal for smaller figure, styling is suitable for bride or for formal occasion.  Dress worn once and is in pristine condition.  Email if you have any questions"
-            },
-            {
-                "id": "7346131769",
-                "name": "Custom made Classic Wedding Dress + Hair piece for Veil",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-custom-made-classic-wedding/7346131769.html",
-                "datetime": "2021-07-24 08:10",
-                "price": "$350",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00X0X_htP3Yhso2Qxz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00X0X_htP3Yhso2Qxz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00X0X_htP3Yhso2Qxz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_8U8J5OGEnZNz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_lPm06O4trc4z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00606_fovmtP8kdmFz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_2v7osbwfWF9z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_580BYIgsNrOz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_35nJfFqxkcUz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_fknCOoyxIpyz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Pristine condition custom made Classic Wedding Dress and hair piece for Veil. Only worn once. It has been professionally dry clean and preserved. Below are the measurements:Shoulder : 155'Arm length : 205'Waist : 26Bust 33I am 55' and I wore 3 heels with the dress. I usually wear sizes xsmall to small."
             }
         ],
         "great condition": [
@@ -566,7 +563,7 @@
                 "name": "2007 FORD EDGE SE  AWD.  CLEAN TITLE. SMOG.  DRIVES GREAT***",
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2007-ford-edge-se-awd-clean/7354774712.html",
                 "datetime": "2021-07-22 11:44",
-                "price": "$6,499",
+                "price": "$5,999",
                 "where": "fremont / union city / newark",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00G0G_e8zDrXiZmExz_0CI0t2_600x450.jpg",
@@ -879,26 +876,66 @@
                 "description": "Tested and working perfectly. Missing one plastic knob, but the pot works just fine. Cleaned all the pots and jacks, nothing is scratchy. 15\u201d Speaker is in great shape. It even smells pretty nice, which is surprising for vintage music gear. This is stupidly loud. I can\u2019t go past 3 without shaking stuff off my walls and pissing off the neighbors. It would be a perfect small gig combo amp, or to drown out your overzealous drummer. Happy to deliver or even bring it over so you can give it a spin because my neighbors are already sick of it.$200 OBO"
             },
             {
-                "id": "7350260870",
-                "name": "vintage Peavey Studio Pro 60 made in USA w 12\" speaker",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/dublin-vintage-peavey-studio-pro-60/7350260870.html",
-                "datetime": "2021-07-24 10:35",
-                "price": "$125",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7355676683",
+                "name": "Fishman Loudbox Performer 2-Channel 180-Watt Acoustic Guitar Combo Amp",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/redwood-city-fishman-loudbox-performer/7355676683.html",
+                "datetime": "2021-07-24 11:07",
+                "price": "$599",
+                "where": "redwood city",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00W0W_hE43g2Ma9whz_0lM0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_8uxX7juohG5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_MGLyWh7Lbjz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00W0W_hE43g2Ma9whz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_hE43g2Ma9whz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_xPtVi9ue80z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_i2QM9JHKAQ8z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_fMNzWDkOEH6z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_izc3DQi8tOLz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_1HxK36EtCsYz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_6WsyopYp8Hzz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_5qBNw3Zf90Cz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_fqtT1mspwrrz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_4wroQDCCHjrz_0lM0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "solid state vintage 80s Peavey Studio Pro amplifier. Made in USA. Fully functional and loud, with a 12 speaker.PEAVEY STUDIO PRO 60 Amp made in U.S.A in Meridian, Miss. High quality American parts and Transformer, works great.  the amp is portable, weighs about 25 lbs. Amp is 50 Watts and has a warm tube like tone these are known for (amp is solid state) . These are getting hard to find and have bullet proof reliability. Same quality as a usa Fender amp, sounds good with effects. They are selling for $175 on Reverb.Youtube demonstration of the Studio Pro 60https://www.youtube.com/watch?v=Wbk3SrPGROo"
+                "description": "This is great acoustic amp in very good shape! I bought this a few years back and have played minimally.. The reason I bought this one, is that it has a lot power (volume) so I could play with a loud, live rock drummer. It does not disappoint! I was able to play along with a full, loud rock band, without feedback on my acoustic. Amazing!It's got a couple of scuffs on the edge rails (pictured) from moving around.. But, other than that, this amp functions as new. Even comes in the original box! Also included is the 2-button footswitch, which is normally sold separately. THIS IS THE LOWEST PRICE FOR THIS AMP ON REVERB, SO ACT FAST!NOTE: This is not the model that has Bluetooth connectivity.More product details:The re-designed Fishman Loudbox Performer acoustic guitar amp offers 180W of transparent bi-amplified acoustic tone and enhanced features. Thanks to more efficient design you'll get all these improvements in a lighter package too.The Loudbox Performer features two input channels, each with 3-band EQ, feedback-fighting controls and a new effects section. The dedicated midrange provides enhanced detail and note definition. An integrated kickstand design allows the Loudbox Performer to be tilted back 50 degree for better sound projection at short range.FeaturesPower: 180W, bi-ampedTwo channelsInputs: XLR-1/4 in. combo with 10dB padSpeakers: one 8 in. woofer; one 5 in. midrange; one 1 in. soft-dome tweeterBuilt-in FX: Reverb, Chorus, Flanger, Delay, Echo and Slap EchoSPL: 114dB SPL @ 1 meterFeedback-fighting Phase switch and Notch filterSpeaker Baffle: 10-degree built-in tiltAux. input with level control50-degree with kickstandHeadphone outputPhantom power for condenser mics (24V, high current spec.)Mute switchBalanced XLR DI outputsDimensions: 18.2 in. x 15.8 in. x 11.5 in. (46cm x 40cm x 29cm)Weight: 29.4 lb., 13.3 kg"
             }
         ],
         "famous": [
+            {
+                "id": "7355716180",
+                "name": "Sabian assorted sizes, prices in excellent condition. Also have ClearSonic drum",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/san-francisco-sabian-assorted-sizes/7355716180.html",
+                "datetime": "2021-07-24 11:21",
+                "price": "$200",
+                "where": "Mountain View",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00T0T_dKZNkbam7Ym_0CI0lM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00T0T_dKZNkbam7Ym_0CI0lM_600x450.jpg",
+                    "https://images.craigslist.org/00T0T_dKZNkbam7Ym_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00505_gCrgPu2PQpOz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00404_jHgWWLe1Wymz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_ag2XwaGIiKLz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_buUTc1Eqhx0z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_ei5Wipz6jZKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_a3gjPKEgSxlz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_bi0HTx0KLVcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_jL0YpwELPez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_4sbPvk4BBC5z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_eqiTDg37Bc6z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_cHsEgdKG4Xxz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00000_cldvrvVXuSuz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_lmIU2nqcOKfz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_lt25wmDga4I_0xP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_77gytqtyzlC_0CI0uB_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_jqtFPTsMWOE_0CI0AL_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "* SERIOUS INQUIRIES ONLY. LOW BALLERS WILL BE IGNORED* Hello what\u2019s left :- 16\u201d evolution- China 8\u201d wuhan (lol) splash- HHX 18\u201d crash- HHXplosion 18\u201d crash- AAXtreme chinese- 17\u201d upside down crash- HHX 10\u201d splash- HHX 12\u201d splash,  jazz groove hat -high hats- 20\u201d jazz hand hammered bounce rideSabian 17 AAX X-Treme Chinese Brilliant Finish, inch (21786XB) $200Sabian HHX 16 Evolution Crash Cymbal, Brilliant Finish$200Sabian Crash Cymbal, 17$280Sabian HHX 18 X-Plosion Crash Cymbal, Brilliant Finish$290SabianSabian Hand Hammered Heavy Ride Cymbal 20 $480Sabian HHX 10 Evolution Splash Cymbal, Brilliant Finish$120Sabian HHX 12 Evolution Splash Cymbal, Brilliant Finish $13513\u201d HHX Evolution Hats$355And the Signature Sabian cymbal  bag will throw in if someone buys the whole lot otherwise will sell the beautiful thick padded velvet inside bag separately for sale once most of the cymbals are goneHello getting rid of what oil have left of various sizes of Sabian is one of the most famous brands in the cymbals business. As you probably know, it traces its roots back to Zildjian, and by default, old Constantinople. So, if someone knows cymbals, it's Sabian. The ride cymbal is an essential part of every drum kit, so it is important to choose which one will suit you best, $288/obo. The  HHX Groove Hats have a nice crisp sound $250/obo. Will be on eBay soon as I want to sell all as a package and will throw in the bag as well since I\u2019m not gigging any longer.\u201c if this doesn\u2019t make any sense to you then may I suggest you wiki Sabian\u201dAlso have ClearSonic drum shield the PRICE IS $500:https://sfbay.craigslist.org/pen/msg/d/san-francisco-clear-sonic-premium-drum/7251210993.html"
+            },
             {
                 "id": "7346122134",
                 "name": "1964 Selmer Mark VI Alto Saxophone",
@@ -942,24 +979,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Excellent quality Violin from 20th century, made in Europe with official appraiser was played for more , than 50 years by professional violinist, no holes, no cracks,in very perfect condition, with deep violin sound Great Bow is including in a package -  Bargain Deal                               INCLUDING Exceptional Collections of Violin Library Music brought from Europe with bowing-fingering by world famous violinist of last century"
-            },
-            {
-                "id": "7342544219",
-                "name": "VINTAGE - Jackson J-90C USA Pickup",
-                "url": "https://sfbay.craigslist.org/scz/msg/d/santa-cruz-vintage-jackson-90c-usa/7342544219.html",
-                "datetime": "2021-07-23 23:33",
-                "price": "$85",
-                "where": "santa cruz",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_h0XXZwfpAOtz_0CI0rj_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_h0XXZwfpAOtz_0CI0rj_600x450.jpg",
-                    "https://images.craigslist.org/01717_h0XXZwfpAOtz_0CI0rj_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_h7aG328flb7z_0CI0r9_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "VINTAGE - Jackson J-90 C USA Pickup  This is the highly coveted Jackson J-90 C pickup that came out on Charvel model guitars in the mid 1980s. It looks to be an early edition. This came out of my Charvel Model 2 it is labeled J-90C The C meaning that it has a ceramic magnet. This was the ultimate pickup back in the day. These were made by hand in the Jackson USA factory and many were hand wound by the famous Abigail Ybarra who also went on to work for the Fender Custom Shop. The lead is approximately 10.5 inches long.*Shipping option available*"
             }
         ]
     }

@@ -312,6 +312,44 @@
         ],
         "wedding dress": [
             {
+                "id": "7355469045",
+                "name": "wedding dress",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-wedding-dress/7355469045.html",
+                "datetime": "2021-07-23 20:15",
+                "price": "$250",
+                "where": "san francisco",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00T0T_2FVuq1mY9VTz_1320MM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00T0T_2FVuq1mY9VTz_1320MM_600x450.jpg",
+                    "https://images.craigslist.org/00T0T_2FVuq1mY9VTz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/01111_knlmfh4e38bz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00101_eFEq6egRwHnz_1320MM_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Good condition, size 8-10. Has small train and bustle. Worn once has good luck! Dont know why pics are loading sideways, sorry."
+            },
+            {
+                "id": "7347352776",
+                "name": "Beautiful sleeveless wedding dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/campbell-beautiful-sleeveless-wedding/7347352776.html",
+                "datetime": "2021-07-23 20:06",
+                "price": "$100",
+                "where": "campbell",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_39Hcoykmv4Bz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_39Hcoykmv4Bz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00F0F_39Hcoykmv4Bz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_lHpn4iYlQ7Wz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_J0LwbXRSSHz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Beautiful wedding dress. Sleeveless. Off-white. Excellent condition. Approx size 5. $100."
+            },
+            {
                 "id": "7343070731",
                 "name": "New Sophia Tolli Wedding Bridal Dress, Size 8",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-new-sophia-tolli-wedding-bridal/7343070731.html",
@@ -336,46 +374,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Gorgeous Sophia Tolli designer wedding dress, size 8, never worn. Fit and flare style with keyhole back, illusion cap sleeves and full train. Beautiful beading and lace embellishments. Unfortunately, altering this dress to fit me (I'm Size 0) turned out to be *way* more expensive than I was led to believe by the bridal shop. Hence me buying another dress in my size and selling this one.This bridal dress is brand new. While I bought it on sale, the original price was over $1,600. Asking $299 OBO."
-            },
-            {
-                "id": "7353342275",
-                "name": "Wedding dress",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-wedding-dress/7353342275.html",
-                "datetime": "2021-07-23 17:54",
-                "price": "$115",
-                "where": "bayview",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01212_fRPG1J27P3lz_0co0gw_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01212_fRPG1J27P3lz_0co0gw_600x450.jpg",
-                    "https://images.craigslist.org/01212_fRPG1J27P3lz_0co0gw_50x50c.jpg",
-                    "https://images.craigslist.org/01212_jgA9G0zojRrz_0t60S2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_1kpWCUzGdAaz_0co0gw_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_3fVTDdE3dASz_0co0gw_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "I had this wedding dress tailor-made here in the Bay area. It is has a beautiful neckline and is semi off-the-shoulder model. Off-white color, raw silk fabric and zips up the back. Professionally cleaned and kept in a storage box. Size 6, bust +/- 34B, my height is 5'7 and I wore 2-3 heels. I have a COVID safe place to try it on if desired."
-            },
-            {
-                "id": "7353975306",
-                "name": "Olega Cassini Plus Size Wedding Dress",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-olega-cassini-plus-size/7353975306.html",
-                "datetime": "2021-07-23 16:39",
-                "price": "$475",
-                "where": "foster city",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00E0E_hxe7AHm1Sd2z_0dL0os_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00E0E_hxe7AHm1Sd2z_0dL0os_600x450.jpg",
-                    "https://images.craigslist.org/00E0E_hxe7AHm1Sd2z_0dL0os_50x50c.jpg",
-                    "https://images.craigslist.org/01414_ifCYjmqkTgZz_03r067_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_lEq84Z0ham1z_03r067_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_5Br6Bu4eCbvz_03r067_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "This is very beautiful satin and sequin long white wedding dress by Olega Cassini.The dress has sequins on the top part of the dress and on the bottom part of the dress and on some of side of the dress, too.It was bought a consignment store at size 24 and they had a lot alternation to fit a 18W bride.Plus it has lot of fake buttons on the back of the dress which really open and closes with a short zipper in the back as one of the pictured.The dress also has a short sleeves and upper front area with those sequin flowers on the front part of the dress, makes the bride very slimming and look very beautiful too.Ir was worn once on a wedding day in 2017 and another time for a fashion shoot in 2018 and the dress has been dry cleaned; already.This dress had a lot of alterations and was made to fit a plus size woman size 18W.The top of dress was taken in and some of the bottom of the dress was shorten for the dress for a taller woman of 5 feet and 10 inches and now the dress will fit a bride of 5 feet and 4 inches.All the cost is for the dress, cleaning and alterations .The dress can be shipped but could be from $150.00 to $250.00 by zip code with box and packing material, and California tax will be charged too.-"
             }
         ],
         "great condition": [

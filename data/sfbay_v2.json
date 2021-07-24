@@ -54,6 +54,28 @@
         ],
         "wood": [
             {
+                "id": "7355812203",
+                "name": "Interior FRENCH DOORS-Solid Wood (Tight Grain Doug Fir?)",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-interior-french-doors/7355812203.html",
+                "datetime": "2021-07-24 14:24",
+                "price": "$450",
+                "where": "walnut creek",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00808_frB4H5gNx3Kz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00808_frB4H5gNx3Kz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00808_frB4H5gNx3Kz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_42YqfDPny4gz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_8FJuBEussHUz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_61Tect2Tc6Wz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01313_g0x9VCfRtfOz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_hzN8ItsAcwLz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "These French Doors are made for an opening that is a little over 6' wide.  Each door is 80 tall x 36 wide.  They're 1 3/8 thick.Made of solid wood.  They are probably over 25 years old and the wood has a very nice tight grain.  They are straight and have no knots.   The wood is all clear.  The only imperfections are from normal wear.  The wood looks like Douglas Fir, but I'm not a wood guy.They're true divided light window panes.  The wood does not appear to have ever had a finish applied.  I got them many years ago for a project.  We went in another direction and they've been in our storage ever since. They came out of a commercial office.  The number on the one door is glued on (not nailed).  I wouldn't say these are Vintage doors, but they were definitely made from excellent material.  Depending on your use, they really don't need much if anything other than a finish.  Maybe a little light sanding in spots.As you can see, they'll need to be hung, there isn't a jamb.  If you'd like to get them or have questions, send me an email with your number and the way you'd like me to connect.We're selling them as a pair for $450.  They're really great doors.  We're not looking to sell them for less.  Thanks!Steve"
+            },
+            {
                 "id": "7355764743",
                 "name": "Unused wood",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-unused-wood/7355764743.html",
@@ -86,29 +108,55 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Concrete Pier Block w/Wood CapTotal 8$25 get all"
-            },
-            {
-                "id": "7343803761",
-                "name": "Interior Hollow Wood Door 28X80",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-interior-hollow-wood-door-28x80/7343803761.html",
-                "datetime": "2021-07-24 09:51",
-                "price": "$25",
-                "where": "berkeley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00w0w_fnnCKoNGr6nz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00w0w_fnnCKoNGr6nz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00w0w_fnnCKoNGr6nz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00909_kjoMT7bit62z_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "New Interior Solid Wood Door 28X80"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7353394093",
+                "name": "Vintage 60\u2019s high heels",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/camp-meeker-vintage-60s-high-heels/7353394093.html",
+                "datetime": "2021-07-24 14:18",
+                "price": "$1",
+                "where": "sebastopol",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00q0q_kbUvAl5DCb0z_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00q0q_kbUvAl5DCb0z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_kbUvAl5DCb0z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_hFNEGafSSWyz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_fzhT1365Zszz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_9nMhwkgU0Mbz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_1wtoLjFpKXKz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_dUGycjk7egFz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_2eMkahrf5wVz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00909_g06fFT0UIOGz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Champagne colored leather heels of 60\u2019s vintagePurchased in 1962Still in original box with manufacturers noteBest offer"
+            },
+            {
+                "id": "7355809339",
+                "name": "Vintage Men's Plaid Velvet Jacket",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-mens-plaid-velvet/7355809339.html",
+                "datetime": "2021-07-24 14:18",
+                "price": "$20",
+                "where": "lower haight",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00p0p_ksyjrvJ8kEI_09O0hq_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00p0p_ksyjrvJ8kEI_09O0hq_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_ksyjrvJ8kEI_09O0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_bbrBS7ZCTr9_09O0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_hATLTpGFRe_09O0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_4NlzVvr2TF6_09O0hq_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "What a statement!!Proceeds benefit animal organizations.Shoulder to shoulder:  18Sleeve length:  24 1/2Jacket length from shoulder:  28 1/2Arm pit to arm pit:  21Waist, flat:  21Come try it on!"
+            },
             {
                 "id": "7352116925",
                 "name": "(3) Vintage Leather Choker Necklaces w/Ceramic Pendants- Pretty! (NEW)",
@@ -126,45 +174,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Pretty colorful vintage 1960's leather corded choker necklaces with different ceramic beads/pieces. All in in new condition and unique and different. Asking $8 each or take all 3 with an extra pendant piece for only $20!"
-            },
-            {
-                "id": "7352467704",
-                "name": "2 Beautiful vintage Hawaiian shirts 60's",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-beautiful-vintage-hawaiian/7352467704.html",
-                "datetime": "2021-07-24 13:26",
-                "price": "$30",
-                "where": "berkeley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_lniCQJZUBX4z_0cX0fu_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00p0p_lniCQJZUBX4z_0cX0fu_600x450.jpg",
-                    "https://images.craigslist.org/00p0p_lniCQJZUBX4z_0cX0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_JDZ6gIlLWvz_0nY0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_1Qb7zeLwWJtz_0bC0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00808_5v6eMLiKwuVz_0bC0fu_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Aloha!These are two great condition Hawaiian shirts from the 60s. Both are medium and in great shape. Very desirable, sought after brands. Both look great! Photos are here for reference."
-            },
-            {
-                "id": "7355783766",
-                "name": "6 VINTAGE WALL MOUNTED CLOTHING HANGERS",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-wall-mounted-clothing/7355783766.html",
-                "datetime": "2021-07-24 13:25",
-                "price": "$15",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_hjdxEad9Bq7_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00e0e_hjdxEad9Bq7_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_hjdxEad9Bq7_50x50c.jpg",
-                    "https://images.craigslist.org/00404_2aTLgBNjN1s_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_7YzntQW37W3_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "6 VINTAGE WALL MOUNTED METAL CLOTHING HANGERS. $15EA, CLEAN, IN GOOD CONDITION WITHOUT ANY DAMAGES OR REPAIRS. GOOD TO DISPLAY LONG DRESSES, JACKETS AND HATS. ALSO FOR SALE FEMALE MOLDED SHIRT FORM SIZE 5-10  $5.  LOCAL SALE, CASH ONLY."
             }
         ],
         "beaded": [
@@ -244,7 +253,7 @@
                 "url": "https://sfbay.craigslist.org/eby/clo/d/pinole-almost-new-onefit-leather-and/7348912141.html",
                 "datetime": "2021-07-24 10:23",
                 "price": "$25",
-                "where": "Pinole east bay area ",
+                "where": "Pinole",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00v0v_4QCczIvlCYWz_0CI0t2_600x450.jpg",
                 "all_images": [
@@ -569,7 +578,7 @@
                 "url": "https://sfbay.craigslist.org/eby/cto/d/fairfield-2016-toyota-camry-se-black/7353405948.html",
                 "datetime": "2021-07-19 13:31",
                 "price": "$14,950",
-                "where": null,
+                "where": " east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01010_k5BOx33ojoYz_0ne0hq_600x450.jpg",
                 "all_images": [

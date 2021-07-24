@@ -5,7 +5,7 @@
                 "id": "7352598165",
                 "name": "Gravel",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/los-altos-gravel/7352598165.html",
-                "datetime": "2021-07-22 12:46",
+                "datetime": "2021-07-24 15:12",
                 "price": "$0",
                 "where": "los altos",
                 "deleted": false,
@@ -97,7 +97,7 @@
                 "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-lumber-wood-unused/7355764743.html",
                 "datetime": "2021-07-24 12:48",
                 "price": "$85",
-                "where": null,
+                "where": " east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00I0I_hQECHYRAhUUz_0CI0t2_600x450.jpg",
                 "all_images": [
@@ -113,6 +113,25 @@
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7355829402",
+                "name": "Giorgio Armani Vintage Eyeglass Frames",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-giorgio-armani-vintage/7355829402.html",
+                "datetime": "2021-07-24 15:04",
+                "price": "$35",
+                "where": "potrero hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00606_lGdzvBgfBlbz_0hq0d4_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00606_lGdzvBgfBlbz_0hq0d4_600x450.jpg",
+                    "https://images.craigslist.org/00606_lGdzvBgfBlbz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_93GbNMm2g7kz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_74uXUnJtzyPz_0hq0d4_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Model 1054Tortoiseshell finish on metal"
+            },
             {
                 "id": "7353394093",
                 "name": "Vintage 60\u2019s high heels",
@@ -156,24 +175,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "What a statement!!Proceeds benefit animal organizations.Shoulder to shoulder:  18Sleeve length:  24 1/2Jacket length from shoulder:  28 1/2Arm pit to arm pit:  21Waist, flat:  21Come try it on!"
-            },
-            {
-                "id": "7352116925",
-                "name": "(3) Vintage Leather Choker Necklaces w/Ceramic Pendants- Pretty! (NEW)",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-leather-choker/7352116925.html",
-                "datetime": "2021-07-24 13:39",
-                "price": "$8",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/01111_liVPZjVbswwz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_8ts4uphqTn6z_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Pretty colorful vintage 1960's leather corded choker necklaces with different ceramic beads/pieces. All in in new condition and unique and different. Asking $8 each or take all 3 with an extra pendant piece for only $20!"
             }
         ],
         "beaded": [
@@ -314,68 +315,68 @@
         ],
         "wedding dress": [
             {
-                "id": "7354075544",
-                "name": "Casablanca 1900 wedding dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-casablanca-1900-wedding-dress/7354075544.html",
-                "datetime": "2021-07-24 13:41",
-                "price": "$400",
-                "where": "San Ramon",
+                "id": "7355832269",
+                "name": "Beautiful, New, Kitty Chen Georgetta Wedding Dress Size 10 unaltered",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-beautiful-new-kitty-chen/7355832269.html",
+                "datetime": "2021-07-24 15:10",
+                "price": "$2,000",
+                "where": "danville / san ramon",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00R0R_fjk6H1ANHzEz_0dm0sU_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_5yoozsEGssXz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_40kE52ndVnUz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_gh9fC6x3MEaz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01010_aaHpPC6dYCPz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_4rpgMtotGZz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_a1x33IchIzAz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_lU3l338E21Kz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_dRvrftjpE8Cz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00R0R_fjk6H1ANHzEz_0dm0sU_600x450.jpg",
+                    "https://images.craigslist.org/00R0R_fjk6H1ANHzEz_0dm0sU_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_lGM5FI9zjC9z_0dm0sU_50x50c.jpg",
+                    "https://images.craigslist.org/00909_3T6Zw1l6Appz_0dm0sU_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_cSKbOaJc2Stz_0dm0sU_50x50c.jpg"
                 ],
                 "query": "wedding dress",
                 "category": "cla",
-                "description": "Color: Champagne (shades of ivory)Size: 5.6 with no heals floor lengthLength: The entire length of the dress is about 4\u20194\u201dLabel size is 12 but it is altered to fit a street size 8 (it will fit bust 37, waist 31, hip 38)Condition: it\u2019s in great condition with no tears but I haven\u2019t dried cleaned so the hem of the dress is still dirty from the wedding at a vineyard (please see photos)Veil included. Cash only. https://www.casablancabridal.com/collections/spring-2008/style-1900/"
+                "description": "Brand New Kitty Chen Georgetta Wedding Dress for $2,000, size 10 and entirely unaltered and never worn.  Please contact me for questions."
             },
             {
-                "id": "7355767825",
-                "name": "WEDDING DRESS",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-wedding-dress/7355767825.html",
-                "datetime": "2021-07-24 12:54",
-                "price": "$130",
-                "where": "santa rosa",
+                "id": "7355832623",
+                "name": "Beautiful, New, Kitty Chen Georgetta Wedding Dress Size 10 unaltered",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-beautiful-new-kitty-chen/7355832623.html",
+                "datetime": "2021-07-24 15:11",
+                "price": "$2,000",
+                "where": "danville / san ramon",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_6hsqbhZpbhyz_0bb0ow_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00R0R_fjk6H1ANHzEz_0dm0sU_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00j0j_6hsqbhZpbhyz_0bb0ow_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_6hsqbhZpbhyz_0bb0ow_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_hc9Ee77WPvwz_06B0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_7PqkBsHOgV2z_0CI0pH_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_2sFeGaKzJK0z_0CI0o9_50x50c.jpg"
+                    "https://images.craigslist.org/00R0R_fjk6H1ANHzEz_0dm0sU_600x450.jpg",
+                    "https://images.craigslist.org/00R0R_fjk6H1ANHzEz_0dm0sU_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_lGM5FI9zjC9z_0dm0sU_50x50c.jpg",
+                    "https://images.craigslist.org/00909_3T6Zw1l6Appz_0dm0sU_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_cSKbOaJc2Stz_0dm0sU_50x50c.jpg"
                 ],
                 "query": "wedding dress",
                 "category": "cla",
-                "description": "Beautiful lace over satin wedding dress by Australian designer house Dundee Fashions of Brisbane.  Portrait collar and lace sleeves.  Immaculate.  This dress is perfect for a wine-country wedding.  It has a satin rose and bow that attaches to the back.  You may attach a train if you prefer.   I'm guessing it's about a US size 8 -10,  sized for 5'3 tall.  I paid @  US $1,100.00 when I purchased it from a bridal shop in Sydney, Australia.  Asking for only $130.00 but will consider your offer."
+                "description": "Brand New Kitty Chen Georgetta Wedding Dress for $2,000, size 10 and entirely unaltered and never worn.  Please contact me for questions."
             },
             {
-                "id": "7355754376",
-                "name": "Wedding Dress",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wedding-dress/7355754376.html",
-                "datetime": "2021-07-24 12:29",
-                "price": "$100",
-                "where": "san jose west",
+                "id": "7355830355",
+                "name": "New Casablanca Primrose Wedding Dress - Size 6 unaltered & unworn",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-new-casablanca-primrose/7355830355.html",
+                "datetime": "2021-07-24 15:06",
+                "price": "$1,480",
+                "where": "danville / san ramon",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00m0m_4sHWe2FAjzc_0aT0ew_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00W0W_5HGZXJ7Nz8iz_0be0gi_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00m0m_4sHWe2FAjzc_0aT0ew_600x450.jpg",
-                    "https://images.craigslist.org/00m0m_4sHWe2FAjzc_0aT0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00202_aDNm7JW5VLw_0aT0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00909_7WXQo3nYCtd_0aT0ew_50x50c.jpg"
+                    "https://images.craigslist.org/00W0W_5HGZXJ7Nz8iz_0be0gi_600x450.jpg",
+                    "https://images.craigslist.org/00W0W_5HGZXJ7Nz8iz_0be0gi_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_93fUvPRBGqrz_0dl0dA_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_8kokZAWk2sPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_4qArzcEEhvdz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01212_4hk6qmZWjuPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_8RbzxrniCVzz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_7q8AAGH1dTBz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01313_iEDnB1mUljIz_0dl0n3_50x50c.jpg"
                 ],
                 "query": "wedding dress",
                 "category": "cla",
-                "description": "Beautiful Calvin Klein wedding gown size 4."
+                "description": "Casablanca Primrose Wedding Dress - Size 6 for $1,480.  Unaltered and unworn.  Don\u2019t wait 6 months to start your wedding!!"
             }
         ],
         "great condition": [
@@ -581,7 +582,7 @@
                 "url": "https://sfbay.craigslist.org/eby/cto/d/fairfield-2016-toyota-camry-se-black/7353405948.html",
                 "datetime": "2021-07-19 13:31",
                 "price": "$14,950",
-                "where": null,
+                "where": " east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01010_k5BOx33ojoYz_0ne0hq_600x450.jpg",
                 "all_images": [
@@ -864,23 +865,59 @@
                 "description": "Tested and working perfectly. Missing one plastic knob, but the pot works just fine. Cleaned all the pots and jacks, nothing is scratchy. 15\u201d Speaker is in great shape. It even smells pretty nice, which is surprising for vintage music gear. This is stupidly loud. I can\u2019t go past 3 without shaking stuff off my walls and pissing off the neighbors. It would be a perfect small gig combo amp, or to drown out your overzealous drummer. Happy to deliver or even bring it over so you can give it a spin because my neighbors are already sick of it.$200 OBO"
             },
             {
-                "id": "7345858840",
-                "name": "Ehrlund Microphones EHR-D Directional Condenser Microphone",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/sebastopol-ehrlund-microphones-ehr/7345858840.html",
-                "datetime": "2021-07-24 13:21",
-                "price": "$690",
-                "where": "santa rosa",
+                "id": "7355838906",
+                "name": "VOX AD60VT Valvetronix Modeling Amp",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/healdsburg-vox-ad60vt-valvetronix/7355838906.html",
+                "datetime": "2021-07-24 15:25",
+                "price": "$175",
+                "where": "healdsburg / windsor",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01414_3uOIlRldNaUz_0gw0co_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00L0L_56J4qJD2DTsz_0CI0pO_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01414_3uOIlRldNaUz_0gw0co_600x450.jpg"
+                    "https://images.craigslist.org/00L0L_56J4qJD2DTsz_0CI0pO_600x450.jpg",
+                    "https://images.craigslist.org/00L0L_56J4qJD2DTsz_0CI0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_kqGq1idk8Njz_0CI0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_fUrsjtYzaJyz_0CI0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_fVHk5GOFqjfz_0CI0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_e7mofKHZtAfz_0CI0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_7jk8eyh6C2Iz_0CI0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_gxiZTFrXxQgz_0CI0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_jsniVd2hOLiz_0CI0pO_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "\u201cOur most robust microphone. Designed specifically to block out unwanted sounds from sides and back, the EHR-D is a microphone designed for loud sound sources, tentatively for drums, horns and guitars. The housing is made for the rough life of being on the road.\u201d Great for isolating an acoustic guitar when recording vocals at same time."
+                "description": "This is a VOX AD60VY Modeling Amplifier in terrific condition! The VOX Valvetronix series is a Modeling Amp that emulates 16 different amplifiers with the turn of a dial. There are also more effects, reverbs, flangers, etc. that will get you any sound you are looking for!Check out the photos of the dashboard to see just what this baby can do. Tons of Mojo!This amp is all original and works PERFECTLY, and there are only very, very small flaws in the original tolex covering. No rips or tears and nothing to effect the operation of the amp.It is hugely loud so you'll be heard over the noisiest of drummers. 16 different amplifiers in one...plus effects! Includes the power cord. There are no pedals with this one.  It now lives in a COVID-free home in Healdsburg."
             }
         ],
         "famous": [
+            {
+                "id": "7345872590",
+                "name": "Zildjian Cymbals and Drum Hardware Lot",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-zildjian-cymbals-and-drum/7345872590.html",
+                "datetime": "2021-07-24 14:57",
+                "price": "$0",
+                "where": "san jose west",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00505_bJLcOjavDwbz_1320MM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00505_bJLcOjavDwbz_1320MM_600x450.jpg",
+                    "https://images.craigslist.org/00505_bJLcOjavDwbz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_gxfE3gxgJk9z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_7BUn36RMuL7z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_gbQJaPAN6iiz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_1apYdi5Qhfsz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_awVQYghqKI9z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_5vyopbpJAEEz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00202_1GxWsMkHYLtz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/01313_3tl4c5JPEOSz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_ktLL2kNaZH5z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_5SHXTMyS6b3z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_9h71hJSnRkZz_1320MM_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Hello Drummers, I am clearing out some gear I no longer use. Please look at the list below and the photos and let me know if you are interested in any of the pieces. ALL ITEMS LISTED ARE STILL AVAILABLE! Once sold I will remove from the listing.CYMBALS:1. Zildjian 15 A New Beat Hi Hats - $275Good condition (original owner), no key-holing or cracks, minor logo fadingHARDWARE:2. WFL Speed King 1950's bass drum pedal - $50All original, working condition - Same pedal made famous by John Bonham!3. Ludwig Speed King 1960's bass drum pedal - $50All original working condition - Great, smooth playing vintage pedal.4. Pearl Gyro-Lock Double Braced Snare Stand - $100Great, super adjustable, sturdy stand. Some pitting, could look new with a polish. 5. Gibraltar Strap Drive Bass Drum Pedal w/ case $50Good overall condition, locking nut is stripped and needs new nut ($5 part)6. DW 5000 Accelerator Pedal - $150Original owner, great industry standard pedal in good working condition. Comes with original beater, and newly replaced springOpen to reasonable offers."
+            },
             {
                 "id": "7345756673",
                 "name": "Yamaha PM1000 Discrete 16 channel mixer frame, 6 channels + new parts",
@@ -918,39 +955,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Sounds great especially when driving the Cinemag transformers.Designed for recording and mixing stereo tracks, the BUS-COMP is Warm Audio's take on a classic VCA bus compressor, one made famous by companies such as Solid State Logic. This is a clean, stereo compressor, one quite suited to handling the dynamics of stereo instruments. It's also handy for stereo-buss work, imparting the sonic glue VCA compressors are known for.The BUS-COMP takes a classic design and adds some nifty improvements, such as the ability to switch CineMag transformers in and out of the signal path at the press of a button. With this feature, you can opt for sonic transparency or colorful vibe with the touch of your finger.The BUS-COMP also offers a selectable high-pass filter, a sidechain input, a useful bypass/engage switch for making comparisons, and a versatile I/O path. Indeed, you'll find XLR and 1/4 TRS terminations used in both the inputs and outputs.Key FeaturesAll analog, 2-channel stereo VCA compressorBased on legendary VCA compressor technologySelectable discrete opamp stage with CineMag USA transformersExternal sidechain source selectSelectable Hi-pass Filter at 30, 60, 105, 125, and 185 HzCompressor engage switch for easy comparisonsPerforms well on stereo mixes, drum mixes, drum overheads, acoustic guitars, keyboards, piano, orchestral instruments, voice-overs, and endless other sourcesCan be used on mono as well as stereo sourcesUses THAT 2180 VCA ICProvides both XLR and 1/4 TRS connectivityFEATURESClassic VCA Compressor DesignAdd Glue & Control DynamicsSwitchable CineMag TranformersSonic Transparency or Colorful Vibe"
-            },
-            {
-                "id": "7355716180",
-                "name": "Sabian assorted sizes, prices in excellent condition. Also have ClearSonic drum",
-                "url": "https://sfbay.craigslist.org/pen/msg/d/san-francisco-sabian-assorted-sizes/7355716180.html",
-                "datetime": "2021-07-24 11:21",
-                "price": "$200",
-                "where": "Mountain View",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_dKZNkbam7Ym_0CI0lM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00T0T_dKZNkbam7Ym_0CI0lM_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_dKZNkbam7Ym_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00505_gCrgPu2PQpOz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00404_jHgWWLe1Wymz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_ag2XwaGIiKLz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_buUTc1Eqhx0z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_ei5Wipz6jZKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_a3gjPKEgSxlz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_bi0HTx0KLVcz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_jL0YpwELPez_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_4sbPvk4BBC5z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_eqiTDg37Bc6z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_cHsEgdKG4Xxz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00000_cldvrvVXuSuz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_lmIU2nqcOKfz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_lt25wmDga4I_0xP0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_77gytqtyzlC_0CI0uB_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_jqtFPTsMWOE_0CI0AL_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "* Txt me Four One Five 527 Zero One SIXTY-NINE SERIOUS INQUIRIES ONLY. LOW BALLERS WILL BE IGNORED* Hello what\u2019s left :- 16\u201d evolution- China 8\u201d wuhan (lol) splash- HHX 18\u201d crash- HHXplosion 18\u201d crash- AAXtreme chinese- 17\u201d upside down crash- HHX 10\u201d splash- HHX 12\u201d splash,  jazz groove hat -high hats- 20\u201d jazz hand hammered bounce rideSabian 17 AAX X-Treme Chinese Brilliant Finish, inch (21786XB) $200Sabian HHX 16 Evolution Crash Cymbal, Brilliant Finish$200Sabian Crash Cymbal, 17$280Sabian HHX 18 X-Plosion Crash Cymbal, Brilliant Finish$290SabianSabian Hand Hammered Heavy Ride Cymbal 20 $480Sabian HHX 10 Evolution Splash Cymbal, Brilliant Finish$120Sabian HHX 12 Evolution Splash Cymbal, Brilliant Finish $13513\u201d HHX Evolution Hats$355And the Signature Sabian cymbal  bag will throw in if someone buys the whole lot otherwise will sell the beautiful thick padded velvet inside bag separately for sale once most of the cymbals are goneHello getting rid of what oil have left of various sizes of Sabian is one of the most famous brands in the cymbals business. As you probably know, it traces its roots back to Zildjian, and by default, old Constantinople. So, if someone knows cymbals, it's Sabian. The ride cymbal is an essential part of every drum kit, so it is important to choose which one will suit you best, $288/obo. The  HHX Groove Hats have a nice crisp sound $250/obo. Will be on eBay soon as I want to sell all as a package and will throw in the bag as well since I\u2019m not gigging any longer.\u201c if this doesn\u2019t make any sense to you then may I suggest you wiki Sabian\u201dAlso have ClearSonic drum shield the PRICE IS $500:https://sfbay.craigslist.org/pen/msg/d/san-francisco-clear-sonic-premium-drum/7251210993.html"
             }
         ]
     }

@@ -54,6 +54,25 @@
         ],
         "wood": [
             {
+                "id": "7343889065",
+                "name": "Brand new unpainted wood cabinet doors, approx 12\" x 16\"",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/mountain-view-brand-new-unpainted-wood/7343889065.html",
+                "datetime": "2021-07-24 20:56",
+                "price": "$15",
+                "where": "mountain view",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00P0P_hptPoZGnt7J_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00P0P_hptPoZGnt7J_600x450.jpg",
+                    "https://images.craigslist.org/00P0P_hptPoZGnt7J_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_6R73ycz6QPW_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_jRSwewIteBR_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "paint grade door frontsI believe this is mapleinset panels12.25 x 16I also have another door of the same size and very similar style.CASH only"
+            },
+            {
                 "id": "7349659518",
                 "name": "48\" Bathroom vanity (solid wood)",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-48-bathroom-vanity-solid-wood/7349659518.html",
@@ -89,27 +108,51 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "36 x 36 metal clad wood interior window.Excellent condition, but used and removed from building after only 1 year use.Paid over $600 newCall or text"
-            },
-            {
-                "id": "7345348660",
-                "name": "7 Knape & Vogt John Sterling Dual Trak Adjustable Wood Shelf Brackets",
-                "url": "https://sfbay.craigslist.org/scz/mat/d/knape-vogt-john-sterling-dual-trak/7345348660.html",
-                "datetime": "2021-07-24 18:39",
-                "price": "$20",
-                "where": "santa cruz",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00E0E_ajuefOIxjZMz_084084_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00E0E_ajuefOIxjZMz_084084_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Include your number. I\u2019ll text or callONLY             $207 Knape & Vogt John Sterling Dual Trak Adjustable Wood Shelf Brackets / Warm"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7355930120",
+                "name": "Concert shirts vintage shirts large",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-concert-shirts-vintage/7355930120.html",
+                "datetime": "2021-07-24 20:45",
+                "price": "$0",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00r0r_5lVJj0cwgJsz_0ew0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00r0r_5lVJj0cwgJsz_0ew0jm_600x450.jpg",
+                    "https://images.craigslist.org/00r0r_5lVJj0cwgJsz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00909_fvp5aHLfwdKz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/01010_1ku34UC31zez_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_jCN509ep04rz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_anCA21WXaIaz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_839G9T5kbXXz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_io6IEumzkxzz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_4e47OfTqJwkz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_bUuETpFmM7Wz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/01414_7yxMxBt3xWnz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00808_3G6RrRFx9jgz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00404_57cJ722kBVaz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_45AFrpw6tsAz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_b5ZS5csQuAHz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_1PuzNG9K2t9z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_k61fkcmt4nXz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_9olgmop9mx0z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_5MR3EFOH9w7z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00707_4jRPBqdCJGrz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_iq7G0Jc4FYSz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_jn0t8STQelpz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_1ohS9jLltpJz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_aJBxv15o5whz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_1SnbosX3ITez_0ew0jm_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Great concert shirts lot $2500 cash"
+            },
             {
                 "id": "7355926112",
                 "name": "Vintage SF 49ers Chalkline Fanimation jacket",
@@ -154,27 +197,27 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Selling some vintage clothes. The brown jacket is corduroy and the black and grey jackets are members only. All are in good condition but will need a good cleaning. Haven\u2019t been worn or used in years. I would prefer to sell as a lot, so please no offers on individual items. I prefer text so please let me know if you\u2019re interested."
-            },
-            {
-                "id": "7352663665",
-                "name": "Vintage Cedar shoe stretchers maintainers",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/vallejo-vintage-cedar-shoe-stretchers/7352663665.html",
-                "datetime": "2021-07-24 19:06",
-                "price": "$10",
-                "where": "vallejo / benicia",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_cm0R2hzjQ8Oz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00L0L_cm0R2hzjQ8Oz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_cm0R2hzjQ8Oz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_agc8q9vHIh0z_0t10CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Various sizes of Shoe stretchers maintainers Mens and Womens sizes total of approx 24 10.00 per pair or B.O. Or multi prices ?"
             }
         ],
         "beaded": [
+            {
+                "id": "7351803929",
+                "name": "Frankie and Johnnie Small BEADED ZIPPERED BAG",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-frankie-and-johnnie-small/7351803929.html",
+                "datetime": "2021-07-24 20:54",
+                "price": "$10",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
+                    "https://images.craigslist.org/00D0D_4iYcOGqbP3j_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_ddViaZQbgzj_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "7 1/2 across x 5 tall Beaded Zippered Bag by Frankie and Johnnie."
+            },
             {
                 "id": "7355680160",
                 "name": "Flower Beaded Shoes - Donald J Pliner - Women size 7.5 B",
@@ -217,31 +260,6 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "This is a really nice vintage flowered blue sequins beaded clutch purse.  Silver chain handle.  Pocket inside.In great condition!Handbag"
-            },
-            {
-                "id": "7343338298",
-                "name": "Wedding Gown: Exquisitely Embroidered and Beaded Bridal",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/wedding-gown-exquisitely-embroidered/7343338298.html",
-                "datetime": "2021-07-24 09:07",
-                "price": "$250",
-                "where": "san jose west",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00F0F_b6LhF1KQ9TV_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00F0F_b6LhF1KQ9TV_600x450.jpg",
-                    "https://images.craigslist.org/00F0F_b6LhF1KQ9TV_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_jfp1kdyFgAU_50x50c.jpg",
-                    "https://images.craigslist.org/01515_4eNRIxH6Lux_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_8XCXPygYLfi_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_6kUeVi6q8kX_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_jaTUUCM28HD_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_f4184hhSDud_50x50c.jpg",
-                    "https://images.craigslist.org/00808_bGaRm7evOmQ_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_2gEqoGUVPYr_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Gorgeous satin silk bridal gown.  Exquisitely decorated with metallic gold and silver motif embroideries,  beaded dragons and Phoenix by master hands all over the dress.This is a small/medium size traditional red Chinese wedding dress, also known as KwanKwa/CheongSam.The skirt is 40 long with adjustable suspender to fit different heights, draw string waist expands to fit maximum 30 waist line."
             }
         ],
         "gloves": [
@@ -606,7 +624,7 @@
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/san-leandro-2014-jeep-wrangler/7355562120.html",
                 "datetime": "2021-07-24 06:39",
                 "price": "$34,991",
-                "where": "San Leandro east bay area ",
+                "where": "San Leandro",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_600x450.jpg",
                 "all_images": [
@@ -864,25 +882,26 @@
                 "description": "Tested and working perfectly. Missing one plastic knob, but the pot works just fine. Cleaned all the pots and jacks, nothing is scratchy. 15\u201d Speaker is in great shape. It even smells pretty nice, which is surprising for vintage music gear. This is stupidly loud. I can\u2019t go past 3 without shaking stuff off my walls and pissing off the neighbors. It would be a perfect small gig combo amp, or to drown out your overzealous drummer. Happy to deliver or even bring it over so you can give it a spin because my neighbors are already sick of it.$200 OBO"
             },
             {
-                "id": "7355894832",
-                "name": "Fender Rumble 100 bass amp, like new, 12\u201d speaker",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/novato-fender-rumble-100-bass-amp-like/7355894832.html",
-                "datetime": "2021-07-24 18:06",
-                "price": "$180",
-                "where": "novato",
+                "id": "7355926040",
+                "name": "Flamenco Guitar from Spain",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/el-granada-flamenco-guitar-from-spain/7355926040.html",
+                "datetime": "2021-07-24 20:22",
+                "price": "$2,800",
+                "where": "half moon bay",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00J0J_hTyFTX9L584z_0ew0jm_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00R0R_f6Br2d7c7Zxz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00J0J_hTyFTX9L584z_0ew0jm_600x450.jpg",
-                    "https://images.craigslist.org/00J0J_hTyFTX9L584z_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_jhtNeaEEuxgz_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_408sr5wuExmz_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_kB3guYEQkKQz_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_kdLgPdO5eG6z_0ew0jm_50x50c.jpg"
+                    "https://images.craigslist.org/00R0R_f6Br2d7c7Zxz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00R0R_f6Br2d7c7Zxz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_6IBZff4dppcz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_7LXwxCfhpAjz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_1Ylrel237dVz_0x20oM_50x50c.jpg",
+                    "https://images.craigslist.org/00808_cVdCHeum1EGz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_1IvIvqdJO3Nz_0lN0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Fender Rumble 100, 100 watt bass amp with 12 inch soeaker.  Fender makes a lot of models of Rumbles\u2026the smaller ones are good for practice, but not much more,  they are underpowered and the smaller soeaker distorts when turned up loud..This one has a full 100 watts into a 12\u201d speaker, and is loud enough to do a gog at reasonable volume and still sound clear and deep.Has a gain knob, a 4 band EQ, plus buttons for contour (great for slapping), vintage and bright tonal variety.  Effects loop, Aux in so you can play along with music, headphone jack and a like out for recording.  And it is CRAZY lightweight.  These list for $300 mail order.  This is in new condition and never left the house.  Works perfectly, not a scratch.I was perfectly happy with this but my girlfriend bought me a bigger one thinking that Sunday I might need it, so this one\u2019s up for sale. Selling for $180 firm.  Not interested in trades for anything and will not ship.  Cash and carry only.  if the ad is up the amp is available."
+                "description": "Jose Lopez Bellido flamenco negra- handcrafted by one of the best flamenco luthiers ever! German spruce top and Indian rosewood sides and back, scale 655 nut with 53. Great condition, no cracks, original French polish.  It was said that this guitar was built for Pepe Habichuela. Ive owned Conde, Ramirez, Esteso, Maldonado, DeVoe and many others. I let them all go a long time ago, but this has always been my favorite. It\u2019s now time to part with it. Low fast action, loud, deep bass and high treble. Great balance and a haunting flamenco sound. A sacrifice at $3500. But im now asking $2800\u2026 have to sell asap\u2026 if you are truly into flamenco guitar, you definitely need to add this to your collection. Contact me with any questions.  Call or texts only Thanks, Ray"
             }
         ],
         "famous": [

@@ -114,6 +114,35 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7354627200",
+                "name": "Vintage Leather Purse - Tooled \"Western\" Pattern - Black+Slate",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/san-anselmo-vintage-leather-purse/7354627200.html",
+                "datetime": "2021-07-24 17:54",
+                "price": "$24",
+                "where": "san anselmo",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00A0A_18zWcr1LIyNz_0oo0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00A0A_18zWcr1LIyNz_0oo0t2_600x450.jpg",
+                    "https://images.craigslist.org/00A0A_18zWcr1LIyNz_0oo0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_kAlMSadw4hUz_0oT0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_56jEfDTGydOz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_1F5Ey45HYgz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_1spYQ72CNpxz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_9NUlsIfTJOFz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_ghPinK0us2Zz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_gcTGH1RlNizz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_hQc37nmf3Nqz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_6ip3Y7reEgxz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_5zU47SrRD1Vz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_rMjv7JY4YPz_0sr0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_ahmAJQbkJMQz_0oZ0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Beautiful, Like-NEW Leather PurseTooled Western Pattern Two-toned:  Black + Slate (or silver-gray?)Fully LinedNote all the zippers + inside zippered \u201cpocket\u201d + magnetic snapmatching leather strap with all metal hardwareOutside Dimensions of purse body, roughly: 9 x 11 length of strap is about 2-feet fully extended. Adjustable. $ 24------------Checkout my other CL ads if your looking for other reasons to swing by. There will be some more Western Wear including Boots & Hats & Belt Buckles & Levi's. (Sorry, the collection of western shirts & both pair of boots are now all sold.) We are cleaning out attics, basements, and garages of 3 generations of stuff. More goodies to follow. 1870-2020. But mostly 1910-1970. New posts when I get time.-----------------------------------------------------------------------------------------------------------"
+            },
+            {
                 "id": "7355877757",
                 "name": "Vintage Zodiac Boots",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/brentwood-vintage-zodiac-boots/7355877757.html",
@@ -139,7 +168,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-stetson-hat/7345496053.html",
                 "datetime": "2021-07-24 17:00",
                 "price": "$45",
-                "where": "San Francisco city of san francisco ",
+                "where": "San Francisco",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
                 "all_images": [
@@ -153,22 +182,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Size is 6 and 3/4s.  Straw hat"
-            },
-            {
-                "id": "7349721383",
-                "name": "SANUK CASA BARCO Vintage BOAT CANVAS SHOES MEN'S SIZE 8.5  New in Box",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-sanuk-casa-barco-vintage/7349721383.html",
-                "datetime": "2021-07-24 16:52",
-                "price": "$20",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_4kpSv0y5oupz_0pO0jm_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00W0W_4kpSv0y5oupz_0pO0jm_600x450.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "SANUK CASA BARCO Vintage BOAT CANVAS SHOES MEN'S SIZE 8.5 slip on lace up NATURALNew in Box with tags"
             }
         ],
         "beaded": [
@@ -395,7 +408,7 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-oakley-backpack-computer-bag/7355849384.html",
                 "datetime": "2021-07-24 15:52",
                 "price": "$10",
-                "where": null,
+                "where": " south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00G0G_4Peugspu1S0_1320MM_600x450.jpg",
                 "all_images": [
@@ -575,7 +588,7 @@
                 "url": "https://sfbay.craigslist.org/eby/cto/d/fairfield-2016-toyota-camry-se-black/7353405948.html",
                 "datetime": "2021-07-19 13:31",
                 "price": "$14,950",
-                "where": null,
+                "where": " east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/01010_k5BOx33ojoYz_0ne0hq_600x450.jpg",
                 "all_images": [
@@ -858,28 +871,29 @@
                 "description": "Tested and working perfectly. Missing one plastic knob, but the pot works just fine. Cleaned all the pots and jacks, nothing is scratchy. 15\u201d Speaker is in great shape. It even smells pretty nice, which is surprising for vintage music gear. This is stupidly loud. I can\u2019t go past 3 without shaking stuff off my walls and pissing off the neighbors. It would be a perfect small gig combo amp, or to drown out your overzealous drummer. Happy to deliver or even bring it over so you can give it a spin because my neighbors are already sick of it.$200 OBO"
             },
             {
-                "id": "7355838906",
-                "name": "VOX AD60VT Valvetronix Modeling Amp",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/healdsburg-vox-ad60vt-valvetronix/7355838906.html",
-                "datetime": "2021-07-24 15:25",
-                "price": "$175",
-                "where": "healdsburg / windsor",
+                "id": "7354324341",
+                "name": "JBL EON 15\" Powered PA Speaker",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-jbl-eon-15-powered-pa/7354324341.html",
+                "datetime": "2021-07-24 17:56",
+                "price": "$200",
+                "where": "richmond / seacliff",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_56J4qJD2DTsz_0CI0pO_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00f0f_htOxdA3dTPdz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00L0L_56J4qJD2DTsz_0CI0pO_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_56J4qJD2DTsz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_kqGq1idk8Njz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_fUrsjtYzaJyz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_fVHk5GOFqjfz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_e7mofKHZtAfz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_7jk8eyh6C2Iz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_gxiZTFrXxQgz_0CI0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_jsniVd2hOLiz_0CI0pO_50x50c.jpg"
+                    "https://images.craigslist.org/00f0f_htOxdA3dTPdz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00f0f_htOxdA3dTPdz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_7Jd39Fmkc7Sz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_8RTmJaL7q3Jz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_j73gyPCqF1mz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_k1LQlWs4dqfz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_1gbHOyRAPH3z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_kPRlmviD4tJz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_2he3ZMHHemUz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_bT5J0b9uirzz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "This is a VOX AD60VY Modeling Amplifier in terrific condition! The VOX Valvetronix series is a Modeling Amp that emulates 16 different amplifiers with the turn of a dial. There are also more effects, reverbs, flangers, etc. that will get you any sound you are looking for!Check out the photos of the dashboard to see just what this baby can do. Tons of Mojo!This amp is all original and works PERFECTLY, and there are only very, very small flaws in the original tolex covering. No rips or tears and nothing to effect the operation of the amp.It is hugely loud so you'll be heard over the noisiest of drummers. 16 different amplifiers in one...plus effects! Includes the power cord. There are no pedals with this one.  It now lives in a COVID-free home in Healdsburg."
+                "description": "hey cl, For sale is a JBL EON Power15 powered PA Speaker. I actually have two of these and could sell both but I need one for a wedding in a couple weeks so for now I can only sell one. I also have one (1) OnStage speaker stand that is available with the set after the wedding. Anyway, if you just want one (1) I can sell that now for $200.Clean, punchy, loud, no issues! Just a few scuffs on the heavy duty molded plastic. Screw to tighten onto a stand still present and working well. These are great because you can literally just plug an XLR cable and a mic straight into them if you want for a quick and minimal PA system. Add a mixer for a full band, DJ setup, etc.Come by and pick it up. I will wear a mask and can show it in the open air in my garage. Cash or Venmo only. Map on this post is accurate. If you see this post it's available, don't ask."
             }
         ],
         "famous": [

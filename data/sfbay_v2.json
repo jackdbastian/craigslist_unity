@@ -54,6 +54,25 @@
         ],
         "wood": [
             {
+                "id": "7349659518",
+                "name": "48\" Bathroom vanity (solid wood)",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-48-bathroom-vanity-solid-wood/7349659518.html",
+                "datetime": "2021-07-24 20:09",
+                "price": "$140",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
+                    "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_13vb72Qtz63z_09s05n_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_2lgybDKt7gT_0ak07K_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "The vanity made by solid wood, it is very good quality and condition. When it is new, it costed over $1000."
+            },
+            {
                 "id": "7355908724",
                 "name": "Window",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/el-verano-window/7355908724.html",
@@ -86,29 +105,56 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Include your number. I\u2019ll text or callONLY             $207 Knape & Vogt John Sterling Dual Trak Adjustable Wood Shelf Brackets / Warm"
-            },
-            {
-                "id": "7345713346",
-                "name": "GLUELESS LAMINATED WOOD FLOORING",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/walnut-creek-glueless-laminated-wood/7345713346.html",
-                "datetime": "2021-07-24 16:35",
-                "price": "$10",
-                "where": "walnut creek",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_ffyuO09enesz_0CI0g1_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00V0V_ffyuO09enesz_0CI0g1_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_ffyuO09enesz_0CI0g1_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_f7EBCoqXccBz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "5 PIECES OF GLUELESS LAMINATED WOOD FLOORINGLIGHT COLORED, LABELED SELECT MAPLEEACH PIECE MEASURES 7mm x 8 x 48"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7355926112",
+                "name": "Vintage SF 49ers Chalkline Fanimation jacket",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/daly-city-vintage-sf-49ers-chalkline/7355926112.html",
+                "datetime": "2021-07-24 20:22",
+                "price": "$200",
+                "where": "daly city",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00909_8Fq8PhTxSSdz_0gq0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00909_8Fq8PhTxSSdz_0gq0t2_600x450.jpg",
+                    "https://images.craigslist.org/00909_8Fq8PhTxSSdz_0gq0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_wWBfUdZyGoz_0gq0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Team of the Decade fanimation jacket. Size XL in GOOD condition for its age! No rips or tears. Hard to find in XL. This is a waistline size XL that's how Chalkline made their clothing. This is not oversized. Just sitting in closet, come get it for $200 or best offer. Text"
+            },
+            {
+                "id": "7344124922",
+                "name": "Vintage clothes",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/gilroy-vintage-clothes/7344124922.html",
+                "datetime": "2021-07-24 19:58",
+                "price": "$100",
+                "where": "gilroy",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_atfbO4R4l3Oz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_gfFNclyiy1Bz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_9fyyvtJrx0iz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_gC6NqMHGMsxz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_2CXZPERdywGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_hdkLjmh3bIhz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01515_JKUbnv8xTVz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_879W5OX1Xpbz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_dHDsRPdAgmcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_6pA55sUyQprz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Selling some vintage clothes. The brown jacket is corduroy and the black and grey jackets are members only. All are in good condition but will need a good cleaning. Haven\u2019t been worn or used in years. I would prefer to sell as a lot, so please no offers on individual items. I prefer text so please let me know if you\u2019re interested."
+            },
             {
                 "id": "7352663665",
                 "name": "Vintage Cedar shoe stretchers maintainers",
@@ -126,46 +172,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Various sizes of Shoe stretchers maintainers Mens and Womens sizes total of approx 24 10.00 per pair or B.O. Or multi prices ?"
-            },
-            {
-                "id": "7355906164",
-                "name": "Kapital Cargo Shorts Vintage Just In Time For Summer",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-kapital-cargo-shorts/7355906164.html",
-                "datetime": "2021-07-24 18:50",
-                "price": "$140",
-                "where": "nob hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/01111_50I329BK5nmz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_aoNm7IaNRSmz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_4cazl2i6UCpz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_eMWYpC8c3SNz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_67d57kj660zz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_4MIcJqCZ9fAz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_dv2wGpLx02Gz_0iM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_39lFWrx42xcz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Very unique pair of Vintage Kapital Shorts made in Japan. The pockets in these are very fun, I also love the vintage look of the front button. The side pocket zippers are made by YKK. There is no stains or tears of any kind. Just usual wear. These unique cargo shorts are sure to catch attentions!"
-            },
-            {
-                "id": "7348061938",
-                "name": "vintage scrunchies",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-scrunchies/7348061938.html",
-                "datetime": "2021-07-24 18:31",
-                "price": "$5",
-                "where": "SOMA / south beach",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00J0J_1vnnK4lpKyez_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00J0J_1vnnK4lpKyez_0t20CI_600x450.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "$5 for all"
             }
         ],
         "beaded": [
@@ -600,7 +606,7 @@
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/san-leandro-2014-jeep-wrangler/7355562120.html",
                 "datetime": "2021-07-24 06:39",
                 "price": "$34,991",
-                "where": "San Leandro",
+                "where": "San Leandro east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_600x450.jpg",
                 "all_images": [
@@ -716,7 +722,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/ctd/d/sacramento-2007-ford-mustang-deluxe-2dr/7355436936.html",
                 "datetime": "2021-07-23 18:09",
                 "price": "$7,990",
-                "where": "$990 Down Most Cars city of san francisco ",
+                "where": "$990 Down Most Cars",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00909_60ZMaUmYUbMz_0jm0a1_600x450.jpg",
                 "all_images": [
@@ -862,7 +868,7 @@
                 "name": "Fender Rumble 100 bass amp, like new, 12\u201d speaker",
                 "url": "https://sfbay.craigslist.org/nby/msg/d/novato-fender-rumble-100-bass-amp-like/7355894832.html",
                 "datetime": "2021-07-24 18:06",
-                "price": "$0",
+                "price": "$180",
                 "where": "novato",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00J0J_hTyFTX9L584z_0ew0jm_600x450.jpg",

@@ -138,6 +138,34 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7346069880",
+                "name": "Vintage Mark Cross Ostrich Leather Handbag with Original Coin Purse",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-mark-cross-ostrich-leather/7346069880.html",
+                "datetime": "2021-07-25 08:04",
+                "price": "$4,500",
+                "where": "nob hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
+                    "https://images.craigslist.org/01717_fegKs79GWRZ_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_89laq2TpNw5_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_1QMIXx2c0z0_50x50c.jpg",
+                    "https://images.craigslist.org/01212_diz9LEGOG2O_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_ivjqXERtsE9_50x50c.jpg",
+                    "https://images.craigslist.org/00202_Q0rw8qcupz_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_63QEqhLgGwX_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_daWNSjLLlz4_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_hmWKJU1YGZc_50x50c.jpg",
+                    "https://images.craigslist.org/00101_gf4dxdYM2JN_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_bhbizp0Dbrc_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_8huVd4TVxH5_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Pre-owned, vintage Mark Cross ostrich leather handbag in excellent condition.  Base is approximately 4.5 wide and 11.5 long.  Height is approximately 8.  Straps are approximately 17 long.  The handbag opens to reveal two, roughly mirror-imaged sections, each of which contains a roomy compartment, multiple open pouches, and a zippered pouch.  Comes with its original coin purse which is approximately 3-1/8 high and 5-3/8 long.  Sold as is."
+            },
+            {
                 "id": "7349874426",
                 "name": "vintage LEATHER RIDING BOOTS black womans mid 60s",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-leather-riding-boots/7349874426.html",
@@ -196,25 +224,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "BACKSTORY:  This is the dress my mother wore at my parents' wedding in 1969. They've been married for 52 years now, so this dress is imbued happy marriage vibes. We are hoping it goes to someone who will be excited to wear it in their own wedding.DRESS DETAILS:- This dress is in perfect condition. - White skirt and bodice with ivory venetian lace along the edges. - Purchased at Saks Fifth Avenue in Boston. - Size 2, but can be altered. - Veil included, as well as the original box the dress was delivered in.MODEL DETAILS:- Height: 5\u20192- Weight: 112 lbs- Bra: B cup- General size: S, 25/26 jeans"
-            },
-            {
-                "id": "7344668498",
-                "name": "VINTAGE HAT",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-hat/7344668498.html",
-                "datetime": "2021-07-25 05:48",
-                "price": "$13",
-                "where": "inner richmond",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00P0P_5sSuZj3YjQr_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_1Hw7mmLSQDV_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_iwixXoVxJtY_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "100% wool. Made in USA by Lancaster, Sonni of San Francisco.Dark beige veiled wool felt broad brimmed with tule"
             }
         ],
         "beaded": [
@@ -224,7 +233,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-antique-beaded-purse/7356008238.html",
                 "datetime": "2021-07-25 07:02",
                 "price": "$65",
-                "where": "San Francisco",
+                "where": "San Francisco city of san francisco ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00P0P_lTZeYoiGuFCz_0cK0pO_600x450.jpg",
                 "all_images": [
@@ -322,7 +331,7 @@
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-youth-goalie-pants-and-gloves/7349228883.html",
                 "datetime": "2021-07-24 14:36",
                 "price": "$20",
-                "where": "San Ramon east bay area ",
+                "where": "San Ramon",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_600x450.jpg",
                 "all_images": [
@@ -432,7 +441,7 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-oakley-backpack-computer-bag/7355849384.html",
                 "datetime": "2021-07-24 15:52",
                 "price": "$10",
-                "where": null,
+                "where": " south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00G0G_4Peugspu1S0_1320MM_600x450.jpg",
                 "all_images": [
@@ -894,23 +903,51 @@
                 "description": "Tested and working perfectly. Missing one plastic knob, but the pot works just fine. Cleaned all the pots and jacks, nothing is scratchy. 15\u201d Speaker is in great shape. It even smells pretty nice, which is surprising for vintage music gear. This is stupidly loud. I can\u2019t go past 3 without shaking stuff off my walls and pissing off the neighbors. It would be a perfect small gig combo amp, or to drown out your overzealous drummer. Happy to deliver or even bring it over so you can give it a spin because my neighbors are already sick of it.$200 OBO"
             },
             {
-                "id": "7351589541",
-                "name": "Brand New Earthquaker Acapulco Gold (Sunn Amp) Guitar Pedal",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/sunnyvale-brand-new-earthquaker/7351589541.html",
-                "datetime": "2021-07-25 04:13",
-                "price": "$120",
-                "where": "sunnyvale",
+                "id": "7351799625",
+                "name": "vintage Peavey Studio Pro 60 made in USA w 12\" speaker",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/dublin-vintage-peavey-studio-pro-60/7351799625.html",
+                "datetime": "2021-07-25 08:21",
+                "price": "$125",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00202_7VKBIapxA6Jz_0g80g8_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00202_7VKBIapxA6Jz_0g80g8_600x450.jpg"
+                    "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_8uxX7juohG5z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_MGLyWh7Lbjz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Sunn Amp in a Pedal. Loud. Loud means Can be super loud to have the neighbors want to call the cops. Turn your guitar into a monster and belt out some tones with personality. This means that you get immediate attention.Brand New Condition.Watch the demo:https://www.youtube.com/watch?v=neazXtE5mPE&ab_channel=ProGuitarShopDemosPrice is firm. Cash only. Pickup only."
+                "description": "olid state vintage 80s Peavey Studio Pro amplifier. Made in USA. Fully functional and loud, with a 12 speaker.PEAVEY STUDIO PRO 60 Amp made in U.S.A in Meridian, Miss. High quality American parts and Transformer, works great. the amp is portable, weighs about 25 lbs. Amp is 50 Watts and has a warm tube like tone these are known for (amp is solid state) . These are getting hard to find and have bullet proof reliability. Same quality as a usa Fender amp, sounds good with effects. They are selling for $175 on Reverb.Youtube demonstration of the Studio Pro 60https://www.youtube.com/watch?v=Wbk3SrPGRO"
             }
         ],
         "famous": [
+            {
+                "id": "7353663385",
+                "name": "1964 Selmer Mark VI Alto Saxophone",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-1964-selmer-mark-vi-alto/7353663385.html",
+                "datetime": "2021-07-25 07:57",
+                "price": "$6,500",
+                "where": "san jose north",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_6jiz7ARQ8GDz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_kihImx6oDqfz_08a0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_7QYfxqFrfOdz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_6FTeV4cf8uiz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_7y98fEATbuFz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_dinEUiyLySVz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/01616_6acN97j2FRZz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_c1klptbf7Qpz_0ew0ew_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Do not pass on this instrument, if you are looking at this, then you know the reputation of the Mark VI, and this one is a good example. This would also be a great investment unlike a new sax that would depreciate in value.This sax plays nice and has that tone the Mark VI is famous for. Original finish but does show slight wear, but very nice for it\u2019s age. No dents & the serial numbers do match, and the original case is in very good condition. Please email with any questions."
+            },
             {
                 "id": "7355995965",
                 "name": "Lots of Piano Sheet Music",
@@ -969,28 +1006,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Hello Drummers, I am clearing out some gear I no longer use. Please look at the list below and the photos and let me know if you are interested in any of the pieces. ALL ITEMS LISTED ARE STILL AVAILABLE! Once sold I will remove from the listing.CYMBALS:1. Zildjian 15 A New Beat Hi Hats - $275Good condition (original owner), no key-holing or cracks, minor logo fadingHARDWARE:2. WFL Speed King 1950's bass drum pedal - $50All original, working condition - Same pedal made famous by John Bonham!3. Ludwig Speed King 1960's bass drum pedal - $50All original working condition - Great, smooth playing vintage pedal.4. Pearl Gyro-Lock Double Braced Snare Stand - $100Great, super adjustable, sturdy stand. Some pitting, could look new with a polish. 5. Gibraltar Strap Drive Bass Drum Pedal w/ case $50Good overall condition, locking nut is stripped and needs new nut ($5 part)6. DW 5000 Accelerator Pedal - $150Original owner, great industry standard pedal in good working condition. Comes with original beater, and newly replaced springOpen to reasonable offers."
-            },
-            {
-                "id": "7345756673",
-                "name": "Yamaha PM1000 Discrete 16 channel mixer frame, 6 channels + new parts",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/sebastopol-yamaha-pm1000-discrete-16/7345756673.html",
-                "datetime": "2021-07-24 13:21",
-                "price": "$690",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_kXvEC82YbPmz_1320MM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00R0R_kXvEC82YbPmz_1320MM_600x450.jpg",
-                    "https://images.craigslist.org/00R0R_kXvEC82YbPmz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_OpFqtWqvciz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00707_8GIYdy8Uo6Xz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_5yIA3vixFMtz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_d0PII7NP2skz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_eddsUP2OXqsz_1320MM_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Fully discrete these are famous for their thick and rich tone... great as mic preamps or as a summing unit or as an analog mixer. You just can't get a transformer loaded discrete channel with preamp, line amp, sends and EQ for anywhere near this price.Comes with enough new parts to recap a few channels and you can add more channel strips later if you need more.... they come up on ebay every few weeks or so.The 6 individual strips alone often sell for about 125-150 each plus tax and shipping.  The GA80080 Tamura Output Transformers sell for about 60-65 each."
             }
         ]
     }

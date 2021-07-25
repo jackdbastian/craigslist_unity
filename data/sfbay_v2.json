@@ -114,6 +114,24 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7355940089",
+                "name": "Vintage Faux Fur unique coat / Burning Man",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-faux-fur-unique/7355940089.html",
+                "datetime": "2021-07-24 21:50",
+                "price": "$85",
+                "where": "north beach / telegraph hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01111_1cGwuPvz6oy_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01111_1cGwuPvz6oy_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01111_1cGwuPvz6oy_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_8cOYKfPEBl8_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Faux Fur one of a kind stunning coat. Can be worn by woman or man.Fake fur and beautiful pattern.Had this forever and am passing the diva on.$85"
+            },
+            {
                 "id": "7342727003",
                 "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7342727003.html",
@@ -153,35 +171,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "New condition! Local pick up and cash only!Very good quality!Size: 35cm x 37.5cm"
-            },
-            {
-                "id": "7353599899",
-                "name": "Women's Vintage Floral Lace V Neck Cocktail Party Swing Dress, Dark Green",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-vintage-floral-lace/7353599899.html",
-                "datetime": "2021-07-24 21:18",
-                "price": "$10",
-                "where": "San Mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_cGneaiK47zlz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_4GBXwHR88vcz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_6MFLVmO0joOz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_ckaNZTcaOy2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_agooVXGcXy8z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_luIYivxEwB4z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_7YMqtvHe61Sz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_5lloJaZxYwXz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_hSaZKnXg4Jpz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_eYRac5tvB5ez_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_1a7d951byJqz_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_kbI2z5H9peyz_0CI0CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "I am selling a brand new Women's Vintage Floral Lace V Neck Cocktail Party Swing Dress in Dark Green100% silk and lace!Very good/comfortable quality! I have bulk qty as below:Size S, 11 pcsSize M, 30 pcsSize L, 13 pcsSize XL, 12 pcs Retails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
             }
         ],
         "beaded": [
@@ -758,7 +747,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/ctd/d/sacramento-2007-ford-mustang-deluxe-2dr/7355436936.html",
                 "datetime": "2021-07-23 18:09",
                 "price": "$7,990",
-                "where": "$990 Down Most Cars",
+                "where": "$990 Down Most Cars city of san francisco ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00909_60ZMaUmYUbMz_0jm0a1_600x450.jpg",
                 "all_images": [

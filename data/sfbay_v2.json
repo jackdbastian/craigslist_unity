@@ -125,77 +125,83 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7356084028",
-                "name": "\u201cGivenchy \u201cVintage active sport jacket, size L",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-givenchy-vintage-active/7356084028.html",
-                "datetime": "2021-07-25 09:50",
-                "price": "$35",
+                "id": "7356092505",
+                "name": "Sun hat, \u201cLucy\u201d vintage",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-sun-hat-lucy-vintage/7356092505.html",
+                "datetime": "2021-07-25 10:07",
+                "price": "$30",
                 "where": "walnut creek",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_6shkiJDccdBz_0lG0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00v0v_huRVeeMazG4z_0CI0sV_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00n0n_6shkiJDccdBz_0lG0t2_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_6shkiJDccdBz_0lG0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_2ptx3oXSkOMz_0lG0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_gL1KBffwDZ6z_0lG0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00v0v_huRVeeMazG4z_0CI0sV_600x450.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Black with green and cream details vintage sport jacket, gently worn, clean"
+                "description": "White with black Details by \u201cLucy\u201d CBS inc, 1991 sun hat. \u201cNew like \u201c condition"
             },
             {
-                "id": "7343026191",
-                "name": "Vintage Nike Air Max SB Collection",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-vintage-nike-air-max-sb/7343026191.html",
-                "datetime": "2021-07-25 09:20",
-                "price": "$0",
-                "where": "fremont / union city / newark",
+                "id": "7344636531",
+                "name": "Vintage style suede boots Euro 38",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/morgan-hill-vintage-style-suede-boots/7344636531.html",
+                "datetime": "2021-07-25 10:04",
+                "price": "$40",
+                "where": "morgan hill",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00s0s_nt9XqpncXMz_0CI0lM_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00G0G_pZKtN0mOBzz_0lM0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00s0s_nt9XqpncXMz_0CI0lM_600x450.jpg",
-                    "https://images.craigslist.org/00s0s_nt9XqpncXMz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_j8PhqpgtYhRz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_ar3LD2xKrOQz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_9qN3G8QcDjIz_0dm0a2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_xBHbLco5tVz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00101_l8TFGmt45k6z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00404_97C4jgpOTW5z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_12gOZLd3xIGz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01717_8Cojd9ocOZVz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_goQITl413nPz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_1EwDYV32Snwz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_dcxvfs6eGigz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_hzCMGCY2aDFz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01414_bXeHxTyUsMoz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01616_7RLWgcpMEF0z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_hgFbXXf4Bd3z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_efGjEEZFmBAz_0CI0lM_50x50c.jpg"
+                    "https://images.craigslist.org/00G0G_pZKtN0mOBzz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00G0G_pZKtN0mOBzz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_7VoWPzoUAQLz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01313_7squ5h6FaIEz_0lM0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Selling my Air Max/SB collection. Have more dunks I\u2019m selling here-https://sfbay.craigslist.org/eby/clo/d/fremont-nike-dunk-collection/ .html?lang=en&cc=gbSome shoes are located in Fremont and some in Union city. -Meet up will only be done in the city next to the shoe.-Meet ups are my time and place.-Everything is 100% Authentic. -Everything is available unless stated \u2018sold\u2019.-Please only contact me if you\u2019re ready to meet.-Please put in you reply what you want to buy and when you can meet.Only trades:Nike Kobe 4 Protro Del Sol size 8.5Nike Kobe 4 Undefeated Black size 8.5Nike Kobe 5 Zebra size 9 Air Jordan HGG 13 size 8Air Max 1 Green Curry size 8.51. 2006 VNDS Nike Air Max 1 Truques Pack size 9 (Fremont) $250 OBO2. 2004 VNDS Nike Air Max 1 Ones size 9 (Fremont) SOLD3. 2009 VNDS Nike Air Max 1 Premium SP Safari Size 9 (UC) SOLD 4. 2007 VNDS Nike Air Max Skulls Pack size 9 (UC) SOLD5. DS 2003 Nike Women\u2019s Dunk Low ProSize 10 (UC) $8506. DS 2003 Nike Dunk Low Team Red Size 9 (UC) $575 OBO7. DS 2004 Nike Dunk \u201cLA\u201d Size 9 ( UC) $900 OBO  8. DS 2004 Nike Kickshawaii x Dunk Low Aloha Size 9 $975 OBO9. DS Nike Dunk Low Pro SB Tiffany size 9 (UC) H/O:$250010. DS 2008 Nike Dunk Low SB Newcastle Size 9 (UC) H/O:$95011. DS 2006 Nike Dunk Premium Sertig Pack size 9 (UC) $500 OBO12. DS 2006 Nike Dunk LowSize 9 (UC) $375 OBO13. DS Nike High Premium Samurai Pack Size 9 (UC)14. DS Nike Dunk High Light BoneSize 9 (UC) $350 OBO15. DS 2007 Nike SB Blazer Milk CrateSize 9 (UC) H/O: $160016. DS 2007 Nike SB Blazer Vanilla IceSize 9 (UC) $475 OBO17. DS 2007 Nike SB Blazer Thrasher Size 9 (UC) $550 OBO"
+                "description": "Vintage style boots Euro 38 size"
             },
             {
-                "id": "7351091107",
-                "name": "Vintage 1950's Kitchen Apron",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-1950s-kitchen-apron/7351091107.html",
-                "datetime": "2021-07-25 09:05",
-                "price": "$5",
-                "where": "santa rosa",
+                "id": "7356087705",
+                "name": "2 vintage watches in perfect shape:  analogue and digital",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-watches-in/7356087705.html",
+                "datetime": "2021-07-25 09:57",
+                "price": "$12",
+                "where": "nob hill",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00e0e_gLPXjJlyFNfz_0ak099_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_aZA7ev6W8giz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00e0e_gLPXjJlyFNfz_0ak099_600x450.jpg",
+                    "https://images.craigslist.org/00e0e_gLPXjJlyFNfz_0ak099_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_7VT7Nca459Hz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_9COnAel5drbz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_2bKmqRBYR7jz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_caJ7ZrS0StGz_07K0ak_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This is a original apron from the 1950's.. This is from my Italian grandma stored in a box in my moms closet for years. I have about 5 different ones.. This one in the photo is $5.00 and is in great condition! Call   Thanks"
+                "description": "1. timex stainless steelworn oncegot in the 1990's need a batteryin perfect shape$122. futuristic digital watchalso only worn a few times in the 1990's$12both need batteriesunisexstatement pieces at this point ;)$12 each or both for $22for more, check the more ads by this user link"
             }
         ],
         "beaded": [
+            {
+                "id": "7348425330",
+                "name": "Black beaded evening purse",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/morgan-hill-black-beaded-evening-purse/7348425330.html",
+                "datetime": "2021-07-25 10:05",
+                "price": "$40",
+                "where": "morgan hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00o0o_i9lyatAjYbtz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00o0o_i9lyatAjYbtz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_i9lyatAjYbtz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01313_ezL0LjvvUC3z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_i9lyatAjYbtz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_4yXlLmcreEmz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "Black beaded evening purse can be worn as a clutch or over the shoulder"
+            },
             {
                 "id": "7356008238",
                 "name": "antique beaded purse",
@@ -233,33 +239,29 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "7 1/2 across x 5 tall Beaded Zippered Bag by Frankie and Johnnie."
-            },
-            {
-                "id": "7355680160",
-                "name": "Flower Beaded Shoes - Donald J Pliner - Women size 7.5 B",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/cupertino-flower-beaded-shoes-donald/7355680160.html",
-                "datetime": "2021-07-24 10:20",
-                "price": "$50",
-                "where": "cupertino",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_j1FJM0ngbAwz_0CI0lM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00U0U_j1FJM0ngbAwz_0CI0lM_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_j1FJM0ngbAwz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00606_9IOitQnO5cZz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_d9cYqyZMu5Hz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_c11i3AShRvSz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01111_lxMOC8GtyV0z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00707_jMaOJ9pvzegz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_8fHAY6gIVa6z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_56xVVZ1mp6zz_0CI0lM_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Embroidery and beads and stitching, oh my! Intricate design and great color combination for these beaded slip-on casual shoes make them a comfortable fashion statement to show off with jeans or slacks or anything. Donald J Pliner David & Lisa signature loafers, leather inside and out. Excellent condition. Made in Italy."
             }
         ],
         "gloves": [
+            {
+                "id": "7346084997",
+                "name": "Head Junior Ski Gloves Size Large *** BRAND NEW ***",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/head-junior-ski-gloves-size-large-brand/7346084997.html",
+                "datetime": "2021-07-25 10:02",
+                "price": "$20",
+                "where": "Sunnyvale/Palo Alto south bay area ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00h0h_79qkZtMgUIb_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00h0h_79qkZtMgUIb_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_79qkZtMgUIb_50x50c.jpg",
+                    "https://images.craigslist.org/00505_9q65jmpr9Zh_50x50c.jpg",
+                    "https://images.craigslist.org/00101_fDtlhmML1V8_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_afCUM2QTGR3_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Head Jr Outlast Waterproof Ski Gloves With Heat Pack Pocket For YouthSize:  Large JuniorItem #777658"
+            },
             {
                 "id": "7355100192",
                 "name": "Turn signal cycling gloves",
@@ -298,22 +300,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Comfort gloves and slippers from popular therapy products brand.Asking $9 total for both glove and slipper pairs.For pickup only--contactless exchange available. Please text or call, DO NOT EMAIL! Thank you :)"
-            },
-            {
-                "id": "7355849648",
-                "name": "Leather gloves lined with cashmere",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/stanford-leather-gloves-lined-with/7355849648.html",
-                "datetime": "2021-07-24 15:53",
-                "price": "$25",
-                "where": "palo alto",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_kglnOCgB6byz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00p0p_kglnOCgB6byz_0t20CI_600x450.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Leather gloves lined with cashmereFrom FranceI am the original owner.These are for small handsCash only"
             }
         ],
         "wedding dress": [

@@ -233,7 +233,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-antique-beaded-purse/7356008238.html",
                 "datetime": "2021-07-25 07:02",
                 "price": "$65",
-                "where": "San Francisco city of san francisco ",
+                "where": "San Francisco",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00P0P_lTZeYoiGuFCz_0cK0pO_600x450.jpg",
                 "all_images": [
@@ -292,6 +292,27 @@
         ],
         "gloves": [
             {
+                "id": "7355100192",
+                "name": "Turn signal cycling gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-turn-signal-cycling-gloves/7355100192.html",
+                "datetime": "2021-07-25 08:44",
+                "price": "$35",
+                "where": "berkeley north / hills",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00D0D_7rzVnFzUqFpz_0oc0oc_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00D0D_7rzVnFzUqFpz_0oc0oc_600x450.jpg",
+                    "https://images.craigslist.org/00D0D_7rzVnFzUqFpz_0oc0oc_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_cNiodkUtOCxz_0oc0oc_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_j9yal3NsMi0z_0oc0oc_50x50c.jpg",
+                    "https://images.craigslist.org/00606_eMav84Sw5rz_0oc0oc_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_6LRA2Aml1DKz_0oc0oc_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "-Zackees cycling gloves with LED turn signal lights activated by thumb/forefinger contact-Reinforced leather-padded palm-Accompanying USB cord for charging lights-Unisex size large"
+            },
+            {
                 "id": "7355951108",
                 "name": "NatraCure Therapy Gloves and Slippers",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-natracure-therapy-gloves-and/7355951108.html",
@@ -324,27 +345,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Leather gloves lined with cashmereFrom FranceI am the original owner.These are for small handsCash only"
-            },
-            {
-                "id": "7349228883",
-                "name": "Youth Goalie Pants and Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-youth-goalie-pants-and-gloves/7349228883.html",
-                "datetime": "2021-07-24 14:36",
-                "price": "$20",
-                "where": "San Ramon",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_dmOrY48BM25z_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_ZWMPaNMDYbz_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_dXBI0iFkE4az_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_f8ZSrpnSwmHz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_lLS2Q5zuAFEz_0t20CI_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "\ufffcReusch pants - YLVizari Gloves - Youth$20 for bothYouth large goalie pants and gloves, used only 1 season indoors before the pandemic. Our son has grown out of the clothing and is good quality, while only used for indoor soccer."
             }
         ],
         "wedding dress": [
@@ -441,7 +441,7 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-oakley-backpack-computer-bag/7355849384.html",
                 "datetime": "2021-07-24 15:52",
                 "price": "$10",
-                "where": " south bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00G0G_4Peugspu1S0_1320MM_600x450.jpg",
                 "all_images": [
@@ -903,23 +903,20 @@
                 "description": "Tested and working perfectly. Missing one plastic knob, but the pot works just fine. Cleaned all the pots and jacks, nothing is scratchy. 15\u201d Speaker is in great shape. It even smells pretty nice, which is surprising for vintage music gear. This is stupidly loud. I can\u2019t go past 3 without shaking stuff off my walls and pissing off the neighbors. It would be a perfect small gig combo amp, or to drown out your overzealous drummer. Happy to deliver or even bring it over so you can give it a spin because my neighbors are already sick of it.$200 OBO"
             },
             {
-                "id": "7351799625",
-                "name": "vintage Peavey Studio Pro 60 made in USA w 12\" speaker",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/dublin-vintage-peavey-studio-pro-60/7351799625.html",
-                "datetime": "2021-07-25 08:21",
-                "price": "$125",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7349171792",
+                "name": "YAMAHA GA10, GA-10 Guitar & Keyboard Amplifier",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/martinez-yamaha-ga10-ga-10-guitar/7349171792.html",
+                "datetime": "2021-07-25 08:48",
+                "price": "$40",
+                "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00808_3eQwUpJmhyZz_0iI0hn_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_8uxX7juohG5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_MGLyWh7Lbjz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00808_3eQwUpJmhyZz_0iI0hn_600x450.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "olid state vintage 80s Peavey Studio Pro amplifier. Made in USA. Fully functional and loud, with a 12 speaker.PEAVEY STUDIO PRO 60 Amp made in U.S.A in Meridian, Miss. High quality American parts and Transformer, works great. the amp is portable, weighs about 25 lbs. Amp is 50 Watts and has a warm tube like tone these are known for (amp is solid state) . These are getting hard to find and have bullet proof reliability. Same quality as a usa Fender amp, sounds good with effects. They are selling for $175 on Reverb.Youtube demonstration of the Studio Pro 60https://www.youtube.com/watch?v=Wbk3SrPGRO"
+                "description": "GA10 Yamaha Guitar Practice Amp with 2-band tone controls (treble and bass) AND boost switch for true overdrive/distortion Model GA-10 Can be used for Guitar, Keyboard or Bass but it is specifically designed for guitar. This 10w amp sounds amazing. from a Sweet Clean tone to Dirty Funky Blues to Metal Shredding Madness Headphone jack for discrete jamming. Unbeatable Yamaha quality - features - watts - tone - this amp has it all - Portable AND Loud!!!!"
             }
         ],
         "famous": [

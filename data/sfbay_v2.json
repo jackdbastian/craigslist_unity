@@ -54,6 +54,31 @@
         ],
         "wood": [
             {
+                "id": "7356111778",
+                "name": "Bubinga Wood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/martinez-bubinga-wood/7356111778.html",
+                "datetime": "2021-07-25 10:45",
+                "price": "$125",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00p0p_jhGg0Dz70R7z_0d40hq_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00p0p_jhGg0Dz70R7z_0d40hq_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_jhGg0Dz70R7z_0d40hq_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_lTwdf494Gi0z_0d40hq_50x50c.jpg",
+                    "https://images.craigslist.org/00909_b2WK15Nfd37z_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_15vw0TXY66Oz_0hq0ne_50x50c.jpg",
+                    "https://images.craigslist.org/01010_b0o0BaF4yBSz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_7VvgO0TqxMVz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/01717_aibuUEJB9Xlz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_eaVQGrZ3wTSz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_jtzGPZCgQVDz_0d40hq_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Leftover wood from projects.Great for small project or to add to your collection of material.Some sizes in pictures.This is a great price check Ebay or Rocklers"
+            },
+            {
                 "id": "7342852077",
                 "name": "Wood Veneer Strips",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/los-altos-wood-veneer-strips/7342852077.html",
@@ -101,24 +126,6 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Five brand new cartons still sealed in boxes leftover from the projectBrand: Style Selections;Construction:  Engineered locking bamboo;Color/finish:  Ivory White (similar to light Oak color, due to camera and room lights, product\u2019s actual color is slightly different);Total square feet = 102 (from five cartons);16 pieces/carton = 20.49 square feet/carton;Each piece = 36\u201dL x 5-1/8\u201d (5.12\u201d)W x 3/8\u201d (.39\u201d)Thickness;With 30 years warranty from manufacturer.$178 for all five cartons = $35.6/carton.This item was a special order, not sure if it's available in the retail stores.This is a great deal nearly 50% off comparing to the retail store prices as shown in the pictures.Will meet locally at a safe public location for pickup only with cash transaction."
-            },
-            {
-                "id": "7356016285",
-                "name": "Garage door section, wood, 92 x 11.5 inch",
-                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-garage-door-section-wood/7356016285.html",
-                "datetime": "2021-07-25 07:23",
-                "price": "$25",
-                "where": "castro / upper market",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00r0r_eUxUlHICldG_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00r0r_eUxUlHICldG_600x450.jpg",
-                    "https://images.craigslist.org/00r0r_eUxUlHICldG_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_4iQJgAbPqVQ_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "This is a never used custom made white painted wooden garage door section. Standard design with moldings around plywood panel edges.THIS IS ONLY ONE SECTION.The opener and hinge mounting pads can be unscrewed.If add is up it is available."
             }
         ]
     },
@@ -248,7 +255,7 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/head-junior-ski-gloves-size-large-brand/7346084997.html",
                 "datetime": "2021-07-25 10:02",
                 "price": "$20",
-                "where": "Sunnyvale/Palo Alto south bay area ",
+                "where": "Sunnyvale/Palo Alto",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00h0h_79qkZtMgUIb_600x450.jpg",
                 "all_images": [
@@ -304,12 +311,32 @@
         ],
         "wedding dress": [
             {
+                "id": "7356116639",
+                "name": "Reduced! Mori Lee Wedding dress",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-reduced-mori-lee-wedding/7356116639.html",
+                "datetime": "2021-07-25 10:54",
+                "price": "$350",
+                "where": " city of san francisco ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00202_fXs3sFXjT3Y_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00202_fXs3sFXjT3Y_600x450.jpg",
+                    "https://images.craigslist.org/00202_fXs3sFXjT3Y_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_9oRp9hskg68_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_49iCaQF5rpg_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_koLqvsiTvIC_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Price reduced! I have a new, with Tags, Mori lee Lucille wedding dress for sale. Size 6, unaltered. Was $858This Strapless Organza Ball Gown with Satin Neckline Cuff and Waistline Bow Detail, Creates a Timeless Look. Brand new, never worn with tags. Purchased in sample sale. Belt has been removed but is included and easily reattached. The train is absolutely stunning and it has pockets!"
+            },
+            {
                 "id": "7356082376",
                 "name": "NEVER WARN ALLURE ROMANCE WEDDING DRESS",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/penngrove-never-warn-allure-romance/7356082376.html",
                 "datetime": "2021-07-25 09:46",
                 "price": "$650",
-                "where": "Penngrove",
+                "where": "Penngrove north bay / marin ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00P0P_9mhy4Dgj1yEz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -360,32 +387,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Oscar de la Renta Hazel Wedding Dress, purchased in 2019.Size: Label size 8, but was altered to a size 2 (I'm a size 34B bust). No material was removed or cut from the dress, the corset and bottom length can be opened up to accommodate up to its original size 8 or any size in between. The length is floor length for someone who is ~5' 9 - 5' 10 with no heels (I am 5' 2 and wore 6 heels and it was still a bit long) so could work for a variety of heights as-is depending on your heel height.Retail price: $16,000, still have the original tagSell price: $1500, cash, Venmo, PayPal, or Zelle onlySilhouette: A-lineNeckline: Strapless (Straight Across)Waistline: Natural WaistSleeve Style: StraplessBack Style: Mid BackDress Length: Floor LengthThe dress is an ivory color, with three-dimensional flowers and intricate beaded vines. There is a built-in corset and the dress is extremely flattering thanks to the corset plus the high quality fabric. This dress has been worn once for a wedding and has been cleaned, there are minor dirt marks at the bottom but these are only noticeable upon close inspection and this part can be cut off if hemming the dress shorter (dress is at almost original length which is very long). Dress has a bustle added already.Serious buyers only, if this listing is still up, the dress is still available.Search \u201cpavirtualgaragesale\u201d for more items."
-            },
-            {
-                "id": "7356013778",
-                "name": "Vintage 1969 Venetian Lace Wedding Dress, size 2",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/el-cerrito-vintage-1969-venetian-lace/7356013778.html",
-                "datetime": "2021-07-25 07:16",
-                "price": "$55",
-                "where": "albany / el cerrito",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_l5gSaMtkrkfz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Y0Y_l5gSaMtkrkfz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00Y0Y_l5gSaMtkrkfz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_kp40yiROlwRz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_hFshH92wgDzz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_2ColysZ6Ixlz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_8ZUxKFFJvRJz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_c1q88IWtVawz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_jQuX81j0aISz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_8IxPvXOD4D2z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_3qA2yfUETfXz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_9odFrwlCkqQz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "BACKSTORY:  This is the dress my mother wore at my parents' wedding in 1969. They've been married for 52 years now, so this dress is imbued happy marriage vibes. We are hoping it goes to someone who will be excited to wear it in their own wedding.DRESS DETAILS:- This dress is in perfect condition. - White skirt and bodice with ivory venetian lace along the edges. - Purchased at Saks Fifth Avenue in Boston. - Size 2, but can be altered. - Veil included, as well as the original box the dress was delivered in.MODEL DETAILS:- Height: 5\u20192- Weight: 112 lbs- Bra: B cup- General size: S, 25/26 jeans"
             }
         ],
         "great condition": [
@@ -518,7 +519,7 @@
                 "url": "https://sfbay.craigslist.org/sby/cto/d/san-jose-1991-buick-regal-drives-great/7356086137.html",
                 "datetime": "2021-07-25 09:50",
                 "price": "$700",
-                "where": "San Jose Ca",
+                "where": "San Jose Ca south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00303_gePUekeIBXSz_0yl0pK_600x450.jpg",
                 "all_images": [

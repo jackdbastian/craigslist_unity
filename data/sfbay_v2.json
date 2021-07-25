@@ -114,6 +114,28 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7345082989",
+                "name": "Buffalo Dancer Vintage Sterling Silver Heart Concho Belt",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-buffalo-dancer-vintage/7345082989.html",
+                "datetime": "2021-07-24 22:17",
+                "price": "$700",
+                "where": "San Francisco",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00u0u_lMQwpMAk1Igz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00u0u_lMQwpMAk1Igz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_lMQwpMAk1Igz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_lS7nUumH1OAz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_gnAV6QKVEHHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_lCnmdGqBzcKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_4KTlfI1rEvmz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_lWgLsD8u1RZz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Purchased this in Santa Fe, NM two years ago for $1,200 for a wedding I attended with my husband. I hardly have a chance to wear it now, so want it to go to someone who will love it/wear it more!I had additional holes professionally placed to be worn higher. The hearts are all Sterling with red shell or stone - they all can be moved to the side because of the brass loops on the back. 1 Large center heart buckle and 15 heart concho around the belt. Total weight is 232g. Measurement:From Buckle Hook to first hole: 35.5 inchesBelt itself: 35 inches longFrom Buckle Hook to the last hole (for waist): 26 inches You can add more holes to fit you, too. Since the smaller hearts move, you can cover the existing ones.In excellent vintage condition! The belt itself is perfect and hasn\u2019t been worn in. If you have any questions, please ask! Thank you!"
+            },
+            {
                 "id": "7355940089",
                 "name": "Vintage Faux Fur unique coat / Burning Man",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-faux-fur-unique/7355940089.html",
@@ -149,28 +171,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "vintage Golden State Warriors Jersey DubbsSize LargeIf you do not receive an email reply, check your Spam folder"
-            },
-            {
-                "id": "7354965653",
-                "name": "Designer Vintage Check Cotton Tote Bag With Genuine Leather Straps",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-designer-vintage-check-cotton/7354965653.html",
-                "datetime": "2021-07-24 21:22",
-                "price": "$20",
-                "where": "San Mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_5EW8Lrdli1Lz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_aL8VuXGET5Bz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_dJOFxZRzcJEz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_hkGpi2K2Fmiz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_eQN3lnxydxfz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "New condition! Local pick up and cash only!Very good quality!Size: 35cm x 37.5cm"
             }
         ],
         "beaded": [
@@ -421,7 +421,7 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-oakley-backpack-computer-bag/7355849384.html",
                 "datetime": "2021-07-24 15:52",
                 "price": "$10",
-                "where": null,
+                "where": " south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00G0G_4Peugspu1S0_1320MM_600x450.jpg",
                 "all_images": [
@@ -747,7 +747,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/ctd/d/sacramento-2007-ford-mustang-deluxe-2dr/7355436936.html",
                 "datetime": "2021-07-23 18:09",
                 "price": "$7,990",
-                "where": "$990 Down Most Cars city of san francisco ",
+                "where": "$990 Down Most Cars",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00909_60ZMaUmYUbMz_0jm0a1_600x450.jpg",
                 "all_images": [

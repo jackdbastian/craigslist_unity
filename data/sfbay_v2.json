@@ -114,6 +114,47 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7355877757",
+                "name": "Vintage Zodiac Boots",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/brentwood-vintage-zodiac-boots/7355877757.html",
+                "datetime": "2021-07-24 17:11",
+                "price": "$15",
+                "where": "brentwood / oakley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00K0K_9iawLPC4EETz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00K0K_9iawLPC4EETz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00K0K_9iawLPC4EETz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01414_he5Mw5htwcNz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_45OrlKXhFMqz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_dl0fg57rq7mz_0t20xB_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage - late 70's/early 80's?Zodiac Suede Cowboy Boots. Women's size 6.5 In  (damaged) original box and plastic wrap!"
+            },
+            {
+                "id": "7345496053",
+                "name": "Vintage Stetson Hat",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-stetson-hat/7345496053.html",
+                "datetime": "2021-07-24 17:00",
+                "price": "$45",
+                "where": "San Francisco city of san francisco ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_56OwUdKn93U_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_c6IzVghpohg_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_eQhnkN0VnZd_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_gaIi6OGZX5t_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Size is 6 and 3/4s.  Straw hat"
+            },
+            {
                 "id": "7349721383",
                 "name": "SANUK CASA BARCO Vintage BOAT CANVAS SHOES MEN'S SIZE 8.5  New in Box",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-sanuk-casa-barco-vintage/7349721383.html",
@@ -128,51 +169,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "SANUK CASA BARCO Vintage BOAT CANVAS SHOES MEN'S SIZE 8.5 slip on lace up NATURALNew in Box with tags"
-            },
-            {
-                "id": "7343557045",
-                "name": "Vintage Sopheea tote bag",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-sopheea-tote-bag/7343557045.html",
-                "datetime": "2021-07-24 16:22",
-                "price": "$1",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_bsYt2j2ELOWz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_apgAPIXTI9Nz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_hvgFOZ4giD3z_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_jFvcVnNZJvjz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_chpDoSJz5v1z_0gl0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Hello A very beautiful Sopheea classic, genuine leather tote bag. On line there asking a stupid price I won't even tell you Please make me a reasonable offer Thank you"
-            },
-            {
-                "id": "7343557158",
-                "name": "Vintage NY coach Tote bag",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-ny-coach-tote-bag/7343557158.html",
-                "datetime": "2021-07-24 16:22",
-                "price": "$1",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_600x450.jpg",
-                    "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_eCvSSwRwE4rz_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_64OfLarC68Ez_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_cXol6NPu4idz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_k4oIF230ke1z_0gl0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_fPrzXUUwhvRz_0gl0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage New York Coach Tote bag, very beautiful LN8-8214 . In wonderful condition normally going for $499 I'm asking for a reasonable offer Thank you"
             }
         ],
         "beaded": [

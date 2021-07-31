@@ -23,7 +23,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
                 "datetime": "2021-07-27 11:33",
                 "price": "$44",
-                "where": " peninsula ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -39,7 +39,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-07-27 11:22",
                 "price": "$44",
-                "where": " south bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -51,6 +51,24 @@
             }
         ],
         "wood": [
+            {
+                "id": "7353775693",
+                "name": "Solid wood front entry entrance DOOR (Exterior)",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-solid-wood-front-entry/7353775693.html",
+                "datetime": "2021-07-31 09:07",
+                "price": "$150",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01717_gKEZPajqlzMz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01717_gKEZPajqlzMz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/01717_gKEZPajqlzMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_9g52MsmaMy3z_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Excellent condition, no damage. Has a peephole. We replaced it because we wanted one with a glass panel.36 inches x 79 3/4 inches.  The red color faces outside, and the white inside.  Standing on the left hand side is the dismantled original door frame, which you can take free Pickup near Vista Park and Branham 95136. No flakes. Venmo, zelle, apple pay, or cash accepted. Can deliver for a fee."
+            },
             {
                 "id": "7348416706",
                 "name": "Wood Post Spindles",
@@ -85,30 +103,61 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Include your number. I\u2019ll text or callONLY             $207 Knape & Vogt John Sterling Dual Trak Adjustable Wood Shelf Brackets / Warm"
-            },
-            {
-                "id": "7349659518",
-                "name": "48\" Bathroom vanity (solid wood)",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-48-bathroom-vanity-solid-wood/7349659518.html",
-                "datetime": "2021-07-31 07:27",
-                "price": "$140",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_600x450.jpg",
-                    "https://images.craigslist.org/00k0k_hYYxrZSXCbMz_0ak08d_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_13vb72Qtz63z_09s05n_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_2lgybDKt7gT_0ak07K_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "The vanity made by solid wood, it is very good quality and condition. When it is new, it costed over $1000."
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7356926683",
+                "name": "Vintage 60\u2019s Clothing",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-vintage-60s-clothing/7356926683.html",
+                "datetime": "2021-07-31 09:11",
+                "price": "$40",
+                "where": "half moon bay",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_itNQmuSjO3Pz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01313_dopaBjrbTU6z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01616_64AgPWnmMwKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_7K6Oky2vzSnz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_lkXQGu2Q4Jz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00606_lxp9nxcgpHtz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_hVgRBkOD6Mgz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_giS6xVQjCT6z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_isdjhcdSKNWz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_lpGbztOjL3Qz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_7KM144xAwuiz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage 60\u2019s - 80\u2019s Clothing $10-$40"
+            },
+            {
+                "id": "7358936074",
+                "name": "Eddie Bauer Vintage Canvas Messenger Bag",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/concord-eddie-bauer-vintage-canvas/7358936074.html",
+                "datetime": "2021-07-31 09:07",
+                "price": "$25",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00O0O_apb4Y1uVQRVz_0hq0i6_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00O0O_apb4Y1uVQRVz_0hq0i6_600x450.jpg",
+                    "https://images.craigslist.org/00O0O_apb4Y1uVQRVz_0hq0i6_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_7pm6qVuR3opz_0hq0h8_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_6b5Vu21Ixwjz_0hq0fQ_50x50c.jpg",
+                    "https://images.craigslist.org/01111_7yVi3lsTNGiz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00303_3ODhdCTQiR2z_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_3o70p9czriBz_0sE0hq_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Excellent condition. No tears. All zippers and buckles work perfectly.A couple of small ink and coffee stains on the back (see pictures)Asking: $25Text:"
+            },
             {
                 "id": "7351091107",
                 "name": "Vintage 1950's Kitchen Apron",
@@ -126,46 +175,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "This is a original apron from the 1950's.. This is from my Italian grandma stored in a box in my moms closet for years. I have about 5 different ones.. This one in the photo is $5.00 and is in great condition! Call   Thanks"
-            },
-            {
-                "id": "7354931489",
-                "name": "Vintage Women's Red Cowboy Boots",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-womens-red-cowboy/7354931489.html",
-                "datetime": "2021-07-31 08:45",
-                "price": "$20",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_1hKxOoDRRdKz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_bnV8MxaUhaMz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_iSrMn2VNkwRz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_4rbla0VWVxaz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Awesome vintage women's cowboy boots.. Summer is here. Great for country concerts, a night out on the town dancing or what ever.. 20.00   Garden yard art deco?NOTE: THEY CAN USE A GOOD CLEANING. BEEN IN A BOX IN THE BARN ATTIC.."
-            },
-            {
-                "id": "7354553137",
-                "name": "VINTAGE LOOK RED PURSE WITH RHINESTONE X BY SASHA",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/vintage-look-red-purse-with-rhinestone/7354553137.html",
-                "datetime": "2021-07-31 08:30",
-                "price": "$20",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_4joQaBsnr8Z_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00V0V_4joQaBsnr8Z_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_4joQaBsnr8Z_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_kRb3eViiiG8_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_1BknjckhMR6_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_k682oNERnm8_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "VINTAGE LOOK  BRAND NEW RED PURSE WITH RHINESTONE X ON FRONT HAS CIRCLE CARRY HANDLE & A LONG RED STRAP AND MAGNETIC SNAP CLOSURE MADE BY SASHA $20.00 FIRM"
             }
         ],
         "beaded": [
@@ -175,7 +184,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-gorgeous-beaded-la-sposa/7358830323.html",
                 "datetime": "2021-07-31 04:53",
                 "price": "$500",
-                "where": "San Francisco city of san francisco ",
+                "where": "San Francisco",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00O0O_7DCxxRB4pPSz_0cz0t2_600x450.jpg",
                 "all_images": [
@@ -568,37 +577,44 @@
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2007 Ford Edge se awd.clean title. smog check.164,xxx miles. drives great.cold a/c.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             },
             {
-                "id": "7358930073",
-                "name": "Buick LaCrosse ** Great Condition!! Excellent Color!!**",
-                "url": "https://sfbay.craigslist.org/sby/ctd/d/san-jose-buick-lacrosse-great-condition/7358930073.html",
-                "datetime": "2021-07-31 08:53",
-                "price": "$7,995",
-                "where": "San Jose",
+                "id": "7358944068",
+                "name": "2005 Honda Civic EX Special Edition Sedan 4D, Runs Great, Clean Title",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/campbell-2005-honda-civic-ex-special/7358944068.html",
+                "datetime": "2021-07-31 09:17",
+                "price": "$6,700",
+                "where": "campbell",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_gO4115Z8yOjz_0CI0mm_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00808_9Ko1Yb0yokKz_1320MM_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00q0q_gO4115Z8yOjz_0CI0mm_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_gO4115Z8yOjz_0CI0mm_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_iKL3RsrtpRLz_0CI0np_50x50c.jpg",
-                    "https://images.craigslist.org/00505_4Il35aybREtz_0CI0q4_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_bM9gOrLJCM7z_0CI0uo_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_jrHL1mGP17zz_0CI0ob_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_ev9k5FPUNgMz_0CI0mW_50x50c.jpg",
-                    "https://images.craigslist.org/01212_hvnqPU6q8Wsz_0CI0mv_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_jBPj9tdGB9Jz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_35YE5vnVkVbz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_jJEJsgEvMGJz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_iluIGDkZqTpz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_9o3LRZoqOhgz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_lcIMIZu6gkDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_bhF1pmzOO8zz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_hM0bSJqp8Laz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_gNmQtpNlBtdz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_hboGkPucdIsz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00808_9Ko1Yb0yokKz_1320MM_600x450.jpg",
+                    "https://images.craigslist.org/00808_9Ko1Yb0yokKz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00202_kK0nRo8Ol8mz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00505_b6e76kzpZKnz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_dcY6CE0tBYOz_0za0qm_50x50c.jpg",
+                    "https://images.craigslist.org/00808_cIA01Kms6k1z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_1rPzUIhaTIJz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_7q1u9CINuhPz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_lKh5EK5UsKhz_0za0qm_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_4wgM1cyFX0Tz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_eMCdmyD6PHTz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_iHQWwbGFYlxz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_eAZ3KHIDx4Az_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_khhomVhvPPKz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_9pvQ19QctEqz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_7N7QtgpNm5Oz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_7wuGF95509oz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/01414_hJWOgVmQFZWz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00707_1FuhKoyD9BAz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/01111_7ylt0eXOSeVz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_5L5nnXfpKiRz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_oKk6B3smBGz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00303_ln5j78LYpGVz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/01111_8DWtLHNr1hbz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_aGyOQlsxoUWz_1320MM_50x50c.jpg"
                 ],
                 "query": "drives great",
                 "category": "cta",
-                "description": "2011 Buick LaCrosse  * * * F I N A N C I N G  A V A I L A B L E ***Ready To Upgrade Your Ride Today? We Make It Fast & Easy!Call (or text) \u260f (4 0 8) 4 4 2 - 7 6 1 6Car Hero LLC3275 Stevens Creek Blvd. Suite 250Santa Clara, CA 95050Copy & Paste the URL belowto view more information!WWW.CARHEROLLC.COMYear : 2011Make : BuickModel : LaCrosse CXLMileage : 98,600Transmission : AutomaticExterior Color : RedInterior Color : BiegeDrivetrain : FwdCondition : GreatEngine : 3.6LCALL OR TEXT(4\ufe0f\u20e30\ufe0f\u20e38\ufe0f\u20e3) 4\ufe0f\u20e34\ufe0f\u20e32\ufe0f\u20e3-7\ufe0f\u20e36\ufe0f\u20e31\ufe0f\u20e36\ufe0f\u20e3(4 0 8) 4 4 2 - 7 6 1 6MORE VEHICLES TO CHOOSE FROM!!VISIT OUR WEBSITE TODAY!!!CARHEROLLC.COMCAR HERO LLC3275 STEVENS CREEK BLVDSANTA CLARA, CA 95050CALL OR TEXT(4\ufe0f\u20e30\ufe0f\u20e38\ufe0f\u20e3) 4\ufe0f\u20e34\ufe0f\u20e32\ufe0f\u20e3-7\ufe0f\u20e36\ufe0f\u20e31\ufe0f\u20e36\ufe0f\u20e3(4 0 8) 4 4 2 - 7 6 1 6All Scheduled Maintenance.Highway miles.Ice cold A/C.Looks & runs great.Low mileage.No accidents.Non-smoker.Perfect first car.Power everything.Runs & drives great.Very clean interior.Well maintained.Optional Equipment of this CAR  *** FINANCING AVAILABLE ***Safety\u2022 Driver Air Bag\u2022 Passenger Air Bag\u2022 Side Air Bag\u2022 Alarm\u2022 Power Door Locks\u2022 Heated Mirrors\u2022 Cell Phone Hookup\u2022 Traction Control\u2022 Fog Lamps\u2022 Vehicle Anti-Theft System\u2022 Tire Pressure Monitoring\u2022 Electronic Stability ControlComfort\u2022 Air Conditioning\u2022 Cruise Control\u2022 Power Driver Mirror\u2022 Power Steering\u2022 Tilt Wheel\u2022 Handsfree CommunicationsSound System\u2022 AM/FM Stereo\u2022 CD Player\u2022 Premium Sound\u2022 Satellite Radio\u2022 MP3 PlayerWindows\u2022 Rear Window Defroster\u2022 Power Windows\u2022 Rain Sensing WipersSeat\u2022 Child Safety Lock\u2022 Power Driver Seat\u2022 Power Passenger Seat\u2022 Bucket Seats\u2022 Seat MemoryOther Features\u2022 Auxiliary Power OutletCall (or text)  \u00ab(408) 442-7616\u00bb  for quick answers to your questions about this CAR *** FINANCING AVAILABLE ******** CAR  *****TITLE  *** FINANCING AVAILABLE ***Ready To Upgrade Your Ride Today? We Make It Fast & Easy!Call (or text) \u260f (4 0 8) 4 4 2 - 7 6 1 6Car Hero LLC3275 Stevens Creek Blvd. Suite 250Santa Clara, CA 95050Copy & Paste the URL belowto view more information!WWW.CARHEROLLC.COMKEYWORDS: KEYWORDS: Car Hero LLC car dealership used clean title vehicles bay area san jose santa clara san francisco oakland fremont hayward palo alto menlo park redwood city san mateo daly city pacifica half moon bay santa cruz foster city mountain view daly city alameda berkeley richmond san rafael novato vallejo hercules union city fremont san bruno newark dublin san leandro san ramon pleasanton sunol milpitas campbell saratoga los gatos sunnyvale livermore walnut creek concord san martinez vallejo pleasant hill pittsburg antioch benicia petaluma rohnert park santa rosa napa vacaville fairfield brentwood discovery bay tracy manteca  mountain house patterson newman los banos mendota merced turlock medesto lodi elk grove roseville gilroy san leandro gilroy watsonville castro valley  piedmont albany el cerrito richmond bay point san pablo woodland hollister sacramento stockton   auto mobile auto dealer vehicle automatic transmission manuel transmission four cylinder six cylinder eight cylinder great on gas eco friendly gas powered four door two leather sunroof heated seats back-up back up camera push-start push start pushstart like new great condition good credit bad credit no credit all credit finance low interest rates low down payment zero 0 money down 1,500 down 1,000 down instant approval 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 acura ilx mdx rdx tlx tl tsx rl rlx audi allroad tt a3 a4 a5 a6 a7 a8 s3 s4 s5 s6 s7 s8 q3 q5 q7 q8 rs3 rs4 rs5 rs6 rs7 rs8 sq3 sq5 sq7 sq8 BMW seriesi3 i4 xdrive idrive series 1series 2series 3series 4series 5series 6series 7series 8series xseries 128i 135i m1 228i 235i m2 325i 328i 330i 335i 335is 340i m3 428i 430i 435i 440i m4 528i 530i 535i 540i 545i 550i m5 630 640i 645i 650i m6 740i 745i 750i 750i 750li m7 840i 850i m8 x2 x3 x4 x5 x6 x7 x8 mx3 mx4 mx5 mx6 mx7 mx8 bmw 320i 320 325 325i 328 328i 335 335i 525i 525 528i 528 530i 530 535i 535 550 550i 740 740i 745i 745li 745 750i 750li z3 z4 buick enclave encore encore gx cadillac ct5 srx cts dts sts chevrolet chevy blazer bolt bolt ev camaro colorado corvette equinox express malibu silverado hd 2500 1500 denali spark spark ev trailblazer trax tahoe suburban traverse volt impala malibu 1500 2500 3500 chrysler 200 300 300c 300s 300 hemi srt srt8 aspen pacifica voyager premium plus town and country fully loaded Dodge challenger hellcat demon charger durango caravan fiat 500 ford bronco sport supersport ecosport edge awd escape titanium expedition excursion explorer f-150 f-250 f-350 f150 f250 f350 150 250 350 lightning maverick mustang mach-e ranger transit genesis sport g50 g60 g70 g80 g90 gv70 gv80 equus gmc acadia canyon hummer hummer ev savanna 1500 2500 3500 1500 2500hd 3500hd terrain yukon xl honda accord civic clarity cr-v crv hr-v hrv insight odyssey passport pilot ridgeline ex lx ex-l exl sport hyundai accent elantra ioniq kona kona electric nexo palisade santa cruz santa fe sonata tucson hybrid veloster venue signature se sport 1.5 1.8 2.0 2.5 2.8 3.0 3.3 3.5 infiniti g25 g35 g37 g m25 m35 m45 q50 q60 qx50 qx55 qx60 qx80 335is nissan mitsubishi durango dodge a5 a4 a3 jaguar xf fpace f-pace e-pace f-type ftype ipace i-pace jeep cherokee grand cherokee compass gladiator grand cherokee l renegade wrangler lifted 4wd 4x4 four wheel drive kia stinger forte k5 optima rio lx ex sport niro sedona sorento soul sportage stinger telluride lexus is es gx ls lc lx nx rc rx rxl ux is250 is300 is350 isf es300 es350 gx 450 470 gx450 gx470 ls400 ls 400 ls430 ls 430 ls460 ls 460 nx200 200 250 300 350 400 430 450 460 470 lincoln aviator corsair nautilus mkz mkc navigator maserati ghibli levante quattroporte mazda 3 6 cx-3 cx-5 cx-7 cx-9 cx3 cx5 cx7 cx9 cx-30 cx30 mx-5 mx5 mx30 mercedes benz a class b class c class e class s class ml350 ml400 ml450 cla cla250 cal45 g clas gclass gla glc amg cls ml class 250 300 350 550 C230 C240 C280 C300 c350 cls550 e350 e550 s550 mini cooper mitsubishi eclipse mirage outlander outlander sport nissan altima armada frontier gtr gt-r leaf maxima murano rogue titan versa z 350z porche 718 boxster cayman 911 cayenne macan panamera taycan ram 1500 ram 2500 ram 3500 subaru ascent brz crosstrek forester impreza legacy outback wrx sti tesla model 3 model s model x model y roadster range rover land rover discovery defender evoque velar sport dynamic vogue  4runner 4 runner four runner 86 avalon chr c-hr camry corolla highlander land cruiser mirai prius prime rav4 sequoia sienna supra tacoma tundra venza se le xse ce xle limited volkswagen arteon atlas golf gti passat jetta volvo s60 v50 c40 s90 v60 v90 xc80 xc90 all terrain finance ez financing first time buyer bad credit no credit all credit carfax report free carfax report"
+                "description": "2005 Honda Civic EX Special Edition Sedan 4DFor sale is Well Maintained, great running car, has been in the family and kept up with services as needed. This is an excellent commuter with great gas mileage, and would be great fit for a student or for a long distance commute. Oil changes done every 3000 miles, used as a commuter car to work on daily basis, I just upgraded to a new 4 door car so selling this one. Smog test is done and passed with certificate in hand, title in hand and Registration is still valid. Car is is clean inside. Oil change done 2 weeks ago and good for another 3000 miles. 176,000 MileAutomatic Transmission 4-Cyl, VTEC 1.7 LiterClean titleCarfax print out available 34 MPG Average Options:+ Cold Air conditioning + 6 CD Changer with MP3 / AUX jack + Power Door locks+ Remote control with Alarm system+ Anti-theft + Cruise control  + Dual airbags + Side front and rear airbags + Power windows+ Power Steering+ Power Mirror +  Moon roof + Alloy wheels + ABS 4 wheels + Rear spoiler Feel free to contact at 4 0 8 - 2 1 4 - 1 2 1 5 to set up a time to see the car. $6,700 cash, Serious Buyers please"
             }
         ],
         "fix up": [

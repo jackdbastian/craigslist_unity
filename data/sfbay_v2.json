@@ -7,7 +7,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-02 11:04",
                 "price": "$44",
-                "where": " south bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -23,7 +23,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
                 "datetime": "2021-08-02 11:04",
                 "price": "$44",
-                "where": " peninsula ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -113,6 +113,25 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7351043913",
+                "name": "Vintage mink & fox fur stoles, shawls, & jackets for weddings, events",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/oakland-vintage-mink-fox-fur-stoles/7351043913.html",
+                "datetime": "2021-08-02 15:30",
+                "price": "$175",
+                "where": "haight ashbury",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01717_61ZMClj4mBX_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01717_61ZMClj4mBX_600x450.jpg",
+                    "https://images.craigslist.org/01717_61ZMClj4mBX_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_cbQ5dvs51GX_50x50c.jpg",
+                    "https://images.craigslist.org/01717_d5aH7VpDFP3_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "You'll find more than 100 beautiful vintage fur stoles, capes, wraps, flings, and bolero jackets at moxiefurs.com, based in San Francisco! Fabulous range of sizes, styles, and prices in fabulous condition for your wedding, Great Gatsby or speakeasy party, or just a touch of everyday luxe. We're delighted to help with custom bridesmaid orders and jackets or shawls for mother of the bride, as well!"
+            },
+            {
                 "id": "7360028918",
                 "name": "Vintage 80's Levi Denim Trucker Jacket Men's 42 No Side Hand Pockets",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-80s-levi-denim/7360028918.html",
@@ -158,29 +177,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Here is a gently worn, vintage 1970s beige trenchcoat by Braefair, featuring warm inner lining on zipper for easy attachment and removal, double-breasted closure with 4 large buttons, hook-and-eye collar closure, belted cuffs and a storm shield. In very good to excellent condition - no visible damage anywhere.50 inches long. Made in Korea from cotton, polyester, acrylic, wool, nylon.$140. Cash only. Buyer picks up.Joseph JoS A Bank Banana Republic Michael Kors Patagonia Eddie Bauer London Fog Canada Goose Calceus EricDress Eric Dress Hayes West Louis Kuhl Carhartt Duluth LL Bean Wantdo"
-            },
-            {
-                "id": "7360016337",
-                "name": "Vintage Henschel XL Black Leather Cowboy Hat Fedora EUC",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-henschel-xl-black/7360016337.html",
-                "datetime": "2021-08-02 14:50",
-                "price": "$45",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_gHK56ux9LFXz_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00n0n_gHK56ux9LFXz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_gHK56ux9LFXz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_fK2zVCQQIPYz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_7STFI3U3pgCz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_dIoBmH7qXjsz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_evsNS6p08Tlz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_ed344QfMBmBz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_khhAAFLtTu5z_0t20t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "This is a vintage, previously owned Henschel black leather hat in size XL. It's in excellent condition free from flaws and damage. The Henschel Hat tag is still present.\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27bd Please call/text   or email (preferred) anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
             }
         ],
         "beaded": [
@@ -305,7 +301,7 @@
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-lorenzo-houndstooth-gloves-and-scarf/7358195181.html",
                 "datetime": "2021-08-02 13:56",
                 "price": "$35",
-                "where": "San Lorenzo",
+                "where": "San Lorenzo east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00J0J_bHzBDeJkRrXz_0CI0na_600x450.jpg",
                 "all_images": [
@@ -347,7 +343,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-reduced-mori-lee-wedding/7360006682.html",
                 "datetime": "2021-08-02 14:31",
                 "price": "$350",
-                "where": " city of san francisco ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00202_fXs3sFXjT3Y_600x450.jpg",
                 "all_images": [
@@ -389,7 +385,7 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-oakley-backpack-computer-bag/7355849384.html",
                 "datetime": "2021-08-02 09:33",
                 "price": "$10",
-                "where": " south bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00G0G_4Peugspu1S0_1320MM_600x450.jpg",
                 "all_images": [
@@ -454,6 +450,26 @@
     "sports": {
         "autograph": [
             {
+                "id": "7352043327",
+                "name": "Team autographed San Jose Sharks KOHO hockey stick, sports memorabilia",
+                "url": "https://sfbay.craigslist.org/sby/spo/d/mountain-view-team-autographed-san-jose/7352043327.html",
+                "datetime": "2021-08-02 15:53",
+                "price": "$1",
+                "where": "mountain view",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00D0D_hsTFcGOFrrMz_0kY0fJ_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00D0D_hsTFcGOFrrMz_0kY0fJ_600x450.jpg",
+                    "https://images.craigslist.org/00D0D_hsTFcGOFrrMz_0kY0fJ_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_6HACchoIO3Uz_0kY0fJ_50x50c.jpg",
+                    "https://images.craigslist.org/00707_c3M7dwrwo3z_0kY0fJ_50x50c.jpg",
+                    "https://images.craigslist.org/00606_fswxHOFi4Jyz_0kY0fJ_50x50c.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "Selling a San Jose Sharks team autographed hockey stick. Not exactly sure of the year, but my best guess would be from the 98, 99, or 00 season. Got this, a jersey and a Stephane Matteau autographed puck in a game raffle from the HP Business Printing. Still have the jersey and this stick, gave away the puck.It is a RD white KOHO stick. Email me with your offer. Would think about a trade for a game worn, but it would have to be a size 56, and probably only interested in white jerseys.Sports, memorabilia, collectible."
+            },
+            {
                 "id": "7350870353",
                 "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
                 "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7350870353.html",
@@ -488,26 +504,6 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "Willie McCovey autographed baseball."
-            },
-            {
-                "id": "7357472386",
-                "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
-                "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7357472386.html",
-                "datetime": "2021-08-01 07:39",
-                "price": "$200",
-                "where": "emeryville",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_50x50c.jpg",
-                    "https://images.craigslist.org/00606_dl5A14pkVP1_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_b3QPJv2lUaG_0fu0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_hTAqH5v13hg_0fu0fu_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "Pro Staff Autograph RF97 Tennis RacquetHard to find Limited 'Tuxedo' Black and White versionBrand new. Never played4\u215c gripRacquet and bag and strings combos availableCross Section 21.5 FBHead Size 97 sq in - 625.8 sq cmString Pattern 16x19Unstrung Balance 30.5CM/12 Pts HLSeries Pro StaffUnstrung Weight 340 gLength 27 in - 68.6 cm$200"
             }
         ]
     },
@@ -670,7 +666,7 @@
                 "url": "https://sfbay.craigslist.org/scz/ctd/d/san-leandro-2014-jeep-wrangler/7358771770.html",
                 "datetime": "2021-07-30 20:08",
                 "price": "$34,991",
-                "where": "San Leandro santa cruz co ",
+                "where": "San Leandro",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_600x450.jpg",
                 "all_images": [

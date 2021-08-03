@@ -23,7 +23,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-02 11:04",
                 "price": "$44",
-                "where": null,
+                "where": " south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -39,7 +39,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
                 "datetime": "2021-08-02 11:04",
                 "price": "$44",
-                "where": null,
+                "where": " peninsula ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -51,6 +51,22 @@
             }
         ],
         "wood": [
+            {
+                "id": "7356547040",
+                "name": "75 ft of 5\u201d Ash wood trim $0.75/ft",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/stanford-75-ft-of-ash-wood-trim-075-ft/7356547040.html",
+                "datetime": "2021-08-02 22:24",
+                "price": "$0",
+                "where": "portola valley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00y0y_24tJu4s0kXkz_0ne0ne_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00y0y_24tJu4s0kXkz_0ne0ne_600x450.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "NO EMAILS PLEASE.Already removed: 75 ft of 1x5 solid ash trim / molding $.75/ftPick up in Portola Valley. Mention Arastradero property. TEXT Paul to arrange pickup:  .Huge whole house salvage sale - everything goes!"
+            },
             {
                 "id": "7353836482",
                 "name": "72x93 Wood shed",
@@ -82,22 +98,6 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "NO EMAILS PLEASE.TEXT Paul to arrange pickup in San Jose, mention Nevada house:  Super gorgeous! 60x90 arched mahogany window $125/offer(you remove)Part of a whole house salvage sale. EVERYTHING GOES!"
-            },
-            {
-                "id": "7353838693",
-                "name": "6x8ft Wood shed",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/stanford-6x8ft-wood-shed/7353838693.html",
-                "datetime": "2021-08-02 19:47",
-                "price": "$300",
-                "where": "portola valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_epVZPES4YMez_0ne0ne_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00k0k_epVZPES4YMez_0ne0ne_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "NO EMAILS PLEASE. 6x8ft redwood shed $300 (you dissemble) Tiny HouseText Paul to arrange pick up in Portola Valley. Mention Arastradero property,  Part of a whole house salvage sale. Everything goes!"
             }
         ]
     },
@@ -245,12 +245,28 @@
         ],
         "gloves": [
             {
+                "id": "7350226769",
+                "name": "Touchscreen gloves",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/burlingame-touchscreen-gloves/7350226769.html",
+                "datetime": "2021-08-02 22:24",
+                "price": "$10",
+                "where": "burlingame",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_hV5lrVPNbayz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_hV5lrVPNbayz_0t20CI_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Warm Moving soon and selling some items"
+            },
+            {
                 "id": "7360152313",
                 "name": "Golf Gloves Footjoy Leather",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/danville-golf-gloves-footjoy-leather/7360152313.html",
                 "datetime": "2021-08-02 21:35",
                 "price": "$5",
-                "where": "danville",
+                "where": "danville east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00000_hxxdvYH5Rxoz_0CI0t2_600x450.jpg",
                 "all_images": [
@@ -268,27 +284,6 @@
                 "url": "https://sfbay.craigslist.org/sby/clo/d/morgan-hill-motorcycle-gloves-jacket/7357347306.html",
                 "datetime": "2021-08-02 21:27",
                 "price": "$100",
-                "where": "morgan hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Q0Q_l3sIARAZTtzz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Q0Q_l3sIARAZTtzz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00Q0Q_l3sIARAZTtzz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_jUviST6uzyuz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_kgwqee5OsvEz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_c9PKIlzgzKcz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_jH4t2nsvEnnz_07K0ak_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Jacket (40) and gloves (L), both in excellent condition"
-            },
-            {
-                "id": "7357347412",
-                "name": "MOTORCYCLE GLOVES & JACKET",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/morgan-hill-motorcycle-gloves-jacket/7357347412.html",
-                "datetime": "2021-08-02 21:26",
-                "price": "$120",
                 "where": "morgan hill",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00Q0Q_l3sIARAZTtzz_07K0ak_600x450.jpg",
@@ -802,6 +797,25 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$350"
             },
             {
+                "id": "7357398692",
+                "name": "Newcomb E-10B tube amp / PA head",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/pleasanton-newcomb-10b-tube-amp-pa-head/7357398692.html",
+                "datetime": "2021-08-02 22:06",
+                "price": "$200",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00a0a_gnb8xlxINbYz_0lM0CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00a0a_gnb8xlxINbYz_0lM0CI_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_gnb8xlxINbYz_0lM0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00404_9RoriDskyoNz_0lM0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_YLSd8kdAvCz_0CI0lM_50x50c.jpg"
+                ],
+                "query": "loud",
+                "category": "msa",
+                "description": "Newcomb E-10B tube amp / PA headFrom the 1960s10 watts output2 6v6 output tubes Loud-lush-clean-punchy sounding$200 OBO"
+            },
+            {
                 "id": "7353603485",
                 "name": "Brand New Earthquaker Acapulco Gold Guitar Pedal",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/sunnyvale-brand-new-earthquaker/7353603485.html",
@@ -816,28 +830,6 @@
                 "query": "loud",
                 "category": "msa",
                 "description": "Sunn Amp in a Pedal. Loud. Loud means Can be super loud to have the neighbors want to call the cops. Turn your guitar into a monster and belt out some tones with personality. This means that you get immediate attention.Brand New Condition.Watch the demo:https://www.youtube.com/watch?v=neazXtE5mPE&ab_channel=ProGuitarShopDemosPrice is firm. Cash only. Pickup only."
-            },
-            {
-                "id": "7354523795",
-                "name": "Roland digital piano FP-90 (piano + stand bundle))",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-roland-digital-piano-fp-90/7354523795.html",
-                "datetime": "2021-08-02 19:42",
-                "price": "$1,499",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00u0u_dDPLHtmyssBz_0By0s8_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00u0u_dDPLHtmyssBz_0By0s8_600x450.jpg",
-                    "https://images.craigslist.org/00u0u_dDPLHtmyssBz_0By0s8_50x50c.jpg",
-                    "https://images.craigslist.org/01010_bMArQrJxj5kz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_jQ1WdwKWqkfz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_embmwN9EUGvz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_49NQjqYB0axz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_3rLP3ODp9Pkz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "loud",
-                "category": "msa",
-                "description": "BEST IN CLASS PORTABLE DIGITAL PIANO. LIKE NEWI personally loved * the PHA-50 keys actions feel almost like acoustic piano's (this is the same keys in Roland's LX708 model for $6000+ that comes w/ 10 years warranty so it is really durable, wood, long key for control, weight like acoustic pianos, 100 level of touch sensitivity, ivory feel, escapement and triple sensors) * Supernatural sound modeling engine, not from sound sampling. So many nuisances are noticeable and many effects (like lid, types of soundboard, hammer sound, reverb, etc) are editable (FP-90X upgraded the engine a bit but I personally can't tell the difference)* speaker is 60W, (25 W x2, 5 W x2) crystal clear on the nuance and loud enough for medium venue and performancesee overview and reviews herehttps://www.youtube.com/watch?v=6aGzcCjVVPA&t=3shttps://www.roland.com/us/products/fp-90/https://www.youtube.com/watch?v=St14HPA6Wighttps://www.pianodreamers.com/roland-fp90-review/see price comparisons here: new = $2650 after tax. $1499 is ~45+% off new prices after taxhttps://www.adorama.com/rofp90bkc.html?gclid=Cj0KCQjw0K-HBhDDARIsAFJ6UGiX-l8LEFzODtq3yZjDLcYeSYz5JJ5jL1RL0FY6k5XJ6zzVfixeXIYaAiDAEALw_wcB&gclsrc=aw.ds&utm_source=nmpi-google-dsa-newhttps://www.guitarcenter.com/Roland/FP-90-Digital-Piano-Black-with-Stand-and-Pedal-Board-J45588.gchttps://www.bhphotovideo.com/c/product/1298892-REG/roland_fp_90_digital_piano_kit.htmlhttps://www.amazon.com/ROLAND-88-keys-Digital-Pianos/dp/B01MQDY2JB (amazon has no stand)Condition: like new -  Since 2019, it has been casually practiced on for 1 year, after that no more time to play. It is heavy ~90 lb. pls bring a friend to carry with you if needed. Stand can be disassembled in a few minutes (help yourself). Piano's original box and packaging is available if you want.Feel free to ask me any questions or come and try it out. Please pay by paypal or venmo onlytag: roland, piano, Yamaha, casio, fp,, fp90, fp-90, upright"
             }
         ],
         "famous": [

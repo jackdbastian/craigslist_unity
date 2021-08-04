@@ -41,7 +41,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-02 11:04",
                 "price": "$44",
-                "where": null,
+                "where": " south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -54,135 +54,162 @@
         ],
         "wood": [
             {
-                "id": "7360795160",
-                "name": "Old Windows (Wood Framed)",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/glen-ellen-old-windows-wood-framed/7360795160.html",
-                "datetime": "2021-08-04 08:50",
-                "price": "$0",
-                "where": "Santa Rosa",
+                "id": "7358628398",
+                "name": "Nice interior solid wood door 28\u201dx77\u201d",
+                "url": "https://sfbay.craigslist.org/scz/mat/d/santa-cruz-nice-interior-solid-wood/7358628398.html",
+                "datetime": "2021-08-04 10:48",
+                "price": "$70",
+                "where": "santa cruz",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_miYJgE5iImz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00j0j_kYtv6fcn1N7z_0ew0jm_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00V0V_miYJgE5iImz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_miYJgE5iImz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_27hBN4h8gwsz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_1rTUD84eYhEz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00j0j_kYtv6fcn1N7z_0ew0jm_600x450.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "Assorted sizes of vintage windows, 21\u201dx 30\u201d. Assorted. No broke glass.These items can be seen at (The Secret Nest) 13885 Sonoma Hwy 12, 15 minutes east of Santa Rosa, 1/4 mile past Arnold Dr, in the heart of wine country. Open Tuesday thru Sunday 11-5. Closed Monday and Holidays."
+                "description": "Nice interior solid wood door 28\u201dx77\u201d"
             },
             {
-                "id": "7360791460",
-                "name": "wood plugs",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/alameda-wood-plugs/7360791460.html",
-                "datetime": "2021-08-04 08:44",
-                "price": "$15",
-                "where": "Alameda",
+                "id": "7355454717",
+                "name": "Wood shipping/storage crates",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-wood-shipping-storage-crates/7355454717.html",
+                "datetime": "2021-08-04 10:38",
+                "price": "$35",
+                "where": "willow glen / cambrian",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00Z0Z_7PCFM5m5OCR_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00t0t_6MKSIQeGHLdz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00Z0Z_7PCFM5m5OCR_600x450.jpg",
-                    "https://images.craigslist.org/00Z0Z_7PCFM5m5OCR_50x50c.jpg",
-                    "https://images.craigslist.org/01111_kAYlpG6pBzO_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_gxHoqaAi0On_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_ajdJHO44XGA_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_g8J1nZBBESB_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_7tBQWRGGQ6H_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_3jHhwpv7TJT_50x50c.jpg",
-                    "https://images.craigslist.org/00303_BJCqHSkWFJ_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_3E8ghfPNQsf_50x50c.jpg",
-                    "https://images.craigslist.org/01010_jRmQEMxsEhi_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_4DMVl9r5jed_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_4C0snseJ1Je_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_cL6MLVQLQsX_50x50c.jpg"
+                    "https://images.craigslist.org/00t0t_6MKSIQeGHLdz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00t0t_6MKSIQeGHLdz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01717_1WbhOaQyfgkz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_7hufsiV67J9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_4MKVDNKf2c8z_0t20CI_50x50c.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "Tapered end grain wood plugs. 350 pieces in a bag. $15 for each bag, or $25 for 2 bags. I have 20 bags available. Someone said these might be black plum, but I don't know what kind of wood they are.  Bigger (outside) surface is about 3/8 diameter. Smaller (inside) surface is about 1/4 diameter. Height (length) is about 3/8 long.  Great wood for woodworkers woodworking on their wooden projects."
+                "description": "Heavy duty shipping crates.Great for storage, moving or shipping valuable products. You could even grow plants or vegetables in one of these crates. I have 2 crate available. Crate dimensions outside 37\u201dx 28\u201dx 32-1/2 \u201d.      If interested call or text Tom        $35.00 each"
             },
             {
-                "id": "7360763580",
-                "name": "1-1/2\" by 1\" wood strips",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-by-wood-strips/7360763580.html",
-                "datetime": "2021-08-04 08:30",
-                "price": "$20",
-                "where": "richmond / point / annex",
+                "id": "7360852800",
+                "name": "Reclaimed Wood - Redwood decking lumber - Denailed - 553.5 board feet",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/petaluma-reclaimed-wood-redwood-decking/7360852800.html",
+                "datetime": "2021-08-04 10:21",
+                "price": "$1,000",
+                "where": "petaluma",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00606_fzNqNuvIgMoz_1ck0TK_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01414_1nSEndm30ADz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00606_fzNqNuvIgMoz_1ck0TK_600x450.jpg",
-                    "https://images.craigslist.org/00606_fzNqNuvIgMoz_1ck0TK_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_c9Sk3bn93mbz_1ck0TK_50x50c.jpg"
+                    "https://images.craigslist.org/01414_1nSEndm30ADz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01414_1nSEndm30ADz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_fhLJLbbhC0mz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_laCUxtgatuvz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_iDtWPmmQ0hkz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_giDUVhhPpthz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "wood",
                 "category": "maa",
-                "description": "Wood strips, most are unpainted in great condition, mostly size 1-1/2 by 1, some are larger, most are about 4-6 feet long, about 25 strips, great for trim work or building frames, if interested please call or text  510- , If email, please leave a call phone number."
+                "description": "Reclaimed / salvage Redwood decking boards for sale. Fully de-nailed!Was going to flip and reuse the old boards but decided to go with other options.\u2022 Cash only, pickup only\u2022 Must take entire lot\u2022 553.5 board feet, $1000 ($1.81 / board-foot)Boards:(2 x 8) 17 feet -- 1x board(2 x 6) 18 \u00bd feet -- 13x boards(2 x 6) 17 feet -- 3x boards(2 x 6) 14 feet -- 2x boards(2 x 6) 13 feet -- 2x boards(2 x 6) 12 feet -- 2x boards(2 x 6) 11 feet -- 2x boards(2 x 6) 10 feet -- 2x boards(2 x 6) 9 feet -- 2x boards(2 x 6) 8 feet -- 2x boards(2 x 6) 7 feet -- 7x boards(2 x 6) 5 feet -- 5x boards(2 x 4) 17 feet -- 1x boardEntire lot = 553.5 board feetPrice per board foot = $1.81 / bd. ft."
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7358065796",
-                "name": "2 Vintage Head Bandanas",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-head-bandanas/7358065796.html",
-                "datetime": "2021-08-04 08:55",
-                "price": "$4",
-                "where": "san jose east",
+                "id": "7360861166",
+                "name": "Vintage Plaid Converse All Star Chuck Taylor hi-tops Size 5",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-plaid-converse-all-star/7360861166.html",
+                "datetime": "2021-08-04 10:35",
+                "price": "$60",
+                "where": "Oakland",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00H0H_bsITaZ4ujG5z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01616_72O7EqTymLjz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00H0H_bsITaZ4ujG5z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00H0H_bsITaZ4ujG5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_51ke8I7eeySz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/01616_72O7EqTymLjz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/01616_72O7EqTymLjz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_73JczdNvnez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_8AO88C8l7yEz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_jDIPUJ9lpnWz_0CI0mC_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_8K3mkUmb0R3z_0rY0CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "I have 2 vintage head bandanas.  One a tan color and one a green lime color.  They are 50% cotton and 50% polyester.  Both are in great condition.  $2.00 each.HatCap"
+                "description": "1990s, made in USA red/gray plaid vintage Converse All Star Chuck Taylor hi-tops Very good, pre-owned condition. Clean, no tears or stains, soles are barely worn (these weren\u2019t my favorite Chucks in high school...they were too pristine to be cool:). Plaid fabric is thick, some ads say it\u2019s made of wool, but there\u2019s no tag to verify. Embroidered Chuck Taylor patch on inside ankle. Made in USA, pre-Nike acquisition, size 5 (approx. women\u2019s size 7-8), purchased in mid-to-late 1990s. High quality manufacturing. Still has that fresh converse rubber smell.Colors are rich and deep red, dark gray, and light gray.Defects: small pen marks on right shoe (see photo), could use new shoelaces (one is dirty, the other is not original and is just two shoelaces tied together), All Star mark on heels is slightly rubbed away. Rubber feels smoother than a new shoe, but still flexes normally and there are no cracks.Really cool and with a lot of life left!  These seem to be rare, I found a few pairs on eBay and Etsy selling for $115-199, but I want to sell them to someone who wants to rock them."
             },
             {
-                "id": "7360796493",
-                "name": "Liz Claiborne, Charter Club, Brighton and Vintage Dress Purse",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-liz-claiborne-charter-club/7360796493.html",
-                "datetime": "2021-08-04 08:52",
-                "price": "$10",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7357586699",
+                "name": "Vintage Ray Ban Aviators",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/cotati-vintage-ray-ban-aviators/7357586699.html",
+                "datetime": "2021-08-04 10:33",
+                "price": "$80",
+                "where": "Cotati",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01212_eQNDNQf9QYW_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00L0L_ehO0QipIxpCz_0CI0Bj_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01212_eQNDNQf9QYW_600x450.jpg",
-                    "https://images.craigslist.org/01212_eQNDNQf9QYW_50x50c.jpg",
-                    "https://images.craigslist.org/00101_a2D7hTpS2FW_50x50c.jpg",
-                    "https://images.craigslist.org/01212_8MSzHsqo9ae_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_4kE4ORScBe2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_NQ4XQnqp1k_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_fVzXguT9kW9_50x50c.jpg",
-                    "https://images.craigslist.org/00404_eSiv2XOloby_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_bjsajKKECSh_50x50c.jpg"
+                    "https://images.craigslist.org/00L0L_ehO0QipIxpCz_0CI0Bj_600x450.jpg",
+                    "https://images.craigslist.org/00L0L_ehO0QipIxpCz_0CI0Bj_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_bsWsicDbTTqz_0CI0Ac_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Liz Claiborne purse - $10Charter Club purse - $8Vintage Dress purse - $10Liz Claiborne Navy Evening Purse with Gold Strap (brand new) - $10Brighton Leather Purse - $25Cash only and please arrange for pickup in Dublin."
+                "description": "1994 Ray Ban AviatorsGold FramesLenses are Clean with No scratchesExcelent Condition for ageOriginal Case and some paperwork with date of purchase included.leave phone number when replying and I will call or text you back."
             },
             {
-                "id": "7358908346",
-                "name": "Vintage Lederer of Paris Long Gloves",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/vintage-lederer-of-paris-long-gloves/7358908346.html",
-                "datetime": "2021-08-04 08:46",
-                "price": "$22",
-                "where": "saratoga",
+                "id": "7359565627",
+                "name": "Mens 42 black vintage trench coat with liner - by di Benedetto",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-mens-42-black-vintage-trench/7359565627.html",
+                "datetime": "2021-08-04 09:33",
+                "price": "$20",
+                "where": "willow glen / cambrian",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_jwJS4cYlGqs_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01212_7kTjZcyAfyfz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00p0p_jwJS4cYlGqs_600x450.jpg"
+                    "https://images.craigslist.org/01212_7kTjZcyAfyfz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/01212_7kTjZcyAfyfz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_570l6tRm596z_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Pair vintage kid leather long gloves marked Lederer of Paris in green script in one glove and 7 1/2 in the other. Gloves have no rips, tears or stains but were worn. Sizes ran smaller so probably more equivalent to a 6-6 1/2 today. Unlined. Measures 14 1/2 inches from cuff to fingertipIf you do not see a reply from me, please check your spam folder"
+                "description": "Vintage, men's fully lined trench coat from di Benedettomachine washablebelt, quilted removable zippered linersize 42excellent condition"
             }
         ],
         "beaded": [
+            {
+                "id": "7360822979",
+                "name": "Vintage Blue Sequins Beaded Flowered Clutch Purse",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-blue-sequins-beaded/7360822979.html",
+                "datetime": "2021-08-04 09:34",
+                "price": "$8",
+                "where": "san jose east",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_KnmrEZxZV4z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_bkDmDwNsT7oz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "This is a really nice vintage flowered blue sequins beaded clutch purse.  Silver chain handle.  Pocket inside.In great condition!Handbag"
+            },
+            {
+                "id": "7358313284",
+                "name": "Moyna Small Green Silk Beaded Bag Handbag Purse Evening Bead Like new",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-moyna-small-green-silk-beaded/7358313284.html",
+                "datetime": "2021-08-04 09:15",
+                "price": "$15",
+                "where": "los gatos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01515_5MlBVAwSlxzz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01515_5MlBVAwSlxzz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01515_5MlBVAwSlxzz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00303_fbrFOw8uMmTz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "In excellent condition. Never used.Received as a gift and never used.Snap closure.In like new condition.24 drop/crossbody strap, beadedmicrobead and mother of pearl designs."
+            },
             {
                 "id": "7353935900",
                 "name": "Very Nice Royal Blue Beaded Party Dress",
@@ -203,46 +230,30 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "One Piece but, looks like a two piece.  Comes with extra beads.If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
-            },
-            {
-                "id": "7350869046",
-                "name": "Gray Clutch Beaded Purse Cocktail Evening Purse",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-gray-clutch-beaded-purse/7350869046.html",
-                "datetime": "2021-08-04 07:49",
-                "price": "$20",
-                "where": "sunset / parkside",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00J0J_aLjUz14TBeWz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00J0J_aLjUz14TBeWz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00J0J_aLjUz14TBeWz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_1u3KTTchaVDz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_6yLUNbmG3Mwz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Beaded and Sequined Gray Clutch Cocktail Evening Purse with Chain Handle in excellent condition 7 drop handle, Chain Handle is removable Purse measures 11 x 4 x 1 1/2 Cash or Zelle"
-            },
-            {
-                "id": "7351803929",
-                "name": "Frankie and Johnnie Small BEADED ZIPPERED BAG",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-frankie-and-johnnie-small/7351803929.html",
-                "datetime": "2021-08-04 01:37",
-                "price": "$10",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00D0D_4iYcOGqbP3j_600x450.jpg",
-                    "https://images.craigslist.org/00D0D_4iYcOGqbP3j_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_ddViaZQbgzj_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "7 1/2 across x 5 tall Beaded Zippered Bag by Frankie and Johnnie."
             }
         ],
         "gloves": [
+            {
+                "id": "7356779157",
+                "name": "Nike Running Gloves",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-nike-running-gloves/7356779157.html",
+                "datetime": "2021-08-04 10:33",
+                "price": "$5",
+                "where": "novato",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01414_8ETzdbnWns7z_0bC0fu_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01414_8ETzdbnWns7z_0bC0fu_600x450.jpg",
+                    "https://images.craigslist.org/01414_8ETzdbnWns7z_0bC0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_6lsrU73I3iiz_0bC0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_2KtP8HNwl2Vz_0bC0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_7ULss2bOIruz_0bC0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_6YFTk7zevTIz_0bC0fu_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Gently used, size med/small"
+            },
             {
                 "id": "7358908346",
                 "name": "Vintage Lederer of Paris Long Gloves",
@@ -276,27 +287,28 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "I have two pairs of embroidered leather gloves that came from a trip to Italy many years ago.  One pair is creamy white with embroidery and cutouts, perfect for a summer wedding; the other black with less obvious embroidery, good for any time of year.  They are very soft fine leather, and a fairly small size 6.5.  $20 for each pair.I live in a gated community at Marina Bay, just off 580 in Richmond."
-            },
-            {
-                "id": "7351408474",
-                "name": "Gloves and leg warmers",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-gloves-and-leg-warmers/7351408474.html",
-                "datetime": "2021-08-03 22:11",
-                "price": "$1",
-                "where": "sunset / parkside",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00X0X_iysHDzEMI2wz_0ak05C_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00X0X_iysHDzEMI2wz_0ak05C_600x450.jpg",
-                    "https://images.craigslist.org/00X0X_iysHDzEMI2wz_0ak05C_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_lQmj4bv7wZjz_07K09b_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "$1 each pairRed pair: Calvin Klein, machine washBlack leather: Size small Pick-up outside of the Ortega library in the Outer Sunset.Comes from a pet and smoke free home."
             }
         ],
         "wedding dress": [
+            {
+                "id": "7360869151",
+                "name": "Wedding Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wedding-dress/7360869151.html",
+                "datetime": "2021-08-04 10:49",
+                "price": "$100",
+                "where": "san jose west",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00m0m_4sHWe2FAjzc_0aT0ew_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00m0m_4sHWe2FAjzc_0aT0ew_600x450.jpg",
+                    "https://images.craigslist.org/00m0m_4sHWe2FAjzc_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00202_aDNm7JW5VLw_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00909_7WXQo3nYCtd_0aT0ew_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Beautiful Calvin Klein wedding gown size 4."
+            },
             {
                 "id": "7358701173",
                 "name": "Allure Bridals Wedding Dress",
@@ -336,25 +348,31 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Beautiful lace over satin wedding dress by Australian designer house Dundee Fashions of Brisbane.  Portrait collar and lace sleeves.  Immaculate.  This dress is perfect for a wine-country wedding.  It has a satin rose and bow that attaches to the back.  You may attach a train if you prefer.   I'm guessing it's about a US size 8 -10,  sized for 5'3 tall.  I paid @  US $1,100.00 when I purchased it from a bridal shop in Sydney, Australia.  Asking for only $130.00 but will consider your offer."
-            },
-            {
-                "id": "7360735878",
-                "name": "Wedding dress sz med.",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/felton-wedding-dress-sz-med/7360735878.html",
-                "datetime": "2021-08-04 07:05",
-                "price": "$90",
-                "where": "scotts valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00X0X_jDGj6wBusy7z_04A09t_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00X0X_jDGj6wBusy7z_04A09t_600x450.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Never worn (other than to be tried on).  Super pretty on and a little stretchy for a little bit of give.  I'm 5'7 and 137 lbs and it fits perfectly.  I've decided to go with a more conservative dress.  I paid $128 plus tax.  Selling for $90."
             }
         ],
         "great condition": [
+            {
+                "id": "7356243580",
+                "name": "Really Cute Red GUESS 4 1/2\" Platform Shoes, Size 8, Great Condition!",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-really-cute-red-guess/7356243580.html",
+                "datetime": "2021-08-04 09:30",
+                "price": "$35",
+                "where": "half moon bay",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_1JzaXFj5kPCz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_4sBAbbvXj63z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_hUttjYR95Tzz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_i6IyXo8x2Niz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_dBeGtYxO1c4z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_dDrULSNCDt5z_0t20CI_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "I am selling a pair of really cute GUESS 4 1/2  Platform shoes, in GREAT Condition. The shoes are a shiny red collar, with a tan bow, very Betty Boop like. The platform itself, is 1. They are a size 8, and have only been worn twice. If you have any questions, please feel free to email me. I live on the coast, in El Granada (approx. 5 miles North of Half Moon Bay), but can easily ship to anywhere at a normal cost. Thank you for your interest."
+            },
             {
                 "id": "7356529937",
                 "name": "Women/Junior Clothes - Great Condition/Brand New",
@@ -395,26 +413,6 @@
                 "query": "great condition",
                 "category": "cla",
                 "description": "Coach Genuine Leather Handbag, gorgeous red color with the soft smooth leather top quality. Please call or tet me at   and take it today!"
-            },
-            {
-                "id": "7356577799",
-                "name": "AUTHENTIC COACH BLACK LEATHER HAND BAG - GREAT CONDITION",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-authentic-coach-black-leather/7356577799.html",
-                "datetime": "2021-08-03 09:34",
-                "price": "$30",
-                "where": "san jose east",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00E0E_alQnTb2seNO_600x450.jpg",
-                    "https://images.craigslist.org/00E0E_alQnTb2seNO_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_3AuKuSn7N2e_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_6bBOQCLgFzB_50x50c.jpg",
-                    "https://images.craigslist.org/01111_feyWSZAZYb1_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "My sister used 3 times. It looks great. You can check before you pay.Text or call at   ONLY when you are ready to pick up near 1600 Hopkins Drive, SAN JOSE"
             }
         ]
     },
@@ -798,22 +796,26 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$350"
             },
             {
-                "id": "7348997938",
-                "name": "TC Electronic RH450 amp setup",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-tc-electronic-rh450-amp-setup/7348997938.html",
-                "datetime": "2021-08-04 07:50",
-                "price": "$850",
-                "where": "san jose east",
+                "id": "7358288611",
+                "name": "Fender Princeton 65 Solid Sate 1x12 Combo",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/san-leandro-fender-princeton-65-solid/7358288611.html",
+                "datetime": "2021-08-04 10:01",
+                "price": "$250",
+                "where": "san leandro",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_11pKlEzXuazz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00d0d_HAye4RP519z_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00n0n_11pKlEzXuazz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_11pKlEzXuazz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_2cmgbqAA9M5z_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00d0d_HAye4RP519z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_HAye4RP519z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_ew7Ix9UdEFzz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_4r57mexs84Dz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_lVYwA3aPmzyz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_eCs4qI9hp5rz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_f7MozGFbF3Hz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Unloading some more gear. Nothing wrong. Been sitting at same place forever (i.e., no gigging with it).Selling the whole setup, which includes the amp head and 1 2x10 inch cabinet and 1 2x12 inch cabinet. One should be sufficient, but if you want really loud, the other one is there.Yes, it's available."
+                "description": "This is NOT the reissue of the tubed '65 Princeton or the reviled Princeton 65 DSP.  This is a MIM SS 65 watt combo (1999-2001) with a great clean channel and the one amp of this series with a good sounding OD channel.  New MOD reverb tank; replaced reverb pot and cool looking black skirted jack nuts.  All switches and pots work quietly.  Clean channel vol pot jumps a bit in the early part of its range.One or two small nicks and Tolex needs a bit o'glue in the back and bottom, but overall cosmetics very good.Great starter, gig backup, jammer or rehearsal amp 'cuz it's loud with good tone, but not heavy.Please send a phone number with your response if interested.  Not looking to trade but feel free to send your list."
             }
         ],
         "famous": [
@@ -839,6 +841,31 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most solid-wood ukes. Extremely light, with excellent projection and beautiful resonance. The Famous FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Subtle striping at the soundhole is nice touch. Low action and great intonation, it's got a classic ukulele sound. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail.Reasonable offers are welcome."
             },
             {
+                "id": "7360850868",
+                "name": "1964 Selmer Mark VI Alto Saxophone",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-1964-selmer-mark-vi-alto/7360850868.html",
+                "datetime": "2021-08-04 10:18",
+                "price": "$6,500",
+                "where": "san jose north",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_1pldakyCUSmz_08a0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_6jiz7ARQ8GDz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_kihImx6oDqfz_08a0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_7QYfxqFrfOdz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_6FTeV4cf8uiz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_7y98fEATbuFz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_dinEUiyLySVz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/01616_6acN97j2FRZz_0aT0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_c1klptbf7Qpz_0ew0ew_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Do not pass on this instrument, if you are looking at this, then you know the reputation of the Mark VI, and this one is a good example. This would also be a great investment unlike a new sax that would depreciate in value.This sax plays nice and has that tone the Mark VI is famous for. Original finish but does show slight wear, but very nice for it\u2019s age. No dents & the serial numbers do match, and the original case is in very good condition. Please email with any questions."
+            },
+            {
                 "id": "7352157233",
                 "name": "Erica Synths Acidbox IIl",
                 "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-erica-synths-acidbox-iil/7352157233.html",
@@ -853,22 +880,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Really doin't want to sell this guy, but my loss is your gain. No low ballersWhat is the Acidbox lll? --> Erica Synths Acidbox III brings you the core of the famous Polivoks VCF in stereo version with a unique audio signal overdrive circuit, built in LFO and envelope follower in a compact, full aluminium case. Features Polivoks core stereo lowpass/bandpass VCF with the original programmable opamps Unique audio overdrive circuit Versatile syncable LFO with 8 waveforms Tap tempo button Envelope follower with modulation level attenuverter Master modulation control Manual and CV control over cutoff frequency Configurable control input for footswitch, expression pedal and external LFO/cutoff control Adjustable input gain The Acidbox III has adjustable input gain, therefore it works with various sound sources \u2013 guitars, units with line level signals (synthesizers, grooveboxes, etc.) and modular synths. Configurable control input allows you to connect a bypass footswitch, expression pedal, external cutoff control voltage source and LFO synchronization trigger. This makes the Acidbox an ideal companion in almost every production or live performance setup. A characterful, gritty analogue effect, made all the more flexible by its stereo signal path and modulation options. -Future Music Magazinelists Acidbox III among the best new studio gear of 2018 The acidbox III should appeal to many, thanks to its flexibility. On the most basic of levels, the stereo I/O makes it a perfect addition to a DJ rig, where real-time filtering is easy to control and trip in and out, thanks to the Bypass switch. The envelope follower will appeal to live musicians and there is nothing to stop users from using pedals to control elements such as Bypass on the fly. The Polivoks filter is characterful, with tons of charm, but very dirty with it \u2013 and as a useful colour in a number of settings, this could become a very valuable piece of kit for both live and studio work. - MusicTech Magazine rates Acidbox III 9 out of 10! Erica Synths has finally made the Acidbox' third generation - stereo capable and thus hits the bull's eye. Now it can be applied to all types of signals: for flat mono synths, as a strong character filter or as a special effect in the DJ Booth. On top of that, guitarists and bass players can hook up their instruments and indulge in the funk creating by Envelope Follower shaping the input signal. The Acidbox III can also sound warm, but if you're looking for a comforting soft filter then you should look elsewhere. The Acidbox III sounds confidently different and immediately delivers inspiring results.tags: #moog #oberheim #waldorf #Boss #Pioneer #Yamaha #Roland #Korg #Meris #Strymon #Eurorack #EHX #DeathByAudio"
-            },
-            {
-                "id": "7352485887",
-                "name": "Roland TR-8S - Fantastic shape, updated",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-roland-tr-8s-fantastic-shape/7352485887.html",
-                "datetime": "2021-08-03 22:32",
-                "price": "$590",
-                "where": null,
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00808_fnxG4lR9QZsz_0lu0eU_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00808_fnxG4lR9QZsz_0lu0eU_600x450.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "I love this drum machine -- it has some of the most flexibility in the market with a great analog feel for performances and/or live tracking. All the classic Roland kits and then some...building custom kits is easy and fun with my own sounds.What is the TR-8S? --> Born of the most famous and influential drum machines ever made, the TR-8S combines the best of its Roland heritage with modern production techniques and professional sound design. The result? A forward-thinking, performance-tuned instrument unlike any other. Build your dream kit from the most iconic drum sounds of all time, plus the finest selection of stereo samples from a vast sound library -- or import your own custom samples. Tap, tune and tweak with hands-on controls and production tools that make your patterns move and groove. And why keep this kind of percussive power confined to the studio? The TR-8S was literally made to play live.Transistor RhythmsThe TR-8S has every sound from the most sought-after TR drum machines, with detailed circuit-models of the 808, 606, 909, 707, 727, 626 and even several modified versions. These are not sound-alike sample-packs or mere recordings of TR drum sounds. Each machine is a detailed, down-to-the-circuit-model that sounds and behaves exactly like the original hardware. All these sounds are yours, at your fingertips, and ready to use in your own productions and performances.#Roland #Korg #Moog #DaveSmith #Arturia #Eurorack"
             }
         ]
     }

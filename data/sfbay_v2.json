@@ -41,7 +41,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-02 11:04",
                 "price": "$44",
-                "where": " south bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -132,77 +132,82 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7353992233",
-                "name": "Vintage Black and White Dress With Rhinestone and Crocheted Trim",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-black-and-white-dress/7353992233.html",
-                "datetime": "2021-08-03 21:56",
-                "price": "$20",
-                "where": "san jose north",
+                "id": "7355456899",
+                "name": "Vintage Lizard Skin Purse / Handbag with Head",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-lizard-skin-purse/7355456899.html",
+                "datetime": "2021-08-03 22:55",
+                "price": "$85",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00V0V_cmjdzn4i2Ev_0yj0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_79XO09AM9bLz_04I07g_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_cb9tsGNes82z_03v07g_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_bAvihnxc497z_09G07g_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_1Eze4MZzHoKz_09G07g_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_68SIoiySKeyz_05r07g_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_j7r0i0al8Q0z_05r07g_50x50c.jpg"
+                    "https://images.craigslist.org/00V0V_cmjdzn4i2Ev_0yj0t2_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_cmjdzn4i2Ev_0yj0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_5CdWRCKanKT_0AW0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_DKnKw6S8zM_0B10t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_cLQr5ddNXQZ_0z40t2_50x50c.jpg",
+                    "https://images.craigslist.org/00909_93U4UUWfun6_0BX0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_ij8wNV9eW0z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_aSJWuBEQ72Y_0Ai0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_hxKUx9ZZXUd_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_4zidBUmcmK_0yX0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_2ywn71aq2VY_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+                "description": "Likely from the 1950\u2019s or before, this vintage purse / handbag is covered in Java aka Ring Lizard Skin in dark brown and buff with the ring pattern evident. It includes the  taxidermied Lizard Head with stuffed and raised, neck, shoulders, arms and hands. The head and front feet are masterfully sewed on the purse front. It\u2019s really unique.  I can\u2019t find anything like it on the internet. The purse has 3 small pouches inside, and a slot on the outside back. It has a spacious interior and doesn\u2019t appear to have ever been used. It measures 10 \u00bc\u201d wide, 6 \u00be\u201d high (excluding the handle), and 9 \u00bd\u201d (with the handle).  It is in excellent vintage condition.We are downsizing our collections, check out our other postings to see if there are other items of interest. Be assured that we practice safe distancing when picking up items at our home and can ship if you pay postage."
             },
             {
-                "id": "7354965653",
-                "name": "Designer Vintage Check Cotton Tote Bag With Genuine Leather Straps",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-designer-vintage-check-cotton/7354965653.html",
-                "datetime": "2021-08-03 21:30",
-                "price": "$20",
-                "where": "San Mateo",
+                "id": "7347420015",
+                "name": "Miu Miu Vintage Sandals",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-miu-miu-vintage-sandals/7347420015.html",
+                "datetime": "2021-08-03 22:52",
+                "price": "$60",
+                "where": "sonoma",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00l0l_2RpjTThE53X_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_5EW8Lrdli1Lz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_aL8VuXGET5Bz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_dJOFxZRzcJEz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_hkGpi2K2Fmiz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_eQN3lnxydxfz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00l0l_2RpjTThE53X_600x450.jpg",
+                    "https://images.craigslist.org/00l0l_2RpjTThE53X_50x50c.jpg",
+                    "https://images.craigslist.org/00202_azeiXGEbfsG_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_6OvRrzd0vrj_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_4Shid2pvovx_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_g7xxj1UBmXo_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_j9sQyMRc3NN_50x50c.jpg",
+                    "https://images.craigslist.org/01313_k7Ws4WmLEdj_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_dKXGhVqPcwG_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_8Wl77meqljQ_50x50c.jpg",
+                    "https://images.craigslist.org/01010_aAWyNIdjC5G_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_50kOaFr6Glg_50x50c.jpg",
+                    "https://images.craigslist.org/00707_g5vcD0dUFDq_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_6pdRymgq6h8_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "New condition! Local pick up and cash only!Very good quality!Size: 35cm x 37.5cm"
+                "description": "Beautiful Miu Miu white Vintage sandals Size 9Worn once Retail$355.00For sale $60.00Contact Cheryl"
             },
             {
-                "id": "7353599899",
-                "name": "Women's Vintage Floral Lace V Neck Cocktail Party Swing Dress, Dark Green",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-vintage-floral-lace/7353599899.html",
-                "datetime": "2021-08-03 21:25",
-                "price": "$10",
-                "where": "San Mateo",
+                "id": "7350219221",
+                "name": "Vintage Black Wool Asian Dress with Mandarin Collar - Size Small",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-black-wool-asian/7350219221.html",
+                "datetime": "2021-08-03 22:51",
+                "price": "$20",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00Q0Q_9pgdNOhSnCez_0mj0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_cGneaiK47zlz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_4GBXwHR88vcz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_6MFLVmO0joOz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_ckaNZTcaOy2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_agooVXGcXy8z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_luIYivxEwB4z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_7YMqtvHe61Sz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_5lloJaZxYwXz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_hSaZKnXg4Jpz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_eYRac5tvB5ez_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_1a7d951byJqz_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_kbI2z5H9peyz_0CI0CI_50x50c.jpg"
+                    "https://images.craigslist.org/00Q0Q_9pgdNOhSnCez_0mj0t2_600x450.jpg",
+                    "https://images.craigslist.org/00Q0Q_9pgdNOhSnCez_0mj0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01212_jf9U0eMRuIUz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_9Xi0imgWjZ1z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_5Ps2lpLXSDlz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_l7zQM3CONO4z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_4xqu0VZeBwAz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01313_d7kJlV9bwdTz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "I am selling a brand new Women's Vintage Floral Lace V Neck Cocktail Party Swing Dress in Dark Green100% silk and lace!Very good/comfortable quality! I have bulk qty as below:Size S, 11 pcsSize M, 30 pcsSize L, 13 pcsSize XL, 12 pcs Retails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
+                "description": "This amazing dress is from the 1930\u2019s-40\u2019s. It is in excellent condition, no damage or condition issues, amazing! Great for stylish vintage wear or for Halloween!It is a Soft Black Wool Crepe Asian Style Dress with a Mandarin collar, \u00be length sleeves and frog closures that are vintage - amazing!Measurements:-  Length from shoulder to hem:  44\u201d-  Length from waist to hem:  30\u201d-  Waist width:  15\u201d-  Length from shoulder to end of sleeve:  18\u201dNo need to ask if it is still available. Posting will be removed immediately when the item is sold. We are clearing out years of collectibles, so check out our other postings for group discounts.  Just click on the \u201cmore ads by this user\u201d link in this posting.This item is located in Pleasanton from a smoke free home. Cash or PayPal only. Please call, email or text with questions, or to make plans to see it. We wear masks and practice safe distancing when pick-ups are at our home. We are happy to ship to you, if you pay postage. Provide your postal zip code, and I will quote you the additional cost of USPS shipping. Pay through PayPal, and you never have to leave your home. Thanks for looking!"
             }
         ],
         "beaded": [
@@ -272,6 +277,24 @@
         ],
         "gloves": [
             {
+                "id": "7351408474",
+                "name": "Gloves and leg warmers",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-gloves-and-leg-warmers/7351408474.html",
+                "datetime": "2021-08-03 22:11",
+                "price": "$1",
+                "where": "sunset / parkside",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00X0X_iysHDzEMI2wz_0ak05C_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00X0X_iysHDzEMI2wz_0ak05C_600x450.jpg",
+                    "https://images.craigslist.org/00X0X_iysHDzEMI2wz_0ak05C_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_lQmj4bv7wZjz_07K09b_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "$1 each pairRed pair: Calvin Klein, machine washBlack leather: Size small Pick-up outside of the Ortega library in the Outer Sunset.Comes from a pet and smoke free home."
+            },
+            {
                 "id": "7357662413",
                 "name": "Sensatec Women's wool/cashmere gloves w/ Sensatec Touchscreen, Size M",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-sensatec-womens-wool-cashmere/7357662413.html",
@@ -305,34 +328,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "NEW hat + scarf +  gloves set ............... $9Very soft and niceCollect in Pleasanton"
-            },
-            {
-                "id": "7360469920",
-                "name": "vintage gloves",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-gloves/7360469920.html",
-                "datetime": "2021-08-03 13:29",
-                "price": "$0",
-                "where": "palo alto",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_rZ60BZ30zE_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_bpljapqIRA_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_7hfj1x1MIER_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_79v9XCekQJD_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_faeQc6paKf2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_4rHSfvitWJ7_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_a1RJoRwIzMY_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_1f6yfn3xGRT_50x50c.jpg",
-                    "https://images.craigslist.org/00808_ap8KMoH5soh_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_ab4oiepMJiD_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_jXLGes6b1WS_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "These vintage gloves are all small sizes, perfect for small hands or kid's dress-up.pair of black suede gloves with gold lame trim, 10 1/4 long........................................................$10.00pair of black cotton gloves with tiny design, 13 long.....................................................................$5.00pair of size 6, dark brown suede made in France by Saranti Chevreau for I. Magnim, 12 long..$10.00pair of pink cotton gloves with cut design on the edge, 9 long......................................................$4.00pair of size 7, pink cotton gloves with seed pearls, 8 1/4 long.......................................................$4.00pair of pink cotton gloves made in Germany, 7 1/2 long................................................................$4.00pair of cream colored long, leather gloves with three pearl buttons, 22 1/4 long.........................$10.00pair of cream colored long, leather gloves, 22 long......................................................................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 1/2 long...............................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 long.....................................$10.00pair of cream colored long, leather gloves with two pearl buttons, 14 long.................................$10.00pair of size 6 1/2, NEW, short ivory leather gloves, 8 1/2 long....................................................$10.00pair of, short ivory leather gloves, 7 1/2 long...............................................................................$10.00pair of NEW, short ivory leather gloves with open design, 7 1/2 long.........................................$10.00pair of NEW, short white stretchy fabric gloves with beads, 9 long...............................................$5.00 (can ship)"
             }
         ],
         "wedding dress": [
@@ -816,7 +811,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/ctd/d/sacramento-2007-ford-mustang-deluxe-2dr/7358719672.html",
                 "datetime": "2021-07-30 17:05",
                 "price": "$7,990",
-                "where": "$990 Down Most Cars city of san francisco ",
+                "where": "$990 Down Most Cars",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00909_60ZMaUmYUbMz_0jm0a1_600x450.jpg",
                 "all_images": [
@@ -893,27 +888,22 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$350"
             },
             {
-                "id": "7360638666",
-                "name": "Peavey XXL Transtube head 100 Watts",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/santa-rosa-peavey-xxl-transtube-head/7360638666.html",
-                "datetime": "2021-08-03 20:53",
-                "price": "$200",
-                "where": "Santa Rosa",
+                "id": "7353994968",
+                "name": "Electro-Voice ELX-115P",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/emeryville-electro-voice-elx-115p/7353994968.html",
+                "datetime": "2021-08-03 22:08",
+                "price": "$175",
+                "where": "Emeryville",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_jVCX4mwRUX4z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00p0p_3rpjXn0pz4cz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00o0o_jVCX4mwRUX4z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00o0o_jVCX4mwRUX4z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_b2oZFf7rUciz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_5R0hQIUnnm7z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_4ZMrQ738fflz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_f0J30bqs7N2z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_dOZm60KJwXhz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_17Pp0r9YS9vz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00p0p_3rpjXn0pz4cz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00p0p_3rpjXn0pz4cz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_bBVkDZfRXyCz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Selling my Peavey XXL head. Works great but I no longer have a cabinet to play (or test) the head on. These guys normally go for 350+ in this condtion (exculding the missing master volume knob) but im looking for a quick sale on this guy as i need the room more than anything. Comes with Cover and power cord. Hoping to hook up a local musican whos looking to upgrade their setup for small gigs or very loud pratice sets.I dont have any cabinets to set this up and test so if you are interested please bring some gear or we can work out a deal for me to bring it to you for a fee. I am not looking for any trades at the time.Email me with your name and number and we can dicuss any other details. Keep on Jamming and have a good day!-Marcus ignore tags fender gutiar vox orange amplifier marshall roland yamaha line 6 mesa ibanez blackstar gibson epiphone taylor squier acostic guitar electric guitar amp"
+                "description": "Electro-Voice ELX-115P for sale. It needs a new amplifier and a used amp module can be found on Amazon for $180 and can be self assembled easily. Very loud and high quality speaker. Comes with cable"
             }
         ],
         "famous": [
@@ -939,39 +929,36 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most solid-wood ukes. Extremely light, with excellent projection and beautiful resonance. The Famous FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Subtle striping at the soundhole is nice touch. Low action and great intonation, it's got a classic ukulele sound. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail.Reasonable offers are welcome."
             },
             {
-                "id": "7360641521",
-                "name": "Supro Blues King 8",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/richmond-supro-blues-king/7360641521.html",
-                "datetime": "2021-08-03 21:47",
-                "price": "$300",
-                "where": "richmond / point / annex",
+                "id": "7352157233",
+                "name": "Erica Synths Acidbox IIl",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-erica-synths-acidbox-iil/7352157233.html",
+                "datetime": "2021-08-03 22:31",
+                "price": "$395",
+                "where": null,
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00T0T_3SkaTzpm0kmz_0cU0dh_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00404_dR1RZnnQYfIz_0fs0b8_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00T0T_3SkaTzpm0kmz_0cU0dh_600x450.jpg",
-                    "https://images.craigslist.org/00T0T_3SkaTzpm0kmz_0cU0dh_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_9YSEPWnfwVAz_0fZ0cU_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_fCVNOpW1u8xz_0fC0cU_50x50c.jpg"
+                    "https://images.craigslist.org/00404_dR1RZnnQYfIz_0fs0b8_600x450.jpg"
                 ],
                 "query": "famous",
                 "category": "msa",
-                "description": "Supro in pristine condition is an amp to LOVE, for being a well-built, cool design that makes your guitar sing. This 1-watt Tube Amp is perfect for recording, where an 8 speaker really shines with a close mic. Hailing from Chicago's rock 'n' roll sound, the Supro Blues King 1x8 tube combo delivers those classic tones. It is perfect for low volume playing since it was engineered to produce the distinctive sound of early Supro amps without unwanted volume. The Blues King has a Class A power section feeding a custom-designed eight-inch Supro speaker. Simplified controls provide you with perfect tones right out of the box. You can boost up your tone with the foot switchable built in boost switch that works especially well with single-coil guitars.What sets the Blues King 8 apart is its custom-made 8 speaker - designed to capture the essence of the original speakers that made Supro famous. This speaker has a bold midrange that breaks up perfectly as you increase the volume. Plus, the line output eliminates the need to mic your amp for recording. Silence is golden, too.Supro Blues King 8 Tube Combo Amplifier Features:Master volume control creates huge, saturated tones at low volumeCustom BK8 speaker produces extra punchLine output eliminates the need to mic your amp for recordingBoost that strengthens midrange responseClass A power section delivers classic Supro tonesOptional footswitch engages boost on/off (sold separately)"
+                "description": "Really doin't want to sell this guy, but my loss is your gain. No low ballersWhat is the Acidbox lll? --> Erica Synths Acidbox III brings you the core of the famous Polivoks VCF in stereo version with a unique audio signal overdrive circuit, built in LFO and envelope follower in a compact, full aluminium case. Features Polivoks core stereo lowpass/bandpass VCF with the original programmable opamps Unique audio overdrive circuit Versatile syncable LFO with 8 waveforms Tap tempo button Envelope follower with modulation level attenuverter Master modulation control Manual and CV control over cutoff frequency Configurable control input for footswitch, expression pedal and external LFO/cutoff control Adjustable input gain The Acidbox III has adjustable input gain, therefore it works with various sound sources \u2013 guitars, units with line level signals (synthesizers, grooveboxes, etc.) and modular synths. Configurable control input allows you to connect a bypass footswitch, expression pedal, external cutoff control voltage source and LFO synchronization trigger. This makes the Acidbox an ideal companion in almost every production or live performance setup. A characterful, gritty analogue effect, made all the more flexible by its stereo signal path and modulation options. -Future Music Magazinelists Acidbox III among the best new studio gear of 2018 The acidbox III should appeal to many, thanks to its flexibility. On the most basic of levels, the stereo I/O makes it a perfect addition to a DJ rig, where real-time filtering is easy to control and trip in and out, thanks to the Bypass switch. The envelope follower will appeal to live musicians and there is nothing to stop users from using pedals to control elements such as Bypass on the fly. The Polivoks filter is characterful, with tons of charm, but very dirty with it \u2013 and as a useful colour in a number of settings, this could become a very valuable piece of kit for both live and studio work. - MusicTech Magazine rates Acidbox III 9 out of 10! Erica Synths has finally made the Acidbox' third generation - stereo capable and thus hits the bull's eye. Now it can be applied to all types of signals: for flat mono synths, as a strong character filter or as a special effect in the DJ Booth. On top of that, guitarists and bass players can hook up their instruments and indulge in the funk creating by Envelope Follower shaping the input signal. The Acidbox III can also sound warm, but if you're looking for a comforting soft filter then you should look elsewhere. The Acidbox III sounds confidently different and immediately delivers inspiring results.tags: #moog #oberheim #waldorf #Boss #Pioneer #Yamaha #Roland #Korg #Meris #Strymon #Eurorack #EHX #DeathByAudio"
             },
             {
-                "id": "7360488615",
-                "name": "Double Track Reverb",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/richmond-double-track-reverb/7360488615.html",
-                "datetime": "2021-08-03 14:47",
-                "price": "$155",
-                "where": "richmond / point / annex",
+                "id": "7352485887",
+                "name": "Roland TR-8S - Fantastic shape, updated",
+                "url": "https://sfbay.craigslist.org/sfc/msg/d/emeryville-roland-tr-8s-fantastic-shape/7352485887.html",
+                "datetime": "2021-08-03 22:32",
+                "price": "$590",
+                "where": null,
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00101_7SdTfRST7Izz_0cU0iB_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00808_fnxG4lR9QZsz_0lu0eU_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00101_7SdTfRST7Izz_0cU0iB_600x450.jpg"
+                    "https://images.craigslist.org/00808_fnxG4lR9QZsz_0lu0eU_600x450.jpg"
                 ],
                 "query": "famous",
                 "category": "msa",
-                "description": "Keeley 30ms Automatic Double Tracker Features:Double Tracking Effect Slap Back ReverbStudio Two Chamber ReverbTrue Stereo ChorusThe stereo effect pedal offers an array of studio style doubling effects used for creating thicker, fuller sounding instruments.  Also included in the effect pedal is a reverb that simulates the famous chamber in Studio Two. The Keeley 30ms is designed to work with guitar, bass, keyboard, even vocals\u201cSince the early days of automatic double tracking pioneered by Ken Townsend and John Lennon at Abbey Road Studios, this technique has become the de facto way of creating recordings that sound bigger and fuller by making it sound like two guitars, or singers, or instrumentalists are playing at same time,\u201d said chief engineer Robert Keeley. \u201cThe Keeley 30ms Automatic Double Tracker offers musicians the ability to take these techniques with them out on the road with a wide range of tools needed for crafting unique double tracking schemes.\u201dThe Keeley Engineering 30ms Automatic Double Tracker pedal can be used in mono with a built in \u201cAbbey Verb\u201d reverb control, or in stereo as the Double Tracker Pro. The 30ms offers altered and detuned effects like a chorus pedal might sound, only without the regularity of a LFO oscillator in Dimension Mode. In this mode you have the ability to create up to two different voices for a stereo double tracked field. The user controls the tuning and delay for results that are stunning mono or through two amplifiers in stereo. Abbey Mode offers something more similar to a conventional chorus in that it simulates synched tape decks running in parallel with varying tape speeds. Stereo or mono this mode gives players a wide, lush sound without sounding like a conventional chorus pedal. Lastly the team at Keeley created a unique Slapback Mode for rockabilly sounds. The Slapback is now a double tracked echo with the two altered voices. Add the Keeley Abbey Verb to this mode to create really new effects.In Stereo Double Tracker Pro mode the unit drops the reverb channel in favor of complete control over the double tracked voices. Each of the two voices can be tuned up to 30 cents sharp and flat. Those voices are then delayed by up to 30 milliseconds for subtle to very distinctive doubling sounds. The user can program by internal switches the wet output to have either dry and effected sounds, or just the effect, giving them true double tracking in stereo, live."
+                "description": "I love this drum machine -- it has some of the most flexibility in the market with a great analog feel for performances and/or live tracking. All the classic Roland kits and then some...building custom kits is easy and fun with my own sounds.What is the TR-8S? --> Born of the most famous and influential drum machines ever made, the TR-8S combines the best of its Roland heritage with modern production techniques and professional sound design. The result? A forward-thinking, performance-tuned instrument unlike any other. Build your dream kit from the most iconic drum sounds of all time, plus the finest selection of stereo samples from a vast sound library -- or import your own custom samples. Tap, tune and tweak with hands-on controls and production tools that make your patterns move and groove. And why keep this kind of percussive power confined to the studio? The TR-8S was literally made to play live.Transistor RhythmsThe TR-8S has every sound from the most sought-after TR drum machines, with detailed circuit-models of the 808, 606, 909, 707, 727, 626 and even several modified versions. These are not sound-alike sample-packs or mere recordings of TR drum sounds. Each machine is a detailed, down-to-the-circuit-model that sounds and behaves exactly like the original hardware. All these sounds are yours, at your fingertips, and ready to use in your own productions and performances.#Roland #Korg #Moog #DaveSmith #Arturia #Eurorack"
             }
         ]
     }

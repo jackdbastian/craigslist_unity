@@ -41,7 +41,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-02 11:04",
                 "price": "$44",
-                "where": " south bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -114,63 +114,94 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7348597170",
-                "name": "Vintage Clothes Steamer",
-                "url": "https://sfbay.craigslist.org/scz/clo/d/scotts-valley-vintage-clothes-steamer/7348597170.html",
-                "datetime": "2021-08-04 07:53",
-                "price": "$25",
-                "where": "scotts valley",
+                "id": "7360777587",
+                "name": "Like New! Vintage Eagle Creek Fanny Pack- Black",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-like-new-vintage-eagle-creek/7360777587.html",
+                "datetime": "2021-08-04 08:21",
+                "price": "$20",
+                "where": "berkeley north / hills",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00y0y_c1d6j8XOivZz_07K0ak_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00B0B_46iDjYlwp7Z_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_HQv82kiVHs_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_fyEhLUeQkIM_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_fG0BDl6Bk2H_07K0ak_50x50c.jpg"
+                    "https://images.craigslist.org/00y0y_c1d6j8XOivZz_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00y0y_c1d6j8XOivZz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_17l3tPPWQoIz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_fqo8EnEv6ysz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_enqCbvNkrpGz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00404_7wBe10Zw90oz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00202_7TsUEfUn1bOz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_a2VCwVZV7VPz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_jVfXDYGRpyPz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00707_luOBvZS9Qcbz_0ak07K_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage Clothes SteamerMade By:  Franzus, Model WA-111SEThe original Wrinkles Away Electric Clothes Steamer, steams out wrinkles quickly and easily.  Ideal for traveling or for home use.Only Used A Few Times! Excellent Condition!Price = $25.00If you are reading this listing, the steamer is still available.Email if interested."
+                "description": "used once! Excellent fanny pack/ well constructed and lots of pockets. Comfortable and easy to maintain.8 1/4 long x 5 1/2 wide (vertical) and 2 inches deep."
             },
             {
-                "id": "7352574543",
-                "name": "LADIES VINTAGE SHOE STAYS",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/ladies-vintage-shoe-stays/7352574543.html",
-                "datetime": "2021-08-04 07:53",
-                "price": "$4",
-                "where": "corte madera",
+                "id": "7360770690",
+                "name": "Vintage Original Doc Marten'sShoes",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-bruno-vintage-original-doc/7360770690.html",
+                "datetime": "2021-08-04 08:09",
+                "price": "$35",
+                "where": "san bruno",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01313_8KDUBpwCQ8c_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01313_8KDUBpwCQ8c_600x450.jpg"
+                    "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_auPg2RSV1qz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_9Zv40GIvDEpz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_1uETSRutzsAz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_3Y4E1lNeInfz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_4MJeogWxTJ9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_eZXwMvmcBBMz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "I have a collection of wonderful vintage shoes stays or shoe trees, as some call them, in a variety of colors. They are wonderful for keeping your shoes in good condition and looking new."
+                "description": "Doc Marten's 90's size 9 - 9 1/2 MOriginalClean- great Condition$35."
             },
             {
-                "id": "7357716155",
-                "name": "Twilight blue women's rain slicker (L)",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-twilight-blue-womens-rain/7357716155.html",
-                "datetime": "2021-08-04 07:47",
-                "price": "$10",
-                "where": "San Francisco",
+                "id": "7357842556",
+                "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7357842556.html",
+                "datetime": "2021-08-04 08:02",
+                "price": "$200",
+                "where": "sf",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00606_9cxweRBWh8Az_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00606_9cxweRBWh8Az_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00606_9cxweRBWh8Az_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_k0fMD3Y28CNz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_6OeiAgdgr8rz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_3XWj1z1UnSez_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_eEgVPswHzdh_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Weatherproof Vintage brandWorn once! Selling because I got a different style and never wore this one.Hooded, lightweight, and machine-washable. And *it has pockets* tada!Message for pickup. Cash or Venmo."
+                "description": "vintage Golden State Warriors Jersey DubbsSize LargeIf you do not receive an email reply, check your Spam folder"
             }
         ],
         "beaded": [
+            {
+                "id": "7353935900",
+                "name": "Very Nice Royal Blue Beaded Party Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-very-nice-royal-blue-beaded/7353935900.html",
+                "datetime": "2021-08-04 08:12",
+                "price": "$40",
+                "where": "san jose north",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_3pqXwZtuGUrz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_ceXWMCpQU04z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00303_h9Y8F9bzv4yz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_84HZ4L1AYBoz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00808_aCkTw8rJLB1z_0t20CI_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "One Piece but, looks like a two piece.  Comes with extra beads.If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+            },
             {
                 "id": "7350869046",
                 "name": "Gray Clutch Beaded Purse Cocktail Evening Purse",
@@ -207,29 +238,27 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "7 1/2 across x 5 tall Beaded Zippered Bag by Frankie and Johnnie."
-            },
-            {
-                "id": "7348425330",
-                "name": "Black beaded evening purse",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/morgan-hill-black-beaded-evening-purse/7348425330.html",
-                "datetime": "2021-08-03 23:06",
-                "price": "$40",
-                "where": "morgan hill",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_i9lyatAjYbtz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00o0o_i9lyatAjYbtz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00o0o_i9lyatAjYbtz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_ezL0LjvvUC3z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_i9lyatAjYbtz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_4yXlLmcreEmz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "Black beaded evening purse can be worn as a clutch or over the shoulder"
             }
         ],
         "gloves": [
+            {
+                "id": "7359771486",
+                "name": "Italian embroidered kid leather gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/richmond-italian-embroidered-kid/7359771486.html",
+                "datetime": "2021-08-04 08:11",
+                "price": "$20",
+                "where": "richmond / point / annex",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00L0L_5JW8R0Y3bCuz_05a03S_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00L0L_5JW8R0Y3bCuz_05a03S_600x450.jpg",
+                    "https://images.craigslist.org/00L0L_5JW8R0Y3bCuz_05a03S_50x50c.jpg",
+                    "https://images.craigslist.org/01212_1zHWxxSPPATz_05a03S_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "I have two pairs of embroidered leather gloves that came from a trip to Italy many years ago.  One pair is creamy white with embroidery and cutouts, perfect for a summer wedding; the other black with less obvious embroidery, good for any time of year.  They are very soft fine leather, and a fairly small size 6.5.  $20 for each pair.I live in a gated community at Marina Bay, just off 580 in Richmond."
+            },
             {
                 "id": "7351408474",
                 "name": "Gloves and leg warmers",
@@ -266,22 +295,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Sensatec  Women's wool/cashmere gloves with Touchscreen, Size MediumNew without tags, never wornIndex and thumb have pads for touchscreen operation without removing gloves"
-            },
-            {
-                "id": "7359562898",
-                "name": "NEW hat + scarf +  gloves set",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-new-hat-scarf-gloves-set/7359562898.html",
-                "datetime": "2021-08-03 18:50",
-                "price": "$9",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00W0W_i9bBnhEfkL_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00W0W_i9bBnhEfkL_600x450.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "NEW hat + scarf +  gloves set ............... $9Very soft and niceCollect in Pleasanton"
             }
         ],
         "wedding dress": [
@@ -327,7 +340,7 @@
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7353603187.html",
                 "datetime": "2021-08-03 21:28",
                 "price": "$10",
-                "where": "San Mateo peninsula ",
+                "where": "San Mateo",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00o0o_7Rl0F3emFB6z_0nU0CI_600x450.jpg",
                 "all_images": [
@@ -502,6 +515,46 @@
     "cars": {
         "drives great": [
             {
+                "id": "7360402025",
+                "name": "2005 Honda Civic EX Special Edition Sedan 4D,Drives Great, Clean Title",
+                "url": "https://sfbay.craigslist.org/sby/cto/d/campbell-2005-honda-civic-ex-special/7360402025.html",
+                "datetime": "2021-08-03 11:27",
+                "price": "$6,600",
+                "where": "campbell",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00808_9Ko1Yb0yokKz_1320MM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00808_9Ko1Yb0yokKz_1320MM_600x450.jpg",
+                    "https://images.craigslist.org/00808_9Ko1Yb0yokKz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00202_kK0nRo8Ol8mz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00505_b6e76kzpZKnz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_dcY6CE0tBYOz_0za0qm_50x50c.jpg",
+                    "https://images.craigslist.org/00808_cIA01Kms6k1z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_1rPzUIhaTIJz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_7q1u9CINuhPz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_lKh5EK5UsKhz_0za0qm_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_4wgM1cyFX0Tz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_eMCdmyD6PHTz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_iHQWwbGFYlxz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_eAZ3KHIDx4Az_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_khhomVhvPPKz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_9pvQ19QctEqz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_7N7QtgpNm5Oz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_7wuGF95509oz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/01414_hJWOgVmQFZWz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00707_1FuhKoyD9BAz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/01111_7ylt0eXOSeVz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_5L5nnXfpKiRz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_oKk6B3smBGz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00303_ln5j78LYpGVz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/01111_8DWtLHNr1hbz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_aGyOQlsxoUWz_1320MM_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "2005 Honda Civic EX Special Edition Sedan 4DFor sale is Well Maintained, great running car, has been in the family and kept up with services as needed. This is an excellent commuter with great gas mileage, and would be great fit for a student or for a long distance commute. Oil changes done every 3000 miles, used as a commuter car to work on daily basis, I just upgraded to a new 4 door car so selling this one. Smog test is done and passed with certificate in hand, title in hand and Registration is still valid. Car is is clean inside. Oil change done 2 weeks ago and good for another 3000 miles. 176,000 MileAutomatic Transmission 4-Cyl, VTEC 1.7 LiterClean titleCarfax print out available 34 MPG Average Options:+ Cold Air conditioning + 6 CD Changer with MP3 / AUX jack + Power Door locks+ Remote control with Alarm system+ Anti-theft + Cruise control  + Dual airbags + Side front and rear airbags + Power windows+ Power Steering+ Power Mirror +  Moon roof + Alloy wheels + ABS 4 wheels + Rear spoiler Feel free to contact at 4 0 8 - 2 1 4 - 1 2 1 5 to set up a time to see the car. $6,600 cash, Serious Buyers please"
+            },
+            {
                 "id": "7360113803",
                 "name": "1995 Subaru Impreza with 190k miles, drives great",
                 "url": "https://sfbay.craigslist.org/eby/cto/d/berkeley-1995-subaru-impreza-with-190k/7360113803.html",
@@ -558,45 +611,6 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2011 Acura tsxclean title. smog check.115,xxx miles.drives great.automatic transmission. shifts smooth.cold a/c.  heated leather seats.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
-            },
-            {
-                "id": "7359175733",
-                "name": "2010 KIA SOUL.  CLEAN TITLE. SMOG CHECK.  GAS SAVER!!!  DRIVES GREAT**",
-                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2010-kia-soul-clean-title-smog/7359175733.html",
-                "datetime": "2021-07-31 17:23",
-                "price": "$7,995",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_2AlgFxyyDs5z_0CI0lM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00R0R_2AlgFxyyDs5z_0CI0lM_600x450.jpg",
-                    "https://images.craigslist.org/00R0R_2AlgFxyyDs5z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_lJuXV8bhFeFz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_3shSpLHyq8jz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_1OTShrHlOSoz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_ewJAVMjxVEyz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_fjjEMc4ihUuz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00000_5ASPXHsp0gTz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01616_jA6vlOxkZh2z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_2bCsThalNpEz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_ggky9GAeNImz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_6eMlfPCarScz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_azVYNfftFWKz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_1CgbdkdJzs8z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00505_3l7etd2uh3Fz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_NWnkkW0pt8z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_9RTehsDe8qkz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/01515_fMQTXik67O9z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_abWEO1DEvS7z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_6cCEGPg3Eemz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_hImtMnhsnebz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_6W7uUEH5mc0z_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00202_hTqmECiK3Mtz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_jMhRg0D0A3Pz_0CI0lM_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2010 kia soulclean title.  smog check.134,xxx miles.automatic transmission.drives great.  cold a/c.great factory sound system.viper alarm with remote start.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [

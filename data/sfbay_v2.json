@@ -78,7 +78,7 @@
                 "url": "https://sfbay.craigslist.org/nby/mat/d/fairfield-wood-plate-46-35-05in/7361134617.html",
                 "datetime": "2021-08-04 21:24",
                 "price": "$0",
-                "where": "Fairfield",
+                "where": "Fairfield north bay / marin ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00H0H_8TyiblrWnEnz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -94,7 +94,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/pacifica-wood-slabs/7361119561.html",
                 "datetime": "2021-08-04 20:11",
                 "price": "$1",
-                "where": "Pacifica",
+                "where": "Pacifica peninsula ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00b0b_5TCerfMr3SIz_0hS0CI_600x450.jpg",
                 "all_images": [
@@ -117,6 +117,45 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7347007638",
+                "name": "Vintage Tie: Buck Wheat Little Rascals",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/cupertino-vintage-tie-buck-wheat-little/7347007638.html",
+                "datetime": "2021-08-04 21:33",
+                "price": "$350",
+                "where": " south bay area ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00K0K_9BFDhBshHmMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_6vQVJSqiByLz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_llYTV8SmkFDz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_9QvHRxL0wPFz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_5U1ZYVZHIbrz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Little Rascals by Ralph MarlinBuck Wheat Tievintagewhere will you find another like this!excellent condition$350"
+            },
+            {
+                "id": "7353690808",
+                "name": "Vintage MINK FUR COLLAR",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-mink-fur-collar/7353690808.html",
+                "datetime": "2021-08-04 21:33",
+                "price": "$28",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00r0r_1MgvWPLolSH_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00r0r_1MgvWPLolSH_600x450.jpg",
+                    "https://images.craigslist.org/00r0r_1MgvWPLolSH_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_2eGu52P0g8h_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage (probably 1950's) Mink Fur Collar.  Measures 34 long."
+            },
+            {
                 "id": "7360139296",
                 "name": "(12) Vintage Women's Scarves, Antique Hat & More! Good Condition",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-12-vintage-womens-scarves/7360139296.html",
@@ -133,51 +172,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Package deal of 12 women's vintage scarves, most are silk and lots of variety!  Also including a vintage silk jewelry travel bag and eye glass holder. Take everything, all the scarves and my grandmother's antique spring/summer hat all for only $25 (firm)"
-            },
-            {
-                "id": "7354466270",
-                "name": "Vintage Ralph Lauren Jacket",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/cupertino-vintage-ralph-lauren-jacket/7354466270.html",
-                "datetime": "2021-08-04 20:21",
-                "price": "$300",
-                "where": "cupertino",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_9ZQRHnJ3JnJz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_9ZQRHnJ3JnJz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_9ZQRHnJ3JnJz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_fCtW0vq8FL4z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_jskyZlb5aCVz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00808_lPtZF0vWwWrz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_foddTsqwahIz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Goose Down Puffer Jacket Men\u2019s size: Large $300 OBO"
-            },
-            {
-                "id": "7349680476",
-                "name": "Vintage Women Levi's denim faux sheep skin jacket M",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-women-levis-denim/7349680476.html",
-                "datetime": "2021-08-04 20:13",
-                "price": "$75",
-                "where": "twin peaks / diamond hts",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_4ojgFlF3FzXz_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00R0R_4ojgFlF3FzXz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00R0R_4ojgFlF3FzXz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_hLgoi1HAdIIz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_32R7lJlW8mzz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_6cZm8R9CNpfz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_fYzevSiOEkbz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_5oqgC3GOFCez_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_aqMVRVe7yA8z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_ih9gI7knILkz_0t20t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "This cute and classic number is up for grabs. I don't know how much it's really worth but either way, it's well made, warm, wonderful wear! It's a M but runs one the old school M size which means smaller than today's typical M."
             }
         ],
         "beaded": [
@@ -764,7 +758,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/ctd/d/sacramento-2007-ford-mustang-deluxe-2dr/7358719672.html",
                 "datetime": "2021-07-30 17:05",
                 "price": "$7,990",
-                "where": "$990 Down Most Cars city of san francisco ",
+                "where": "$990 Down Most Cars",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00909_60ZMaUmYUbMz_0jm0a1_600x450.jpg",
                 "all_images": [
@@ -846,7 +840,7 @@
                 "url": "https://sfbay.craigslist.org/pen/msg/d/redwood-city-roland-td-electronic-drum/7356739548.html",
                 "datetime": "2021-08-04 18:24",
                 "price": "$750",
-                "where": "Redwood City peninsula ",
+                "where": "Redwood City",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00E0E_jnlGldUdpXMz_0CI0t2_600x450.jpg",
                 "all_images": [

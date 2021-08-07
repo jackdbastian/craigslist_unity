@@ -2,6 +2,38 @@
     "materials": {
         "gravel": [
             {
+                "id": "7357100925",
+                "name": "3/8\" Pea Gravel",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
+                "datetime": "2021-08-06 16:30",
+                "price": "$44",
+                "where": null,
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg"
+                ],
+                "query": "gravel",
+                "category": "maa",
+                "description": "Call to order our Pea Gravel today!Order as much as you want or as little as 1/2 yardDelivery available or pick up from our location behind the Oakland Coliseum.Monday-Friday 7am-3:30pm@745 Kevin Ct. Oakland, CA 94621Find this Material for less? We will meet anyone's price!$44/yard + taxWe deliver to you for a price!Check out all the other landscape materials we sell!!"
+            },
+            {
+                "id": "7357107055",
+                "name": "3/8\" Pea Gravel",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
+                "datetime": "2021-08-06 16:30",
+                "price": "$44",
+                "where": null,
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg"
+                ],
+                "query": "gravel",
+                "category": "maa",
+                "description": "Call to order our Pea Gravel today!Order as much as you want or as little as 1/2 yardDelivery available or pick up from our location behind the Oakland Coliseum.Monday-Friday 7am-3:30pm@745 Kevin Ct. Oakland, CA 94621Find this Material for less? We will meet anyone's price!$44/yard + taxWe deliver to you for a price!Check out all the other landscape materials we sell!!"
+            },
+            {
                 "id": "7360240153",
                 "name": "Glazed Porcelain Floor Tile - Gravel Road",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/brentwood-glazed-porcelain-floor-tile/7360240153.html",
@@ -18,25 +50,6 @@
                 "query": "gravel",
                 "category": "maa",
                 "description": "6 boxes of extras we didn't use.  $20 per box (9 tiles)Porch pickup in Brentwood.Cash, Venmo or Paypal.Daltile Saddle Brook XT 6 in. x 36 in. Glazed Porcelain Floor TileGravel Road XTSaddle Brook XT\u2122 is designed to defeat exterior challenges! This tile is slip-resistant and is easy to maintain and is great for commercial applications as well as any outdoor space. - Achieve the look of authentic hardwood in exterior spaces without the maintenance- Contains Daltile\u2019s patent-pending StepWise\u2122 technology for superior slip-resistance    Size: 6 x 36 Field Tile* - (5 7/8 x 35 7/16) - (15.00 cm x 90.00 cm)     Pieces Per Carton: 9    SQFT Per Carton: 13.05Info:https://floorzz.com/products/daltile-saddle-brook-xt-6-in-x-36-in-glazed-porcelain-floor-tile-gravel-road-xt"
-            },
-            {
-                "id": "7358683730",
-                "name": "rocks / gravel/ Landscaping",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-rocks-gravel-landscaping/7358683730.html",
-                "datetime": "2021-08-04 16:05",
-                "price": "$25",
-                "where": "willow glen / cambrian",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00K0K_cOnXclJhUN9z_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00K0K_cOnXclJhUN9z_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00K0K_cOnXclJhUN9z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_3qPSUDomofPz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_5wJ4pRzUNqEz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "gravel",
-                "category": "maa",
-                "description": "The layer of rocks in pictures is slightly more than an inche high in a 20 ft  x 16ft area. Please do the math how many cubic feet it would be. Serious buyers only."
             }
         ],
         "wood": [
@@ -93,68 +106,62 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7358621506",
-                "name": "Vintage Reebok NBA Jersey (Youth Medium) #3 Wallace Pistons",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-reebok-nba-jersey/7358621506.html",
-                "datetime": "2021-08-06 15:52",
-                "price": "$15",
-                "where": "noe valley",
+                "id": "7352032524",
+                "name": "Vintage Pendleton Women's Purple M Wool Cardigan Jacket Zip-Up 1990s",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-vintage-pendleton-womens/7352032524.html",
+                "datetime": "2021-08-06 16:54",
+                "price": "$90",
+                "where": "rohnert pk / cotati",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00D0D_gyjkHnK2xDwz_03S05a_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00E0E_72sVI7IyXy9z_0t20t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00D0D_gyjkHnK2xDwz_03S05a_600x450.jpg",
-                    "https://images.craigslist.org/00D0D_gyjkHnK2xDwz_03S05a_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_h5i6DCuBVJKz_03S05a_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_l7RHWDooLjTz_03S05a_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_bezp6qN70CRz_03S05a_50x50c.jpg"
+                    "https://images.craigslist.org/00E0E_72sVI7IyXy9z_0t20t2_600x450.jpg",
+                    "https://images.craigslist.org/00E0E_72sVI7IyXy9z_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_2bixFYBgLHmz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_7fxnEmmC0oCz_0t20t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "If interested, please call or text 415-730-zero787. Thanks!Item in excellent conditionNBA Reebok Official MerchandiseCirca 1978-1981Size: Youth Medium 10-12"
+                "description": "This is a previously owned zip-up bomber jacket from Pendleton circa 1990s. It's a women's size M and is 100% merino wool. It is thick, soft, and cozy! I'm not sure what the pattern is called but it's many shades of purple. It's been well taken care of and has no flaws. The zipper functions as it should. Measurements are approximate: Chest (flat): 20 across stretches to 28 or 40-56 around.Shoulder to hem: 24 long.------Please call/text   or email anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
             },
             {
-                "id": "7356668533",
-                "name": "Beautiful Vintage Purses",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/menlo-park-beautiful-vintage-purses/7356668533.html",
-                "datetime": "2021-08-06 15:47",
-                "price": "$10",
-                "where": "menlo park",
+                "id": "7352153045",
+                "name": "Vintage Stetson Hat",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-stetson-hat/7352153045.html",
+                "datetime": "2021-08-06 16:48",
+                "price": "$45",
+                "where": "San Francisco",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_eYOPYMwyWde_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00e0e_eYOPYMwyWde_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_eYOPYMwyWde_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_f3yDygc4CtJ_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_i79SceCztc9_50x50c.jpg",
-                    "https://images.craigslist.org/00101_dottIPS0wGz_50x50c.jpg",
-                    "https://images.craigslist.org/01010_cg8cAOCY2lO_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_6JFOSRefsOY_50x50c.jpg",
-                    "https://images.craigslist.org/01515_fm1P04yw8ma_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_dwKKJLHkgMz_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_gkyYnztpkNF_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_j8hKnv3xNfH_50x50c.jpg"
+                    "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_il1WMBIDOXN_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_56OwUdKn93U_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_c6IzVghpohg_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_eQhnkN0VnZd_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_gaIi6OGZX5t_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "$10.00 each ---  ---- 2 black / 1 white ---- Clutch Size ----- Beautiful Beaded Detail on each one.*** please leave your phone number - we do not text"
+                "description": "Size is 6 and 3/4s.  Straw hat"
             },
             {
-                "id": "7356131004",
-                "name": "1970's Vintage - Stripped Box Purse",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/menlo-park-1970s-vintage-stripped-box/7356131004.html",
-                "datetime": "2021-08-06 15:46",
-                "price": "$15",
-                "where": "menlo park",
+                "id": "7351091107",
+                "name": "Vintage 1950's Kitchen Apron",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-1950s-kitchen-apron/7351091107.html",
+                "datetime": "2021-08-06 16:36",
+                "price": "$5",
+                "where": "santa rosa",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_5k6UOiVFnUS_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00q0q_5k6UOiVFnUS_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_5k6UOiVFnUS_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_lj7zPHhjKm8_0lM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00m0m_5jiguNdsRNnz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_aZA7ev6W8giz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Oval Molded - Stripped Purse Name on Purse: le deco --- has strap (that can be taken off)Cute Small Size  7 across / 5 deep  /  5 tall  *** you will need to leave your phone number - we do not text"
+                "description": "This is a original apron from the 1950's.. This is from my Italian grandma stored in a box in my moms closet for years. I have about 5 different ones.. This one in the photo is $5.00 and is in great condition! Call   Thanks"
             }
         ],
         "beaded": [
@@ -301,6 +308,74 @@
         ],
         "wedding dress": [
             {
+                "id": "7355367778",
+                "name": "Morilee Madeline Gardner Size 4 Wedding Dress Gown Sweetheart Neckline",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-morilee-madeline-gardner/7355367778.html",
+                "datetime": "2021-08-06 16:55",
+                "price": "$100",
+                "where": "rohnert pk / cotati",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00n0n_emOr0XdKQ5nz_0t20t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00n0n_emOr0XdKQ5nz_0t20t2_600x450.jpg",
+                    "https://images.craigslist.org/00n0n_emOr0XdKQ5nz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_hdPAevHrA3pz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_imRAtFgzKXpz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_isEN7m2HUtwz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_eEilwIgnviMz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_lNWCVcnlwBlz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_DqiY6ilzHnz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_8qbMlUbjROoz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_lL3rxXc1OS5z_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_dfC1fc1M5W2z_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_avvngdmeON9z_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_8NhAOmC4QDRz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00909_iAOk9Lq61vDz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_dWYOekNnN0Nz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_1RH7LUYWrAmz_0t20t2_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "This is a previously owned and worn Morilee Madeline Gardner wedding dress. It is a size 4. There is yellowing on the underarm fabric and the hem in front is dirty as shown. I do not know if these stains will come out. The dress has a sweetheart neckline and a corset back. Side seam-to side seam at the bust (front) is approximately 16 but the back can be tied loosely or tightly. The total length from shoulder strap to hem is approximately 74. Material is 100% polyester.\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u27bd Please call/text   or email (preferred) anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
+            },
+            {
+                "id": "7348455146",
+                "name": "San Patrick 1964 Seymour Wedding Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-san-patrick-1964-seymour/7348455146.html",
+                "datetime": "2021-08-06 16:38",
+                "price": "$1",
+                "where": "santa clara",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_600x450.jpg",
+                    "https://images.craigslist.org/00S0S_dgEAJPgtoJrz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_hAOUXgvAQN1z_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_4Uc6GB9vMvcz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00404_4kVnnsNL0r0z_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_1xhDvzvVew4z_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_fOd2elmRSjpz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/01313_5Y4PUgfXiV1z_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/01616_9e6PU5SMzMgz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_jaJcKqgcSZoz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00101_cUosCc4J3ppz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_cwAn6xNi0xnz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_a75jckavc6iz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_7isCBP3Sq0lz_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_enin0D1Vhkuz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_bg2KvKY3uGYz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_4FX6ZSYrOTSz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_3oy8lRGYrfnz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_efmojbs3jg4z_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_3o7LZNOzPemz_0c60fi_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_ntkAflrEsqz_0g80lw_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_kFVb0VZaqH7z_0bC0fu_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Seymour wedding dress from the Fashion 2015 - St Patrick collection | St. PatrickI am selling my wedding dress that I wore once. The original tag is attached still.Size is US 8, as seen on the picture. This dress is a custom with a corset waist, so the dress is actually a US size 8, but using the corset the size can go down to a 0. Please see pictures of back with corset. ASKING $1,500.00If you see this ad, then the dress is still available. Email me your cell phone and we will setup and date and time.CASH ONLY, No IO'S, NO TRADES, NO CHECKS."
+            },
+            {
                 "id": "7362027357",
                 "name": "Bridal Wedding Dress (2P)",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-bridal-wedding-dress-2p/7362027357.html",
@@ -319,50 +394,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Ideal for smaller figure, styling is suitable for bride or for formal occasion.  Dress worn once and is in pristine condition.  Email if you have any questions"
-            },
-            {
-                "id": "7349400748",
-                "name": "WEDDING DRESS",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/brentwood-wedding-dress/7349400748.html",
-                "datetime": "2021-08-06 16:15",
-                "price": "$0",
-                "where": "brentwood / oakley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_16mS6zP79D8z_0hq0hq_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Y0Y_16mS6zP79D8z_0hq0hq_600x450.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "THIS IS MY WEDDING DRESS, THAT I NEVER WORE. IT IS BRAND NEW! I WOULD LIKE TO PASS IT ON TO A NEW BRIDE TO BE. PLEASE MAKE ME AN OFFER, AND IF YOU PREFER, YOU CAN CALL ME AND DISCUSS IT.  THANK YOU.                                                              PRISCILLA"
-            },
-            {
-                "id": "7361980104",
-                "name": "Ludlow Gown BHLDN Wedding Dress Anthropologie",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-ludlow-gown-bhldn-wedding-dress/7361980104.html",
-                "datetime": "2021-08-06 15:39",
-                "price": "$600",
-                "where": "oakland rockridge / claremont",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_fXpsK034FqCz_0aO0bC_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00V0V_fXpsK034FqCz_0aO0bC_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_fXpsK034FqCz_0aO0bC_50x50c.jpg",
-                    "https://images.craigslist.org/00606_5x4yEwSU9Tez_0fe0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_jxcgNy05LUez_08L0bC_50x50c.jpg",
-                    "https://images.craigslist.org/00000_4AUeCphKzq6z_0bC07K_50x50c.jpg",
-                    "https://images.craigslist.org/01515_l9sCXgogokBz_0nf0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_juTziBCVXdtz_0hU0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_4AQhdZbIaDYz_0db0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_8dwVoebidadz_0fu0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_kNWnBjQVN6Cz_0hH0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_c2kVvHivMk8z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_hTy76nvhyzaz_0vO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_5QHqFHWhd72z_0CI0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Purchased this stunning lace gown brand new for our wedding in Fall 2019.  We were planning on finding it a new home last year, but well, you know, the world shut down.  So 2021 it is! It\u2019s in excellent condition: no rips, tears, snags, or stains. The very bottom edge of the dress is a little dirty in front (normal dance floor dirt), but it should come out easily with a little spot cleaning, or you could get the whole dress dry cleaned. It was more comfortable than most dresses I tried on, and light boning in the torso provides support and security. I absolutely loved this dress (so did my spouse!) and got tons of compliments from our guests.We made two modifications to this dress:1) Had three simple hooks and loops attached to bustle the dress.  Total life saver, especially on the dance floor! (See photos)2) At the shoulder seam where you'd normally get the dress altered to fit you, we decided to take in the entirety of the shoulders and turn the gown into a halter.  We did not have any fabric cut off or removed- the shoulder fabric is meticulously folded in and sewn into the dress, so when you get the gown tailored to fit you, you can either leave it as a halter or return it to its shouldered state. The halter connects with a silver necklace with hidden closure. (See photos)I included some of our wedding photos so you can see the dress in action.  It photographs great, in color and B&W.More information, specs, and photos here:https://www.bhldn.com/products/ludlow-gown?color=Almond%2FIvory&size=6If you haven\u2019t already tried on this dress, this isn\u2019t a confusing wedding dress size. My normal dress size is 4, and this dress fit me perfectly at size 4, no alterations for size were necessary. I\u2019m 5\u2019 6.5\u201d and wore 3\u201d wedges, and the dress grazed the ground in front.BHLDN still sells this dress, so hey, go try it, and then buy it from us and save on the price and no tax :).  For serious local inquiries, I'm sure we can figure out a way for you to try it on.Anthropologie, BHLDN, Wedding"
             }
         ],
         "great condition": [

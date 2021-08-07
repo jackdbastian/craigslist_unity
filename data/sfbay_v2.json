@@ -25,7 +25,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": null,
+                "where": " south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -41,7 +41,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": null,
+                "where": " peninsula ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -53,6 +53,25 @@
             }
         ],
         "wood": [
+            {
+                "id": "7357341821",
+                "name": "New Wood Molding 7' Long x 2 3/4\u201d Wide - 5 Pieces",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-new-wood-molding-long-wide/7357341821.html",
+                "datetime": "2021-08-07 15:35",
+                "price": "$30",
+                "where": "San Jose",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_9lf7NSERzT1z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_32qGLpIANW0z_0qA0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "5 Pieces of new moulding.  If interested please call or text  Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+            },
             {
                 "id": "7356237591",
                 "name": "BRAND NEW SOLID WOOD CROWN MOLDING",
@@ -104,43 +123,42 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "I HAVE MANY MANY PIECES AND BOARDS OF SOLID WOOD WITH DIFFERENT SIZE AND DIFFERENT KIND OF WOOD CHERRY WALNUT MAHOGANY MAPLE EUCALYPTUS HICKORY WHITE OAK FOR CUTTING BOARDS AVAILABLE FOR SALE ONLY $.99 AND UP PER LINEAR FOOT I AM ONLY RESPOND EMAILS WITH PHONE NUMBER. THANKS"
-            },
-            {
-                "id": "7352284297",
-                "name": "BRAND NEW SOLID WOOD CROWN MOLDING",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-solid-wood-crown/7352284297.html",
-                "datetime": "2021-08-07 14:12",
-                "price": "$0",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_lukAXBiaLCiz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00q0q_lukAXBiaLCiz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_lukAXBiaLCiz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_cs9FGGl2HF2z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_ayR0plG5i7Mz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_ilMMUoaw9Ajz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_if0rkj9s4w8z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_5hFi8gqA47Lz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_fBf3HlZnxYWz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_69Jof65ZXKbz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_lk8eGbQNJjDz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_6Agh92ldE6jz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_b9usIh9syb2z_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_bhNZvQi1GEIz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00404_6SZKUD5RlsCz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_8m0PMDuOcvwz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_BbuuQMWDSnz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_2B3i8EFdK88z_05r07g_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I HAVE MANY MANY PIECES OF SOLID WOOD MAPLE WALNUT CHERRY WHITE OAK MAHOGANY CROWN MOLDING AND BASEBOARD AS PICTURES AVAILABLE FOR SALE ONLY $.75 AND UPI ONLY RESPOND EMAILS WITH PHONE NUMBER"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7357527018",
+                "name": "Vintage Crocheted Newborn or Baby Doll Clothing.",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-crocheted-newborn-or/7357527018.html",
+                "datetime": "2021-08-07 15:33",
+                "price": "$60",
+                "where": "san jose north",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_7m7U0WSqHozz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_9VdmTHxDMwWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_amYbwr3AuPXz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_fY9De7WxKKMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_asY8n8HZvAyz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_jYsQtQmJcdlz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_1Mroskx3UwBz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_7UUCLSHlQwDz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_eclUwRRPtVHz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_enCil4FsIyKz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_hvp0poa0jC7z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_7UhtP0Fza0dz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_jts3XaJ4Ca0z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_d1hVKAFu6jEz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "7 Piece Lot of Vintage Crocheted or Embordered Baby or Doll Clothes - Handmade.  Estate Sale Find.  Vintage in general over all great condition.  Photo 5 and 6 shows some yellowing which I have not tried to clean.  I have not tried to wash them any of them.  Photo's are of the actual items.  If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+            },
             {
                 "id": "7359348673",
                 "name": "Ariat Boots 7-1/2 Women's Brand New Brown",
@@ -180,40 +198,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "I am selling TWELVE  name Brand Handbags (vintage) in excellent condition, for a total of $25.00. The lot inludes: Ganson (two), Contessa, Giani Bernini, Carryland,  Phillippe, LL Bean, Liz Claiborne (two), Nine West, Valarie Jean Clutch, and a red accessory bag. I live on the coast, in El Granada (approx. 5 miles North of Half Moon Bay), but can easily ship to anywhere at a normal cost. Thank you for your interest. *Not all bags are shown*"
-            },
-            {
-                "id": "7358059347",
-                "name": "****Authentic Swiss Lederhosen with Suspenders, Vintage.",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-authentic-swiss-lederhosen/7358059347.html",
-                "datetime": "2021-08-07 14:56",
-                "price": "$85",
-                "where": "santa rosa",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_kSQv57vJysOz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_gHr7zrRKoNcz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_hki6ICDkORPz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_dnCYylJotr3z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_j7BWfDYSwD1z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_16sOe9Y4q4Bz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_8M7YkCCuRKxz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_1x35BhH9qswz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_9NQmTl7oJ0Iz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_g0jhgWjQA9vz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_jBNVbeTwQOYz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_8sEalzlGm7kz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_cXOur4EDGCez_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_ck35uxs6L7Az_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_5eh3vQkBtXSz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_isiE4zixfPgz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01717_aM6YvsMLkIlz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_fyEUD2xTpxjz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "****Authentic Swiss Lederhosen with Suspenders, Vintage.    $85From mid  1960's, fine leather,  Buttons held with leather. Great for Oktoberfest,  costume party,  Super cool  lederhosen! Color is gray suede with dark green trim,  Excellent conditionSmall,  women's size 8 or Men' s Extra small.Breeches Lying flat... Waist, from side seam to the other is 14   with back gusset which adds 1 1/2 to waistHips, 16 from side seam to seamInseam  3 1/2      length is 15Total Straps/suspenders:  95 is stamped on bottom of, equals 37 inches long. Straps  are lined with white wool felt.  Some yellowing of felt.Very nice condition with no tears or rips.Lederhosen ( lit. leather breeches; singular in German usage: Lederhose) are breeches made of leather"
             }
         ],
         "beaded": [
@@ -364,6 +348,25 @@
         ],
         "wedding dress": [
             {
+                "id": "7356283150",
+                "name": "NEW Ralph Lauren Evening/Wedding dress",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-new-ralph-lauren-evening/7356283150.html",
+                "datetime": "2021-08-07 15:45",
+                "price": "$75",
+                "where": "santa cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00r0r_HXEIz51lX7z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00r0r_HXEIz51lX7z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00r0r_HXEIz51lX7z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_23KbIQdVLsCz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00505_a7Pfl61vgCMz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "I bought this last year to go to a \u2018black & white\u2019 event that was canceled due to Covid. Never worn. I don\u2019t wanna drive back over the hill could be if it can be returned, as it has been over a year.Smoke free home.  pick up in Live Oak. Size 8. Cash or Venmo OK.Thank you"
+            },
+            {
                 "id": "7362372484",
                 "name": "Wedding Dress",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/vallejo-wedding-dress/7362372484.html",
@@ -394,30 +397,6 @@
                 "datetime": "2021-08-07 11:52",
                 "price": "$125",
                 "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_eimARlu4KJwz_0MM132_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00909_eimARlu4KJwz_0MM132_600x450.jpg",
-                    "https://images.craigslist.org/00909_eimARlu4KJwz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_io1l2JflXfTz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_htTATW97jJLz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_6EWnFxKrqj0z_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_pEHUS7sRz0z_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_cqco890LyyVz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_d1nFdaO1VKBz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_4PHmWmshetlz_0oc0wg_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Wedding Dress For Sale. $125.00David\u2019s Bridal Michaelangelo White Halter A-Line Beaded Lace Gown.Size 10. Pre-owned and is in good condition. The train is slightly dirty and needs to be dry cleaned. Beautiful lace applique from top to bottom, front and back. See-through lacing all around entire bottom of gorgeous chapel long train. Plenty of sparkles in light. Absolutely a gorgeous dress!The Wedding Dress/Gown is located in Vallejo.I will ONLY reply on this safe email or your phone number.Thanks for looking at my ad."
-            },
-            {
-                "id": "7362371429",
-                "name": "Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/vallejo-wedding-dress/7362371429.html",
-                "datetime": "2021-08-07 11:53",
-                "price": "$125",
-                "where": "vallejo / benicia",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00909_eimARlu4KJwz_0MM132_600x450.jpg",
                 "all_images": [
@@ -725,7 +704,7 @@
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/san-leandro-2014-jeep-wrangler/7361596061.html",
                 "datetime": "2021-08-05 19:39",
                 "price": "$34,991",
-                "where": "San Leandro",
+                "where": "San Leandro east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_600x450.jpg",
                 "all_images": [
@@ -877,22 +856,29 @@
                 "description": "Like new condition- still in the box and styrofoam!Huge amount of sound for the price! Good for gigging musician, home or studio.The new V50-112 two-channel combo loudly announces the new generation of Crates all-tube amplifiers. With dual 6L6 fixed biased output tubes, this bad refrigerator produces the sort of sparkling cleans and warm, thick overdrive that can only come from tubes pushed to their limit. It pumps 50 watts through a single 12 speaker, creating a muscular low end perfect for club gigs and recording sessions. Presence control, spring reverb and foot-switchable boost make sure you can dial in your custom tone from anywhere. Lesser amps will blow their fuses in fear when they see you plugging into a V50-112.Features & details50 Watts RMS1 x 12-inch speakerTwo channels2 x 6L6 output tubes, fixed biasFootswitchable Boost$349 or best offerKeyword Guit guitar guitar amplifiers amp fender Gibson Peavey Marshall Mesa boogie Ludwig Gretsch strat speaker"
             },
             {
-                "id": "7362429286",
-                "name": "Orange Thunderverb 200w guitar amp",
-                "url": "https://sfbay.craigslist.org/sfc/msg/d/san-francisco-orange-thunderverb-200w/7362429286.html",
-                "datetime": "2021-08-07 13:40",
-                "price": "$2,500",
-                "where": "sunset / parkside",
+                "id": "7362489322",
+                "name": "Sears Silvertone Tube Amp",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/san-mateo-sears-silvertone-tube-amp/7362489322.html",
+                "datetime": "2021-08-07 15:55",
+                "price": "$350",
+                "where": "san mateo",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00X0X_35k44mISikzz_09G07g_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00a0a_6q0TVoMp70kz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00X0X_35k44mISikzz_09G07g_600x450.jpg",
-                    "https://images.craigslist.org/00X0X_35k44mISikzz_09G07g_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_egYjB9Ik6RIz_09G07g_50x50c.jpg"
+                    "https://images.craigslist.org/00a0a_6q0TVoMp70kz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00a0a_6q0TVoMp70kz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_6JZABDZoVZjz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_b94MXxljekez_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_9jKjHQB2b8jz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_dYFQ0gwaTm9z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_5hMBaHUvxNBz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00000_ewftmd9Y0xGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_giSWTzEgt4hz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_fSM7L9SNycgz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Hate to get rid of this but im moving into a tiny studio and its just too loud."
+                "description": "Sears Silvertone 1484 Tube Amp  $350 or BOPower tubes are 6L6 X 2 (I think original)Still has the original preamp tubesI don't have the speaker boxSounds really good, no hum. Pretty loud   the reverb stinksHas the original 2 prong cord Speaker cord is not wired for for banana plugMore info:Vintage 1960s Silvertone 1484 Twin Twelve guitar ampThe Silvertone 1484 Twin Twelve was offered from 1963-1967 and served as the flagship gigging amp of the Sears catalog. The 1484 featured a 12AX7 preamp section and two Silvertone branded RCA 6L6GT power tubes making about 35 watts. They also came stock with twin Jensen C12Q 12 speakers. While the amp's reverb left something to be desired, the Tremolo is some of the best around. Sears contracted with the Danelectro company of Neptune, NJ to build the 1481-1485 series of amplifiers. These amps are known today for their creamy smooth drive to full out rock and roll crunchy tone.Also a great YouTube site - a 6 part series of a total rebuild of a 1484 amp.JC RubinJordan Rubin 2018"
             }
         ],
         "famous": [

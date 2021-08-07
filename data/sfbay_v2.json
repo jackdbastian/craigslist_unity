@@ -54,12 +54,55 @@
         ],
         "wood": [
             {
+                "id": "7356111778",
+                "name": "Bubinga Wood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/martinez-bubinga-wood/7356111778.html",
+                "datetime": "2021-08-07 11:25",
+                "price": "$125",
+                "where": "concord / pleasant hill / martinez",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00R0R_lTwdf494Gi0z_0d40hq_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00R0R_lTwdf494Gi0z_0d40hq_600x450.jpg",
+                    "https://images.craigslist.org/00R0R_lTwdf494Gi0z_0d40hq_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_15vw0TXY66Oz_0hq0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_7VvgO0TqxMVz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_jhGg0Dz70R7z_0d40hq_50x50c.jpg",
+                    "https://images.craigslist.org/00909_b2WK15Nfd37z_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/01010_b0o0BaF4yBSz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/01717_aibuUEJB9Xlz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_eaVQGrZ3wTSz_0hq0d4_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_jtzGPZCgQVDz_0d40hq_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Bubinga is from Central Africa. Sometimes called (African Rosewood)Great for small project. Very Dense wood good for furniture, turning, handles,  Or just add to your collection of material.Some sizes in pictures."
+            },
+            {
+                "id": "7362353708",
+                "name": "30 Teak wood staves",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-30-teak-wood-staves/7362353708.html",
+                "datetime": "2021-08-07 11:23",
+                "price": "$200",
+                "where": "richmond / point / annex",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00101_h3Lfu6iVUsCz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00101_h3Lfu6iVUsCz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00101_h3Lfu6iVUsCz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_enkaKHfGBodz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Beautiful teak wood stave pieces from a beautiful hot tub. 30 pieces altogether, must take whole stack."
+            },
+            {
                 "id": "7362337179",
                 "name": "Lumber/wood unused",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-lumber-wood-unused/7362337179.html",
                 "datetime": "2021-08-07 10:55",
                 "price": "$85",
-                "where": " east bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00I0I_hQECHYRAhUUz_0CI0t2_600x450.jpg",
                 "all_images": [
@@ -70,130 +113,68 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Remodeling wood never used.  One 4 x 8  pressurized wood; 2 pieces 7 ft. long. 85.00/Best offer"
-            },
-            {
-                "id": "7353775693",
-                "name": "Solid wood front entry entrance DOOR (Exterior)",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-solid-wood-front-entry/7353775693.html",
-                "datetime": "2021-08-07 10:35",
-                "price": "$150",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_gKEZPajqlzMz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_gKEZPajqlzMz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/01717_gKEZPajqlzMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_9g52MsmaMy3z_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Excellent condition, no damage. Has a peephole. We replaced it because we wanted one with a glass panel.36 inches x 79 3/4 inches.  The red color faces outside, and the white inside.  Standing on the left hand side is the dismantled original door frame, which you can take free Pickup near Vista Park and Branham 95136. No flakes. Venmo, zelle, apple pay, or cash accepted. Can deliver for a fee."
-            },
-            {
-                "id": "7358467650",
-                "name": "Wood d\u00e9cor pieces",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/oakland-wood-dcor-pieces/7358467650.html",
-                "datetime": "2021-08-07 10:31",
-                "price": "$2",
-                "where": "oakland rockridge / claremont",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00a0a_bqlG4GcWZHiz_05O0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00a0a_bqlG4GcWZHiz_05O0ak_600x450.jpg",
-                    "https://images.craigslist.org/00a0a_bqlG4GcWZHiz_05O0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_hq1nGr9tYc2z_05O0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_i7yplXo8zA2z_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_bBuCFeybOBJz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_3jHNtfW2Vu8z_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_735Gryd6eKsz_0lM0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_64EfaipQCZmz_0kE0bC_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Wood d\u00e9cor pieces, normally see them at doors for a nice look. Got these for a project a while back but never used  asking $2.00 each piece. Please look at the pictures for details. I am in Oakland hill by the Caldecott tunnel ."
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7357493248",
-                "name": "Vintage Crocheted Newborn or Baby Doll Clothing.",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-crocheted-newborn-or/7357493248.html",
-                "datetime": "2021-08-07 10:44",
-                "price": "$60",
-                "where": "san jose north",
+                "id": "7351535327",
+                "name": "49ers sweatshirts vintage throwback 1980's classic",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-49ers-sweatshirts-vintage/7351535327.html",
+                "datetime": "2021-08-07 11:21",
+                "price": "$35",
+                "where": "novato",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00V0V_lc8Nxlac803z_0pq0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_7m7U0WSqHozz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_9VdmTHxDMwWz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_amYbwr3AuPXz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_fY9De7WxKKMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_asY8n8HZvAyz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_jYsQtQmJcdlz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_1Mroskx3UwBz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_7UUCLSHlQwDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_eclUwRRPtVHz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_enCil4FsIyKz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_hvp0poa0jC7z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_7UhtP0Fza0dz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_jts3XaJ4Ca0z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_d1hVKAFu6jEz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00V0V_lc8Nxlac803z_0pq0t2_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_lc8Nxlac803z_0pq0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_3aQMC97gtefz_06s06s_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_cwMtIyYEV9bz_0hm0hp_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "7 Piece Lot of Vintage Crocheted or Embordered Baby or Doll Clothes - Handmade.  Estate Sale Find.  Vintage in general over all great condition.  Photo 5 and 6 shows some yellowing which I have not tried to clean.  I have not tried to wash them any of them.  Photo's are of the actual items.  If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+                "description": "2 Vintage  throwback 49ers Team of the Decade sweatshirts from the 80's, collectors special.50 / 50 blend, both made in the USA,  no visible damage. XL made by Tee Jays, and a Large by Tultex.Both for $60, or $35 each."
             },
             {
-                "id": "7362316407",
-                "name": "Vintage RayBan G-150 58mm Aviator Sunglasses",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/sausalito-vintage-rayban-mm-aviator/7362316407.html",
-                "datetime": "2021-08-07 10:22",
-                "price": "$110",
-                "where": "sausalito",
+                "id": "7357271923",
+                "name": "vintage leather bag / tote from the 1970's",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather-bag-tote/7357271923.html",
+                "datetime": "2021-08-07 11:08",
+                "price": "$25",
+                "where": "nob hill",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_9P5j4hFVPRT_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00c0c_9P5j4hFVPRT_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_9P5j4hFVPRT_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_jZ5Rd01aPlb_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_8VGpJT6dHrj_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_44AshLMzH3l_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_c98efKZxf8d_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_hoPbTeonLlT_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_cYtA6K3tXIB_0Ae0ng_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_agFLLVDOSzu_0tS0k6_50x50c.jpg"
+                    "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_600x450.jpg",
+                    "https://images.craigslist.org/00s0s_eSbaPL12Jtdz_0hY0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_4DJmQPkFcDGz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_4lggMJVhmmBz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_5xCPLLRXPkQz_0lM0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Model No. L2823. One owner. Purchased in 1991, Both lenses display the original, crisp BL laser etched logo - rather than the looser RB engraved logo adopted following the Luxottica buy-out of Bausch and Lomb in 1999. Original soft case with hard shell inner liner no longer provided with post 1999 Aviator models. Original outer box identifies B&L's corporate headquarters in Rochester,NY. Condition: excellent with no scratches on lenses and only minor wear on black frame elements consistent with age. See clips showing comparative (significantly higher) asking prices on eBay for the same model. Plenty of info easily found on the internet for those with questions. Inquiries asking if it or named item is still available will not receive a response (Ad will be taken down upon sale)"
+                "description": "vintage leather bag / tote from the 1970'sa total outfit completer!in excellent shape. 14 x 11pics of both sides - both sides have the great design....for other treats, check the more ads by this user link"
             },
             {
-                "id": "7362290485",
-                "name": "Vintage Filson Jacket",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/petaluma-vintage-filson-jacket/7362290485.html",
-                "datetime": "2021-08-07 09:44",
-                "price": "$300",
-                "where": "petaluma",
+                "id": "7362344618",
+                "name": "Vintage 1950's Sterling Silver Dutch Couple Kissing Under Umbrella PIN",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1950s-sterling/7362344618.html",
+                "datetime": "2021-08-07 11:08",
+                "price": "$30",
+                "where": "mission district",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00K0K_309pS31SQWwz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00A0A_hbL69InesGlz_0cQ0hq_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00K0K_309pS31SQWwz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00K0K_309pS31SQWwz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_k0oDW1PmMjiz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_bp6Z6xRz4Gwz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00101_4CZqT642loGz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_l48KDiQ7CF2z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_jAqgOZM5mwKz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_ihh3RhYp6D6z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_hHkQB0ZGLAbz_0lM0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00A0A_hbL69InesGlz_0cQ0hq_600x450.jpg",
+                    "https://images.craigslist.org/00A0A_hbL69InesGlz_0cQ0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_hywyt0H96ujz_0dL0hq_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_1nbLPFybZ12z_0hq0dv_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage Filson Jacket Model: 1441N Size: LargeMaterial: Waxed CottonJacket is in excellent condition. Rarely worn. No rips or tears. Repels water and muck great. Waxed cotton is nearly bomb proof. Great for a rancher or someone who likes that old timely fashion.  You do not wash waxed cotton. You hose/wipe it off and reapply the wax as needed. Waxed Cotton has a very distinct feeling and smell to it. Reminds you of being in the Australian outback on an overland adventure. If you\u2019ve ever seen an old picture of a Landrover Defender in the Congo chances are the driver had on a Filson.These jackets last forever. This one is over 50yrs old! It was given to me by my uncle but it is too small for me (6\u20195\u201d).  Made in the USA. Big YKK metal zippers. Comes with the original care instructions and the original tin of wax. Price is $300 firm. Email or text.Local pickup is preferable."
+                "description": "Vintage 1950's Sterling Silver Dutch Couple Kissing Under Umbrella Pin BroochBeautiful piece in Great ConditionMeasures 1 5/8 in length x 7/8 at its widest pointTotal weight is 5.7 gramsSHIPPING AVAILABLE*****PLEASE include a phone number with your response814"
             }
         ],
         "beaded": [
@@ -343,6 +324,48 @@
         ],
         "wedding dress": [
             {
+                "id": "7362348615",
+                "name": "FREE wedding dress - poor shape",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-free-wedding-dress-poor-shape/7362348615.html",
+                "datetime": "2021-08-07 11:14",
+                "price": "$0",
+                "where": "oakland north / temescal",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00U0U_5jihaKlXYVjz_04n030_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00U0U_5jihaKlXYVjz_04n030_600x450.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "The image is from Hot In Cleveland, but it's the same dress -- Tea length, sleeveless.Either needs significant alteration or use as scraps, or maybe as a prop. Size 6, I think.Tears and missing beads.  Is currently preserved -- they say they got the stains out.Text or email for the address."
+            },
+            {
+                "id": "7353732398",
+                "name": "Casablanca Bridal Wedding Gown / Dress",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-casablanca-bridal-wedding-gown/7353732398.html",
+                "datetime": "2021-08-07 11:08",
+                "price": "$250",
+                "where": "santa clara",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_ecrPMh7z5lnz_0aO0fn_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_ecrPMh7z5lnz_0aO0fn_600x450.jpg",
+                    "https://images.craigslist.org/01010_ecrPMh7z5lnz_0aO0fn_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_bsQZRaHsHhIz_08l0fw_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_kevb11XjeYvz_09n0fr_50x50c.jpg",
+                    "https://images.craigslist.org/01111_1KW2lDEO00Cz_0bg0fw_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_km2Dz6f8RCfz_0aA0fx_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_2VyC0OVCbHgz_0bk0do_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_h0CCh5cCQz9z_0CI0sP_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_aeoTkU9rvH1z_0ny0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_7tyuWXLXcA3z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_j4DUWoIfBcTz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Brand New Casablanca Bridal Wedding Gown / Dress Size 10 Never had alterations"
+            },
+            {
                 "id": "7362310925",
                 "name": "Priscilla of Boston Wedding Dress and Veil",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-priscilla-of-boston/7362310925.html",
@@ -362,58 +385,27 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "A gorgeous wedding dress and veil from Priscilla of Boston.  size 0-2. Worn only once and stored in original bag after cleaning."
-            },
-            {
-                "id": "7362270418",
-                "name": "Aidan Mattox - Size 8 - Fancy Dress - Prom - Wedding - New with tags",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-aidan-mattox-size-fancy-dress/7362270418.html",
-                "datetime": "2021-08-07 09:09",
-                "price": "$45",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00F0F_1LgjbtHK5Tkz_06808b_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00F0F_1LgjbtHK5Tkz_06808b_600x450.jpg",
-                    "https://images.craigslist.org/00F0F_1LgjbtHK5Tkz_06808b_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_1Jjh40FvQOaz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_e4oV24d5YDPz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_dNO8pXKJVMOz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_iUZHBpXN6fNz_0ak07K_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_hepTXJ3RfcSz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_izvbZRyE1Hz_0ak07K_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "If the ad is up, this lovely dress is still available - and waiting for just the right person.  8/7/21Brand new dress has a build-in bra.   From the arm pit to the bottom it measures 55.    Refer to pix for additional details.  Hoping this will save someone a ton of money for prom, wedding or other special occasion.  Asking $45 cash (preferred), Paypal or Venmo.  OBO.   Pick-up in North San Mateo.  Easy access from 101 or ECR/Poplar.  You may try it on on our storage unit if you wish.   Masks please.  Cross listed.   CL email to contact."
-            },
-            {
-                "id": "7356013778",
-                "name": "Vintage 1969 Venetian Lace Wedding Dress, size 2",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/el-cerrito-vintage-1969-venetian-lace/7356013778.html",
-                "datetime": "2021-08-07 06:35",
-                "price": "$55",
-                "where": "albany / el cerrito",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_l5gSaMtkrkfz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Y0Y_l5gSaMtkrkfz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00Y0Y_l5gSaMtkrkfz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_kp40yiROlwRz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_hFshH92wgDzz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_2ColysZ6Ixlz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_8ZUxKFFJvRJz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_c1q88IWtVawz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_jQuX81j0aISz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_8IxPvXOD4D2z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_3qA2yfUETfXz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_9odFrwlCkqQz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "BACKSTORY:  This is the dress my mother wore at my parents' wedding in 1969. They've been married for 52 years now, so this dress is imbued happy marriage vibes. We are hoping it goes to someone who will be excited to wear it in their own wedding.DRESS DETAILS:- This dress is in perfect condition. - White skirt and bodice with ivory venetian lace along the edges. - Purchased at Saks Fifth Avenue in Boston. - Size 2, but can be altered. - Veil included, as well as the original box the dress was delivered in.MODEL DETAILS:- Height: 5\u20192- Weight: 112 lbs- Bra: B cup- General size: S, 25/26 jeans"
             }
         ],
         "great condition": [
+            {
+                "id": "7357159013",
+                "name": "Alpinestar Mesh Motorcycle Jacket Removable Liner Great Condition",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-alpinestar-mesh/7357159013.html",
+                "datetime": "2021-08-07 10:57",
+                "price": "$90",
+                "where": "sunset / parkside",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00t0t_fOt5WplUNrGz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00t0t_fOt5WplUNrGz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00t0t_fOt5WplUNrGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_7X58JAvAHLfz_0t20CI_50x50c.jpg"
+                ],
+                "query": "great condition",
+                "category": "cla",
+                "description": "Alpinestar mesh motorcycle jacket in great condition.  Removable liner to make it even more breathable.  Comes with inner pads.  No stains, tears or scratches.  Zipper and buttons works great.  Size XL.  Asking $90.  Thanks"
+            },
             {
                 "id": "7362048581",
                 "name": "Great Condition Chelsea leather boots - 8.5M Ariat ($279 new)",
@@ -452,32 +444,6 @@
                 "query": "great condition",
                 "category": "cla",
                 "description": "My sister used 3 times. It looks great. You can check before you pay.Text or call at   ONLY when you are ready to pick up near 1600 Hopkins Drive, SAN JOSE"
-            },
-            {
-                "id": "7359234076",
-                "name": "Great condition jackets sweaters outerwear",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/ramona-great-condition-jackets-sweaters/7359234076.html",
-                "datetime": "2021-08-05 23:20",
-                "price": "$2",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00s0s_fYMvZpc8Yv8_0ew0jm_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00s0s_fYMvZpc8Yv8_0ew0jm_600x450.jpg",
-                    "https://images.craigslist.org/00s0s_fYMvZpc8Yv8_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_6Ct2Dei0zPg_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00303_aibAf7M0bdi_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_4RMloDAA5Mg_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_k7PVMWJz489_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00606_kvfnDjkA7W0_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_fXev3nLvwRo_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_5dRA0gZdqmV_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00101_icjuz5mjeNS_0ew0jm_50x50c.jpg",
-                    "https://images.craigslist.org/01010_95PO8Tg5rUT_0ew0jm_50x50c.jpg"
-                ],
-                "query": "great condition",
-                "category": "cla",
-                "description": "Great condition jackets sweaters outerwearSnow jackets rains coats wool jacket etcBuy all for 17$ or prices listed individually. Puffer jacket is new and not used."
             }
         ]
     },
@@ -859,22 +825,29 @@
                 "description": "Like new condition- still in the box and styrofoam!Huge amount of sound for the price! Good for gigging musician, home or studio.The new V50-112 two-channel combo loudly announces the new generation of Crates all-tube amplifiers. With dual 6L6 fixed biased output tubes, this bad refrigerator produces the sort of sparkling cleans and warm, thick overdrive that can only come from tubes pushed to their limit. It pumps 50 watts through a single 12 speaker, creating a muscular low end perfect for club gigs and recording sessions. Presence control, spring reverb and foot-switchable boost make sure you can dial in your custom tone from anywhere. Lesser amps will blow their fuses in fear when they see you plugging into a V50-112.Features & details50 Watts RMS1 x 12-inch speakerTwo channels2 x 6L6 output tubes, fixed biasFootswitchable Boost$349 or best offerKeyword Guit guitar guitar amplifiers amp fender Gibson Peavey Marshall Mesa boogie Ludwig Gretsch strat speaker"
             },
             {
-                "id": "7362334586",
-                "name": "Farfisa organ autographed by Ray Manzarek",
-                "url": "https://sfbay.craigslist.org/nby/msg/d/novato-farfisa-organ-autographed-by-ray/7362334586.html",
-                "datetime": "2021-08-07 10:51",
-                "price": "$500",
-                "where": "novato",
+                "id": "7362340040",
+                "name": "Marshall AVT50H 50W 2-channel amp head w reverb + no-name 2x12 cab",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/emeryville-marshall-avt50h-50w-channel/7362340040.html",
+                "datetime": "2021-08-07 11:00",
+                "price": "$125",
+                "where": "oakland north / temescal",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00z0z_iDXWPihHOaCz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00b0b_hbS1qHBizIKz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00z0z_iDXWPihHOaCz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00z0z_iDXWPihHOaCz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00303_9uyPGQGfU2Sz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00b0b_hbS1qHBizIKz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00b0b_hbS1qHBizIKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_jrfHtp4GxQXz_0CI0lg_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_gZavtVV0Ekdz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_bPNoEKxvJeiz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_idD2T88x4Asz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00505_6Q34H3gWZMMz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_477bVBZXk3yz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_g97UzJm2TBDz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_g5tGhrGnDLHz_0t20CI_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "I know...Ray used to play a Vox Continental. But the autograph happened because he was doing a book reading (he's written a few books) at Borders Books and I lent them this instrument for the event. After making sure everyone in the audience knew he wasn't a fan of the Farfisa, he did an epic solo rendering of Light My Fire, after which he said I hope you enjoyed that, because it will never happen again.The organ itself is in pretty decent cosmetic shape, but has a few issues. It's not very loud. The bass keys don't seem to work.  Several of the B-flat keys are out of tune. It worked fine at the book reading but it's been sitting around too long. If it was fully operational it would be worth $1000 without the autograph.I'm hoping someone will want it either for the autograph, or maybe someone who can fix it. Or both. It deserves a better fate than to sit in my garage for another 18 years."
+                "description": "Used but good condition 50 watt Marshall amp head, with built-in spring reverb. \u201cHybrid\u201d amp that uses a 12AX7 tube in the preamp and a solid state power amp to create a warm but stable sound. Includes power cable and foot switch for changing to the overdrive channel. This amp head is $100 for itself, or $125 with the cabinet.Please note the following:-Only the clean channel currently works, and *not* the overdrive channel (which is why this unit is priced so low, usually goes for $180 and up). This can likely be fixed, but using the clean channel through a dedicated effects pedal is often preferable anyway, and the gain on the clean channel delivers a good crunch unto itself.-The \u201cMarshall\u201d logo on the front was lost some time ago, and replaced via hot glue with plastic fridge magnets spelling \u201cFender\u201d. These can probably be removed, but I haven\u2019t tried.I also have a no-name speaker cabinet, shown here, for sale at $50 itself or together with the Marshall amp head for $125. The two 12\u201d speakers in the cabinet are also no-name but loud, and this combo is great for gigging up to mid-size venues. The cabinet dimensions are 30 high x 24 wide x 14 deep."
             }
         ],
         "famous": [
@@ -900,6 +873,22 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most solid-wood ukes. Extremely light, with excellent projection and beautiful resonance. The Famous FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Subtle striping at the soundhole is nice touch. Low action and great intonation, it's got a classic ukulele sound. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail.Reasonable offers are welcome."
             },
             {
+                "id": "7362341020",
+                "name": "Roland JC-22 Jazz Chorus 30-watt 2 Guitar Amp",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/burlingame-roland-jc-22-jazz-chorus-30/7362341020.html",
+                "datetime": "2021-08-07 11:02",
+                "price": "$375",
+                "where": "burlingame",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00i0i_cz3Ok7151ejz_0ww0oo_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00i0i_cz3Ok7151ejz_0ww0oo_600x450.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "I am selling a lightly used Roland JC-22 Jazz Chorus 30-watt 2x6.5 Stereo Combo Guitar Amp. Only used for casual guitar practice.From the Roland site:The JC-22 Jazz Chorus delivers Roland\u2019s classic JC clean tone and famous Dimensional Space Chorus effect in a compact amp that\u2019s perfect for playing at home. Offering the essential features of the popular JC-40 in an even more scaled-down size, this versatile stereo amp is also great for intimate performances and recording. A high-quality reverb complements the onboard chorus, and there\u2019s also a stereo input on the front panel for plugging in modelers, multi-effects, and stereo stomps. Built to the same standards of sound and durability that the long-running amp series is noted for, the JC-22 makes legendary JC tone more accessible than ever.Text if interested."
+            },
+            {
                 "id": "7348231201",
                 "name": "SISTRUM MUSICAL INSTRUMENT",
                 "url": "https://sfbay.craigslist.org/scz/msg/d/santa-cruz-sistrum-musical-instrument/7348231201.html",
@@ -920,30 +909,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "FOR SALE: SISTRUM MUSICAL INSTRUMENT, $60.  Replica of an ancient Sistrum (rattle).  These were used as musical percussion instruments for various rites and ceremonies.  The Sistrum first appeared in the Old Kingdom and became connected to the goddesses Isis and Hathor.  Unfortunately very few exist.  Most of the surviving ones come from the Greco-Roman era.  It\u2019s closest modern equivalent is the tambourine and is used the same way.   The Sistrum has a long handle, a frame with crossbars and small disks that rattle when shaken.  They were made of wood, stone or metal.  The word Sistrum means that which is being shaken.  The Egyptians believed that the Sistrum had magical properties. It is connected with the powers of the Goddess and symbolizes joy, fertility and eroticism.  It was believed that the Sistrum could avert the flooding of the Nile.  One of the most famous depictions of the Sistrum is in the Hathor Temple in Dendera.  You will also see depictions of the Goddess Isis with a symbol of inundation in one hand and a Sistrum in the other. All vintage, antique and used items are sold \u201cas found\u201d and are priced accordingly."
-            },
-            {
-                "id": "7362120204",
-                "name": "Behringer DM12 12-voice true analog polyphonic synthesizer",
-                "url": "https://sfbay.craigslist.org/pen/msg/d/san-mateo-behringer-dm12-12-voice-true/7362120204.html",
-                "datetime": "2021-08-06 22:25",
-                "price": "$699",
-                "where": "san mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00A0A_9xUdi3TNQ0n_09G05O_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00A0A_9xUdi3TNQ0n_09G05O_600x450.jpg",
-                    "https://images.craigslist.org/00A0A_9xUdi3TNQ0n_09G05O_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_6UeMf4YROgiz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_fZLmhfrov1jz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_4hxIRR6rE0rz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_gJh2FB1jtsFz_10l0KL_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_aZ5Y6hr0zjXz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_iL5Fh0TIc31z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_2LXplgyfI0uz_1320MM_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Since you see this ad now, it means that Deep Mind 12 is STILL AVAILABLE.Behringer's famous first analog synth, Deep Mind 12. True analog, 12-voice poly, 4x effects engines, 8x modulation matrix, 1024 patches onboard. Commonly known as Juno on steroids, the modern incarnation of Juno-106 (for the look and bunch of buttons and sliders), it's actually closer to more advanced Juno-60 and JX series. Think JX-10 with all these Juno sliders and  a PG-800 programmer built in. I had and have most of classic analog polysynths, the last one was JX-10 with Vecoven upgrade (cost me over $1300), but even that one doesn't come close to DM12 in sound, features and ease of use. Nothing can beat the feeling of just grabbing a slider and adjusting the value right away, instead of recalling parameter first, then adjusting it, then recalling another, like on JX. You can even play with two or more sliders at once, like cutoff and resonance. There's no way you can do it on any JX.12-voice polyphony does make the difference, you'll never have cut notes as it happens with 6-voice synths like Juno, JX-8P or Polysix.DM12 is analog fanatics' heaven: everything you wished an old Juno or JX had is here, already implemented. IMHO it's the dream analog polysynth: plenty of sliders on surface for instant tweaking like on Junos and Jupiters, and a large graphic display for in-depth editing (no external programmer or software editors are needed). DM12 has a lot more editable parameters than surface allows, so combination of physical sliders for most critical parameters and on-screen menus for everything else is the best, like for effects parameters (it has no less than 4 separate effects engines made by TC Electronics, makers of legendary studio rack effect units like 2290, M-One and D-Two). Plus, an insane 1024 memories onboard (instead 32 to128 on classics) make it quite usable even for live performances. I'd take it over Nord Lead, Novation Peak or Prophet-6 any day!DM12 are becoming rare, since they are no longer produced, and Behringer now is focusing on producing the exact copies of the classic synthesizers. DM12 is an original design, and while it has a lot of layout and sonic similarities with Junos, it's far more advanced and superior to all of them, in a small package with solid all-metal design.  Watch videos for sound samples, more detailed overview of features and comparisons to classic synths.https://www.youtube.com/watch?v=Ynm44MeqPfk&feature=emb_logoVery detailed tutorial: https://www.youtube.com/watch?v=So8B6HJ2chQThis DM12 is in great shape, practically new, not even a single scratch anywhere. Selling only because I mostly play live and need more universal synth like Kronos or Montage. My price is fair: they are no longer produced and becoming rare (especially in new condition like mine). Be way of online buys: some sellers won't tell you everything, and in case of problems you'll be paying for return shipment anyway, IF seller accepts returns (most don't).Low-ball offers: No reply means that your offer went straight to trash. I don't need to know how much they are on eBay, or that somebody is selling it for less or is willing to give it to you for free: if he does, go and get that one.Thanks for looking!"
             }
         ]
     }

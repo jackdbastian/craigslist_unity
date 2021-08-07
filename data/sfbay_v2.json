@@ -25,7 +25,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": " south bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -41,7 +41,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": " peninsula ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -53,6 +53,22 @@
             }
         ],
         "wood": [
+            {
+                "id": "7362496827",
+                "name": "Solid Wood Screen Door in great condtion",
+                "url": "https://sfbay.craigslist.org/scz/mat/d/santa-cruz-solid-wood-screen-door-in/7362496827.html",
+                "datetime": "2021-08-07 16:14",
+                "price": "$35",
+                "where": "santa cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00808_5jqfWNqv1LFz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00808_5jqfWNqv1LFz_0t20CI_600x450.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Vintage solid wood screen door in great condition. 32 wide.  Working handle. Screen is in very good shape with no holes or tears. Located East side Santa Cruz near Tacos Morenos,  off Water St."
+            },
             {
                 "id": "7357341821",
                 "name": "New Wood Molding 7' Long x 2 3/4\u201d Wide - 5 Pieces",
@@ -103,31 +119,30 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "I HAVE MANY MANY PIECES OF SOLID WOOD MAPLE WALNUT CHERRY WHITE OAK MAHOGANY CROWN MOLDING AND BASEBOARD AS PICTURES AVAILABLE FOR SALE ONLY $.75 AND UPI ONLY RESPOND EMAILS WITH PHONE NUMBER"
-            },
-            {
-                "id": "7348278200",
-                "name": "BRAND NEW SOLID WOOD FOR CUTTING BOARDS",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-solid-wood-for/7348278200.html",
-                "datetime": "2021-08-07 14:10",
-                "price": "$0",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00n0n_dg0rlSslukXz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00n0n_dg0rlSslukXz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00n0n_dg0rlSslukXz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_cC7qGgbZDh0z_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_4ME9CQwo49Mz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_k0S6usq1X6Yz_0x20oM_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I HAVE MANY MANY PIECES AND BOARDS OF SOLID WOOD WITH DIFFERENT SIZE AND DIFFERENT KIND OF WOOD CHERRY WALNUT MAHOGANY MAPLE EUCALYPTUS HICKORY WHITE OAK FOR CUTTING BOARDS AVAILABLE FOR SALE ONLY $.99 AND UP PER LINEAR FOOT I AM ONLY RESPOND EMAILS WITH PHONE NUMBER. THANKS"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7362496944",
+                "name": "\u201cGivenchy \u201cVintage active sport jacket, size L",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-givenchy-vintage-active/7362496944.html",
+                "datetime": "2021-08-07 16:14",
+                "price": "$35",
+                "where": "walnut creek",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00f0f_2ptx3oXSkOM_0lG0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00f0f_2ptx3oXSkOM_0lG0t2_600x450.jpg",
+                    "https://images.craigslist.org/00f0f_2ptx3oXSkOM_0lG0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_6shkiJDccdB_0lG0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_gL1KBffwDZ6_0lG0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Black with green and cream details vintage sport jacket, with lining,  gently worn, clean"
+            },
             {
                 "id": "7357527018",
                 "name": "Vintage Crocheted Newborn or Baby Doll Clothing.",
@@ -179,25 +194,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Ariat Women's Boots Brand New with Tags, Ladies women's Ariat Tall Brown Suede & Leather size 7.5Tall Pull-On Suede Uppers Leather FootPile LinedAriat Sundance size 7.5chocolate leather foot with chocolate suede shaftchocolate pile lined, medium width, 1.25 riding heel,11.5 tall,tag still attached.Gorgeous leather edging on suede shafts. $150 firm.  Fabulous Christmas gift in perfect condition.Pick up in San Francisco.Can ship at buyers expense."
-            },
-            {
-                "id": "7351493120",
-                "name": "TWELVE Name Brand Handbags Vintage, EXCELLENT Condition!",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-twelve-name-brand/7351493120.html",
-                "datetime": "2021-08-07 15:06",
-                "price": "$25",
-                "where": "half moon bay",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_8BXwTSa9nTs_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_8BXwTSa9nTs_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_8BXwTSa9nTs_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_ll9ekTgpCdq_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_1TG1cFF3467_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "I am selling TWELVE  name Brand Handbags (vintage) in excellent condition, for a total of $25.00. The lot inludes: Ganson (two), Contessa, Giani Bernini, Carryland,  Phillippe, LL Bean, Liz Claiborne (two), Nine West, Valarie Jean Clutch, and a red accessory bag. I live on the coast, in El Granada (approx. 5 miles North of Half Moon Bay), but can easily ship to anywhere at a normal cost. Thank you for your interest. *Not all bags are shown*"
             }
         ],
         "beaded": [
@@ -856,29 +852,26 @@
                 "description": "Like new condition- still in the box and styrofoam!Huge amount of sound for the price! Good for gigging musician, home or studio.The new V50-112 two-channel combo loudly announces the new generation of Crates all-tube amplifiers. With dual 6L6 fixed biased output tubes, this bad refrigerator produces the sort of sparkling cleans and warm, thick overdrive that can only come from tubes pushed to their limit. It pumps 50 watts through a single 12 speaker, creating a muscular low end perfect for club gigs and recording sessions. Presence control, spring reverb and foot-switchable boost make sure you can dial in your custom tone from anywhere. Lesser amps will blow their fuses in fear when they see you plugging into a V50-112.Features & details50 Watts RMS1 x 12-inch speakerTwo channels2 x 6L6 output tubes, fixed biasFootswitchable Boost$349 or best offerKeyword Guit guitar guitar amplifiers amp fender Gibson Peavey Marshall Mesa boogie Ludwig Gretsch strat speaker"
             },
             {
-                "id": "7362489322",
-                "name": "Sears Silvertone Tube Amp",
-                "url": "https://sfbay.craigslist.org/pen/msg/d/san-mateo-sears-silvertone-tube-amp/7362489322.html",
-                "datetime": "2021-08-07 15:55",
-                "price": "$350",
-                "where": "san mateo",
+                "id": "7359733991",
+                "name": "Vintage 70s Sun Solos II 2x12 combo",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/oakland-vintage-70s-sun-solos-ii-2x12/7359733991.html",
+                "datetime": "2021-08-07 16:07",
+                "price": "$500",
+                "where": "oakland lake merritt / grand",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00a0a_6q0TVoMp70kz_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00L0L_6VWb6rvcq3ez_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00a0a_6q0TVoMp70kz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00a0a_6q0TVoMp70kz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01111_6JZABDZoVZjz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_b94MXxljekez_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_9jKjHQB2b8jz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_dYFQ0gwaTm9z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_5hMBaHUvxNBz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00000_ewftmd9Y0xGz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_giSWTzEgt4hz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_fSM7L9SNycgz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00L0L_6VWb6rvcq3ez_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00L0L_6VWb6rvcq3ez_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_jYeDmjC7Pnuz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_3pouKnxoROSz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_6Dc7ICLnSsWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_5A8UsI1ROFWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_eWwbixorHAuz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Sears Silvertone 1484 Tube Amp  $350 or BOPower tubes are 6L6 X 2 (I think original)Still has the original preamp tubesI don't have the speaker boxSounds really good, no hum. Pretty loud   the reverb stinksHas the original 2 prong cord Speaker cord is not wired for for banana plugMore info:Vintage 1960s Silvertone 1484 Twin Twelve guitar ampThe Silvertone 1484 Twin Twelve was offered from 1963-1967 and served as the flagship gigging amp of the Sears catalog. The 1484 featured a 12AX7 preamp section and two Silvertone branded RCA 6L6GT power tubes making about 35 watts. They also came stock with twin Jensen C12Q 12 speakers. While the amp's reverb left something to be desired, the Tremolo is some of the best around. Sears contracted with the Danelectro company of Neptune, NJ to build the 1481-1485 series of amplifiers. These amps are known today for their creamy smooth drive to full out rock and roll crunchy tone.Also a great YouTube site - a 6 part series of a total rebuild of a 1484 amp.JC RubinJordan Rubin 2018"
+                "description": "Here\u2019s an excellently kept Sunn Solos II, has some really great shimmering cleans but can also get dirty! I used it for a punk band for what it\u2019s worth. Loud as hell, loaded with original Sunn transducer speakers (these are really excellent speakers)Fender Gibson Marshall peavey Roland moog hiwatt orange matamp"
             }
         ],
         "famous": [

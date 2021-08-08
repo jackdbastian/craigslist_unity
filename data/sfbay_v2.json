@@ -54,6 +54,31 @@
         ],
         "wood": [
             {
+                "id": "7362556960",
+                "name": "Wood worth over $3000",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-wood-worth-over-3000/7362556960.html",
+                "datetime": "2021-08-07 19:38",
+                "price": "$200",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Z0Z_h3rYrH9Ma1oz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Z0Z_h3rYrH9Ma1oz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00Z0Z_h3rYrH9Ma1oz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_19eVDTG3hQlz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00505_8xgBcJdrvLmz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_6vOFgfoZ4f1z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_ki2unU99UsSz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01111_54036L2GMPUz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_5FhSLLPZdqHz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_bvg1za29rA4z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_c5KPLj0VvoOz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Tons of different sizes and types of wood. See pictures. $200 for all shown in picture, worth over $3000. Emil me if interested."
+            },
+            {
                 "id": "7356938932",
                 "name": "75x52\u201d wood window",
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7356938932.html",
@@ -84,33 +109,57 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "NO EMAILS PLEASE.TEXT Paul to arrange pickup in San Jose, mention Nevada house:  Super gorgeous! 60x90 arched mahogany window $125/offer(you remove)Part of a whole house salvage sale. EVERYTHING GOES!"
-            },
-            {
-                "id": "7356547040",
-                "name": "75 ft of 5\u201d Ash wood trim $0.75/ft",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/stanford-75-ft-of-ash-wood-trim-075-ft/7356547040.html",
-                "datetime": "2021-08-07 18:59",
-                "price": "$0",
-                "where": "portola valley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00y0y_24tJu4s0kXkz_0ne0ne_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00y0y_24tJu4s0kXkz_0ne0ne_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "NO EMAILS PLEASE.Already removed: 75 ft of 1x5 solid ash trim / molding $.75/ftPick up in Portola Valley. Mention Arastradero property. TEXT Paul to arrange pickup:  .Huge whole house salvage sale - everything goes!"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
+                "id": "7361094755",
+                "name": "Vintage Industrial Wrought Iron Coat Rack",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-industrial-wrought-iron/7361094755.html",
+                "datetime": "2021-08-07 19:53",
+                "price": "$200",
+                "where": "alameda",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00C0C_hLasVDtgH5Ez_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00C0C_hLasVDtgH5Ez_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00C0C_hLasVDtgH5Ez_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_6Cu4EMsMCuaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_iZJgfI3W33Bz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00W0W_ewly5EfrPOsz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_b0O69y7IyFz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_d1o5pRzftyAz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00808_4nd3c8zyjpaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_9DwAFsZoBv2z_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Industrial Wrought Iron Coat Rack $200.00Six feet tallVery Good condition"
+            },
+            {
+                "id": "7350825261",
+                "name": "Pulicati Vintage Leather Bag",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-pulicati-vintage-leather-bag/7350825261.html",
+                "datetime": "2021-08-07 19:28",
+                "price": "$20",
+                "where": "san jose south",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00L0L_9dsH9yWm7D0z_0rT0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00L0L_9dsH9yWm7D0z_0rT0t2_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Pulicati Vintage Leather bag with zipper  closure"
+            },
+            {
                 "id": "7362551792",
-                "name": "Vintage T Shirt Lot",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-shirt-lot/7362551792.html",
+                "name": "Vintage Rock T Shirts Lot",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-rock-shirts-lot/7362551792.html",
                 "datetime": "2021-08-07 19:14",
-                "price": "$750",
+                "price": "$500",
                 "where": "bayview",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00k0k_fWKaIwpCtFyz_0CI0t2_600x450.jpg",
@@ -136,44 +185,7 @@
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Selling a lot of 14 t shirts. Asking $750 or best offerLocated in San Francisco. All are used and most are Large or XL"
-            },
-            {
-                "id": "7360632434",
-                "name": "Vintage Coach Purse",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-coach-purse/7360632434.html",
-                "datetime": "2021-08-07 18:59",
-                "price": "$20",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_guMj7LV2nUrz_0jE0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00U0U_guMj7LV2nUrz_0jE0t2_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_guMj7LV2nUrz_0jE0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_93SgjEXmD7iz_0kn0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_17jrMkaMz2yz_0CI0pO_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Black Vintage Coach Purse with outside pocket, inside zipper pocket. Good condition"
-            },
-            {
-                "id": "7352983510",
-                "name": "J Duseu vintage black shoulder bag",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-duseu-vintage-black-shoulder/7352983510.html",
-                "datetime": "2021-08-07 18:55",
-                "price": "$30",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01414_djARa3bzfsOz_0CI0sI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01414_djARa3bzfsOz_0CI0sI_600x450.jpg",
-                    "https://images.craigslist.org/01414_djARa3bzfsOz_0CI0sI_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_8NSNYNkTesxz_0xr0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "J Duseu vintage black shoulder bag 3 two zippers pockets inside (one in bottom) one open leather pocket on outside"
+                "description": "Selling a lot of 14 t shirts. Asking $500 or best offerLocated in San Francisco. All are used and most are Large or XL"
             }
         ],
         "beaded": [
@@ -324,6 +336,25 @@
         ],
         "wedding dress": [
             {
+                "id": "7361269358",
+                "name": "Wedding Dress - Allure Bridals *Size 4*",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/milpitas-wedding-dress-allure-bridals/7361269358.html",
+                "datetime": "2021-08-07 19:33",
+                "price": "$400",
+                "where": "milpitas",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Z0Z_hFhVQUQQtFOz_0ew0jk_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Z0Z_hFhVQUQQtFOz_0ew0jk_600x450.jpg",
+                    "https://images.craigslist.org/00Z0Z_hFhVQUQQtFOz_0ew0jk_50x50c.jpg",
+                    "https://images.craigslist.org/00606_5765tQtxJFnz_0ew0jk_50x50c.jpg",
+                    "https://images.craigslist.org/01313_5P8TfLKnGaFz_0ew0jk_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "https://allurebridals.com/style/9664Worn once, professionally dry cleaned.Please text! :D"
+            },
+            {
                 "id": "7362554175",
                 "name": "Wedding dress(new)",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/union-city-wedding-dressnew/7362554175.html",
@@ -370,30 +401,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Gorgeous Sophia Tolli designer wedding dress, size 8, never worn. Fit and flare style with keyhole back, illusion cap sleeves and full train. Beautiful beading and lace embellishments. Unfortunately, altering this dress to fit me (I'm Size 0) turned out to be *way* more expensive than I was led to believe by the bridal shop. Hence me buying another dress in my size and selling this one.This bridal dress is brand new. While I bought it on sale, the original price was over $1,600. Asking $299 OBO."
-            },
-            {
-                "id": "7359592338",
-                "name": "vintage satin & lace wedding dress and veil Victorian style",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-vintage-satin-lace-wedding-dress/7359592338.html",
-                "datetime": "2021-08-07 18:24",
-                "price": "$25",
-                "where": "novato",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00r0r_82icY1ZETGNz_0eC0pO_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00r0r_82icY1ZETGNz_0eC0pO_600x450.jpg",
-                    "https://images.craigslist.org/00r0r_82icY1ZETGNz_0eC0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_le6dRKpBGYKz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_kmsKAwyGvgyz_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_3fTFejoNW9Vz_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_l1LcjAMpeNQz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_aoxY7uGOiU1z_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_8uLqzNwawliz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00505_70r5kH4NSNgz_0ju0pO_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Wrinkled - it's been boxed for a long time.There aren't any labels inside, so either the label was removed or this is custom made.Open back. Leg-of-mutton sleeves. Bow at back.Sleeves - 24Shoulder to shoulder across the back - 17Waist - 34From waist at front down to hem - 27 (it's longer in the back)"
             }
         ],
         "great condition": [
@@ -837,20 +844,28 @@
                 "description": "Like new condition- still in the box and styrofoam!Huge amount of sound for the price! Good for gigging musician, home or studio.The new V50-112 two-channel combo loudly announces the new generation of Crates all-tube amplifiers. With dual 6L6 fixed biased output tubes, this bad refrigerator produces the sort of sparkling cleans and warm, thick overdrive that can only come from tubes pushed to their limit. It pumps 50 watts through a single 12 speaker, creating a muscular low end perfect for club gigs and recording sessions. Presence control, spring reverb and foot-switchable boost make sure you can dial in your custom tone from anywhere. Lesser amps will blow their fuses in fear when they see you plugging into a V50-112.Features & details50 Watts RMS1 x 12-inch speakerTwo channels2 x 6L6 output tubes, fixed biasFootswitchable Boost$349 or best offerKeyword Guit guitar guitar amplifiers amp fender Gibson Peavey Marshall Mesa boogie Ludwig Gretsch strat speaker"
             },
             {
-                "id": "7362551342",
-                "name": "Slide Guitar",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/san-leandro-slide-guitar/7362551342.html",
-                "datetime": "2021-08-07 19:12",
-                "price": "$20",
-                "where": "san leandro",
+                "id": "7358953827",
+                "name": "BillM Mods Limited Edition Tweed Fender Blues Junior",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/dublin-billm-mods-limited-edition-tweed/7358953827.html",
+                "datetime": "2021-08-07 19:50",
+                "price": "$650",
+                "where": "dublin / pleasanton / livermore",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01616_4x9bLLeSIWBz_0lM0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00z0z_gnT6AymXK8uz_0t20t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01616_4x9bLLeSIWBz_0lM0t2_600x450.jpg"
+                    "https://images.craigslist.org/00z0z_gnT6AymXK8uz_0t20t2_600x450.jpg",
+                    "https://images.craigslist.org/00z0z_gnT6AymXK8uz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_92wkGdY3Zzrz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_1fXs37nW6GAz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_4w8reXwi15uz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_hTFFFZnn7tqz_0CI0hr_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_d5NfViXna9sz_0hr0CI_50x50c.jpg",
+                    "https://images.craigslist.org/01313_1xYQmdEmxB0z_0hr0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_21RWOkebzpyz_0t20t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Slide Guitar\t\t\t$20. Finish has been removed so it\u2019s loud! If you look closely at the sound hole you\u2019ll see there\u2019s a metal pipe running through the body of the guitar, parallel to the strings. That\u2019ll keep the neck from warping! And the metal bar adds a certain something to this guitar. The action is set at the right height for slide guitar but too high for regular guitar playing. The strings and tuning pegs are pretty old."
+                "description": "Excellent Condition,  great sounding Blues Jr with many upgrades and mods to make this an outstanding,  versatile amp. Upgrades: Mod reverb tankCannabis Rex speakerMesa el84 tubesTO-20 Allen Amplification/Heyboer Output TransformerNew,  quality capacitorsInput jackVarious Bill M/Frommel mods... tone stack, twin stack,  bias cooling. This amp sounds great,  is very versatile with master volume,  and is plenty loud with the upgraded pt, if that's what you're looking for. Local pickup,  cash only,  not looking for trades,  thanks. Let me know if you have questions by text or call only please. No emails... spam, bot virus, etc. Nine two5, 78 five four 19 sevenThanks!"
             }
         ],
         "famous": [

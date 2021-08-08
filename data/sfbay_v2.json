@@ -54,6 +54,25 @@
         ],
         "wood": [
             {
+                "id": "7362510135",
+                "name": "Brand new unpainted wood cabinet doors, approx 12\" x 16\"",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/mountain-view-brand-new-unpainted-wood/7362510135.html",
+                "datetime": "2021-08-07 16:49",
+                "price": "$15",
+                "where": "mountain view",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00P0P_hptPoZGnt7J_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00P0P_hptPoZGnt7J_600x450.jpg",
+                    "https://images.craigslist.org/00P0P_hptPoZGnt7J_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_6R73ycz6QPW_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_jRSwewIteBR_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "paint grade door frontsI believe this is mapleinset panels12.25 x 16I also have another door of the same size and very similar style.CASH only"
+            },
+            {
                 "id": "7362496827",
                 "name": "Solid Wood Screen Door in great condtion",
                 "url": "https://sfbay.craigslist.org/scz/mat/d/santa-cruz-solid-wood-screen-door-in/7362496827.html",
@@ -87,43 +106,51 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "5 Pieces of new moulding.  If interested please call or text  Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
-            },
-            {
-                "id": "7356237591",
-                "name": "BRAND NEW SOLID WOOD CROWN MOLDING",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-brand-new-solid-wood-crown/7356237591.html",
-                "datetime": "2021-08-07 14:13",
-                "price": "$0",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_lukAXBiaLCiz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00q0q_lukAXBiaLCiz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_lukAXBiaLCiz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_cs9FGGl2HF2z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_ayR0plG5i7Mz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_ilMMUoaw9Ajz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_if0rkj9s4w8z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_5hFi8gqA47Lz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_fBf3HlZnxYWz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_69Jof65ZXKbz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_lk8eGbQNJjDz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_6Agh92ldE6jz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_b9usIh9syb2z_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_bhNZvQi1GEIz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00404_6SZKUD5RlsCz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_8m0PMDuOcvwz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_BbuuQMWDSnz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_2B3i8EFdK88z_05r07g_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I HAVE MANY MANY PIECES OF SOLID WOOD MAPLE WALNUT CHERRY WHITE OAK MAHOGANY CROWN MOLDING AND BASEBOARD AS PICTURES AVAILABLE FOR SALE ONLY $.75 AND UPI ONLY RESPOND EMAILS WITH PHONE NUMBER"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7355930120",
+                "name": "Concert shirts vintage shirts large",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-concert-shirts-vintage/7355930120.html",
+                "datetime": "2021-08-07 16:29",
+                "price": "$2,200",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00r0r_5lVJj0cwgJsz_0ew0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00r0r_5lVJj0cwgJsz_0ew0jm_600x450.jpg",
+                    "https://images.craigslist.org/00r0r_5lVJj0cwgJsz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00909_fvp5aHLfwdKz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/01010_1ku34UC31zez_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_jCN509ep04rz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_anCA21WXaIaz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_839G9T5kbXXz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_io6IEumzkxzz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_4e47OfTqJwkz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_bUuETpFmM7Wz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/01414_7yxMxBt3xWnz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00808_3G6RrRFx9jgz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00404_57cJ722kBVaz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_45AFrpw6tsAz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_b5ZS5csQuAHz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_1PuzNG9K2t9z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_k61fkcmt4nXz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_9olgmop9mx0z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_5MR3EFOH9w7z_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00707_4jRPBqdCJGrz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_iq7G0Jc4FYSz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_jn0t8STQelpz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_1ohS9jLltpJz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_aJBxv15o5whz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_1SnbosX3ITez_0ew0jm_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Great concert shirts lot $2200 cash Sammy Hagar Doobie Brothers the cars Van Halen grateful dead and many others total of 21 shirts all large baseball style shirts"
+            },
             {
                 "id": "7362496944",
                 "name": "\u201cGivenchy \u201cVintage active sport jacket, size L",
@@ -173,27 +200,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "7 Piece Lot of Vintage Crocheted or Embordered Baby or Doll Clothes - Handmade.  Estate Sale Find.  Vintage in general over all great condition.  Photo 5 and 6 shows some yellowing which I have not tried to clean.  I have not tried to wash them any of them.  Photo's are of the actual items.  If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
-            },
-            {
-                "id": "7359348673",
-                "name": "Ariat Boots 7-1/2 Women's Brand New Brown",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/ariat-boots-womens-brand-new-brown/7359348673.html",
-                "datetime": "2021-08-07 15:20",
-                "price": "$150",
-                "where": "haight ashbury",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00r0r_b2QqhqCuygb_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00r0r_b2QqhqCuygb_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00r0r_b2QqhqCuygb_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00505_3iLnMTRqU02_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00202_A5sGvHnYZM_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_7unWDqdRxRX_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_1KoPTl8fckx_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Ariat Women's Boots Brand New with Tags, Ladies women's Ariat Tall Brown Suede & Leather size 7.5Tall Pull-On Suede Uppers Leather FootPile LinedAriat Sundance size 7.5chocolate leather foot with chocolate suede shaftchocolate pile lined, medium width, 1.25 riding heel,11.5 tall,tag still attached.Gorgeous leather edging on suede shafts. $150 firm.  Fabulous Christmas gift in perfect condition.Pick up in San Francisco.Can ship at buyers expense."
             }
         ],
         "beaded": [
@@ -306,7 +312,7 @@
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-lorenzo-houndstooth-gloves-and-scarf/7358195181.html",
                 "datetime": "2021-08-07 11:32",
                 "price": "$35",
-                "where": "San Lorenzo",
+                "where": "San Lorenzo east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00J0J_bHzBDeJkRrXz_0CI0na_600x450.jpg",
                 "all_images": [
@@ -700,7 +706,7 @@
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/san-leandro-2014-jeep-wrangler/7361596061.html",
                 "datetime": "2021-08-05 19:39",
                 "price": "$34,991",
-                "where": "San Leandro east bay area ",
+                "where": "San Leandro",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_600x450.jpg",
                 "all_images": [
@@ -852,26 +858,26 @@
                 "description": "Like new condition- still in the box and styrofoam!Huge amount of sound for the price! Good for gigging musician, home or studio.The new V50-112 two-channel combo loudly announces the new generation of Crates all-tube amplifiers. With dual 6L6 fixed biased output tubes, this bad refrigerator produces the sort of sparkling cleans and warm, thick overdrive that can only come from tubes pushed to their limit. It pumps 50 watts through a single 12 speaker, creating a muscular low end perfect for club gigs and recording sessions. Presence control, spring reverb and foot-switchable boost make sure you can dial in your custom tone from anywhere. Lesser amps will blow their fuses in fear when they see you plugging into a V50-112.Features & details50 Watts RMS1 x 12-inch speakerTwo channels2 x 6L6 output tubes, fixed biasFootswitchable Boost$349 or best offerKeyword Guit guitar guitar amplifiers amp fender Gibson Peavey Marshall Mesa boogie Ludwig Gretsch strat speaker"
             },
             {
-                "id": "7359733991",
-                "name": "Vintage 70s Sun Solos II 2x12 combo",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/oakland-vintage-70s-sun-solos-ii-2x12/7359733991.html",
-                "datetime": "2021-08-07 16:07",
-                "price": "$500",
-                "where": "oakland lake merritt / grand",
+                "id": "7362502121",
+                "name": "Line 6 Vetta II Combo Amp",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/santa-clara-line-vetta-ii-combo-amp/7362502121.html",
+                "datetime": "2021-08-07 16:27",
+                "price": "$300",
+                "where": "santa clara",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_6VWb6rvcq3ez_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01313_idRZyKyurw5z_0kE0eN_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00L0L_6VWb6rvcq3ez_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_6VWb6rvcq3ez_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01515_jYeDmjC7Pnuz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_3pouKnxoROSz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_6Dc7ICLnSsWz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_5A8UsI1ROFWz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_eWwbixorHAuz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/01313_idRZyKyurw5z_0kE0eN_600x450.jpg",
+                    "https://images.craigslist.org/01313_idRZyKyurw5z_0kE0eN_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_asGTp0UVdmOz_0kE0bW_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_68pcCN9isF9z_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_7uoXfxcuyqcz_0kE0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_kQkcexlVUE7z_0fu0kE_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_e7isDZ7R6Ckz_0fu0kE_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "Here\u2019s an excellently kept Sunn Solos II, has some really great shimmering cleans but can also get dirty! I used it for a punk band for what it\u2019s worth. Loud as hell, loaded with original Sunn transducer speakers (these are really excellent speakers)Fender Gibson Marshall peavey Roland moog hiwatt orange matamp"
+                "description": "This is a very versatile amp and has great features that most modeling amps today still don't have, such as running two amp simulations at once. It gets LOUD.I haven't used it much in the last few years, but fired it up and ran through the menus and various settings, and everything still works great. There are a few minor tears in the tolex, but overall it's in good shape. Includes the original manual.This includes the Armin Mod (normally $70) which provides cab models which are much better than the originals, and replaces the generic model/brand names with the real ones (e.g. Roland\u00ae '87 Jazz Chorus instead of 87 Jazz Clean 120). See https://www.soundside.de/shop/VettaToolkit2.5.htmI also have an FBV Express and an FBV Longboard for sale if you're interested in a foot controller to go with it.Vetta II Combo Features\u2022 150-watts stereo\u2022 2x12 Custom Celestion\u00ae Speaker \u2013 brilliant, versatile speakers custom-voiced to handle any sound you can create\u2022 65 lbs. (30kg)\u2022 29W x 20H x 10.1D (74cm x 51cm x 26cm)\u2022 70+ classic and modern amp models \u2013 choose any two to best fit your song\u2022 27 speaker cabinet models \u2013 mix and match with amp models to create a truly unique combination\u2022 Over 50 stompbox and studio effects models (including filter and synth) \u2013 color your sound any way you like\u2022 A.I.R.\u2122 II with 6 different mic models and positions \u2013 adjust the room ambience to add more vibe to your sound\u2022 Unique Line 6 features like Two Amps at Once and Double Tracker \u2013 sound bigger than you ever thought possible\u2022 Wet/Dry cabinet support \u2013 preserve the integrity of your amp tone while using multiple effects\u2022 Supports Digital and Analog Re-Amping \u2013 record a dry signal and change your sound after it has been recorded\u2022 Stereo XLR balanced +4dBu direct outputs (with ground lift switch) \u2013 patch directly into a mixing board or PA\u2022 Stereo 1/4-inch unbalanced \u201310dBV direct outs \u2013 another way to patch directly into a mixing board or PA\u2022 AES/EBU and S/PDIF digital audio ins and outs (up to 24-bit/96k) \u2013 record your guitar at the highest resolution possible\u2022 Variax digital guitar input \u2013 provide power to your Variax and adds guitar models to your setup\u2022 Saves Variax settings in each patch \u2013 change entire rigs with the press of a button\u2022 1/4-inch programmable stereo effects loop \u2013 add even more of your own effects\u2022\u00a0MIDI in and out \u2013 full MIDI implementation to go even deeper\u2022 Chromatic Tuner \u2013 stay in tune with our most accurate tuner everMore info from Line 6: https://line6.com/legacy/vettaii/"
             }
         ],
         "famous": [

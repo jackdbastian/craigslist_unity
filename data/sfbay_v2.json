@@ -25,7 +25,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": " south bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -41,7 +41,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": " peninsula ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [

@@ -25,7 +25,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": null,
+                "where": " south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -41,7 +41,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": null,
+                "where": " peninsula ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -117,6 +117,25 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7362891773",
+                "name": "Vintage 1940s Necktie",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1940s-necktie/7362891773.html",
+                "datetime": "2021-08-08 15:22",
+                "price": "$25",
+                "where": "marina / cow hollow",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00707_9QfRMEGj3I2z_0jm0pO_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00707_9QfRMEGj3I2z_0jm0pO_600x450.jpg",
+                    "https://images.craigslist.org/00707_9QfRMEGj3I2z_0jm0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_d9jK3CKVjw4z_0bZ0pO_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_8PraX2E8FVPz_0pO0hy_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Wide 1940s Neck Tie.Width is 4.25."
+            },
+            {
                 "id": "7357586699",
                 "name": "Vintage Ray Ban Aviators",
                 "url": "https://sfbay.craigslist.org/nby/clo/d/cotati-vintage-ray-ban-aviators/7357586699.html",
@@ -162,30 +181,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Beautiful old pair of  vintage leather work boots, leather is in fine condition, ready to wear.. . See tape measurements. Should be 8.5 - 9...maybe 9.5  size. if you want to pay with paypal, and I can mail them for $30 more. shoe shoes vnt antique person mens job rustic ranch boot western red wing Irish setter  p10pp style distressed hunt hunting fish fishing outdoor outdoors country USA TALL ! not steel toe water proof waterproof gore tex goretex hunt hunting working job site retro lace up sport sporting Montgomery wards power house powrhouse powr 60"
-            },
-            {
-                "id": "7351898805",
-                "name": "14 BOOTS MENS LEATHER black motorcycle steel toe vintage pull on ridin",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-14-boots-mens-leather-black/7351898805.html",
-                "datetime": "2021-08-08 14:07",
-                "price": "$140",
-                "where": "sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_hRA4yH9YQ5D_084063_50x50c.jpg",
-                    "https://images.craigslist.org/01010_avsCnS76flg_084063_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_9hzxHEjWxZH_063084_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_9DvG96TOiGP_063084_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_cH5mxZMBNQ8_063084_50x50c.jpg",
-                    "https://images.craigslist.org/00101_5Xeyn0nBfNs_084063_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_gzchrzWuNfT_084063_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_2JCWUrJlTYp_084063_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "steel toe, good for riding, or just as work safety boots.14 BOOTS MENS LEATHER black motorcycle steel toe vintage pull on riding work old work ride riding shop garage gear clothing shoe shoes  boot men mens western cowboy large p10pp xl size ren faire costume cosplay larp sca guildbiker bike ride riding goth sca"
             }
         ],
         "beaded": [
@@ -252,6 +247,27 @@
         ],
         "gloves": [
             {
+                "id": "7357756542",
+                "name": "Merino Wool Gloves & Scarf",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-merino-wool-gloves-scarf/7357756542.html",
+                "datetime": "2021-08-08 15:25",
+                "price": "$40",
+                "where": "berkeley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00C0C_2Jd5vBLz2Bc_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00C0C_2Jd5vBLz2Bc_600x450.jpg",
+                    "https://images.craigslist.org/00C0C_2Jd5vBLz2Bc_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_dW2CUY7we2h_50x50c.jpg",
+                    "https://images.craigslist.org/01212_5AI7PGeWzhr_50x50c.jpg",
+                    "https://images.craigslist.org/00202_8VCFKvtKhiW_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_kMpdw0cULFO_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Banana Republic scarf and pair of glovesSize: LargeIn excellent condition: Extra Fine Italian Merino WoolPerfect for SFBA chill."
+            },
+            {
                 "id": "7362837499",
                 "name": "Ski gloves & mittens",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/ski-gloves-mittens/7362837499.html",
@@ -284,24 +300,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "I have two pairs of embroidered leather gloves that came from a trip to Italy many years ago.  One pair is creamy white with embroidery and cutouts, perfect for a summer wedding; the other black with less obvious embroidery, good for any time of year.  They are very soft fine leather, and a fairly small size 6.5.  $20 for each pair.I live in a gated community at Marina Bay, just off 580 in Richmond."
-            },
-            {
-                "id": "7359316299",
-                "name": "Shawl and Dress Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-shawl-and-dress-gloves/7359316299.html",
-                "datetime": "2021-08-08 08:02",
-                "price": "$10",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00k0k_36eyVomHXLQ_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00k0k_36eyVomHXLQ_600x450.jpg",
-                    "https://images.craigslist.org/00k0k_36eyVomHXLQ_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_8L3AQKpi0ci_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Beautiful shawl - $10Dress gloves (two pair ) - $10Cash only and please arrange for pickup in Dublin."
             }
         ],
         "wedding dress": [
@@ -485,6 +483,31 @@
     "cars": {
         "drives great": [
             {
+                "id": "7362888680",
+                "name": "2003 Bmw 330I Sedan Runs-Drives Great",
+                "url": "https://sfbay.craigslist.org/sfc/cto/d/san-francisco-2003-bmw-330i-sedan-runs/7362888680.html",
+                "datetime": "2021-08-08 15:11",
+                "price": "$3,200",
+                "where": "inner sunset / UCSF",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00c0c_7ymaqQEmq6Tz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00c0c_7ymaqQEmq6Tz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00c0c_7ymaqQEmq6Tz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_lSSbjMptDxxz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_6xNmaBqN4uuz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_hwBxNdJoBXUz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_1pvWIbWIWrAz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00000_eVoIDAS0fg5z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_5M6v8lY5Hpxz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_SJZjrLZvf5z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_fmMMPPyqH9yz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "Selling My 2003 Bmw 330i Sedan Runs And Drives Excellent No Mechanical Issues Automatic Transmission I\u2019ve Recently Replaced It\u2019s Timing chain Water Pump Breaks Battery Coils Spark Plugs And Tires Are Fairly New Has 150k Miles Which Is Considered Low Mileage For It\u2019s Year Interior Is In Good Shape For It\u2019s AgeExterior Also In Good Shape For It\u2019s Age No Major Dents Or Scratches Although You Have To Expect Some Dings And Little Scrapes Here And There Clean Title Current Smog Along With Registration FULLY Loaded Power Everything Windows Door Locks Mirrors Power Seats Moon Roof Bluetooth Amfm Ac Heater Cruise Control Tilt Wheel Ect Call If Interested   Thanks"
+            },
+            {
                 "id": "7362854396",
                 "name": "2004 BMW X3- One owner-AWD-Ex Cond-runs and drives great",
                 "url": "https://sfbay.craigslist.org/eby/cto/d/oakland-2004-bmw-x3-one-owner-awd-ex/7362854396.html",
@@ -554,43 +577,6 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2013  Toyota Priusclean title. smog check.85,xxx miles.  low for year.drives great.clean in and out.gas saver!!!  45+ mpg.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
-            },
-            {
-                "id": "7359179478",
-                "name": "2011 ACURA TSX ^ CLEAN TITLE. SMOG CHECK.   GAS SAVER!!!  DRIVES GREAT",
-                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2011-acura-tsx-clean-title-smog/7359179478.html",
-                "datetime": "2021-07-31 17:35",
-                "price": "$11,999",
-                "where": "fremont / union city / newark",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_bVIl86fEjj3z_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00d0d_bVIl86fEjj3z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00d0d_bVIl86fEjj3z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_byvFBcElE8Zz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_6diKQk7aymJz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_kwHCc3jcKmez_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_jfHLMX6VUJBz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_33fxSchrdYzz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_iAyHMzN202Wz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_lJdXhpReVzZz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_lFmkTI56DKtz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_c6rJEZR5D5fz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_hBDKoEUVHgAz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_bUS4vr30heQz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_5bk8tl0Q8Ndz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_e3EjjKJu22az_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_9aqQg4fDhs5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_3wKIewzFhwBz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_lovvjXzY33wz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_1q05inD84lkz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_anVXf0zJErbz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_dCwE9OVB3lPz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_fbqQ8rPypgz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2011 Acura tsxclean title. smog check.115,xxx miles.drives great.automatic transmission. shifts smooth.cold a/c.  heated leather seats.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [

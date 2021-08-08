@@ -54,6 +54,25 @@
         ],
         "wood": [
             {
+                "id": "7362517724",
+                "name": "Plywood wood veneer sheets",
+                "url": "https://sfbay.craigslist.org/scz/mat/d/scotts-valley-plywood-wood-veneer-sheets/7362517724.html",
+                "datetime": "2021-08-07 17:11",
+                "price": "$3",
+                "where": "scotts valley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00M0M_ca9MiTzhorzz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00M0M_ca9MiTzhorzz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00M0M_ca9MiTzhorzz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_lV92aQ4uQjrz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_WIZWYw8TiFz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Thin plywood with wood veneer, 12 sheets total. You don't need to buy them all, but you do have to come pick them up!8ft x 4ft About 3mm thick12 sheets totalText if interested: 6one9 218 28zero8"
+            },
+            {
                 "id": "7362510135",
                 "name": "Brand new unpainted wood cabinet doors, approx 12\" x 16\"",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/mountain-view-brand-new-unpainted-wood/7362510135.html",
@@ -87,30 +106,57 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Vintage solid wood screen door in great condition. 32 wide.  Working handle. Screen is in very good shape with no holes or tears. Located East side Santa Cruz near Tacos Morenos,  off Water St."
-            },
-            {
-                "id": "7357341821",
-                "name": "New Wood Molding 7' Long x 2 3/4\u201d Wide - 5 Pieces",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-new-wood-molding-long-wide/7357341821.html",
-                "datetime": "2021-08-07 15:35",
-                "price": "$30",
-                "where": "San Jose",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_9lf7NSERzT1z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_32qGLpIANW0z_0qA0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "5 Pieces of new moulding.  If interested please call or text  Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
             }
         ]
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7360966066",
+                "name": "Coach Vintage Authentic Black  Briefcase",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-coach-vintage-authentic/7360966066.html",
+                "datetime": "2021-08-07 17:26",
+                "price": "$60",
+                "where": "pacific heights",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00P0P_a3nfc0IPfS1z_0ak07K_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00P0P_a3nfc0IPfS1z_0ak07K_600x450.jpg",
+                    "https://images.craigslist.org/00P0P_a3nfc0IPfS1z_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_keGjV8Iqecnz_07K0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_5eS7lfMqBr1z_07K0ak_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Coach Vintage Authentic Black  BriefcaseHard to Find100% Hard Leather"
+            },
+            {
+                "id": "7362519117",
+                "name": "Vintage clothes",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/gilroy-vintage-clothes/7362519117.html",
+                "datetime": "2021-08-07 17:16",
+                "price": "$100",
+                "where": "gilroy",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00J0J_4hxcfQYuUU5z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_atfbO4R4l3Oz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_gfFNclyiy1Bz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_9fyyvtJrx0iz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_gC6NqMHGMsxz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_2CXZPERdywGz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_hdkLjmh3bIhz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01515_JKUbnv8xTVz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_879W5OX1Xpbz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_dHDsRPdAgmcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_6pA55sUyQprz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Selling some vintage clothes. The brown jacket is corduroy and the black and grey jackets are members only. All are in good condition but will need a good cleaning. Haven\u2019t been worn or used in years. I would prefer to sell as a lot, so please no offers on individual items. I prefer text so please let me know if you\u2019re interested."
+            },
             {
                 "id": "7355930120",
                 "name": "Concert shirts vintage shirts large",
@@ -150,56 +196,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Great concert shirts lot $2200 cash Sammy Hagar Doobie Brothers the cars Van Halen grateful dead and many others total of 21 shirts all large baseball style shirts"
-            },
-            {
-                "id": "7362496944",
-                "name": "\u201cGivenchy \u201cVintage active sport jacket, size L",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-givenchy-vintage-active/7362496944.html",
-                "datetime": "2021-08-07 16:14",
-                "price": "$35",
-                "where": "walnut creek",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00f0f_2ptx3oXSkOM_0lG0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00f0f_2ptx3oXSkOM_0lG0t2_600x450.jpg",
-                    "https://images.craigslist.org/00f0f_2ptx3oXSkOM_0lG0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_6shkiJDccdB_0lG0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_gL1KBffwDZ6_0lG0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Black with green and cream details vintage sport jacket, with lining,  gently worn, clean"
-            },
-            {
-                "id": "7357527018",
-                "name": "Vintage Crocheted Newborn or Baby Doll Clothing.",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-crocheted-newborn-or/7357527018.html",
-                "datetime": "2021-08-07 15:33",
-                "price": "$60",
-                "where": "san jose north",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_7m7U0WSqHozz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01414_9VdmTHxDMwWz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_amYbwr3AuPXz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_fY9De7WxKKMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_asY8n8HZvAyz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_jYsQtQmJcdlz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_1Mroskx3UwBz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_7UUCLSHlQwDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_eclUwRRPtVHz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_enCil4FsIyKz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_hvp0poa0jC7z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_7UhtP0Fza0dz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00404_jts3XaJ4Ca0z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_d1hVKAFu6jEz_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "7 Piece Lot of Vintage Crocheted or Embordered Baby or Doll Clothes - Handmade.  Estate Sale Find.  Vintage in general over all great condition.  Photo 5 and 6 shows some yellowing which I have not tried to clean.  I have not tried to wash them any of them.  Photo's are of the actual items.  If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
             }
         ],
         "beaded": [
@@ -312,7 +308,7 @@
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-lorenzo-houndstooth-gloves-and-scarf/7358195181.html",
                 "datetime": "2021-08-07 11:32",
                 "price": "$35",
-                "where": "San Lorenzo east bay area ",
+                "where": "San Lorenzo",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00J0J_bHzBDeJkRrXz_0CI0na_600x450.jpg",
                 "all_images": [
@@ -350,6 +346,26 @@
         ],
         "wedding dress": [
             {
+                "id": "7360006682",
+                "name": "Reduced! Mori Lee Wedding dress",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-reduced-mori-lee-wedding/7360006682.html",
+                "datetime": "2021-08-07 16:59",
+                "price": "$350",
+                "where": null,
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00202_fXs3sFXjT3Y_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00202_fXs3sFXjT3Y_600x450.jpg",
+                    "https://images.craigslist.org/00202_fXs3sFXjT3Y_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_9oRp9hskg68_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_49iCaQF5rpg_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_koLqvsiTvIC_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Price reduced! I have a new, with Tags, Mori lee Lucille wedding dress for sale. Size 6, unaltered. Was $858This Strapless Organza Ball Gown with Satin Neckline Cuff and Waistline Bow Detail, Creates a Timeless Look. Brand new, never worn with tags. Purchased in sample sale. Belt has been removed but is included and easily reattached. The train is absolutely stunning and it has pockets!"
+            },
+            {
                 "id": "7356283150",
                 "name": "NEW Ralph Lauren Evening/Wedding dress",
                 "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-new-ralph-lauren-evening/7356283150.html",
@@ -375,30 +391,6 @@
                 "datetime": "2021-08-07 11:55",
                 "price": "$125",
                 "where": "fairfield / vacaville",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00909_eimARlu4KJwz_0MM132_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00909_eimARlu4KJwz_0MM132_600x450.jpg",
-                    "https://images.craigslist.org/00909_eimARlu4KJwz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_io1l2JflXfTz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_htTATW97jJLz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_6EWnFxKrqj0z_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_pEHUS7sRz0z_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_cqco890LyyVz_0MM132_50x50c.jpg",
-                    "https://images.craigslist.org/00k0k_d1nFdaO1VKBz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_4PHmWmshetlz_0oc0wg_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Wedding Dress For Sale. $125.00David\u2019s Bridal Michaelangelo White Halter A-Line Beaded Lace Gown.Size 10. Pre-owned and is in good condition. The train is slightly dirty and needs to be dry cleaned. Beautiful lace applique from top to bottom, front and back. See-through lacing all around entire bottom of gorgeous chapel long train. Plenty of sparkles in light. Absolutely a gorgeous dress!The Wedding Dress/Gown is located in Vallejo.I will ONLY reply on this safe email or your phone number.Thanks for looking at my ad."
-            },
-            {
-                "id": "7362370721",
-                "name": "Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/vallejo-wedding-dress/7362370721.html",
-                "datetime": "2021-08-07 11:52",
-                "price": "$125",
-                "where": "concord / pleasant hill / martinez",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00909_eimARlu4KJwz_0MM132_600x450.jpg",
                 "all_images": [
@@ -903,6 +895,25 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most solid-wood ukes. Extremely light, with excellent projection and beautiful resonance. The Famous FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Subtle striping at the soundhole is nice touch. Low action and great intonation, it's got a classic ukulele sound. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail.Reasonable offers are welcome."
             },
             {
+                "id": "7362508873",
+                "name": "Vintage SOVIET Polivoks analog synthesizer",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/oakland-vintage-soviet-polivoks-analog/7362508873.html",
+                "datetime": "2021-08-07 17:19",
+                "price": "$1,500",
+                "where": "oakland lake merritt / grand",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00k0k_1W5ToKZG3K1z_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00k0k_1W5ToKZG3K1z_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00k0k_1W5ToKZG3K1z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_eXMS58rUleTz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_fMxYWPFLZF0z_0t20CI_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "If you\u2019re looking at this you probably know what it is, but I\u2019ll explain anyways! Here\u2019s an excellent condition Polivoks synthesizer, the Soviet minimoog. It is obviously famous for its unique filter, that ranges from smooth and sweet to screaming and powerful really quickly. But this thing isn\u2019t all evil bass and distorted leads! It can get some smooth, really moog/arp like tones! I love it, but I just invested in a modular system and it\u2019s time to prune the collection sadly. It has the midi mod installed, so you can forgo using the notoriously awful keyboard, which I can testify is not good. There are some quirks about this synth that you can look up online, or if you\u2019re interested I\u2019d be happy to show!Moog korg synth analog Roland Juno space echo eurorack Yamaha"
+            },
+            {
                 "id": "7362459444",
                 "name": "Ampex Tape Machine",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-ampex-tape-machine/7362459444.html",
@@ -931,24 +942,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Up for sale is a vintage Ampex AG-350 transport with road case plus a extra transport for parts and the manual. This is a two track transport in great condition. It is the same transport used for the highly sought after 1950\u2019s 350 and 351 machines. Only difference is this has more modern 60\u2019s buttons. However, this transport could be used with a set 1950\u2019s 351 electronics since the heads on this are also high impedance and all the connectors and transport are the same. Also included is the very rare and hard to come by road case. It does not have the lid but still very cool and very hard to come by. In addition it has the AG-350 manual. So, you could find AG 350 electronics for pretty cheap and have complete AG-350 or you could use the 50\u2019s 351 electronics and have famous sound. Either are great sounding vintage tape tone. You can\u2019t lose. It\u2019s up to you. I have too much stuff laying around and already have two other tape machines so these are up for grabs. Thanks for looking and reach out with any questions. Cheers and best regards!"
-            },
-            {
-                "id": "7362441976",
-                "name": "Auratone Speakers",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/vallejo-auratone-speakers/7362441976.html",
-                "datetime": "2021-08-07 14:06",
-                "price": "$300",
-                "where": "vallejo / benicia",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00b0b_gJMQTYlMeBvz_07K0ak_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00b0b_gJMQTYlMeBvz_07K0ak_600x450.jpg",
-                    "https://images.craigslist.org/00b0b_gJMQTYlMeBvz_07K0ak_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_6PszXbFuLOgz_07K0ak_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "The 5C, which became famous in the 1970\u2019s and 80\u2019s and has been used in virtually every major recording studio worldwide, is still the undisputed industry standard for \u201creal world\u201d referencing in the recording studio.Durability, flat full-range response, amazing power handling and portability have made Auratones the recording, broadcasting, and motion picture industries favorite reference monitors. These are barely used. Perfect for mixing."
             }
         ]
     }

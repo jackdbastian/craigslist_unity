@@ -115,6 +115,34 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7362578205",
+                "name": "Vintage 60's Brill Bros Timberline Suede Pants",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pinole-vintage-60s-brill-bros/7362578205.html",
+                "datetime": "2021-08-07 21:37",
+                "price": "$100",
+                "where": "hercules, pinole, san pablo, el sob",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_6xWhPNIAfeZz_0BN0Yk_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_6xWhPNIAfeZz_0BN0Yk_600x450.jpg",
+                    "https://images.craigslist.org/01010_6xWhPNIAfeZz_0BN0Yk_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_b6GxFaMudhzz_10C0oV_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_hO4ZVWHmgtfz_12Q0wD_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_8vc9cXVUWkQz_11J0AV_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_1CwNzuAnNHsz_0QT0yO_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_9UpVWdwXcswz_0zh0W9_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_5rxRW9l9sEnz_0Zg0GW_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_hFjvNcYjYxsz_10S0BU_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_3y1jM21FXpdz_11n0uD_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_d8EeewJKmN5z_0Wt0qB_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_7cem6Aj6bM5z_0Iq0MM_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_9ISWlNDSFZdz_1320kG_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage 60's Brill Bros Timberline Suede Pants. Size 32, overall length 40.5, 28.5 inseam, 10 leg openings.  4 brass snaps, 5 belt loops. No rips, minor marks."
+            },
+            {
                 "id": "7362571680",
                 "name": "Vintage Leather Motorcycle / Scooter Jacket",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-leather/7362571680.html",
@@ -180,30 +208,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "In excellent shape.  Rare-find, versatile use.  Fashionable retro feel/look.  Features are shown in the pictures.Detachable shoulder strap.-----------------------------------------------------------------------Check out my other bags on sale: Puma Green BagELGINI Vintage Suitcase Hand Shoulder BagSWISS ARMY Versatile Red Shoulder or Waist Small BagPanAm Rare Vintage Green BagEtienne Aigner Mens Garment Bag Brown Leather Travel Business RetroFREITAG CLARK One-of-a-kind Sport BagFREITAG HAZZARD Original One-of-a-kind BackpackSAMSONITE Orange Duffle Bag-----------------------------------------------------------------------Cash only. Price is final. Sorry, no delivery.Please text to   to arrange pick-up time. In Mission Dolores area.For the entire listing of my unique sale items, please type DCSF in search page (under all for sales / wanted category)Thank you for visiting this listing!"
-            },
-            {
-                "id": "7361094755",
-                "name": "Vintage Industrial Wrought Iron Coat Rack",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-industrial-wrought-iron/7361094755.html",
-                "datetime": "2021-08-07 19:53",
-                "price": "$200",
-                "where": "alameda",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_hLasVDtgH5Ez_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00C0C_hLasVDtgH5Ez_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_hLasVDtgH5Ez_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_6Cu4EMsMCuaz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_iZJgfI3W33Bz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_ewly5EfrPOsz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_b0O69y7IyFz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_d1o5pRzftyAz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00808_4nd3c8zyjpaz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_9DwAFsZoBv2z_0t20CI_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Industrial Wrought Iron Coat Rack $200.00Six feet tallVery Good condition"
             }
         ],
         "beaded": [
@@ -337,7 +341,7 @@
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-lorenzo-houndstooth-gloves-and-scarf/7358195181.html",
                 "datetime": "2021-08-07 11:32",
                 "price": "$35",
-                "where": "San Lorenzo",
+                "where": "San Lorenzo east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00J0J_bHzBDeJkRrXz_0CI0na_600x450.jpg",
                 "all_images": [
@@ -353,6 +357,31 @@
             }
         ],
         "wedding dress": [
+            {
+                "id": "7354075544",
+                "name": "Casablanca 1900 wedding dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-casablanca-1900-wedding-dress/7354075544.html",
+                "datetime": "2021-08-07 21:44",
+                "price": "$400",
+                "where": "San Ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_5yoozsEGssXz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_40kE52ndVnUz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_gh9fC6x3MEaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01010_aaHpPC6dYCPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_4rpgMtotGZz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_a1x33IchIzAz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_lU3l338E21Kz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_dRvrftjpE8Cz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Color: Champagne (shades of ivory)Size: 5.6 with no heals floor lengthLength: The entire length of the dress is about 4\u20194\u201dLabel size is 12 but it is altered to fit a street size 8 (it will fit bust 37, waist 31, hip 38)Condition: it\u2019s in great condition with no tears but I haven\u2019t dried cleaned so the hem of the dress is still dirty from the wedding at a vineyard (please see photos)Veil included. Cash only. https://www.casablancabridal.com/collections/spring-2008/style-1900/"
+            },
             {
                 "id": "7361269358",
                 "name": "Wedding Dress - Allure Bridals *Size 4*",
@@ -393,32 +422,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "Wedding gown dress purple. New. Size 6 or 8"
-            },
-            {
-                "id": "7358722067",
-                "name": "New Sophia Tolli Wedding Bridal Dress, Size 8",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-new-sophia-tolli-wedding-bridal/7358722067.html",
-                "datetime": "2021-08-07 19:12",
-                "price": "$299",
-                "where": "oakland east",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_600x450.jpg",
-                    "https://images.craigslist.org/01010_d64SgNLv6goz_0kM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_arIHVORGZaBz_0mJ0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_ivxgLrln4jLz_0lD0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_7TIVZUoiMtIz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_77fxilE4cMLz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00606_dGVB9zC5YCEz_0kY0rX_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_4VhNd67Y4wZz_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_lr9etRjYDDHz_0gH0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_i3VscvCF51az_0g80lv_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_fHZ3uocDCOMz_0iw0t2_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Gorgeous Sophia Tolli designer wedding dress, size 8, never worn. Fit and flare style with keyhole back, illusion cap sleeves and full train. Beautiful beading and lace embellishments. Unfortunately, altering this dress to fit me (I'm Size 0) turned out to be *way* more expensive than I was led to believe by the bridal shop. Hence me buying another dress in my size and selling this one.This bridal dress is brand new. While I bought it on sale, the original price was over $1,600. Asking $299 OBO."
             }
         ],
         "great condition": [

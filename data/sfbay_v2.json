@@ -117,12 +117,35 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7362910729",
+                "name": "VINTAGE VERSACE SUNGLASSES",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-versace-sunglasses/7362910729.html",
+                "datetime": "2021-08-08 16:09",
+                "price": "$222",
+                "where": "lafayette / orinda / moraga",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00f0f_c8IPZyEpusz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00f0f_c8IPZyEpusz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00f0f_c8IPZyEpusz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_faHN7fXEfN6z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_fcwPa9APgg2z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_dS6KutvMbYHz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01414_clVTiAsckgyz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00303_hUrFdxzhjGIz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01212_gogGHrId2u6z_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Versace Sunglasses. Rectangular retro lens. Worn twice, in good condition. Gold detail."
+            },
+            {
                 "id": "7358697687",
                 "name": "Bucherer Quartz W Germany Rare Vintage Clock",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-bucherer-quartz-germany-rare/7358697687.html",
                 "datetime": "2021-08-08 15:39",
                 "price": "$80",
-                "where": "San Jose south bay area ",
+                "where": "San Jose",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00W0W_hyP4crfdGxwz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -155,24 +178,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Wide 1940s Neck Tie.Width is 4.25."
-            },
-            {
-                "id": "7357586699",
-                "name": "Vintage Ray Ban Aviators",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/cotati-vintage-ray-ban-aviators/7357586699.html",
-                "datetime": "2021-08-08 14:56",
-                "price": "$80",
-                "where": "Cotati north bay / marin ",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_ehO0QipIxpCz_0CI0Bj_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00L0L_ehO0QipIxpCz_0CI0Bj_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_ehO0QipIxpCz_0CI0Bj_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_bsWsicDbTTqz_0CI0Ac_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "1994 Ray Ban AviatorsGold FramesLenses are Clean with No scratchesExcelent Condition for ageOriginal Case and some paperwork with date of purchase included.leave phone number when replying and I will call or text you back."
             }
         ],
         "beaded": [

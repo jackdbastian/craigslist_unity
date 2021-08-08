@@ -54,6 +54,22 @@
         ],
         "wood": [
             {
+                "id": "7362617616",
+                "name": "7 Knape & Vogt John Sterling Dual Trak Adjustable Wood Shelf Brackets",
+                "url": "https://sfbay.craigslist.org/scz/mat/d/knape-vogt-john-sterling-dual-trak/7362617616.html",
+                "datetime": "2021-08-08 05:03",
+                "price": "$20",
+                "where": "santa cruz",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00E0E_ajuefOIxjZMz_084084_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00E0E_ajuefOIxjZMz_084084_600x450.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Include your number. I\u2019ll text or callONLY             $207 Knape & Vogt John Sterling Dual Trak Adjustable Wood Shelf Brackets / Warm"
+            },
+            {
                 "id": "7362583188",
                 "name": "Real cherry wood cabinet clearance, Cabinet, floor, window...........",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-real-cherry-wood-cabinet/7362583188.html",
@@ -115,22 +131,6 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Tons of different sizes and types of wood. See pictures. $200 for all shown in picture, worth over $3000. Emil me if interested."
-            },
-            {
-                "id": "7356938932",
-                "name": "75x52\u201d wood window",
-                "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7356938932.html",
-                "datetime": "2021-08-07 19:07",
-                "price": "$75",
-                "where": "Presidio Heights",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "No EMAILS PLEASE.TEXT Paul to arrange pickup on Washington in San Francisco- (65O)2I8-859675x52 fixed dual glazed wood window to be removed by contractor $75"
             }
         ]
     },

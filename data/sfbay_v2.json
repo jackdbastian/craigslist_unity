@@ -25,7 +25,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": " south bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -41,7 +41,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": " peninsula ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -137,6 +137,51 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7362599831",
+                "name": "Vintage Sopheea tote bag",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-sopheea-tote-bag/7362599831.html",
+                "datetime": "2021-08-08 01:46",
+                "price": "$1",
+                "where": "san mateo",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_600x450.jpg",
+                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00101_bsYt2j2ELOWz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00202_7FWhBDLBxIXz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_apgAPIXTI9Nz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_hvgFOZ4giD3z_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_jFvcVnNZJvjz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_chpDoSJz5v1z_0gl0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Hello A very beautiful Sopheea classic, genuine leather tote bag. On line there asking a stupid price I won't even tell you Please make me a reasonable offer Thank you"
+            },
+            {
+                "id": "7362599851",
+                "name": "Vintage NY coach Tote bag",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-ny-coach-tote-bag/7362599851.html",
+                "datetime": "2021-08-08 01:46",
+                "price": "$1",
+                "where": "san mateo",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_WBDw4CMGQOz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_eCvSSwRwE4rz_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_64OfLarC68Ez_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_cXol6NPu4idz_0CI0lM_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_k4oIF230ke1z_0gl0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_fPrzXUUwhvRz_0gl0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage New York Coach Tote bag, very beautiful LN8-8214 . In wonderful condition normally going for $499 I'm asking for a reasonable offer Thank you"
+            },
+            {
                 "id": "7348481946",
                 "name": "VINTAGE BOMBER JACKET 80'S?",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-bomber-jacket-80s/7348481946.html",
@@ -155,60 +200,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "YEAR UNKNOWN BUT I THINK IT'S FROM THE 80'S I BELIEVE IT'S SIZE LARGE. NO RIPS OR HOLES BUT DOES HAVE SOMETHING ON IT AROUND THE POCKETS BUT DOES COME OFF. 90 OR BEST OFFER"
-            },
-            {
-                "id": "7348482540",
-                "name": "VINTAGE 70'S TOREL LEATHER JACKET",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-70s-torel-leather-jacket/7348482540.html",
-                "datetime": "2021-08-08 00:03",
-                "price": "$0",
-                "where": "oakland lake merritt / grand",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_600x450.jpg",
-                    "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_dk0NJo5op7Yz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_2egO0Fen97Vz_1320MM_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_3NuioN7GWjkz_1320MM_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "very nice jacket size large. no rips, tears or holes 200 or best offer"
-            },
-            {
-                "id": "7349874426",
-                "name": "vintage LEATHER RIDING BOOTS black womans mid 60s",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/sunnyvale-vintage-leather-riding-boots/7349874426.html",
-                "datetime": "2021-08-07 23:41",
-                "price": "$75",
-                "where": "sunnyvale",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00o0o_9X14CGXUhNv_0pO0jm_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00o0o_9X14CGXUhNv_0pO0jm_600x450.jpg",
-                    "https://images.craigslist.org/00o0o_9X14CGXUhNv_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_9pUKt902PMv_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_fWWo0aD5HdJ_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_cA62ItEAFF7_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00909_3cd00MD0pa0_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_6TknFnfFgmT_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/01616_1jltdr37bsC_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00505_iUTwwI9nVPA_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00303_bskOy1NGrpl_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_7oYBZjZujST_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00808_5bNfEBsyM4h_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_jiwBvu5JmcM_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_gTGZ1z1zbLY_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_bOTwHbbvx9H_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_2DbAx2qeG0U_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_gFdVUvUqffJ_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00y0y_f832xQlhvID_0pO0jm_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_6UqeLZehDBg_0pO0jm_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Came from the estate of a woman who rode horses locally in the mid to late 60s. Beautiful distresses old leather, still soft and wearable...about a size 7.5 - 8. usa.$75ride horse equestrian trail barn rustic camp female woman womans girl girls boot shoe shoes clothing boots knee tall high vnt horses lady ladies west old western cowboy cowgirl ranch rancher"
             }
         ],
         "beaded": [
@@ -710,7 +701,7 @@
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/san-leandro-2014-jeep-wrangler/7361596061.html",
                 "datetime": "2021-08-05 19:39",
                 "price": "$34,991",
-                "where": "San Leandro",
+                "where": "San Leandro east bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_600x450.jpg",
                 "all_images": [

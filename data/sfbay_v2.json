@@ -54,6 +54,27 @@
         ],
         "wood": [
             {
+                "id": "7362526379",
+                "name": "Cali Bamboo Wood Flooring",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-cali-bamboo-wood-flooring/7362526379.html",
+                "datetime": "2021-08-07 17:39",
+                "price": "$800",
+                "where": "san jose downtown",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00303_k7k3Lv6FtZYz_0lM0CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00303_k7k3Lv6FtZYz_0lM0CI_600x450.jpg",
+                    "https://images.craigslist.org/00303_k7k3Lv6FtZYz_0lM0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_cbTrnTsbyB7z_0lM0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_bYHizPChkuGz_0lM0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_r399AV8F5Iz_0aT0aT_50x50c.jpg",
+                    "https://images.craigslist.org/00505_bNgHoRiSx5qz_0jm0hg_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Hello,NEW CALI BAMBOO $800 FOR 350 SQ FT AVAILABLE. THIS BRAND BAMBOO SELLS FOR $5 TO $6 PLUS TAX PER SQUARE FOOT AT LOWES AND HOME DEPOT.  BAMBOO IS STILL AVAILABLE AT THESE LOCATIONS IF YOU NEED TO BUY ADDITION FLOORING.  THERE ARE A TOTAL OF 16 BOXES AND 1 BOX OF CUT PIECES, SOME BOXES WERE OPENED TO ACCLIMATE.  YOU WILL NOT BE DISAPPOINTED."
+            },
+            {
                 "id": "7362517724",
                 "name": "Plywood wood veneer sheets",
                 "url": "https://sfbay.craigslist.org/scz/mat/d/scotts-valley-plywood-wood-veneer-sheets/7362517724.html",
@@ -90,22 +111,6 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "paint grade door frontsI believe this is mapleinset panels12.25 x 16I also have another door of the same size and very similar style.CASH only"
-            },
-            {
-                "id": "7362496827",
-                "name": "Solid Wood Screen Door in great condtion",
-                "url": "https://sfbay.craigslist.org/scz/mat/d/santa-cruz-solid-wood-screen-door-in/7362496827.html",
-                "datetime": "2021-08-07 16:14",
-                "price": "$35",
-                "where": "santa cruz",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00808_5jqfWNqv1LFz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00808_5jqfWNqv1LFz_0t20CI_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Vintage solid wood screen door in great condition. 32 wide.  Working handle. Screen is in very good shape with no holes or tears. Located East side Santa Cruz near Tacos Morenos,  off Water St."
             }
         ]
     },
@@ -351,7 +356,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-reduced-mori-lee-wedding/7360006682.html",
                 "datetime": "2021-08-07 16:59",
                 "price": "$350",
-                "where": null,
+                "where": " city of san francisco ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00202_fXs3sFXjT3Y_600x450.jpg",
                 "all_images": [

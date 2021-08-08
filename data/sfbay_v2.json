@@ -59,7 +59,7 @@
                 "url": "https://sfbay.craigslist.org/eby/mat/d/fremont-real-cherry-wood-cabinet/7362583188.html",
                 "datetime": "2021-08-07 22:27",
                 "price": "$150",
-                "where": "3657 edison way , unit 2, fremont east bay area ",
+                "where": "3657 edison way , unit 2, fremont",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00m0m_e2lFunaZ3Juz_0jk0t2_600x450.jpg",
                 "all_images": [
@@ -122,7 +122,7 @@
                 "url": "https://sfbay.craigslist.org/sfc/mat/d/san-francisco-75x52-wood-window/7356938932.html",
                 "datetime": "2021-08-07 19:07",
                 "price": "$75",
-                "where": "Presidio Heights city of san francisco ",
+                "where": "Presidio Heights",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00h0h_k3tgzB887Slz_0hq0ea_600x450.jpg",
                 "all_images": [
@@ -136,6 +136,46 @@
     },
     "clothes": {
         "vintage": [
+            {
+                "id": "7348481946",
+                "name": "VINTAGE BOMBER JACKET 80'S?",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-bomber-jacket-80s/7348481946.html",
+                "datetime": "2021-08-08 00:03",
+                "price": "$0",
+                "where": "oakland lake merritt / grand",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00j0j_fMsiTydC5mLz_1320MM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00j0j_fMsiTydC5mLz_1320MM_600x450.jpg",
+                    "https://images.craigslist.org/00j0j_fMsiTydC5mLz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_4HZcw1kHTeUz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_1EgqaadCCdOz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_lfK5v1LWuZUz_1320MM_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "YEAR UNKNOWN BUT I THINK IT'S FROM THE 80'S I BELIEVE IT'S SIZE LARGE. NO RIPS OR HOLES BUT DOES HAVE SOMETHING ON IT AROUND THE POCKETS BUT DOES COME OFF. 90 OR BEST OFFER"
+            },
+            {
+                "id": "7348482540",
+                "name": "VINTAGE 70'S TOREL LEATHER JACKET",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-70s-torel-leather-jacket/7348482540.html",
+                "datetime": "2021-08-08 00:03",
+                "price": "$0",
+                "where": "oakland lake merritt / grand",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_600x450.jpg",
+                    "https://images.craigslist.org/00Y0Y_a6vBWieRUW4z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_dk0NJo5op7Yz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_2egO0Fen97Vz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_3NuioN7GWjkz_1320MM_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "very nice jacket size large. no rips, tears or holes 200 or best offer"
+            },
             {
                 "id": "7349874426",
                 "name": "vintage LEATHER RIDING BOOTS black womans mid 60s",
@@ -169,44 +209,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Came from the estate of a woman who rode horses locally in the mid to late 60s. Beautiful distresses old leather, still soft and wearable...about a size 7.5 - 8. usa.$75ride horse equestrian trail barn rustic camp female woman womans girl girls boot shoe shoes clothing boots knee tall high vnt horses lady ladies west old western cowboy cowgirl ranch rancher"
-            },
-            {
-                "id": "7349480681",
-                "name": "Vest of Vintage Silk Ties and Gemstones",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/greenbrae-vest-of-vintage-silk-ties-and/7349480681.html",
-                "datetime": "2021-08-07 23:20",
-                "price": "$160",
-                "where": "Greenbrae",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00v0v_gNB1VEc17jh_0b20er_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00v0v_gNB1VEc17jh_0b20er_600x450.jpg",
-                    "https://images.craigslist.org/00v0v_gNB1VEc17jh_0b20er_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_lrKO9NlLScz_0iP0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00808_94PNgMvfupR_0CI0iP_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_eg8xkRJwGHd_0hA0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Handmade vest of vintage silk ties and hand-dyed snakeskin, embellished with mid-century silver earrings, a silver earring with an amethyst inset, and gemstones of labradorite, peridot, and amethyst.Velvet and silk lining.One-of-a-kind, $170Bought as a gift, never worn.Size: small-mediumShoulder width: 15.5Length: 23.5"
-            },
-            {
-                "id": "7349486448",
-                "name": "Vintage Velvet Elephant Vest",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/greenbrae-vintage-velvet-elephant-vest/7349486448.html",
-                "datetime": "2021-08-07 23:19",
-                "price": "$70",
-                "where": "Greenbrae",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00w0w_78y1uTtplOl_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00w0w_78y1uTtplOl_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00w0w_78y1uTtplOl_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_1WClwVwKNZY_0qQ0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage black velvet vest with multicolor woven threads and sequins.Features elephants on front and back. Linen lined. Believed to be handmade.Measurement lying flat: 15.5 inches at shoulders, 21 inches at chest, 20 inches long."
             }
         ],
         "beaded": [
@@ -708,7 +710,7 @@
                 "url": "https://sfbay.craigslist.org/eby/ctd/d/san-leandro-2014-jeep-wrangler/7361596061.html",
                 "datetime": "2021-08-05 19:39",
                 "price": "$34,991",
-                "where": "San Leandro east bay area ",
+                "where": "San Leandro",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00T0T_2cjujaVPczFz_0kE0fu_600x450.jpg",
                 "all_images": [

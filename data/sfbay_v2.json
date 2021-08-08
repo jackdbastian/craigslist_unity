@@ -137,6 +137,44 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7349480681",
+                "name": "Vest of Vintage Silk Ties and Gemstones",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/greenbrae-vest-of-vintage-silk-ties-and/7349480681.html",
+                "datetime": "2021-08-07 23:20",
+                "price": "$160",
+                "where": "Greenbrae",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00v0v_gNB1VEc17jh_0b20er_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00v0v_gNB1VEc17jh_0b20er_600x450.jpg",
+                    "https://images.craigslist.org/00v0v_gNB1VEc17jh_0b20er_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_lrKO9NlLScz_0iP0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00808_94PNgMvfupR_0CI0iP_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_eg8xkRJwGHd_0hA0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Handmade vest of vintage silk ties and hand-dyed snakeskin, embellished with mid-century silver earrings, a silver earring with an amethyst inset, and gemstones of labradorite, peridot, and amethyst.Velvet and silk lining.One-of-a-kind, $170Bought as a gift, never worn.Size: small-mediumShoulder width: 15.5Length: 23.5"
+            },
+            {
+                "id": "7349486448",
+                "name": "Vintage Velvet Elephant Vest",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/greenbrae-vintage-velvet-elephant-vest/7349486448.html",
+                "datetime": "2021-08-07 23:19",
+                "price": "$70",
+                "where": "Greenbrae",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00w0w_78y1uTtplOl_0t20t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00w0w_78y1uTtplOl_0t20t2_600x450.jpg",
+                    "https://images.craigslist.org/00w0w_78y1uTtplOl_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_1WClwVwKNZY_0qQ0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage black velvet vest with multicolor woven threads and sequins.Features elephants on front and back. Linen lined. Believed to be handmade.Measurement lying flat: 15.5 inches at shoulders, 21 inches at chest, 20 inches long."
+            },
+            {
                 "id": "7349687780",
                 "name": "Vintage Patagonia women\u2019s Fleece Jacket Blue Size Small S",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-patagonia-womens/7349687780.html",
@@ -156,52 +194,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Women\u2019s size Small.Feel free to text or call me at   if interested"
-            },
-            {
-                "id": "7349399027",
-                "name": "VINTAGE/ANTIQUE KIMONO",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-antique-kimono/7349399027.html",
-                "datetime": "2021-08-07 22:29",
-                "price": "$200",
-                "where": "Burlingame city of san francisco ",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_3sWLCyp9aDG_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00p0p_3sWLCyp9aDG_600x450.jpg",
-                    "https://images.craigslist.org/00p0p_3sWLCyp9aDG_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_1rh7wurRbD9_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "I bought this antique / vintage KIMONO in Japantaown , San Francisco .A great wall decor that will be a great focal point in any room.My house renovation is on its way,Now I'm looking for a good home to get its old glory and be again the center of attention to a new home It\u2019s in great condition considering it\u2019s vintage but expect fading and vintage look that comes with its age.Bought for $700.00 tax not included but willing to let it go for $200.00.A great deal.CASH onlyLOcal Pick up"
-            },
-            {
-                "id": "7362578205",
-                "name": "Vintage 60's Brill Bros Timberline Suede Pants",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pinole-vintage-60s-brill-bros/7362578205.html",
-                "datetime": "2021-08-07 21:37",
-                "price": "$100",
-                "where": "hercules, pinole, san pablo, el sob",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_6xWhPNIAfeZz_0BN0Yk_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01010_6xWhPNIAfeZz_0BN0Yk_600x450.jpg",
-                    "https://images.craigslist.org/01010_6xWhPNIAfeZz_0BN0Yk_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_b6GxFaMudhzz_10C0oV_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_hO4ZVWHmgtfz_12Q0wD_50x50c.jpg",
-                    "https://images.craigslist.org/00V0V_8vc9cXVUWkQz_11J0AV_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_1CwNzuAnNHsz_0QT0yO_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_9UpVWdwXcswz_0zh0W9_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_5rxRW9l9sEnz_0Zg0GW_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_hFjvNcYjYxsz_10S0BU_50x50c.jpg",
-                    "https://images.craigslist.org/00P0P_3y1jM21FXpdz_11n0uD_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_d8EeewJKmN5z_0Wt0qB_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_7cem6Aj6bM5z_0Iq0MM_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_9ISWlNDSFZdz_1320kG_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage 60's Brill Bros Timberline Suede Pants. Size 32, overall length 40.5, 28.5 inseam, 10 leg openings.  4 brass snaps, 5 belt loops. No rips, minor marks."
             }
         ],
         "beaded": [
@@ -357,7 +349,7 @@
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-casablanca-1900-wedding-dress/7354075544.html",
                 "datetime": "2021-08-07 21:44",
                 "price": "$400",
-                "where": "San Ramon east bay area ",
+                "where": "San Ramon",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00v0v_9o5fQWRvh4oz_0CI0t2_600x450.jpg",
                 "all_images": [

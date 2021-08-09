@@ -25,7 +25,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": " south bay area ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -41,7 +41,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": " peninsula ",
+                "where": null,
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -117,6 +117,26 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7362981000",
+                "name": "Vintage 70s bellbottom jump suit - OBO",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-70s-bellbottom/7362981000.html",
+                "datetime": "2021-08-08 19:52",
+                "price": "$75",
+                "where": "sunset / parkside",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00R0R_1KuTpPtvHr9z_0lM0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00R0R_1KuTpPtvHr9z_0lM0t2_600x450.jpg",
+                    "https://images.craigslist.org/00R0R_1KuTpPtvHr9z_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01212_bMwpbvDAmclz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_5DiPSu71rNVz_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_92b3Ffmhqpyz_0lM0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Genuine made in the 70s bell bottom jumpsuit.  In pristine condition.Bought it for $100 for a disco themed party, but never wore it.Size 8 - according to the tag.  I never put it on, so I can't confirm that."
+            },
+            {
                 "id": "7357842556",
                 "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7357842556.html",
@@ -152,25 +172,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "SIZE LargeNEW OLD STOCK W/Tags Vintage 1995 San Francisco 49'ers Red Short Sleeve T-ShirtKILLER DESIGNMade by TRUE-FAN SPORTSWEAR - 100% MADE IN USAHas original sku tag plus NFL TEAM tag. CONDITION: New Old Stock With Tags, EXCELLENT - PLEASE SEE PHOTOS -Discovered in a storage bin recently with a number of other SF Bay area vintage sports memorabilia (49'ers, Giants, A's) where its been for over 2 decades PHOTOS SHOW THE ITEM'S CURRENT CONDITION. 276"
-            },
-            {
-                "id": "7357058780",
-                "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7357058780.html",
-                "datetime": "2021-08-08 19:11",
-                "price": "$200",
-                "where": "sf",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_eEgVPswHzdh_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "vintage Golden State Warriors Jersey DubbsSize LargeIf you do not receive an email reply, check your Spam folder"
             }
         ],
         "beaded": [
@@ -620,10 +621,10 @@
                 "description": "Hi looking to buy a chevrolet silverado any year or model needing repiars .I'll buy it if it has the following issues FAILED SMOGCHECK ENGINE LIGHT ONNO CATALYTIC CONVERTER BODY DAMGEBLOWN HEAD GASKETBAD ENGINE OR TRANSMISSION ALL WELCOMED please call I'll buy it just the way it sits.Thanks Matt"
             },
             {
-                "id": "7361596061",
+                "id": "7362983091",
                 "name": "2014 Jeep Wrangler Unlimited Sahara ~ L@@K ~ Many Upgrades ~ Loaded ~",
-                "url": "https://sfbay.craigslist.org/eby/ctd/d/san-leandro-2014-jeep-wrangler/7361596061.html",
-                "datetime": "2021-08-05 19:39",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/san-leandro-2014-jeep-wrangler/7362983091.html",
+                "datetime": "2021-08-08 19:56",
                 "price": "$34,991",
                 "where": "San Leandro",
                 "deleted": false,
@@ -657,7 +658,7 @@
                 ],
                 "query": "fix* up*",
                 "category": "cta",
-                "description": "2014 Jeep Wrangler Unlimited Sahara ~ L@@K ~ Many Upgrades ~ Loaded ~ We Financ - $34,991Year: 2014Make:JeepModel:Wrangler UnlimitedTrim:Sahara ~ L@@K ~ Many Upgrades ~ Loaded ~ We FinancMileage:74,152Stock #:8290VIN:1C4BJWEG7EL273022Trans:AutomaticColor:Bright WhiteVehicle Type:WagonState:CADrive Train:4WDEngine:3.6L V6 24V VVTNotes~ L@@K ~ Just Arrived ~ 2014 Jeep Wrangler Sahara Unlimited ~ WOW ~ What A SUV ~ Ton's Of Extras ~ Must SEE ~ Fully Loaded ~ Upgraded Lights ~ Upgraded Wheels & Tires ~ Automatic ~ Navigation System ~ Leather ~ Hard Top ~4WD ~ Carfax Available With Every Single Purchase ~ Credit Union Direct Dealership ~ We Offer Great Buying Experience ~ Clean Title ~ SE HABLA ESPANOL ~ MATRICULA OK ~ Clean Title ~ Hurry Will Not Last ~ We Finance ~ WE SAY YES ~ EZ Finance Options ~ Ask About Our Fresh Start Program ~ Bad Credit ~ No Credit ~ Welcome ~ All Cash Buyers Welcome ~ All Trades Welcome ~ We Finance Your Future Not Your Past ~ 5 Start Dealer On Yelp ~ Call US Today !Vehicle OptionsDeep Tinted GlassLeather Steering WheelDeep Tinted GlassLeather Steering Wheel160 Amp Alternator2 12V DC Power Outlets2 12V DC Power Outlets and 1 AC Power Outlet2 Seatback Storage Pockets2 Skid Plates22.5 Gal. Fuel Tank3.21 Rear Axle Ratio4-Way Passenger Seat -inc: Manual Recline and Fore/Aft Movement4-Wheel Disc Brakes w/4-Wheel ABS, Front And Rear Vented Discs, Brake Assist and Hill Hold Control6-Way Driver Seat -inc: Manual Recline, Height Adjustment and Fore/Aft Movement60-40 Folding Split-Bench Front Facing Fold Forward Seatback Rear Seat600CCA Maintenance-Free Battery880# Maximum PayloadAirbag Occupancy SensorAluminum Spare WheelAnalog DisplayAuto Locking HubsBlack Door HandlesBlack Power Heated Side Mirrors w/Manual FoldingBlack Side Windows TrimBody-Colored Fender FlaresBody-Colored GrilleBrake Actuated Limited Slip DifferentialCarpet Floor Trim, Carpet And Rubber MatClearcoat PaintCompassConventional Rear Cargo AccessConvertible w/Fixed Roll-Over ProtectionCruise Control w/Steering Wheel ControlsDay-Night Auto-Dimming Rearview MirrorDelayed Accessory PowerDriver And Passenger Visor Vanity MirrorsDual Stage Driver And Passenger Front AirbagsEngine oil coolerEngine: 3.6L V6 24V VVTFade-To-Off Interior LightingFixed AntennaFront And Rear Anti-Roll BarsFront Center Armrest w/StorageFront CupholderFront Fog LampsFront Map LightsFull Floor Console w/Locking Storage, 2 12V DC Power Outlets and 1 AC Power OutletFull-Size Spare Tire Mounted Outside RearFully Automatic Aero-Composite Halogen HeadlampsFully Galvanized Steel PanelsGVWR: 5,500 lbsHD Shock AbsorbersHeavy Duty Suspension w/Gas ShocksHydraulic Power-Assist SteeringInstrument Panel Bin, Dashboard Storage, Driver And Passenger Door BinsInterior Trim -inc: Deluxe Sound Insulation, Metal-Look Instrument Panel Insert, Metal-Look Door Panel Insert and Metal-Look Interior AccentsLeading Link Front Suspension w/Coil SpringsLeather/Chrome Gear Shifter MaterialLocking Glove BoxManual Adjustable Front Head Restraints and Fixed Rear Head RestraintsManual Tilt Steering ColumnManual Transfer CaseOutboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3 Point, Height Adjusters and PretensionersOutside Temp GaugePart-Time Four-Wheel DrivePerimeter AlarmPremium AmplifierRear Child Safety LocksRear CupholderRemovable Rear WindowSentry Key Engine ImmobilizerSide Impact BeamsSingle Stainless Steel ExhaustTires: P255/70R18 OWL On/Off RoadTowing Equipment -inc: Trailer Sway ControlTrailing Arm Rear Suspension w/Coil SpringsVariable Intermittent WipersPlatinum MotorsSales Department14141 E. 14 Street San LeandroCA94578510-346-2700BatchID: UJTV0CV818ID: 17633533"
+                "description": "2014 Jeep Wrangler Unlimited Sahara ~ L@@K ~ Many Upgrades ~ Loaded ~ We Financ - $34,991Year: 2014Make:JeepModel:Wrangler UnlimitedTrim:Sahara ~ L@@K ~ Many Upgrades ~ Loaded ~ We FinancMileage:74,152Stock #:8290VIN:1C4BJWEG7EL273022Trans:AutomaticColor:Bright WhiteVehicle Type:WagonState:CADrive Train:4WDEngine:3.6L V6 24V VVTNotes~ L@@K ~ Just Arrived ~ 2014 Jeep Wrangler Sahara Unlimited ~ WOW ~ What A SUV ~ Ton's Of Extras ~ Must SEE ~ Fully Loaded ~ Upgraded Lights ~ Upgraded Wheels & Tires ~ Automatic ~ Navigation System ~ Leather ~ Hard Top ~4WD ~ Carfax Available With Every Single Purchase ~ Credit Union Direct Dealership ~ We Offer Great Buying Experience ~ Clean Title ~ SE HABLA ESPANOL ~ MATRICULA OK ~ Clean Title ~ Hurry Will Not Last ~ We Finance ~ WE SAY YES ~ EZ Finance Options ~ Ask About Our Fresh Start Program ~ Bad Credit ~ No Credit ~ Welcome ~ All Cash Buyers Welcome ~ All Trades Welcome ~ We Finance Your Future Not Your Past ~ 5 Start Dealer On Yelp ~ Call US Today !Vehicle OptionsDeep Tinted GlassLeather Steering WheelDeep Tinted GlassLeather Steering Wheel160 Amp Alternator2 12V DC Power Outlets2 12V DC Power Outlets and 1 AC Power Outlet2 Seatback Storage Pockets2 Skid Plates22.5 Gal. Fuel Tank3.21 Rear Axle Ratio4-Way Passenger Seat -inc: Manual Recline and Fore/Aft Movement4-Wheel Disc Brakes w/4-Wheel ABS, Front And Rear Vented Discs, Brake Assist and Hill Hold Control6-Way Driver Seat -inc: Manual Recline, Height Adjustment and Fore/Aft Movement60-40 Folding Split-Bench Front Facing Fold Forward Seatback Rear Seat600CCA Maintenance-Free Battery880# Maximum PayloadAirbag Occupancy SensorAluminum Spare WheelAnalog DisplayAuto Locking HubsBlack Door HandlesBlack Power Heated Side Mirrors w/Manual FoldingBlack Side Windows TrimBody-Colored Fender FlaresBody-Colored GrilleBrake Actuated Limited Slip DifferentialCarpet Floor Trim, Carpet And Rubber MatClearcoat PaintCompassConventional Rear Cargo AccessConvertible w/Fixed Roll-Over ProtectionCruise Control w/Steering Wheel ControlsDay-Night Auto-Dimming Rearview MirrorDelayed Accessory PowerDriver And Passenger Visor Vanity MirrorsDual Stage Driver And Passenger Front AirbagsEngine oil coolerEngine: 3.6L V6 24V VVTFade-To-Off Interior LightingFixed AntennaFront And Rear Anti-Roll BarsFront Center Armrest w/StorageFront CupholderFront Fog LampsFront Map LightsFull Floor Console w/Locking Storage, 2 12V DC Power Outlets and 1 AC Power OutletFull-Size Spare Tire Mounted Outside RearFully Automatic Aero-Composite Halogen HeadlampsFully Galvanized Steel PanelsGVWR: 5,500 lbsHD Shock AbsorbersHeavy Duty Suspension w/Gas ShocksHydraulic Power-Assist SteeringInstrument Panel Bin, Dashboard Storage, Driver And Passenger Door BinsInterior Trim -inc: Deluxe Sound Insulation, Metal-Look Instrument Panel Insert, Metal-Look Door Panel Insert and Metal-Look Interior AccentsLeading Link Front Suspension w/Coil SpringsLeather/Chrome Gear Shifter MaterialLocking Glove BoxManual Adjustable Front Head Restraints and Fixed Rear Head RestraintsManual Tilt Steering ColumnManual Transfer CaseOutboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3 Point, Height Adjusters and PretensionersOutside Temp GaugePart-Time Four-Wheel DrivePerimeter AlarmPremium AmplifierRear Child Safety LocksRear CupholderRemovable Rear WindowSentry Key Engine ImmobilizerSide Impact BeamsSingle Stainless Steel ExhaustTires: P255/70R18 OWL On/Off RoadTowing Equipment -inc: Trailer Sway ControlTrailing Arm Rear Suspension w/Coil SpringsVariable Intermittent WipersPlatinum MotorsSales Department14141 E. 14 Street San LeandroCA94578510-346-2700BatchID: T0RCSIZAWEID: 17633533"
             }
         ],
         "fast": [
@@ -736,7 +737,7 @@
                 "name": "Mesa Boogie Fender Epiphone JBl all that needs to be said....",
                 "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-mesa-boogie-fender-epiphone/7362824349.html",
                 "datetime": "2021-08-08 12:54",
-                "price": "$2,500",
+                "price": "$0",
                 "where": "san jose south",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00L0L_hBmcW3rKdQgz_0CI0t2_600x450.jpg",
@@ -769,7 +770,7 @@
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "1. Mesa Boogie M-Pulse 600 Semul State Bass Amplifier, Tube Driven MOSFET Power.2. Mesa Boogie Rocket 4 Forty. All Tube Amp, 45 watts and 4\u00d710 speakers.3. Fender Precision Bass guitar 60th anniversary edition W/ Bad Ass Bass Bridge 2.4. Epiphone Dot Electric Guitar (Gibson ES 335 model), Semi Hollow Body.5. Rack Rider with two over head lamps, 8 output sockets, circuit breaker. Rack mounted power port.6. JBL E 140 100watt 8 Ohms 15inch speaker (classic sound for Bass, Guitar, or what ever. In KK studio cabinet on rollers.7. Flight case with extra slot. Some time I have a feed back suppressor there or a guitar pre-amp. Depends on the gig.Ready to play."
+                "description": "1. Mesa Boogie M-Pulse 600 Semul State Bass Amplifier, Tube Driven MOSFET Power.$7002. Mesa Boogie Rocket 4 Forty All Tube Amp, 45 watts and 4\u00d710 speakers. $5003. Fender Precision Bass guitar 60th anniversary edition W/ Bad Ass Bass Bridge 2. $8504. Epiphone Dot Electric Guitar (Gibson ES 335 model), Semi Hollow Body. $3255. Rack Rider with two over head lamps, 8 output sockets, circuit breaker. Rack mounted power port.$606. JBL E 140 100watt 8 Ohms 15inch speaker (classic sound for Bass, Guitar, or what ever. In KK studio cabinet on rollers. $1007. Flight case with extra slot. Some time I have a feed back suppressor there or a guitar pre-amp. Depends on the gig.$30Ready to play. All $2200"
             },
             {
                 "id": "7351420619",

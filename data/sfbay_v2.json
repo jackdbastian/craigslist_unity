@@ -117,74 +117,63 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7356926683",
-                "name": "Vintage 60\u2019s Clothing",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-vintage-60s-clothing/7356926683.html",
-                "datetime": "2021-08-08 18:10",
-                "price": "$40",
-                "where": "half moon bay",
+                "id": "7362963168",
+                "name": "Vintage Motor-Cycle Style Leather Jacket size 6- 8 ladies",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-motor-cycle-style/7362963168.html",
+                "datetime": "2021-08-08 18:43",
+                "price": "$150",
+                "where": "marina / cow hollow",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00G0G_5oN7MA1YcjR_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_itNQmuSjO3Pz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01313_dopaBjrbTU6z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01616_64AgPWnmMwKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_7K6Oky2vzSnz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_lkXQGu2Q4Jz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00606_lxp9nxcgpHtz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_hVgRBkOD6Mgz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_giS6xVQjCT6z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_isdjhcdSKNWz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_lpGbztOjL3Qz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_7KM144xAwuiz_0t20CI_50x50c.jpg"
+                    "https://images.craigslist.org/00G0G_5oN7MA1YcjR_600x450.jpg",
+                    "https://images.craigslist.org/00G0G_5oN7MA1YcjR_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_6PA4TqYfTRr_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_1SRDhmMdezy_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_2kakG8fuKLX_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage 60\u2019s - 80\u2019s Clothing $10-$40"
+                "description": "Distressed brown leather. Ladies size 6-8+ish - on a 6, hangs loose.Very HEAVY weight / distressed brown leather. Very cool details: arm and chest zippers, pockets, braided leather strip details and buckle detailsOne button missing - still uber-cool! Adds to the authenticity NEVER exposed to any smoke (never worn in any clubs!).Never exposed to pets.No stains or tears.Just distressed leather.Venmo / cash only."
             },
             {
-                "id": "7349680476",
-                "name": "Vintage Women Levi's denim faux sheep skin jacket M",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-women-levis-denim/7349680476.html",
-                "datetime": "2021-08-08 17:47",
-                "price": "$75",
-                "where": "twin peaks / diamond hts",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00R0R_4ojgFlF3FzXz_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00R0R_4ojgFlF3FzXz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00R0R_4ojgFlF3FzXz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_hLgoi1HAdIIz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_32R7lJlW8mzz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00I0I_6cZm8R9CNpfz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_fYzevSiOEkbz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_5oqgC3GOFCez_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_aqMVRVe7yA8z_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_ih9gI7knILkz_0t20t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "This cute and classic number is up for grabs. I don't know how much it's really worth but either way, it's well made, warm, wonderful wear! It's a M but runs one the old school M size which means smaller than today's typical M."
-            },
-            {
-                "id": "7357531507",
-                "name": "Kimono Haori Silk Jacket - Vintage",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-kimono-haori-silk-jacket/7357531507.html",
-                "datetime": "2021-08-08 17:36",
+                "id": "7351016832",
+                "name": "Vintage Disney Minnie Mouse Watch \"Miss Fabulous\" - Big Face",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-disney-minnie/7351016832.html",
+                "datetime": "2021-08-08 18:28",
                 "price": "$25",
-                "where": "dublin / pleasanton / livermore",
+                "where": "mission district",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00B0B_7zDPAFpZg7V_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00q0q_jTCCAfINNWnz_0sk0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00B0B_7zDPAFpZg7V_600x450.jpg",
-                    "https://images.craigslist.org/00B0B_7zDPAFpZg7V_50x50c.jpg",
-                    "https://images.craigslist.org/00606_8DtUHtrFGw6_50x50c.jpg"
+                    "https://images.craigslist.org/00q0q_jTCCAfINNWnz_0sk0t2_600x450.jpg",
+                    "https://images.craigslist.org/00q0q_jTCCAfINNWnz_0sk0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01010_cNkDDDeYHDxz_0si0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This vintage Haori short Kimono Jacket is made of soft 100% silk. It has a lightly patterned gray background arrayed with detailed writing boxes in black and brown. It is lined in tan silk.  It has one pocket on the right side, and  is gender neutral. The jacket is in nearly new condition.  It measures 35\u201d vertically from collar to bottom or back.This item is located in Pleasanton.  No need to ask if it is still available.  Posting will be removed immediately when the item is sold.Cash or PayPal only.  Please call, email or text me with questions, or to make plans to see this item.   Or, I would also be happy to ship this item to you in these times of Coronavirus shelter-in-place.  Just let me know your postal zip code, and I will quote you the additional cost of USPS shipping.  Pay through PayPal, and you never have to leave your home.  Thanks for looking."
+                "description": "Vintage Disney Minnie Mouse Watch Miss Fabulous - Big Face - Stainless Steel - NEW BATTERY..Minnie Mouse large face watch with Minnie Mouse pictured on the dial of the watch..beautiful silver bezel..Shock and water resistant...No longer made. Great Collector item..Very good working condition. As Is.. needs band and little band connectors...SHIPPING AVAILABLE *****PLEASE include a phone number with your response.869"
+            },
+            {
+                "id": "7349116292",
+                "name": "Chunky Vintage Navajo 27\" Turquoise Nugget Necklace 369 Grams Beauty",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-chunky-vintage-navajo-27/7349116292.html",
+                "datetime": "2021-08-08 18:27",
+                "price": "$225",
+                "where": "mission district",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00v0v_afp62uAy1K3z_0gU0ne_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00v0v_afp62uAy1K3z_0gU0ne_600x450.jpg",
+                    "https://images.craigslist.org/00v0v_afp62uAy1K3z_0gU0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_lb7OBlXVoWrz_0hR0ne_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_9pvBthX4kiGz_0ne0gh_50x50c.jpg",
+                    "https://images.craigslist.org/00101_9Jam7YgCyRYz_0ne0fL_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_eQLmpsuUbR4z_0nl0fW_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Fantastic Vintage Navajo 27 Large Beautiful Turquoise Nugget Necklace..369 Grams An extraordinary necklace with absolutely gorgeous turquoise27 separate blue turquoise with hints of green and black matrix...Some of these nuggets are over 1 1/2 long and close to 1 thick..Slightly graduated and reversible...looks amazing from both sides..From my research it appears to be Carico Lake turquoise from Nevada, judging from the color and the minimal matrix..TOTAL WEIGHT - 369 1/2 GramsTOTAL LENGTH - Approximately 27CONDITION: Used vintage condition. Photos show items current condition and use your best judgement...Sold As is...SHIPPING AVAILABLE*****Bay area buyers, please include a phone number with your response952chunky heavy turquoise Carico Lake blue green massive 27 stones matrix graduated reversible"
             }
         ],
         "beaded": [
@@ -251,6 +240,45 @@
         ],
         "gloves": [
             {
+                "id": "7362966509",
+                "name": "Head Junior Ski Gloves Size Large *** BRAND NEW ***",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/head-junior-ski-gloves-size-large-brand/7362966509.html",
+                "datetime": "2021-08-08 18:55",
+                "price": "$20",
+                "where": "Sunnyvale/Palo Alto",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00h0h_79qkZtMgUIb_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00h0h_79qkZtMgUIb_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_79qkZtMgUIb_50x50c.jpg",
+                    "https://images.craigslist.org/00505_9q65jmpr9Zh_50x50c.jpg",
+                    "https://images.craigslist.org/00101_fDtlhmML1V8_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_afCUM2QTGR3_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Head Jr Outlast Waterproof Ski Gloves With Heat Pack Pocket For YouthSize:  Large JuniorItem #777658"
+            },
+            {
+                "id": "7362961630",
+                "name": "Bilt Motorcycle Leather Gloves Mens XL",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-bilt-motorcycle-leather-gloves/7362961630.html",
+                "datetime": "2021-08-08 18:38",
+                "price": "$59",
+                "where": "oakland north / temescal",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01414_dBVhbQqGaWv_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01414_dBVhbQqGaWv_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01414_dBVhbQqGaWv_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_kGWTobQLrdu_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_aeraX4Qhc6Y_0CI0t2_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "I\u2019m selling a pair of Bilt motorcycle leather gloves. Size: XLIf interested please text or call for pickup."
+            },
+            {
                 "id": "7357756542",
                 "name": "Merino Wool Gloves & Scarf",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-merino-wool-gloves-scarf/7357756542.html",
@@ -270,40 +298,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Banana Republic scarf and pair of glovesSize: LargeIn excellent condition: Extra Fine Italian Merino WoolPerfect for SFBA chill."
-            },
-            {
-                "id": "7362837499",
-                "name": "Ski gloves & mittens",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/ski-gloves-mittens/7362837499.html",
-                "datetime": "2021-08-08 13:21",
-                "price": "$10",
-                "where": "walnut creek",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_3hghEXe8Qk4_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00d0d_3hghEXe8Qk4_0CI0t2_600x450.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Ski glove for women, size Small, almost new, HEAD brand, $10/each.Ski mitten for men, size Small, NEW, Dakine brand, $15/each."
-            },
-            {
-                "id": "7359771486",
-                "name": "Italian embroidered kid leather gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/richmond-italian-embroidered-kid/7359771486.html",
-                "datetime": "2021-08-08 08:55",
-                "price": "$20",
-                "where": "richmond / point / annex",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00L0L_5JW8R0Y3bCuz_05a03S_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00L0L_5JW8R0Y3bCuz_05a03S_600x450.jpg",
-                    "https://images.craigslist.org/00L0L_5JW8R0Y3bCuz_05a03S_50x50c.jpg",
-                    "https://images.craigslist.org/01212_1zHWxxSPPATz_05a03S_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "I have two pairs of embroidered leather gloves that came from a trip to Italy many years ago.  One pair is creamy white with embroidery and cutouts, perfect for a summer wedding; the other black with less obvious embroidery, good for any time of year.  They are very soft fine leather, and a fairly small size 6.5.  $20 for each pair.I live in a gated community at Marina Bay, just off 580 in Richmond."
             }
         ],
         "wedding dress": [

@@ -117,6 +117,34 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7356926683",
+                "name": "Vintage 60\u2019s Clothing",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/half-moon-bay-vintage-60s-clothing/7356926683.html",
+                "datetime": "2021-08-08 18:10",
+                "price": "$40",
+                "where": "half moon bay",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00U0U_c6k0LKAkkIcz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_itNQmuSjO3Pz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01313_dopaBjrbTU6z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01616_64AgPWnmMwKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_7K6Oky2vzSnz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_lkXQGu2Q4Jz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00606_lxp9nxcgpHtz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_hVgRBkOD6Mgz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_giS6xVQjCT6z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_isdjhcdSKNWz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00t0t_lpGbztOjL3Qz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_7KM144xAwuiz_0t20CI_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage 60\u2019s - 80\u2019s Clothing $10-$40"
+            },
+            {
                 "id": "7349680476",
                 "name": "Vintage Women Levi's denim faux sheep skin jacket M",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-women-levis-denim/7349680476.html",
@@ -157,27 +185,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "This vintage Haori short Kimono Jacket is made of soft 100% silk. It has a lightly patterned gray background arrayed with detailed writing boxes in black and brown. It is lined in tan silk.  It has one pocket on the right side, and  is gender neutral. The jacket is in nearly new condition.  It measures 35\u201d vertically from collar to bottom or back.This item is located in Pleasanton.  No need to ask if it is still available.  Posting will be removed immediately when the item is sold.Cash or PayPal only.  Please call, email or text me with questions, or to make plans to see this item.   Or, I would also be happy to ship this item to you in these times of Coronavirus shelter-in-place.  Just let me know your postal zip code, and I will quote you the additional cost of USPS shipping.  Pay through PayPal, and you never have to leave your home.  Thanks for looking."
-            },
-            {
-                "id": "7357531686",
-                "name": "Vintage Laurel Burch Mynah Bird Post Earrings",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-vintage-laurel-burch-mynah/7357531686.html",
-                "datetime": "2021-08-08 17:36",
-                "price": "$12",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00O0O_fXLzeM4NoAh_0CI0q7_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00O0O_fXLzeM4NoAh_0CI0q7_600x450.jpg",
-                    "https://images.craigslist.org/00O0O_fXLzeM4NoAh_0CI0q7_50x50c.jpg",
-                    "https://images.craigslist.org/01515_gtN9BcHb32O_0AD0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_OjENOKWxOm_0CI0pM_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_7Q67xqg9PgV_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_kpSvgyFJFTf_0xf0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "These vintage Laurel Burch Earrings are classic 80\u2019s! They are silvertone discs that feature a Mynah Bird with plumage in the beautiful classic Laurel Burch style. They are made of Pewter with oxidized silver plating that never tarnishes.Earrings measure 1\u201d across, and are in excellent condition.We are downsizing our collections, check out our other postings to see if there are other items of interest. Be assured that we practice safe distancing when picking up items at our home and can ship if you pay postage.This set is located in Pleasanton.  No need to ask if it is still available.  Posting will be removed immediately when the items are sold.Cash or PayPal only.  Please call, email or text me with questions, or to make plans to see it.   Or, I would also be happy to ship this set to you in these times of Coronavirus shelter-in-place.  Just let me know your postal zip code, and I will quote you the additional cost of USPS shipping.  Pay through PayPal, and you never have to leave your home.  Thanks for looking."
             }
         ],
         "beaded": [
@@ -842,51 +849,65 @@
                 "description": "Pretty little soprano, nice build with super-thin mahogany laminate, but with a sound that will rival most solid-wood ukes. Extremely light, with excellent projection and beautiful resonance. The Famous FS-1 is a Japanese build, identical to the Kiwaya KS-1, but sold only to the Japanese market. This older uke has a Rosewood fingerboard, which you won't find in production any longer...the newer ones are walnut.  Subtle striping at the soundhole is nice touch. Low action and great intonation, it's got a classic ukulele sound. Friction tuners. Tiny scratch on the headstock, mark on the first fret - see the photos for detail.Reasonable offers are welcome."
             },
             {
-                "id": "7362943207",
-                "name": "MXR CSP102SL Script Dyna Comp Reissue",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/san-leandro-mxr-csp102sl-dyna-comp/7362943207.html",
-                "datetime": "2021-08-08 17:39",
-                "price": "$130",
-                "where": "san leandro",
+                "id": "7362951236",
+                "name": "GIBSON BANJO OLDER = also 4,,5, 6,+ 8 STRING TYPES",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/berkeley-gibson-banjo-older-also-string/7362951236.html",
+                "datetime": "2021-08-08 18:04",
+                "price": "$25",
+                "where": "berkeley",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01111_8LOfxW2vQprz_0mA0cI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00y0y_alNKEazGDVw_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01111_8LOfxW2vQprz_0mA0cI_600x450.jpg",
-                    "https://images.craigslist.org/01111_8LOfxW2vQprz_0mA0cI_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_gPNU14yWv0Jz_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_whNYhF6w19z_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00707_5WWihC1M0eTz_0mA0cH_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_kt63dgzGK8iz_0jm0ew_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_9UYnWlYBAsPz_0jm0ew_50x50c.jpg"
+                    "https://images.craigslist.org/00y0y_alNKEazGDVw_600x450.jpg",
+                    "https://images.craigslist.org/00y0y_alNKEazGDVw_50x50c.jpg",
+                    "https://images.craigslist.org/01414_dZwfU4xEaH3_50x50c.jpg",
+                    "https://images.craigslist.org/00O0O_iMiY8aI0d88_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_ehzA4QNxfbZ_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_5AoCqcnlZ1O_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_dKYdrAFAw2E_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_igWnjv91925_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_dHDiChJGLZo_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_9IKAJnIKvEZ_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_lK2yQ9WZHfU_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_bXr33HDVUr5_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_cOuMe4A88RT_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/01515_7nseOdiXmvc_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_hOlkct5xu6B_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/01616_fqSaj2h1bdA_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_4MNqOqsntdW_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_5z7j2n8yeVj_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00303_2724NIXQjkh_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00202_i9JpCbAwWky_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_zaXnIBXuys_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_2BTNgJMt8l3_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00606_48BXyxXRKH6_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00707_figJ2KntZFV_0ak07K_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_1kObl1K0tLz_0ak07K_50x50c.jpg"
                 ],
                 "query": "famous",
                 "category": "msa",
-                "description": "Selling a mint-condition MXR CSP102SL Script Dyna Comp Reissue pedal in original box. This was a very recent purchase but I no longer have the need for a compression pedal. Below is the official information on the pedal:The Dyna Comp Compressor is famous for first-rate, no-nonsense approach to tightening up your guitar signal and creating rich, full-bodied sustain. Like the Phase 90, this little red gem is a legend among its kind. The pedals produced in the mid-\u201970s are particularly prized for their unqiue sound and performance.The Script Dyna Comp Compressor combines that old-school sound with a couple of upgrades for modern gigging convenience. Spec\u2019d from our own 1976 Dyna Comp Compressor, this pedal is built around the rare CA3080 metal can integrated circuit (IC), which yields quieter operation, greater transparency, and increased dynamic range. Thanks to its bypass status LED and AC power jack, you can put this pedal right on your board without worrying over whether the pedal is on or about to lose power.Features    Classic sound with modern upgrades    Quieter operation, greater transparency, and increased dynamic range    Bypass status LED and AC power jackNo trades. Will accept cash, PayPal, or Venmo. Local buyers only. Good luck"
+                "description": "OFFERING A NICE SELECTION OF OLDER BANJOS = ALL TYPES, AS FOLLOWS:A SPECIAL BANJO:# 11) = SOLD.  THIS IS A GREAT GIBSON REPLICA 5-STRING MASTERTONE BANJO by DAROLL ANGER + DAVID MORSE of SANTA CRUZ, circa. 1975. They called it a  GRANADA but it looks more like an old Gibson RB-3 with a FLAT HEAD TONE RING.  New Skin and set up.  PHOTOS ON REQUEST. Very Beautiful NECK of TIGER STRIPED MAPLE. ( # 0320-02) PRICE = $ 00.00 with SOLID HARD CASE to fit.   = SOLD                    1) BACON ff PROFESSIONAL 5-STRING (ca. 1920) Great old banjo in good playing condition but missing the inner echo apparatus made of wood.  Selling below Market Value for that reason but it sounds the same to me without this art.  (# 0489-95).There is a similar Bacon banjo for sale Online at Lark Street Music in New Jersey for $ 3750.00 !!! MY PRICE = $ 1650.00.2) BACON + DAY SILVER BELL 5 string model # 1 (RIM + ca. 1920s, NECK = ca. 1960s) Both parts were made by the Bacon Co.  Great Banjo with Resonator good for Bluegrass and Old-Timey Music..PHOTOS SHOWN.  PRICE = $ 2750.00. ( INV. # 0518-05) 3)SOLD = BENARY 5-STRING (c. 1890s, N. Y. City) this is called The Celebrated    Benary and is a real old timer, now about 130 years old!  Still good and ready    to PLAY.    PRICE = $ 450.00, (Inventory # 1187-07)             SOLD4) H.C. DOBSON ANTIQUE 5 STRING BANJO ( 1880s, N.Y.) VERY SMALL     WITH 9.0 INCH RIM THIS BANJO HAS 2 EARLY patents:    a) Tone Ring (1881) and b) FRETS!    b) has 16 sets of original Dobson four sided nuts, plus various additonal     hooks + nuts.    It needs some RESTORATION AT THIS TIME (Skin, some Hooks + Nuts, and a     5th String peg.) MORE PHOTOS ON REQUEST. SALE PRICE  AS IS = $ 625.00.5) FAIRBANKS + COLE FRET LESS 5-STRING (ca. 1890s, Boston) a good antique Fret Less banjo now over 100 years old!  Ready to play. (# 0213-11) PRICE = $ 600.006) SOLD = GOLD STAR GF-85 5 STRING (ca. 2000?) A VERY GOOD BLUEGRASS BANJO in GOOD CONDITION and LOUD !  (# 0306-16) SALE PRICE = $ 895.00 ( was previously $ 1100.00) = SOLD 7) S. S. STEWART 5-STRING = Ladie's Model banjo)ca. 1890, Philadelphia.  Very small 5-string in good condition and ready to play. Great TRAVEL BANJO! NOW INCLUDES A HARD SHELL CASE TO FIT, CIRCA 1920s. (# 0918-13) PRICE = $ 800.008) SOLD.   VEGA TUBAPHONE 5-STRING (RIM ca. 1920, NECK = 1970s) this is a larger sized rim with a beautifully crafted replica Maple neck made circa 1970s and made very well.  (# 1019-01) SALE PRICE = $ 1250.00  PHOTOS SHOWN. )    SOLD.9) WASHBURN PETE SEEGER STYLE 5-STRING with 25 Frets. GREAT BANJO with the extra long neck. (Rim = 1920s, Neck circa 1970s) Beautiful and STRAIGHT MAPLE neck. (# 0416-08) PRICE  = $ 1750.00. (a VEGA  PETE SEEGER STYLE 5-STRING with 25 Frets, like this would cost about $ 2500.00 Or more, and this is EQUALLY AS GOOD).10) ANTIQUE TUNBRIDGEWARE BANJO. (circa 1870s?, ENGLAND.) These are named after the style of wooden marquetry on them  This is a smaller banjo and has one shorter Drone String plus FIVE other strings so it has 6 strings total.  It also has a nice flat back cover of very fancy wood.  SALE PRICE = $ 6This is a copy of the Gibson Mastertone style50.00 (previously was $ 800.00). SEE PHOTOS ON WEBSITE or ON REQUEST.  INV. # 0518-03.11) WILDWOOD CUSTOM MODEL  5 STRING (1987) Great Bluegrass Banjo = very loud! Heavy construction w/Tone Ring and Resonator. Styled like the Gibson RB-4 with Hearts + Flowers pattern. PHOTOS SHOWN.  (#1113-06) SALE PRICE  = $ 1650.00.12) SOLD = FRET LESS 5 STRING BANJO = DOBSON, (Boston, circa 1880s)       MADE BY THE FAMOUS DOBSON FAMILY of BOSTON. This banjo still needs       to be set-up (needs tuners, nut, strings, a tail piece, maybe a new skin, etc.) but       otherwise is in  good condition!  (Inv. #  1219-22) MORE PHOTOS SOON.        SALE PRICE =  AS IS  $ 210.00   (PREVIOUSLY was $ 295.00)     SOLD13) ANTIQUE 5 STRING BANJO (CIVIL WAR ERA?) Has only 8 Hooks + Nuts        and SHIELD Shaped Shoes. Needs parts added and set-up.  This is a real        ANTIQUE FRET-LESS 5 STRING BANJO (# 0818-08) . PRICE =  AS IS $ 300.00.14) PARAMOUNT BANJO HARD CASE, circa 1925,  This has the inner zipper lining. Good condition after almost  100 years! PHOTOS ON REQUEST. PRICE = $ ASKI have more banjos here, more 5 string and more 4-string Tenors, Plectrums, and Banjo-Mandolins also. I will Post the PHOTOS soon, or ON REQUEST.PHOTOS ON REQUEST ( or coming soon as I have time)NOTICE: MY DATA BASE is being RENOVATED at this time so ask me for photos OK, and include my Inventory number.  Send me your personal e-mail for this.Please do NOT leave phone messages and do NOT text me as I am too busy.  E-mail (leave your personal e-mail address)  or phoning me is best.thank you,MARC S., in Berkeley."
             },
             {
-                "id": "7362851928",
-                "name": "Friedman Smallbox Combo",
-                "url": "https://sfbay.craigslist.org/sby/msg/d/san-jose-friedman-smallbox-combo/7362851928.html",
-                "datetime": "2021-08-08 14:09",
-                "price": "$2,200",
-                "where": "san jose north",
+                "id": "7362948981",
+                "name": "Peavey Musician Mark III Series Guitar/Bass Amplifier",
+                "url": "https://sfbay.craigslist.org/nby/msg/d/santa-rosa-peavey-musician-mark-iii/7362948981.html",
+                "datetime": "2021-08-08 17:57",
+                "price": "$249",
+                "where": "santa rosa",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_8VXsuYonundz_0mC0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00l0l_39iVdegQn5Ez_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00j0j_8VXsuYonundz_0mC0t2_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_8VXsuYonundz_0mC0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00G0G_iUVEFy38iYDz_0mU0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_l9DvAkbfDpdz_0pJ0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_1wdkfYGhN5Gz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_bfHdySoJZSHz_0rB0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_dR16WAx3IBz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_79OUs6Wahj6z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_kAbRYfVLSbWz_0r40t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_hqwaN7m9BS8z_0CI0ny_50x50c.jpg"
+                    "https://images.craigslist.org/00l0l_39iVdegQn5Ez_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00l0l_39iVdegQn5Ez_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_ipRkvUodZUwz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_5TKKBhoI5t4z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_hG0wECWh01Yz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_jgkjiH0gDLQz_0t20CI_50x50c.jpg"
                 ],
                 "query": "famous",
                 "category": "msa",
-                "description": "This is tough to do but I gotta move this on. Here's my Friedman Smallbox Combo in excellent condition. Includesfootswitch and new Custom Amp Cover. Furthermore I can load this with a UK made V30 or the Creamback that came with it. The V30 is gonna be more focused with a clearer crunch, more modern, serious gains. The G12H-75 Creamback is gonna be a little more smoother/darker, nice for a more vintage vibe. Your choice.Small hairline crack near power port is the only notable, no other issues. Super clean and sounds amazing. Original box from Wildwood Guitars if you want it.This this is a Marshall lovers dream. Channel 1 is the best vintage Plexi tone around, hands down. Hendrix to Malcom Young here. Channel 2 is everything from low gain modern crunch to saturated modern gains with just enough compression. Should mention this amp loves pedal too, takes fuzz, drives, effects perfectly. Friedman makes one of the quietest, usable effect loops around for your Delays, Reverbs etc.Check what used prices are on these. Lotsa clips on YouTube. I believe this is Dave's all around best amp. Channel 1's lower gain Plexi tone is pure gold and where I lived. I've owned easily over a dozen Marshall type circuit amps, this is at the top. Of course channel 2 is all about Friedman's famous high gain BBE mod/model and this is what put him on the map so if your looking for EVH to George Lynch to GnR's or even drop D sludge, look no further.No trades, weird inquiries'. Come with cash, leave with a lifetime amp.Fender Bogner Ampeg Diezel Carr Peavey Dr Z Two Rock VHT Engl Vox Budda Suhr Mesa Egnator PRS Orange Matchless Blackstar Line 6 Kemper Yamaha Boss"
+                "description": "Famous Peavey Musician Mark III Series amplifier $249Companion 4X4 10 Speaker cabinet $400Or get both combined: $550---------------------------------------This is a Peavey Musician Mark III Series amp head and Cabinet. It is the 400 Instrument System from 1980. This amp has dual channels (or auto mix), switchable graphic equalizer, phaser, reverb, A & B channel effects loops, pre amp and line outputs, power amp input, remote switch, direct or transformer coupled outputs with up to 300 watts power out. It is in good physical and working condition. Has some wear but all and all good condition.Features:Equalization Channel A Low Active Control High Active ControlChannel BLow Active Control Middle Active Control High Active Control Post Gain ControlPhasor Produces an extremely wide range of phasing effects including: Tremolo / Vibrato affects When use with reverberation it can closely approximate sounds produced by a rotating speaker. A ''Swooshing Sound.Determines the amount of internal feedback that sets the level of phase control.Rate Control Determines the speed.ReverbGraphic EQ Assign Switch Graphics Equalizer Patch Panel Pre Amp Out Pre Amp In Line Out Out / In Channel A Out / In Channel ABSheffield 412m CabinetPeavey has always had a reputation for building gear that could practically withstand an atomic bomb blast."
             }
         ]
     }

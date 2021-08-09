@@ -117,6 +117,22 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7360819731",
+                "name": "Ladies Vintage Snow Boots - Size 8 - New",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/santa-clara-ladies-vintage-snow-boots/7360819731.html",
+                "datetime": "2021-08-08 16:40",
+                "price": "$20",
+                "where": "santa clara",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00x0x_dERQUZ9FIvG_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00x0x_dERQUZ9FIvG_0CI0t2_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Call or text only..."
+            },
+            {
                 "id": "7362910729",
                 "name": "VINTAGE VERSACE SUNGLASSES",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-versace-sunglasses/7362910729.html",
@@ -159,25 +175,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage working condition. No rust."
-            },
-            {
-                "id": "7362891773",
-                "name": "Vintage 1940s Necktie",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1940s-necktie/7362891773.html",
-                "datetime": "2021-08-08 15:22",
-                "price": "$25",
-                "where": "marina / cow hollow",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00707_9QfRMEGj3I2z_0jm0pO_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00707_9QfRMEGj3I2z_0jm0pO_600x450.jpg",
-                    "https://images.craigslist.org/00707_9QfRMEGj3I2z_0jm0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_d9jK3CKVjw4z_0bZ0pO_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_8PraX2E8FVPz_0pO0hy_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Wide 1940s Neck Tie.Width is 4.25."
             }
         ],
         "beaded": [

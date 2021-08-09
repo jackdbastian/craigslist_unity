@@ -117,6 +117,49 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7359479554",
+                "name": "Vintage Levi's denim trucker jacket Sz 50 Levi Levis",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-levis-denim-trucker/7359479554.html",
+                "datetime": "2021-08-08 20:40",
+                "price": "$125",
+                "where": "oakland piedmont / montclair",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00K0K_82nXBoXfMcRz_0dJ0jm_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00K0K_82nXBoXfMcRz_0dJ0jm_600x450.jpg",
+                    "https://images.craigslist.org/00K0K_82nXBoXfMcRz_0dJ0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_G9CHINV2Zaz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00000_30Thd6W8eYLz_0jm0ew_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_709Fz8V6l4sz_0ew0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_4TLj4QR7HZ3z_0hs0jm_50x50c.jpg",
+                    "https://images.craigslist.org/00N0N_2LIGLZUVkgBz_0ff0jm_50x50c.jpg",
+                    "https://images.craigslist.org/01313_74FChvTbGzgz_0ew0jm_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Levi's Trucker Jacket - Size 5070506-0316Excellent conditionFour pocketwool blanket lined coat"
+            },
+            {
+                "id": "7362992017",
+                "name": "Vintage Carmen Marc Valvo Designer Wedding Dress",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-vintage-carmen-marc-valvo/7362992017.html",
+                "datetime": "2021-08-08 20:42",
+                "price": "$350",
+                "where": "novato",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Y0Y_aksCaIKTl5rz_030071_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Y0Y_aksCaIKTl5rz_030071_600x450.jpg",
+                    "https://images.craigslist.org/00Y0Y_aksCaIKTl5rz_030071_50x50c.jpg",
+                    "https://images.craigslist.org/00000_8rMpuSYymAGz_0ct0go_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_SMg8SmSOiaz_04o0er_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_4DOekvJoKwNz_08J0az_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "**Original Owner!This exquisite ivory bridal gown covered in tiny pearls is pure timeless elegance! Bridal size 10, fits size 8-10 (bridal sizes always run a bit small!), but could be tailored down to a 6. One of Carmen Marc\u2019s early designs, this is a classic cut that\u2019s always in style, a sleeveless fit-and-flare cut with a scoop neck and a lower scoop back. This designer has dressed some of the world\u2019s most elegant and glamorous women: Beyonce, Princess Madeleine of Sweden, Queen Latifah, Katie Couric, Leona Lewis, Catherine Zeta-Jones, Vanessa Williams, Kate Winslet, Eva Longoria, and Mary J Blige.Fully beaded80% rayon 20% nylonWaist: 28Hips: 38Bust: 36Length: 58\u201d from shoulder to hem (I am 5\u2019 5 \u00bd\u201d and wore it with a 3\u201d heel)Perfect condition! All seams and beading intact.You can verify the design online. Cut out the tag due to sensitive skin.Originally $1250, asking $350 or B/O . Pick up in person only! Payment by PayPal or cash only."
+            },
+            {
                 "id": "7362981000",
                 "name": "Vintage 70s bellbottom jump suit - OBO",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-70s-bellbottom/7362981000.html",
@@ -135,43 +178,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Genuine made in the 70s bell bottom jumpsuit.  In pristine condition.Bought it for $100 for a disco themed party, but never wore it.Size 8 - according to the tag.  I never put it on, so I can't confirm that."
-            },
-            {
-                "id": "7357842556",
-                "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7357842556.html",
-                "datetime": "2021-08-08 19:15",
-                "price": "$200",
-                "where": "sf",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
-                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_eEgVPswHzdh_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "vintage Golden State Warriors Jersey DubbsSize LargeIf you do not receive an email reply, check your Spam folder"
-            },
-            {
-                "id": "7354986140",
-                "name": "Vintage 1995 \"San Francisco 49'ers Short Sleeve T-Shirt NOS Size Large",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1995-san/7354986140.html",
-                "datetime": "2021-08-08 19:11",
-                "price": "$30",
-                "where": "mission district",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_e4RdKHAFUWJ_0dW0c9_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00U0U_e4RdKHAFUWJ_0dW0c9_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_e4RdKHAFUWJ_0dW0c9_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_4tKxjwbuFvj_0dW0c4_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "SIZE LargeNEW OLD STOCK W/Tags Vintage 1995 San Francisco 49'ers Red Short Sleeve T-ShirtKILLER DESIGNMade by TRUE-FAN SPORTSWEAR - 100% MADE IN USAHas original sku tag plus NFL TEAM tag. CONDITION: New Old Stock With Tags, EXCELLENT - PLEASE SEE PHOTOS -Discovered in a storage bin recently with a number of other SF Bay area vintage sports memorabilia (49'ers, Giants, A's) where its been for over 2 decades PHOTOS SHOW THE ITEM'S CURRENT CONDITION. 276"
             }
         ],
         "beaded": [
@@ -300,6 +306,26 @@
         ],
         "wedding dress": [
             {
+                "id": "7362992017",
+                "name": "Vintage Carmen Marc Valvo Designer Wedding Dress",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/novato-vintage-carmen-marc-valvo/7362992017.html",
+                "datetime": "2021-08-08 20:42",
+                "price": "$350",
+                "where": "novato",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Y0Y_aksCaIKTl5rz_030071_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Y0Y_aksCaIKTl5rz_030071_600x450.jpg",
+                    "https://images.craigslist.org/00Y0Y_aksCaIKTl5rz_030071_50x50c.jpg",
+                    "https://images.craigslist.org/00000_8rMpuSYymAGz_0ct0go_50x50c.jpg",
+                    "https://images.craigslist.org/00u0u_SMg8SmSOiaz_04o0er_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_4DOekvJoKwNz_08J0az_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "**Original Owner!This exquisite ivory bridal gown covered in tiny pearls is pure timeless elegance! Bridal size 10, fits size 8-10 (bridal sizes always run a bit small!), but could be tailored down to a 6. One of Carmen Marc\u2019s early designs, this is a classic cut that\u2019s always in style, a sleeveless fit-and-flare cut with a scoop neck and a lower scoop back. This designer has dressed some of the world\u2019s most elegant and glamorous women: Beyonce, Princess Madeleine of Sweden, Queen Latifah, Katie Couric, Leona Lewis, Catherine Zeta-Jones, Vanessa Williams, Kate Winslet, Eva Longoria, and Mary J Blige.Fully beaded80% rayon 20% nylonWaist: 28Hips: 38Bust: 36Length: 58\u201d from shoulder to hem (I am 5\u2019 5 \u00bd\u201d and wore it with a 3\u201d heel)Perfect condition! All seams and beading intact.You can verify the design online. Cut out the tag due to sensitive skin.Originally $1250, asking $350 or B/O . Pick up in person only! Payment by PayPal or cash only."
+            },
+            {
                 "id": "7362935227",
                 "name": "Wedding Dress: Size 2-4",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/pittsburg-wedding-dress-size-4/7362935227.html",
@@ -344,25 +370,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "This is a champagne color custom made ball gown off the shoulder wedding dress. It is made with quality material and great fitting to feature the best par of your body. The dress is a size 2-4, the back of the dress is adjustable so it can fit a range of body size without paying for the alterations.   The price is $350 and it includes: 1.\tBall Gown Off-the-Shoulder Champagne Color Tulle Wedding Dress 2.\tChampagne Color Veil 3.\tBall Gown 1 Tier Floor Length Wedding Dress Petticoats4.\tBag For The Dress"
-            },
-            {
-                "id": "7358510518",
-                "name": "Wedding Dress",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-wedding-dress/7358510518.html",
-                "datetime": "2021-08-08 14:55",
-                "price": "$850",
-                "where": "danville / san ramon",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_3jtm6plFgmn_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_3jtm6plFgmn_600x450.jpg",
-                    "https://images.craigslist.org/01717_3jtm6plFgmn_50x50c.jpg",
-                    "https://images.craigslist.org/00404_1t3HSQL8nYS_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_91J1EIOjkVm_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "Beautiful Madison James gown with beaded bodice and illusion collar. Gorgeous illusion detail on back as well. Size 4; altered only in the shoulder area. Soft satin fabric sewn in behind illusion neckline for comfort. Beading detail around waist and hip area with beaded button detail all the way down center back of gown. Bustle details altered into gown.Dry cleaned and ready to wear.  Ivory color.$850 or best offer. Cash only."
             }
         ],
         "great condition": [

@@ -54,6 +54,28 @@
         ],
         "wood": [
             {
+                "id": "7351078360",
+                "name": "Berkeley Mills Wood Shelves, Cubby and Book Shelves",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-berkeley-mills-wood-shelves/7351078360.html",
+                "datetime": "2021-08-08 22:16",
+                "price": "$500",
+                "where": "berkeley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00000_3FPlD1qKiw8z_0gw0co_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00000_3FPlD1qKiw8z_0gw0co_600x450.jpg",
+                    "https://images.craigslist.org/00000_3FPlD1qKiw8z_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_ugKAL9xjBMz_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_iU4HAerKndtz_0co0gw_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_hcXiXKQIDbAz_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/01616_7ZbQCuWv0Y6z_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_8uijhc2c5ZSz_0gw0co_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "White Cubby with Seating Cushions: $500White Book Shelves: $650 Two custom made high quality wood Berkeley Mills shelving units. Originally built to house music system with an acoustic wood paneling (seen in pictures). The shelves glove onto heavy duty metal brackets (not for sale) which can be installed. 24\u201d x 19\u201d x 3\u201d. $2000"
+            },
+            {
                 "id": "7360295234",
                 "name": "Barn Wood",
                 "url": "https://sfbay.craigslist.org/nby/mat/d/petaluma-barn-wood/7360295234.html",
@@ -89,101 +111,83 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "17 - 8\u2019 2x4s and 5 - 8\u2019 2x6s for sale. Lumber extra unused wood. Best offer accepted."
-            },
-            {
-                "id": "7359374229",
-                "name": "Miscellaneous barn wood",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-miscellaneous-barn-wood/7359374229.html",
-                "datetime": "2021-08-08 14:42",
-                "price": "$150",
-                "where": "dublin / pleasanton / livermore",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_5K4mrMovwsaz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_llXTfe0hsvuz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_51b4U46Szdrz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_kYnYBXOqy5tz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01111_2X6Z7kGAN4Nz_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "I have some miscellaneous barn wood. I have boards, 2x3s, 2x4s, couple 2x6s and 4x4s. They range from 2-16 feet long. Most is Doug fir some redwood. All have nail holes some have splits and notches. Price will depend on what type of wood and how much you are buying or $150 for all. Located in Livermore. I don\u2019t deliver. Cash only. No holds."
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7353599899",
-                "name": "Women's Vintage Floral Lace V Neck Cocktail Party Swing Dress, Dark Green",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-vintage-floral-lace/7353599899.html",
-                "datetime": "2021-08-08 21:52",
-                "price": "$10",
+                "id": "7363007950",
+                "name": "Gucci vintage near new briefcase",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/danville-gucci-vintage-near-new/7363007950.html",
+                "datetime": "2021-08-08 22:19",
+                "price": "$699",
+                "where": "danville / san ramon",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00f0f_qR5cHPtSXI_0t20t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00f0f_qR5cHPtSXI_0t20t2_600x450.jpg",
+                    "https://images.craigslist.org/00f0f_qR5cHPtSXI_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_jWcY4PivsDt_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_9jEAe7kurHr_0CI0t1_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_5n4InfUOFKG_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01515_9SxhaaoxnOL_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_jehQIXNDXOS_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_f0s1hXNi8o6_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_1R5ZgJ60A4q_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00505_7XmFVbpEso1_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00V0V_cObTUTjec9y_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_gy4F4A1aHFS_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_hMPovnyK2cr_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_lhrXNMb8sar_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_aEWmAkzrZyA_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01616_idnjAW1g1wR_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01717_k92R8oc6CfC_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "A very rare vintage Gucci monogram briefcase in near new condition. Old label.I bought this from Gucci 30 years ago and used it a few times. Very little wear and the leather aroma is like it just came out from the factory. Lamb skin lined interior is simple beautiful. The craftsmanship is no longer seen in corporate owned Gucci. This was made when the House of Gucci was still a thriving independent force.Please feel free to ask question or for more images. I am open to reasonable offers.Both keys in the pouch. Original Gucci box."
+            },
+            {
+                "id": "7354965653",
+                "name": "Designer Vintage Check Cotton Tote Bag With Genuine Leather Straps",
+                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-designer-vintage-check-cotton/7354965653.html",
+                "datetime": "2021-08-08 22:17",
+                "price": "$20",
                 "where": "San Mateo",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_fwSMNPm3lj2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_cGneaiK47zlz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_4GBXwHR88vcz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_6MFLVmO0joOz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_ckaNZTcaOy2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00S0S_agooVXGcXy8z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_luIYivxEwB4z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_7YMqtvHe61Sz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_5lloJaZxYwXz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_hSaZKnXg4Jpz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_eYRac5tvB5ez_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_1a7d951byJqz_0CI0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_kbI2z5H9peyz_0CI0CI_50x50c.jpg"
+                    "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00x0x_eWUdTmZQU9Fz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_5EW8Lrdli1Lz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_aL8VuXGET5Bz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_dJOFxZRzcJEz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_hkGpi2K2Fmiz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_eQN3lnxydxfz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "I am selling a brand new Women's Vintage Floral Lace V Neck Cocktail Party Swing Dress in Dark Green100% silk and lace!Very good/comfortable quality! I have bulk qty as below:Size S, 11 pcsSize M, 30 pcsSize L, 13 pcsSize XL, 12 pcs Retails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
+                "description": "New condition! Local pick up and cash only!Very good quality!Size: 35cm x 37.5cm"
             },
             {
-                "id": "7360061777",
-                "name": "Vintage 1996 Tour Bush Long Sleeve Shirt",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1996-tour-bush/7360061777.html",
-                "datetime": "2021-08-08 21:44",
-                "price": "$80",
-                "where": "lower pac hts",
+                "id": "7363005983",
+                "name": "Vintage Velvet and Feather Headpiece",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/kentfield-vintage-velvet-and-feather/7363005983.html",
+                "datetime": "2021-08-08 22:04",
+                "price": "$20",
+                "where": "san rafael",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00Y0Y_915IVCTAguSz_0dr0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00s0s_jGO4jvrXNX6z_05O0ak_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00Y0Y_915IVCTAguSz_0dr0t2_600x450.jpg"
+                    "https://images.craigslist.org/00s0s_jGO4jvrXNX6z_05O0ak_600x450.jpg",
+                    "https://images.craigslist.org/00s0s_jGO4jvrXNX6z_05O0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00606_7dJpoeWrHqbz_05O0ak_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_daMqpZ8XMlpz_05O0ak_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Bought at a Bush concert in 1996 when they opened for No Doubt and Goo Goo Dolls.   Gavin Rossdale fisheye lens portrait on long sleeve shirt. size L, but fits like a Men\u2019s medium.Pickup in Pac Heights."
-            },
-            {
-                "id": "7352452819",
-                "name": "Vintage Molly Black Harness",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/napa-vintage-molly-black-harness/7352452819.html",
-                "datetime": "2021-08-08 21:30",
-                "price": "$100",
-                "where": "sonoma",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00t0t_7lY7j1n6Tfsz_0lM0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00t0t_7lY7j1n6Tfsz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00t0t_7lY7j1n6Tfsz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_bbNxdCmvVDoz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_6lCwjyWE9APz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_aRDhlhFHwnHz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/01212_99UQKhyBB7Fz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/01717_cbwP3CoB9Fvz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00303_7FA5KwaZelSz_0x20oM_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_3nCm1jlyrCJz_0x20oM_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Brand : Vintage Shoe Company U.S.A.Style: Molly Black HarnessWomen\u2019s Lace up Combat Boots\u2019sWomen\u2019s size 8 Really soft leather worn one time like brand new Retail price  $329.00For Sale $100.00Contact  Cheryl"
+                "description": "Gorgeous black velvet with warm-tones velvet flowers and feathers. This wears like a headband. Comfortable statement piece. Looks great on anyone.CASH OR VENMO pick up in Central San Rafael."
             }
         ],
         "beaded": [
@@ -312,12 +316,31 @@
         ],
         "wedding dress": [
             {
+                "id": "7362109031",
+                "name": "Classic simple wedding dress",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/fremont-classic-simple-wedding-dress/7362109031.html",
+                "datetime": "2021-08-08 22:09",
+                "price": "$120",
+                "where": "Fremont east bay area ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01414_88cQ3GQJqfVz_0rm0CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01414_88cQ3GQJqfVz_0rm0CI_600x450.jpg",
+                    "https://images.craigslist.org/01414_88cQ3GQJqfVz_0rm0CI_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_88OTdmt2RlNz_0CI0Ci_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_a7hGnkvNAPrz_0Bs0CI_50x50c.jpg"
+                ],
+                "query": "wedding dress",
+                "category": "cla",
+                "description": "Brand new unaltered! Size details in inches: Bust 32, waist 26, hips 36. I am US size 2-4 and it fits- Venmo/PayPal payment. No cash.- No return or refund"
+            },
+            {
                 "id": "7353601999",
                 "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Red",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7353601999.html",
                 "datetime": "2021-08-08 21:53",
                 "price": "$10",
-                "where": "San Mateo",
+                "where": "San Mateo peninsula ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00303_cpjLjb2HBL7z_0pO0CI_600x450.jpg",
                 "all_images": [
@@ -357,7 +380,7 @@
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7353602013.html",
                 "datetime": "2021-08-08 21:53",
                 "price": "$10",
-                "where": "San Mateo",
+                "where": "San Mateo peninsula ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00505_fbGCWhHC8Ujz_0pO0CI_600x450.jpg",
                 "all_images": [
@@ -374,37 +397,6 @@
                 "query": "wedding dress",
                 "category": "cla",
                 "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Long Dresses, Black100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size XXL, 15 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
-            },
-            {
-                "id": "7353602055",
-                "name": "Women\u2019s Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Blac",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-womens-maxi-dress-multi-way/7353602055.html",
-                "datetime": "2021-08-08 21:54",
-                "price": "$10",
-                "where": "San Mateo",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_8zVEcq23Z7Qz_0pO0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01010_8zVEcq23Z7Qz_0pO0CI_600x450.jpg",
-                    "https://images.craigslist.org/01010_8zVEcq23Z7Qz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_7XnTbDrXPAz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_fxtOE6TeALjz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_1fs2PuKLaMbz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_lJmMSvuGIFXz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_5lJPMY7ZNcaz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00B0B_hLeWGcSNTZjz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_fe76JwxGXM0z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/01212_2b2qmduRqNmz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_fJi4rPLfLW6z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_aonCbccjFOrz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00c0c_k1UUKYtQSGrz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_5xyM2A3HZgIz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00s0s_7c6I0CI4WXoz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_iVesQ4hg8b3z_0pO0CI_50x50c.jpg"
-                ],
-                "query": "wedding dress",
-                "category": "cla",
-                "description": "I am selling a brand new Women\u2019s Convertible Warp Maxi Dress Multi Way Wear Party Wedding Bridesmaid Knee Length, Black100% Cotton!Very good/comfortable quality! I have bulk qty as below:Size M, 15 pcsSize L, 45 pcsSize XL, 25 pcsSize XXL, 12 pcsRetails $10 per eachWholesale/Take All $8 OBOLocal pick up and cash only!"
             }
         ],
         "great condition": [
@@ -530,31 +522,6 @@
     "cars": {
         "drives great": [
             {
-                "id": "7362888680",
-                "name": "2003 Bmw 330I Sedan Runs-Drives Great",
-                "url": "https://sfbay.craigslist.org/sfc/cto/d/san-francisco-2003-bmw-330i-sedan-runs/7362888680.html",
-                "datetime": "2021-08-08 15:11",
-                "price": "$3,200",
-                "where": "inner sunset / UCSF",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_7ymaqQEmq6Tz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_7ymaqQEmq6Tz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_7ymaqQEmq6Tz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_lSSbjMptDxxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_6xNmaBqN4uuz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_hwBxNdJoBXUz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_1pvWIbWIWrAz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_eVoIDAS0fg5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_5M6v8lY5Hpxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Y0Y_SJZjrLZvf5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_fmMMPPyqH9yz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "drives great",
-                "category": "cta",
-                "description": "Selling My 2003 Bmw 330i Sedan Runs And Drives Excellent No Mechanical Issues Automatic Transmission I\u2019ve Recently Replaced It\u2019s Timing chain Water Pump Breaks Battery Coils Spark Plugs And Tires Are Fairly New Has 150k Miles Which Is Considered Low Mileage For It\u2019s Year Interior Is In Good Shape For It\u2019s AgeExterior Also In Good Shape For It\u2019s Age No Major Dents Or Scratches Although You Have To Expect Some Dings And Little Scrapes Here And There Clean Title Current Smog Along With Registration FULLY Loaded Power Everything Windows Door Locks Mirrors Power Seats Moon Roof Bluetooth Amfm Ac Heater Cruise Control Tilt Wheel Ect Call If Interested   Thanks"
-            },
-            {
                 "id": "7362854396",
                 "name": "2004 BMW X3- One owner-AWD-Ex Cond-runs and drives great",
                 "url": "https://sfbay.craigslist.org/eby/cto/d/oakland-2004-bmw-x3-one-owner-awd-ex/7362854396.html",
@@ -624,6 +591,43 @@
                 "query": "drives great",
                 "category": "cta",
                 "description": "By appointment:510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2013  Toyota Priusclean title. smog check.85,xxx miles.  low for year.drives great.clean in and out.gas saver!!!  45+ mpg.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
+            },
+            {
+                "id": "7359179478",
+                "name": "2011 ACURA TSX ^ CLEAN TITLE. SMOG CHECK.   GAS SAVER!!!  DRIVES GREAT",
+                "url": "https://sfbay.craigslist.org/eby/ctd/d/fremont-2011-acura-tsx-clean-title-smog/7359179478.html",
+                "datetime": "2021-07-31 17:35",
+                "price": "$11,999",
+                "where": "fremont / union city / newark",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00d0d_bVIl86fEjj3z_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00d0d_bVIl86fEjj3z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_bVIl86fEjj3z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_byvFBcElE8Zz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_6diKQk7aymJz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_kwHCc3jcKmez_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_jfHLMX6VUJBz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Z0Z_33fxSchrdYzz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00808_iAyHMzN202Wz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_lJdXhpReVzZz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_lFmkTI56DKtz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_c6rJEZR5D5fz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_hBDKoEUVHgAz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_bUS4vr30heQz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_5bk8tl0Q8Ndz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_e3EjjKJu22az_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_9aqQg4fDhs5z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_3wKIewzFhwBz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_lovvjXzY33wz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_1q05inD84lkz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_anVXf0zJErbz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_dCwE9OVB3lPz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_fbqQ8rPypgz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "drives great",
+                "category": "cta",
+                "description": "510-982-6668para espa\u00f1ol por favor llame (510) 366-3437Pacific Bay Auto2011 Acura tsxclean title. smog check.115,xxx miles.drives great.automatic transmission. shifts smooth.cold a/c.  heated leather seats.Prices may not include additional fees such as government fees and taxes, title and registration fees, finance charges, dealer document preparation fees, processing fees, and emission testing and compliance charges, Internet special price may not be compatible with dealer sponsored or subsidized sub-prime financing.NEED FINANCING? You came to the right place, at Pacific Bay Auto we help you get your car and also work with the best finance companies.We approve any customer and vehicle with ease!Instant approvals 24/7*All FICO scores from 0 to prime*No maximun miles*No minimum or maximum amount financed*No minimum income, job time, or residence time*Previous bankruptcies and almost all repossessions are OK*We accept difficult -to-prove incomes: Job letters, hand written pay stubs, SSI, bank statements,student imcome, trust and annunity income and much more!Go to pacificbayauto.com for inventory and financing!Pacific Bay Auto38872 Fremont BlvdFremont, CA 94536para espa\u00f1ol por favor llame (510) 366-3437"
             }
         ],
         "fix up": [

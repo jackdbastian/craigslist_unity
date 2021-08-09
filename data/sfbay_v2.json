@@ -25,7 +25,7 @@
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": null,
+                "where": " south bay area ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -41,7 +41,7 @@
                 "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
                 "datetime": "2021-08-06 16:30",
                 "price": "$44",
-                "where": null,
+                "where": " peninsula ",
                 "deleted": false,
                 "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
                 "all_images": [
@@ -117,63 +117,60 @@
     "clothes": {
         "vintage": [
             {
-                "id": "7362963168",
-                "name": "Vintage Motor-Cycle Style Leather Jacket size 6- 8 ladies",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-motor-cycle-style/7362963168.html",
-                "datetime": "2021-08-08 18:43",
-                "price": "$150",
-                "where": "marina / cow hollow",
+                "id": "7357842556",
+                "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7357842556.html",
+                "datetime": "2021-08-08 19:15",
+                "price": "$200",
+                "where": "sf",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_5oN7MA1YcjR_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00G0G_5oN7MA1YcjR_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_5oN7MA1YcjR_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_6PA4TqYfTRr_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_1SRDhmMdezy_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_2kakG8fuKLX_50x50c.jpg"
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_eEgVPswHzdh_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Distressed brown leather. Ladies size 6-8+ish - on a 6, hangs loose.Very HEAVY weight / distressed brown leather. Very cool details: arm and chest zippers, pockets, braided leather strip details and buckle detailsOne button missing - still uber-cool! Adds to the authenticity NEVER exposed to any smoke (never worn in any clubs!).Never exposed to pets.No stains or tears.Just distressed leather.Venmo / cash only."
+                "description": "vintage Golden State Warriors Jersey DubbsSize LargeIf you do not receive an email reply, check your Spam folder"
             },
             {
-                "id": "7351016832",
-                "name": "Vintage Disney Minnie Mouse Watch \"Miss Fabulous\" - Big Face",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-disney-minnie/7351016832.html",
-                "datetime": "2021-08-08 18:28",
-                "price": "$25",
+                "id": "7354986140",
+                "name": "Vintage 1995 \"San Francisco 49'ers Short Sleeve T-Shirt NOS Size Large",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-1995-san/7354986140.html",
+                "datetime": "2021-08-08 19:11",
+                "price": "$30",
                 "where": "mission district",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00q0q_jTCCAfINNWnz_0sk0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00U0U_e4RdKHAFUWJ_0dW0c9_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00q0q_jTCCAfINNWnz_0sk0t2_600x450.jpg",
-                    "https://images.craigslist.org/00q0q_jTCCAfINNWnz_0sk0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01010_cNkDDDeYHDxz_0si0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00U0U_e4RdKHAFUWJ_0dW0c9_600x450.jpg",
+                    "https://images.craigslist.org/00U0U_e4RdKHAFUWJ_0dW0c9_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_4tKxjwbuFvj_0dW0c4_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage Disney Minnie Mouse Watch Miss Fabulous - Big Face - Stainless Steel - NEW BATTERY..Minnie Mouse large face watch with Minnie Mouse pictured on the dial of the watch..beautiful silver bezel..Shock and water resistant...No longer made. Great Collector item..Very good working condition. As Is.. needs band and little band connectors...SHIPPING AVAILABLE *****PLEASE include a phone number with your response.869"
+                "description": "SIZE LargeNEW OLD STOCK W/Tags Vintage 1995 San Francisco 49'ers Red Short Sleeve T-ShirtKILLER DESIGNMade by TRUE-FAN SPORTSWEAR - 100% MADE IN USAHas original sku tag plus NFL TEAM tag. CONDITION: New Old Stock With Tags, EXCELLENT - PLEASE SEE PHOTOS -Discovered in a storage bin recently with a number of other SF Bay area vintage sports memorabilia (49'ers, Giants, A's) where its been for over 2 decades PHOTOS SHOW THE ITEM'S CURRENT CONDITION. 276"
             },
             {
-                "id": "7349116292",
-                "name": "Chunky Vintage Navajo 27\" Turquoise Nugget Necklace 369 Grams Beauty",
-                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-chunky-vintage-navajo-27/7349116292.html",
-                "datetime": "2021-08-08 18:27",
-                "price": "$225",
-                "where": "mission district",
+                "id": "7357058780",
+                "name": "vintage \"Golden State Warriors Blue Satin Jacket\" Dubbs",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-vintage-golden-state/7357058780.html",
+                "datetime": "2021-08-08 19:11",
+                "price": "$200",
+                "where": "sf",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00v0v_afp62uAy1K3z_0gU0ne_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00v0v_afp62uAy1K3z_0gU0ne_600x450.jpg",
-                    "https://images.craigslist.org/00v0v_afp62uAy1K3z_0gU0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_lb7OBlXVoWrz_0hR0ne_50x50c.jpg",
-                    "https://images.craigslist.org/00i0i_9pvBthX4kiGz_0ne0gh_50x50c.jpg",
-                    "https://images.craigslist.org/00101_9Jam7YgCyRYz_0ne0fL_50x50c.jpg",
-                    "https://images.craigslist.org/00a0a_eQLmpsuUbR4z_0nl0fW_50x50c.jpg"
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_600x450.jpg",
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg",
+                    "https://images.craigslist.org/00x0x_eEgVPswHzdh_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_9USTZnNcIVp_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Fantastic Vintage Navajo 27 Large Beautiful Turquoise Nugget Necklace..369 Grams An extraordinary necklace with absolutely gorgeous turquoise27 separate blue turquoise with hints of green and black matrix...Some of these nuggets are over 1 1/2 long and close to 1 thick..Slightly graduated and reversible...looks amazing from both sides..From my research it appears to be Carico Lake turquoise from Nevada, judging from the color and the minimal matrix..TOTAL WEIGHT - 369 1/2 GramsTOTAL LENGTH - Approximately 27CONDITION: Used vintage condition. Photos show items current condition and use your best judgement...Sold As is...SHIPPING AVAILABLE*****Bay area buyers, please include a phone number with your response952chunky heavy turquoise Carico Lake blue green massive 27 stones matrix graduated reversible"
+                "description": "vintage Golden State Warriors Jersey DubbsSize LargeIf you do not receive an email reply, check your Spam folder"
             }
         ],
         "beaded": [

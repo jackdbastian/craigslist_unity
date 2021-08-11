@@ -243,6 +243,24 @@
         ],
         "gloves": [
             {
+                "id": "7359316299",
+                "name": "Shawl and Dress Gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/dublin-shawl-and-dress-gloves/7359316299.html",
+                "datetime": "2021-08-11 06:53",
+                "price": "$10",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00k0k_36eyVomHXLQ_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00k0k_36eyVomHXLQ_600x450.jpg",
+                    "https://images.craigslist.org/00k0k_36eyVomHXLQ_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_8L3AQKpi0ci_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Beautiful shawl - $10Dress gloves (two pair ) - $10Cash only and please arrange for pickup in Dublin."
+            },
+            {
                 "id": "7360469920",
                 "name": "vintage gloves",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-gloves/7360469920.html",
@@ -290,30 +308,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Gently used, size med/small"
-            },
-            {
-                "id": "7353974038",
-                "name": "Tourmaster XS Black Leather Motorcycle Gloves EUC",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-tourmaster-xs-black/7353974038.html",
-                "datetime": "2021-08-10 11:26",
-                "price": "$30",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_eM311PBJSqvz_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00j0j_eM311PBJSqvz_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_eM311PBJSqvz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_iMPjrxTexxwz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00808_lsa4I2SPmwkz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00X0X_grsNcGw8vcYz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_5UvhkYQt9ENz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_dNrT4RM5Iffz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Z0Z_4ION8s41Hvgz_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_lbuZ00b9d78z_0t20t2_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "This is a pair of black leather Tourmaster gloves in a size XS. They are previously owned in excellent condition. Tags are present as well as the clip to keep them together.------Please call/text   or email anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
             }
         ],
         "wedding dress": [

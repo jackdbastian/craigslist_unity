@@ -120,6 +120,44 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7364130010",
+                "name": "Auto racing related caps  Riverside, Vintage Can Am",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/san-anselmo-auto-racing-related-caps/7364130010.html",
+                "datetime": "2021-08-11 07:47",
+                "price": "$5",
+                "where": "san anselmo",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00F0F_Y87gMK7yBzz_0ne0wu_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00F0F_Y87gMK7yBzz_0ne0wu_600x450.jpg",
+                    "https://images.craigslist.org/00F0F_Y87gMK7yBzz_0ne0wu_50x50c.jpg",
+                    "https://images.craigslist.org/01515_9qpnyFlWhMSz_0ne0uY_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_h6bo97bcDfEz_0ne0uV_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_kJ11ZdPJZyEz_0ne0ur_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage Auto Racing Association Vintage Can-Am cap blue.Vented back.Vintage Riverside Motorsports Park cab black.Both are adjustable the blue cap is larger than the black one.5 bucks each"
+            },
+            {
+                "id": "7353690808",
+                "name": "Vintage MINK FUR COLLAR",
+                "url": "https://sfbay.craigslist.org/nby/clo/d/santa-rosa-vintage-mink-fur-collar/7353690808.html",
+                "datetime": "2021-08-11 07:37",
+                "price": "$28",
+                "where": "santa rosa",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00r0r_1MgvWPLolSH_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00r0r_1MgvWPLolSH_600x450.jpg",
+                    "https://images.craigslist.org/00r0r_1MgvWPLolSH_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_2eGu52P0g8h_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Vintage (probably 1950's) Mink Fur Collar.  Measures 34 long."
+            },
+            {
                 "id": "7364114472",
                 "name": "Hanging Travel Suitcase/Vintage Hard Shell/Soft Shell Samsonite",
                 "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-hanging-travel-suitcase/7364114472.html",
@@ -146,57 +184,28 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Still for sale!cash only and firm price! 1. Hanging Travel Suitcase, excellent condition! $20.W 22.5H 42, fold down to 212. Beautiful Hard Shell Samsonite, like new condition! Lot of compartments! $70.L 22D 6.5H 17.53. Excellence condition of Soft Shell Samsonite. $40Lot of compartments!L 22D with expandable 9H 14"
-            },
-            {
-                "id": "7354553137",
-                "name": "VINTAGE LOOK RED PURSE WITH RHINESTONE X BY SASHA",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/vintage-look-red-purse-with-rhinestone/7354553137.html",
-                "datetime": "2021-08-11 07:12",
-                "price": "$20",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_4joQaBsnr8Z_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00V0V_4joQaBsnr8Z_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_4joQaBsnr8Z_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_kRb3eViiiG8_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_1BknjckhMR6_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_k682oNERnm8_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "VINTAGE LOOK  BRAND NEW RED PURSE WITH RHINESTONE X ON FRONT HAS CIRCLE CARRY HANDLE & A LONG RED STRAP AND MAGNETIC SNAP CLOSURE MADE BY SASHA $20.00 FIRM"
-            },
-            {
-                "id": "7361545570",
-                "name": "Vintage 70s Light Blue Polyester Jacket W/Silk Lining Size L *DRY CLEA",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/cloverdale-vintage-70s-light-blue/7361545570.html",
-                "datetime": "2021-08-11 07:01",
-                "price": "$40",
-                "where": "healdsburg / windsor",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00H0H_62YaGElkm92z_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00H0H_62YaGElkm92z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00H0H_62YaGElkm92z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_62YaGElkm92z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_kQrmnq8f4J2z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_kQrmnq8f4J2z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_9FZsvMY1t7dz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_qDC1VTYEk8z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_8SKuNxgfx5kz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_7fVgETH0TtUz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_6qL7pWVbz2fz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_iocuTvuXBokz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_5yMeN8Q3aXZz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_5HxpCcjmOUTz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage 70s Light Blue Polyester Jacket W/Silk Lining Size L *DRY CLEANED* In Excellent Condition*No Size Tag* Jacket Measures Out To Size LargeShirt Measurements: Armpit-to-Armpit 21 x Shoulder-To-Shoulder 18 x Shoulder-to-Hem 28 x Sleeve Length 24*Please See Photos For Details & Condition* *TAPE IN PHOTO TO HOLD TAG DOWN**$40 W/Delivery Within 30 Miles Of Cloverdale**"
             }
         ],
         "beaded": [
+            {
+                "id": "7350869046",
+                "name": "Gray Clutch Beaded Purse Cocktail Evening Purse",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/san-francisco-gray-clutch-beaded-purse/7350869046.html",
+                "datetime": "2021-08-11 07:53",
+                "price": "$20",
+                "where": "sunset / parkside",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00J0J_aLjUz14TBeWz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00J0J_aLjUz14TBeWz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00J0J_aLjUz14TBeWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_1u3KTTchaVDz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_6yLUNbmG3Mwz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "Beaded and Sequined Gray Clutch Cocktail Evening Purse with Chain Handle in excellent condition 7 drop handle, Chain Handle is removable Purse measures 11 x 4 x 1 1/2 Cash or Zelle"
+            },
             {
                 "id": "7351803929",
                 "name": "Frankie and Johnnie Small BEADED ZIPPERED BAG",
@@ -234,25 +243,6 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "Santa Rosa, CA Near the Whole Foods on YulupaPlease include a day & time you can pick it up in your message.Beaded grey legit Versace Medusa head t-shirt, size large, pristine condition."
-            },
-            {
-                "id": "7360822979",
-                "name": "Vintage Blue Sequins Beaded Flowered Clutch Purse",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-blue-sequins-beaded/7360822979.html",
-                "datetime": "2021-08-10 19:58",
-                "price": "$8",
-                "where": "san jose east",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00T0T_KnmrEZxZV4z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_bkDmDwNsT7oz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "This is a really nice vintage flowered blue sequins beaded clutch purse.  Silver chain handle.  Pocket inside.In great condition!Handbag"
             }
         ],
         "gloves": [

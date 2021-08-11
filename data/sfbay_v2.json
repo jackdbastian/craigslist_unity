@@ -123,6 +123,58 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7355426235",
+                "name": "Brand New RayBAN VINTAGE",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-brand-new-rayban-vintage/7355426235.html",
+                "datetime": "2021-08-11 08:42",
+                "price": "$175",
+                "where": "alameda",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00606_1GIv6LHiZ0cz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00606_1GIv6LHiZ0cz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00606_1GIv6LHiZ0cz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_aGuREZEyaxsz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_aXUHeljaVmMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_lsnAzG4zR6Ez_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_8FDcde44cG7z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_k0xqTUf7Akrz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_kaGsOFhS223z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00L0L_fzKilmsc79kz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Brand New RayBAN VINTAGE  $175.00nEW"
+            },
+            {
+                "id": "7363091102",
+                "name": "Vintage Mark Cross Ostrich Leather Handbag with Original Coin Purse",
+                "url": "https://sfbay.craigslist.org/sfc/clo/d/vintage-mark-cross-ostrich-leather/7363091102.html",
+                "datetime": "2021-08-11 08:31",
+                "price": "$4,500",
+                "where": "nob hill",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01717_fegKs79GWRZ_600x450.jpg",
+                    "https://images.craigslist.org/01717_fegKs79GWRZ_50x50c.jpg",
+                    "https://images.craigslist.org/00B0B_89laq2TpNw5_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_1QMIXx2c0z0_50x50c.jpg",
+                    "https://images.craigslist.org/01212_diz9LEGOG2O_50x50c.jpg",
+                    "https://images.craigslist.org/00y0y_ivjqXERtsE9_50x50c.jpg",
+                    "https://images.craigslist.org/00202_Q0rw8qcupz_50x50c.jpg",
+                    "https://images.craigslist.org/00p0p_63QEqhLgGwX_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_daWNSjLLlz4_50x50c.jpg",
+                    "https://images.craigslist.org/00C0C_hmWKJU1YGZc_50x50c.jpg",
+                    "https://images.craigslist.org/00101_gf4dxdYM2JN_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_bhbizp0Dbrc_50x50c.jpg",
+                    "https://images.craigslist.org/00e0e_8huVd4TVxH5_50x50c.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "Pre-owned, vintage Mark Cross ostrich leather handbag in excellent condition.  Base is approximately 4.5 wide and 11.5 long.  Height is approximately 8.  Straps are approximately 17 long.  The handbag opens to reveal two, roughly mirror-imaged sections, each of which contains a roomy compartment, multiple open pouches, and a zippered pouch.  Comes with its original coin purse which is approximately 3-1/8 high and 5-3/8 long.  Sold as is."
+            },
+            {
                 "id": "7353957270",
                 "name": "Vintage black Fendi laptop case",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-vintage-black-fendi-laptop/7353957270.html",
@@ -143,51 +195,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "Vintage black Fendi laptop caseLength: 16 in.Height: 11 in.Thickness: 0.5 in.Needs cleaning (see photos). Reply to this posting if interested. Pick up only. Will take this listing down after it's sold."
-            },
-            {
-                "id": "7353957358",
-                "name": "Vintage black LOUIS VUITTON bag",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-vintage-black-louis-vuitton/7353957358.html",
-                "datetime": "2021-08-11 08:14",
-                "price": "$799",
-                "where": "danville / san ramon",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00x0x_g7c4VpIIYqDz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00x0x_g7c4VpIIYqDz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/00x0x_g7c4VpIIYqDz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/01515_ji6OUzhU8SFz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_3TtgN330zjFz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_9HIMxzRwE15z_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_3yJLy2AcP80z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01313_8E7ptwiZM4Lz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00p0p_kysqjbGtsCDz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00909_f5v3WpvsKXxz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_60jtVYmXps8z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_1qgZQKBOtcjz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage black LOUIS VUITTON bagLength: 14.5 in.Height: 12 in. excluding handleThickness: 5 in.Has some scratches (see photos). Will look better after some cleaning. Generally in good shape. Reply to this posting if interested. Pick up only. Will take this listing down after it's sold."
-            },
-            {
-                "id": "7353957444",
-                "name": "Vintage Indian artwork",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/san-ramon-vintage-indian-artwork/7353957444.html",
-                "datetime": "2021-08-11 08:14",
-                "price": "$39",
-                "where": "danville / san ramon",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_iArCGC8fa2qz_0pO0CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00c0c_iArCGC8fa2qz_0pO0CI_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_iArCGC8fa2qz_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00808_cRkCQoSWKf2z_0pO0CI_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_iPWrH355GpWz_0CI0pO_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "Vintage Indian artwork14 in. x 11 in.Reply to this posting if interested. Pick up only. Will take this listing down after it's sold."
             }
         ],
         "beaded": [
@@ -251,6 +258,22 @@
         ],
         "gloves": [
             {
+                "id": "7360950073",
+                "name": "New, Girl Gloves size S",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/pittsburg-new-girl-gloves-size/7360950073.html",
+                "datetime": "2021-08-11 08:37",
+                "price": "$3",
+                "where": "pittsburg / antioch",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00b0b_5jjyBAbSCapz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00b0b_5jjyBAbSCapz_0t20CI_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Zelle for porch pick up or cash when you pick up. I don't drive anywhere or mail."
+            },
+            {
                 "id": "7364136598",
                 "name": "Vintage hats, purses, gloves, hankies",
                 "url": "https://sfbay.craigslist.org/pen/clo/d/san-mateo-vintage-hats-purses-gloves/7364136598.html",
@@ -299,34 +322,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Beautiful shawl - $10Dress gloves (two pair ) - $10Cash only and please arrange for pickup in Dublin."
-            },
-            {
-                "id": "7360469920",
-                "name": "vintage gloves",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/palo-alto-vintage-gloves/7360469920.html",
-                "datetime": "2021-08-10 23:47",
-                "price": "$0",
-                "where": "palo alto",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_600x450.jpg",
-                    "https://images.craigslist.org/00G0G_cgDBgCJntpR_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_rZ60BZ30zE_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_bpljapqIRA_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_7hfj1x1MIER_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_79v9XCekQJD_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_faeQc6paKf2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_4rHSfvitWJ7_50x50c.jpg",
-                    "https://images.craigslist.org/00M0M_a1RJoRwIzMY_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_1f6yfn3xGRT_50x50c.jpg",
-                    "https://images.craigslist.org/00808_ap8KMoH5soh_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_ab4oiepMJiD_50x50c.jpg",
-                    "https://images.craigslist.org/00r0r_jXLGes6b1WS_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "These vintage gloves are all small sizes, perfect for small hands or kid's dress-up.pair of black suede gloves with gold lame trim, 10 1/4 long........................................................$10.00pair of black cotton gloves with tiny design, 13 long.....................................................................$5.00pair of size 6, dark brown suede made in France by Saranti Chevreau for I. Magnim, 12 long..$10.00pair of pink cotton gloves with cut design on the edge, 9 long......................................................$4.00pair of size 7, pink cotton gloves with seed pearls, 8 1/4 long.......................................................$4.00pair of pink cotton gloves made in Germany, 7 1/2 long................................................................$4.00pair of cream colored long, leather gloves with three pearl buttons, 22 1/4 long.........................$10.00pair of cream colored long, leather gloves, 22 long......................................................................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 1/2 long...............................$10.00pair of cream colored long, leather gloves with 3 pearl buttons, 21 long.....................................$10.00pair of cream colored long, leather gloves with two pearl buttons, 14 long.................................$10.00pair of size 6 1/2, NEW, short ivory leather gloves, 8 1/2 long....................................................$10.00pair of, short ivory leather gloves, 7 1/2 long...............................................................................$10.00pair of NEW, short ivory leather gloves with open design, 7 1/2 long.........................................$10.00pair of NEW, short white stretchy fabric gloves with beads, 9 long...............................................$5.00 (can ship)"
             }
         ],
         "wedding dress": [
@@ -484,6 +479,26 @@
     "sports": {
         "autograph": [
             {
+                "id": "7350870353",
+                "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
+                "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7350870353.html",
+                "datetime": "2021-08-11 08:44",
+                "price": "$200",
+                "where": "emeryville",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
+                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_50x50c.jpg",
+                    "https://images.craigslist.org/00606_dl5A14pkVP1_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_b3QPJv2lUaG_0fu0fu_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_hTAqH5v13hg_0fu0fu_50x50c.jpg"
+                ],
+                "query": "autograph*",
+                "category": "sga",
+                "description": "Pro Staff Autograph RF97 Tennis RacquetHard to find Limited 'Tuxedo' Black and White versionBrand new. Never played4\u215c gripRacquet and bag and strings combos availableCross Section 21.5 FBHead Size 97 sq in - 625.8 sq cmString Pattern 16x19Unstrung Balance 30.5CM/12 Pts HLSeries Pro StaffUnstrung Weight 340 gLength 27 in - 68.6 cm$200"
+            },
+            {
                 "id": "7363841080",
                 "name": "Wilson Junior 26 nSix.One Autograph Roger Federer Tennis Racket",
                 "url": "https://sfbay.craigslist.org/sfc/spo/d/san-francisco-wilson-junior-26-nsixone/7363841080.html",
@@ -537,26 +552,6 @@
                 "query": "autograph*",
                 "category": "sga",
                 "description": "Length - 27 Grips Size - 4 1/2 - 2Triple Force for Optimum StabilityPower Soft GrommetMaximum SweetSpotVibration SystemPainted white autograph engraved by the side of the throat section of the racket(last end of the pictures).You can find a cheaper price of this version online but the quality of the racket is not the same. Great for someone who is a great fan of the Russian tennis sensationYou are welcome to inspect before purchasing."
-            },
-            {
-                "id": "7361708799",
-                "name": "Wilson Autograph Pro Staff RF97 (Tuxedo Version)",
-                "url": "https://sfbay.craigslist.org/eby/spo/d/emeryville-wilson-autograph-pro-staff/7361708799.html",
-                "datetime": "2021-08-10 09:22",
-                "price": "$200",
-                "where": "emeryville",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_ciu8vc5MnrF_0co0o4_50x50c.jpg",
-                    "https://images.craigslist.org/00606_dl5A14pkVP1_0gw0co_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_b3QPJv2lUaG_0fu0fu_50x50c.jpg",
-                    "https://images.craigslist.org/00J0J_hTAqH5v13hg_0fu0fu_50x50c.jpg"
-                ],
-                "query": "autograph*",
-                "category": "sga",
-                "description": "Pro Staff Autograph RF97 Tennis RacquetHard to find Limited 'Tuxedo' Black and White versionBrand new. Never played4\u215c gripRacquet and bag and strings combos availableCross Section 21.5 FBHead Size 97 sq in - 625.8 sq cmString Pattern 16x19Unstrung Balance 30.5CM/12 Pts HLSeries Pro StaffUnstrung Weight 340 gLength 27 in - 68.6 cm$200"
             }
         ]
     },
@@ -868,24 +863,23 @@
                 "description": "Lot consists of the following equipment:Mackie  Model 406M Fast Response Series 2 x250W -6 Channel 500W Powered Mono P.A. MixerTannoy i8 AW- is a high-quality Dual Concentric 8 compact loudspeaker with input Line cordThese are pre-owned used for a karaoke setup.I am selling as a pair.$350"
             },
             {
-                "id": "7362719262",
-                "name": "Hartke Kickback 15 - Bass Combo Amp",
-                "url": "https://sfbay.craigslist.org/scz/msg/d/aptos-hartke-kickback-15-bass-combo-amp/7362719262.html",
-                "datetime": "2021-08-11 07:22",
-                "price": "$275",
-                "where": "aptos",
+                "id": "7364157334",
+                "name": "Genz Benz GB412ST 4x12\" Speaker Cab",
+                "url": "https://sfbay.craigslist.org/eby/msg/d/hayward-genz-benz-gb412st-4x12-speaker/7364157334.html",
+                "datetime": "2021-08-11 08:35",
+                "price": "$250",
+                "where": "hayward / castro valley",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01212_i8mCc2NyjQTz_0lM0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/01212_et3slFFaGZlz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01212_i8mCc2NyjQTz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/01212_i8mCc2NyjQTz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00b0b_20I6l1Svb9hz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00Q0Q_9OMf9t5pRPtz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_j9TdX644ounz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/01212_et3slFFaGZlz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01212_et3slFFaGZlz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_gfoajiUdp2V_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_cjcwYGp3StE_0CI0t2_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "For sale is my Hartke Kickback 15. It's a large and loud combo amp. I bought the amp all the way back in 2006 and then graduated from high school. I haven't used much at all since then. The amp has been stored in closet for the past 15 years so it's in like new condition. Price is $275/obo and I'm motivated to sell.Hit the reply button if you're interested. I'm happy to answer all of your questions."
+                "description": "Genz Benz GB412ST speaker cab loaded with 4 Eminence GBE1240-V75, 12 speakers. It is their take on the Vintage 30 speaker, but each speaker can handle 70 watts rms. Sounds like a good robust V30. 8 ohm each speaker and a 8 ohm cab. Loud and proud. The speakers alone are worth more than the asking price. $250, ad will be deleted when sold. Include your phone number for a reply. I will call you. No good phone number, no reply. Thanks and stay well."
             }
         ],
         "famous": [

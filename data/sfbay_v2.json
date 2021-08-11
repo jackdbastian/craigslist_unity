@@ -60,6 +60,28 @@
         ],
         "wood": [
             {
+                "id": "7359374229",
+                "name": "Miscellaneous barn wood",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/livermore-miscellaneous-barn-wood/7359374229.html",
+                "datetime": "2021-08-10 20:01",
+                "price": "$150",
+                "where": "dublin / pleasanton / livermore",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_broffSTFDPKz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_5K4mrMovwsaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00202_llXTfe0hsvuz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_51b4U46Szdrz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_kYnYBXOqy5tz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01111_2X6Z7kGAN4Nz_0t20CI_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "I have some miscellaneous barn wood. I have boards, 2x3s, 2x4s, couple 2x6s and 4x4s. They range from 2-16 feet long. Most is Doug fir some redwood. All have nail holes some have splits and notches. Price will depend on what type of wood and how much you are buying or $150 for all. Located in Livermore. I don\u2019t deliver. Cash only. No holds."
+            },
+            {
                 "id": "7362672205",
                 "name": "white two panel bathroom / bath door no dent or damage  W- 2.2 ft X L - 6.8 wood",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/pleasanton-white-two-panel-bathroom/7362672205.html",
@@ -98,86 +120,103 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "READY TO HANG. We are rebuilding and want to pass on these great doors at a good price -- reduced to $50 each.Seven solid wood doors, in several sizes. Removed from a seldom-used vacation house, so they are in beautiful shape. Standard 80H, pre-hung, six-panel doors with hinges and knob sets. Two have keyed locks.  Here's the selection:two 28W doors.                                     One painted, one stained, both left openingone pair of closet doors, total 28w.      Paintedone 30W door.                                       Painted, left openingthree 32W doors.                                  Two painted, one stained. Two are fitted with keyed deadbolts. All right                                                                                   openingNOTE; These doors, new, cost $500."
-            },
-            {
-                "id": "7361747927",
-                "name": "Solid Wood Pocket Doors With Obscured Glass",
-                "url": "https://sfbay.craigslist.org/pen/mat/d/redwood-city-solid-wood-pocket-doors/7361747927.html",
-                "datetime": "2021-08-10 15:50",
-                "price": "$375",
-                "where": "san carlos",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_hnzJj2FC6Rmz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_hnzJj2FC6Rmz_0t20CI_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Solid Wood Pocket Door With Obscured GlassIn very good condition.We have two of the exact same. Height- 79Width- 54.5Depth- 1.75$375 Each"
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7358165687",
-                "name": "Vintage Knit Hat Made By Grandoe",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-knit-hat-made-by/7358165687.html",
-                "datetime": "2021-08-10 19:56",
-                "price": "$2",
-                "where": "san jose east",
+                "id": "7363993798",
+                "name": "Vintage Full Length Leather coat",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-vintage-full-length-leather/7363993798.html",
+                "datetime": "2021-08-10 20:25",
+                "price": "$50",
+                "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00C0C_7WKpMO502P0z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00303_iezX7we1Tnuz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00C0C_7WKpMO502P0z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00C0C_7WKpMO502P0z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00h0h_9Bxcwcjtrtnz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_dVEJoYalpa9z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_jNli6XCHM2ez_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00303_iezX7we1Tnuz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00303_iezX7we1Tnuz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00909_cZ9A4Wzrog5z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00404_CKQXfwOkfwz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00404_1LSx3HHM5gyz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00X0X_d9t5ciR6tsz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00101_dNcdNDjruZ7z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_3e52dghp8yEz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_imE9Nn0eVS6z_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00F0F_54HTGBQodwdz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "This is a vintage knit hat made by Grandoe in great shape.  Beige and brown color.  Cute!!  One size fits all.CapBeanieWinter"
+                "description": "Full length vintage Dove Gray Leather Coat and belt with lux white fox fur collar tipped in gray.  Made by Bermans, New York.  Estimate from the 1970\u2019s.   Excellent condition.  Lining is in excellent condition.  One very small graze on leather near top of left front pocket.    Fur collar sewn on but can be removed to reveal a complete leather collar underneath for cleaning or wearing.Estimate size 6-8 but use measurements below for a more exact fit.  Remember to allow room for movement.Shoulder width (shoulder seam to shoulder seam) = 16\u201dSleeve length (shoulder seam to cuff) = 25\u201dBodice length (back of collar seam to waist) = 16.5\u201dCoat length (back of collar seam to hem) = 43\u201dThe following have been measured flat.  Please double the measurements.Waist = 18\u201dBust = 20\u201dCash only, must pick up, please text."
             },
             {
-                "id": "7358165791",
-                "name": "Vintage Beanie Hat With Brim Made In Japan",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-beanie-hat-with-brim/7358165791.html",
-                "datetime": "2021-08-10 19:56",
-                "price": "$4",
-                "where": "san jose east",
+                "id": "7361607823",
+                "name": "Cushe vintage look sneakers, unisex style",
+                "url": "https://sfbay.craigslist.org/scz/clo/d/santa-cruz-cushe-vintage-look-sneakers/7361607823.html",
+                "datetime": "2021-08-10 20:14",
+                "price": "$25",
+                "where": "Santa Cruz santa cruz co ",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00c0c_2rUNX3qq1iNz_0lM0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00B0B_bwKsYMQdmFpz_0t20CI_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00c0c_2rUNX3qq1iNz_0lM0t2_600x450.jpg",
-                    "https://images.craigslist.org/00c0c_2rUNX3qq1iNz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_kJAcRJftUWMz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00E0E_77uMMQzfUipz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00B0B_bwKsYMQdmFpz_0t20CI_600x450.jpg",
+                    "https://images.craigslist.org/00B0B_bwKsYMQdmFpz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_kZutWJ7ttfXz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00E0E_9KVGJ1RApDlz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_4uKWEcXKfOaz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_bxviDBXvLcYz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/01414_cvWvw4YkYfmz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_cryT120rOiIz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage beanie hat with brim.  Various colors.  100% acrylic fiber made in Japan.In great condition. One size fits all.WinterCap"
+                "description": "Excellent condition.  Comfortable."
             },
             {
-                "id": "7358065796",
-                "name": "2 Vintage Head Bandanas",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-head-bandanas/7358065796.html",
-                "datetime": "2021-08-10 19:54",
-                "price": "$4",
-                "where": "san jose east",
+                "id": "7363997252",
+                "name": "Vintage 1950s leather purse",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-vintage-1950s-leather-purse/7363997252.html",
+                "datetime": "2021-08-10 20:06",
+                "price": "$30",
+                "where": "concord / pleasant hill / martinez",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00H0H_bsITaZ4ujG5z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00606_8IgXoRTYF6kz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00H0H_bsITaZ4ujG5z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00H0H_bsITaZ4ujG5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00f0f_51ke8I7eeySz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00606_8IgXoRTYF6kz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00606_8IgXoRTYF6kz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00a0a_4aFY07HnKrUz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_2sMifbkJN0wz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_dRYPNDjdHIEz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_gNv718IDuDfz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00g0g_hry9x9fxq7Zz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00K0K_l3UMN3K9pITz_0CI0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "I have 2 vintage head bandanas.  One a tan color and one a green lime color.  They are 50% cotton and 50% polyester.  Both are in great condition.  $2.00 each.HatCap"
+                "description": "Vintage 1950s  Leather Purse.  Complete your vintage outfit with this gold colored accented Navy Blue purse. Semi-gloss sheen to leather.  Main compartment has very good latch plus two side pockets. Clean interior with three slash pockets.  Gold colored chain handle and other gold colored accents.  Very good condition.  Length = 7.5\u201d depth = 3.75\u201d height = 5.5\u201d (w/o handle) 11\u201d (w/ handle).  Holds more than you might expect!Gold tone metal has age related wear and leather at sides has some wrinkles that has lost a bit of color.  Reflected light makes the navy color appear lighter particularly on the edges and sides.Cash only, must pick up.  Please text."
             }
         ],
         "beaded": [
+            {
+                "id": "7360822979",
+                "name": "Vintage Blue Sequins Beaded Flowered Clutch Purse",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-blue-sequins-beaded/7360822979.html",
+                "datetime": "2021-08-10 19:58",
+                "price": "$8",
+                "where": "san jose east",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00d0d_ePOjZVDniq3z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_KnmrEZxZV4z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_bkDmDwNsT7oz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "beaded",
+                "category": "cla",
+                "description": "This is a really nice vintage flowered blue sequins beaded clutch purse.  Silver chain handle.  Pocket inside.In great condition!Handbag"
+            },
             {
                 "id": "7353935900",
                 "name": "Very Nice Royal Blue Beaded Party Dress",
@@ -218,32 +257,6 @@
                 "query": "beaded",
                 "category": "cla",
                 "description": "If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
-            },
-            {
-                "id": "7351510083",
-                "name": "Corello Brazilian Lamb Leather Beaded Hobo Paisley Shoulder Bag Purse",
-                "url": "https://sfbay.craigslist.org/nby/clo/d/rohnert-park-corello-brazilian-lamb/7351510083.html",
-                "datetime": "2021-08-09 16:22",
-                "price": "$75",
-                "where": "rohnert pk / cotati",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_600x450.jpg",
-                    "https://images.craigslist.org/00t0t_6LnBVVvUIBC_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00n0n_l4WvPxvBUp2_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_aJNIBEgXNB2_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00m0m_qV0lYllUk8_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_bncLHeFGo8t_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_krQ5FtzyIHY_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00K0K_6zH9mjEmLIP_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00707_fx5pksdsiQd_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_9y805IUYQ6Y_0t20t2_50x50c.jpg",
-                    "https://images.craigslist.org/00A0A_gdi4RCjtKNr_0hq0kF_50x50c.jpg"
-                ],
-                "query": "beaded",
-                "category": "cla",
-                "description": "This is a new, with store tag attached, purse by the Brazilian brand Corello. It features a fabric paisley exterior covered in various seed beads and a few iridescent sequins in orange, fuchsia, greens, aqua, lavender, and powder blue. The handles and interior zip pocket opening are taupe lamb leather while the interior is a ribbed ivory fabric. The purse has a single magnetic closure.It measures approximately 10 tall x 14 wide with an 8 handle drop. The tag appears to have a handwritten date of June 11th, 2005 (Brazil's date format of DD/MM/YY).------Please call/text   or email anytime. Pickup in Rohnert Park.Cash or Venmo accepted. Not interested in trading or bartering, sorry.Thank you,Ed"
             }
         ],
         "gloves": [

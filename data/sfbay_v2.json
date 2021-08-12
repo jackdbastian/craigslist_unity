@@ -132,6 +132,22 @@
     "clothes": {
         "vintage": [
             {
+                "id": "7364521222",
+                "name": "vintage BUSHNELL aviator sunglasses",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/alameda-vintage-bushnell-aviator/7364521222.html",
+                "datetime": "2021-08-11 23:30",
+                "price": "$150",
+                "where": "alameda",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Y0Y_gjLknqXoCyo_1320MM_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Y0Y_gjLknqXoCyo_1320MM_600x450.jpg"
+                ],
+                "query": "vintage",
+                "category": "cla",
+                "description": "vintage BUSHNELL aviator sunglasses $150.00very gently used, stunning looking pair of 56mm lens BUSHNELL #750 1/10 12K GF RED UV GLASS LENS AVIATOR SUNGLASSES. Please see pictures for further details & markings. OVERALL EXCELLENT CONDITION/SUPER CLEAR UV GLASS LENSES. Measures 5 1/8 across the hinges, maximum width across is 5 1/4 & overall vertical height is slightly over 2."
+            },
+            {
                 "id": "7364517572",
                 "name": "Vintage 50s Samsonite faux Alligator suitcase antique classic rare",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-50s-samsonite-faux/7364517572.html",
@@ -179,31 +195,6 @@
                 "query": "vintage",
                 "category": "cla",
                 "description": "\u2022Authentic Vintage Oakland Raiders Parka Starter Jacket\u2022C:White/Cream\u2022Detachable Hoodie\u2022No Rips, Stains & Smoke Free\u2022Sz. M"
-            },
-            {
-                "id": "7363506237",
-                "name": "2 Vintage Pigalle Sombreros- circa 1991",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/mountain-view-vintage-pigalle-sombreros/7363506237.html",
-                "datetime": "2021-08-11 22:23",
-                "price": "$70",
-                "where": "mountain view",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00I0I_NmaUEJEf4kz_0CI0nL_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00I0I_NmaUEJEf4kz_0CI0nL_600x450.jpg",
-                    "https://images.craigslist.org/00I0I_NmaUEJEf4kz_0CI0nL_50x50c.jpg",
-                    "https://images.craigslist.org/00808_lqrFXvg8Vipz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_kKyAFqufKzez_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00101_3KSEzTuZx4oz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00t0t_iibSDnKGWFdz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00000_13ZxdeqpMLtz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00F0F_8Q3UPS1UMJgz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00q0q_4c7FbotXSxAz_0lM0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00e0e_dBLahlVkRamz_0lM0t2_50x50c.jpg"
-                ],
-                "query": "vintage",
-                "category": "cla",
-                "description": "2 Vintage Pigalle XXXXX Sombreros20 inches wide Bought in Acapulco, Mexico in 1991 and worn twice"
             }
         ],
         "beaded": [
@@ -868,6 +859,30 @@
         ],
         "famous": [
             {
+                "id": "7362120204",
+                "name": "Behringer DM12 12-voice true analog polyphonic synthesizer",
+                "url": "https://sfbay.craigslist.org/pen/msg/d/san-mateo-behringer-dm12-12-voice-true/7362120204.html",
+                "datetime": "2021-08-11 23:36",
+                "price": "$699",
+                "where": "san mateo",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00A0A_9xUdi3TNQ0n_09G05O_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00A0A_9xUdi3TNQ0n_09G05O_600x450.jpg",
+                    "https://images.craigslist.org/00A0A_9xUdi3TNQ0n_09G05O_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_6UeMf4YROgiz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_fZLmhfrov1jz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_4hxIRR6rE0rz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00R0R_gJh2FB1jtsFz_10l0KL_50x50c.jpg",
+                    "https://images.craigslist.org/00S0S_aZ5Y6hr0zjXz_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00c0c_iL5Fh0TIc31z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00M0M_2LXplgyfI0uz_1320MM_50x50c.jpg"
+                ],
+                "query": "famous",
+                "category": "msa",
+                "description": "Since you see this ad now, it means that Deep Mind 12 is STILL AVAILABLE.Behringer's famous first analog synth, Deep Mind 12. True analog, 12-voice poly, 4x effects engines, 8x modulation matrix, 1024 patches onboard. Commonly known as Juno on steroids, the modern incarnation of Juno-106 (for the look and bunch of buttons and sliders), it's actually closer to more advanced Juno-60 and JX series. Think JX-10 with all these Juno sliders and  a PG-800 programmer built in. I had and have most of classic analog polysynths, the last one was JX-10 with Vecoven upgrade (cost me over $1300), but even that one doesn't come close to DM12 in sound, features and ease of use. Nothing can beat the feeling of just grabbing a slider and adjusting the value right away, instead of recalling parameter first, then adjusting it, then recalling another, like on JX. You can even play with two or more sliders at once, like cutoff and resonance. There's no way you can do it on any JX.12-voice polyphony does make the difference, you'll never have cut notes as it happens with 6-voice synths like Juno, JX-8P or Polysix.DM12 is analog fanatics' heaven: everything you wished an old Juno or JX had is here, already implemented. IMHO it's the dream analog polysynth: plenty of sliders on surface for instant tweaking like on Junos and Jupiters, and a large graphic display for in-depth editing (no external programmer or software editors are needed). DM12 has a lot more editable parameters than surface allows, so combination of physical sliders for most critical parameters and on-screen menus for everything else is the best, like for effects parameters (it has no less than 4 separate effects engines made by TC Electronics, makers of legendary studio rack effect units like 2290, M-One and D-Two). Plus, an insane 1024 memories onboard (instead 32 to128 on classics) make it quite usable even for live performances. I'd take it over Nord Lead, Novation Peak or Prophet-6 any day!DM12 are becoming rare, since they are no longer produced, and Behringer now is focusing on producing the exact copies of the classic synthesizers. DM12 is an original design, and while it has a lot of layout and sonic similarities with Junos, it's far more advanced and superior to all of them, in a small package with solid all-metal design.  Watch videos for sound samples, more detailed overview of features and comparisons to classic synths.https://www.youtube.com/watch?v=Ynm44MeqPfk&feature=emb_logoVery detailed tutorial: https://www.youtube.com/watch?v=So8B6HJ2chQThis DM12 is in great shape, practically new, not even a single scratch anywhere. Selling only because I mostly play live and need more universal synth like Kronos or Montage. My price is fair: they are no longer produced and becoming rare (especially in new condition like mine). Be way of online buys: some sellers won't tell you everything, and in case of problems you'll be paying for return shipment anyway, IF seller accepts returns (most don't).Low-ball offers: No reply means that your offer went straight to trash. I don't need to know how much they are on eBay, or that somebody is selling it for less or is willing to give it to you for free: if he does, go and get that one.Thanks for looking!"
+            },
+            {
                 "id": "7364392516",
                 "name": "STUDIO GEAR FOR SALE OR TRADE....",
                 "url": "https://sfbay.craigslist.org/eby/msg/d/san-leandro-studio-gear-for-sale-or/7364392516.html",
@@ -906,26 +921,6 @@
                 "query": "famous",
                 "category": "msa",
                 "description": "Selling a mint-condition MXR CSP102SL Script Dyna Comp Reissue pedal in original box. This was a very recent purchase but I no longer have the need for a compression pedal. Below is the official information on the pedal:The Dyna Comp Compressor is famous for first-rate, no-nonsense approach to tightening up your guitar signal and creating rich, full-bodied sustain. Like the Phase 90, this little red gem is a legend among its kind. The pedals produced in the mid-\u201970s are particularly prized for their unqiue sound and performance.The Script Dyna Comp Compressor combines that old-school sound with a couple of upgrades for modern gigging convenience. Spec\u2019d from our own 1976 Dyna Comp Compressor, this pedal is built around the rare CA3080 metal can integrated circuit (IC), which yields quieter operation, greater transparency, and increased dynamic range. Thanks to its bypass status LED and AC power jack, you can put this pedal right on your board without worrying over whether the pedal is on or about to lose power.Features    Classic sound with modern upgrades    Quieter operation, greater transparency, and increased dynamic range    Bypass status LED and AC power jackNo trades. Will accept cash, PayPal, or Venmo. Local buyers only. Good luck"
-            },
-            {
-                "id": "7363147751",
-                "name": "Auralex PlatFoam Drum Stage",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/oakland-auralex-platfoam-drum-stage/7363147751.html",
-                "datetime": "2021-08-11 11:39",
-                "price": "$250",
-                "where": "Oakland east bay area ",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00w0w_bZoMXam9acZz_0CI0on_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00w0w_bZoMXam9acZz_0CI0on_600x450.jpg",
-                    "https://images.craigslist.org/00w0w_bZoMXam9acZz_0CI0on_50x50c.jpg",
-                    "https://images.craigslist.org/00w0w_lNeDtjoEaaTz_0CI0r3_50x50c.jpg",
-                    "https://images.craigslist.org/01616_1LEaewp5kI0z_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00202_1SqWN3BkOafz_0t20CI_50x50c.jpg"
-                ],
-                "query": "famous",
-                "category": "msa",
-                "description": "Fully assembled 8\u2019x8\u2019 drum stageWood and Foam cost $500Breaking down a Studio setup. Great for reducing vibrations and sound transmission. When used as riser support, Auralex PlatFoam Isolation Foam greatly purifies the tone of whatever's on the riser and yields dramatically improved isolation characteristics, thus minimizing sound transmission to neighboring spaces. This is a fast, portable, easy and affordable solution to many of your sound problems.Famous folks including Hollywood composers, world-class nightclubs, houses of worship and more are using Auralex PlatFoam with great success! Try out some PlatFoam yourself. You'll be absolutely amazed at the improvement it offers!Size: 2x4x4' pieces of high-density foamQuantity: Kit includes 24 pieces (will float an 8'x8' area)Color: Charcoal GrayCash or VenmoLocal pickup onlyNo ChecksNo ShippingEmail us through CL only!We\u2019re not sending any codes to verify our listing, so scammers can take a hike."
             }
         ]
     }

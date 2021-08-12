@@ -57,6 +57,44 @@
         ],
         "wood": [
             {
+                "id": "7364675938",
+                "name": "Old Windows (Wood Framed)",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/glen-ellen-old-windows-wood-framed/7364675938.html",
+                "datetime": "2021-08-12 09:22",
+                "price": "$0",
+                "where": "Santa Rosa north bay / marin ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00V0V_miYJgE5iImz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00V0V_miYJgE5iImz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_miYJgE5iImz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00z0z_27hBN4h8gwsz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_1rTUD84eYhEz_0CI0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Assorted sizes of vintage windows, 21\u201dx 30\u201d. Assorted. No broke glass.These items can be seen at (The Secret Nest) 13885 Sonoma Hwy 12, 15 minutes east of Santa Rosa, 1/4 mile past Arnold Dr, in the heart of wine country. Open Tuesday thru Sunday 11-5. Closed Monday and Holidays."
+            },
+            {
+                "id": "7356143499",
+                "name": "ZAR OAK WOOD PATCH  - (1 Gallon)",
+                "url": "https://sfbay.craigslist.org/nby/mat/d/corte-madera-zar-oak-wood-patch-gallon/7356143499.html",
+                "datetime": "2021-08-12 09:18",
+                "price": "$5",
+                "where": "mill valley",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00u0u_1LwjGShhO9A_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00u0u_1LwjGShhO9A_600x450.jpg",
+                    "https://images.craigslist.org/00u0u_1LwjGShhO9A_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_gb11x0mslV_50x50c.jpg",
+                    "https://images.craigslist.org/00q0q_hDShcwcnCP7_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "1 gallon of Zar Interior / Exterior Latex Wood Patch.Color \u2013 Oak.  Unopened in original carton (carton opened forphotos).  Appears to be older label so not sure of age.  No risk - if you open and it is not usable, we will accept return and give refund. Note - still have one gallonOne Gallon - $5Call   (no text) or text   in Mill Valley.  Please repeat your telephone number if leaving a message.Mv99 rc"
+            },
+            {
                 "id": "7363139932",
                 "name": "BRAND NEW - LARGE ASSORTMENT OF WOOD TURNINGS and SMALL FINIALS",
                 "url": "https://sfbay.craigslist.org/pen/mat/d/pacifica-brand-new-large-assortment-of/7363139932.html",
@@ -71,40 +109,6 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Up for sale is this large assortment of BRAND NEW wood turnings and small finials.There are (26) pieces included in this sale.Ideal for furniture projects or children's toys.This is one of many gingerbread items I will be selling in the coming days.Feel free to message me to set up an appointment to view these items. Or take a look at my webpage www.diggerslist.com/bobdelouche for additional materials I have for sale."
-            },
-            {
-                "id": "7360044943",
-                "name": "Wood - 7pieces - 2\u201d x 4\u201d x 6ft  - first come first serve",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/berkeley-wood-7pieces-x-x-6ft-first/7360044943.html",
-                "datetime": "2021-08-12 07:29",
-                "price": "$50",
-                "where": "berkeley",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00O0O_3fI4rBIEDhXz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00O0O_3fI4rBIEDhXz_0t20CI_600x450.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Email me and I will respond promptly."
-            },
-            {
-                "id": "7353775693",
-                "name": "Solid wood front entry entrance DOOR (Exterior)",
-                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-solid-wood-front-entry/7353775693.html",
-                "datetime": "2021-08-12 06:20",
-                "price": "$150",
-                "where": "san jose south",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/01717_gKEZPajqlzMz_0t20CI_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/01717_gKEZPajqlzMz_0t20CI_600x450.jpg",
-                    "https://images.craigslist.org/01717_gKEZPajqlzMz_0t20CI_50x50c.jpg",
-                    "https://images.craigslist.org/00g0g_9g52MsmaMy3z_0t20CI_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Excellent condition, no damage. Has a peephole. We replaced it because we wanted one with a glass panel.36 inches x 79 3/4 inches.  The red color faces outside, and the white inside.  Standing on the left hand side is the dismantled original door frame, which you can take free We also have a brand new 1-quart can of seattle red exterior semi-gloss enamel paint.  The color matches that of the red side of the door.  Will add that for free if you want it.Pickup near Vista Park and Branham 95136. No flakes. Venmo, zelle, apple pay, or cash accepted. Can deliver for a fee."
             }
         ]
     },
@@ -245,6 +249,27 @@
         ],
         "gloves": [
             {
+                "id": "7355100192",
+                "name": "Turn signal cycling gloves",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/berkeley-turn-signal-cycling-gloves/7355100192.html",
+                "datetime": "2021-08-12 09:08",
+                "price": "$35",
+                "where": "berkeley north / hills",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00D0D_7rzVnFzUqFpz_0oc0oc_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00D0D_7rzVnFzUqFpz_0oc0oc_600x450.jpg",
+                    "https://images.craigslist.org/00D0D_7rzVnFzUqFpz_0oc0oc_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_cNiodkUtOCxz_0oc0oc_50x50c.jpg",
+                    "https://images.craigslist.org/00Y0Y_j9yal3NsMi0z_0oc0oc_50x50c.jpg",
+                    "https://images.craigslist.org/00606_eMav84Sw5rz_0oc0oc_50x50c.jpg",
+                    "https://images.craigslist.org/00m0m_6LRA2Aml1DKz_0oc0oc_50x50c.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "-Zackees cycling gloves with LED turn signal lights activated by thumb/forefinger contact-Reinforced leather-padded palm-Accompanying USB cord for charging lights-Unisex size large"
+            },
+            {
                 "id": "7359562898",
                 "name": "NEW hat + scarf +  gloves set",
                 "url": "https://sfbay.craigslist.org/eby/clo/d/pleasanton-new-hat-scarf-gloves-set/7359562898.html",
@@ -275,24 +300,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Black Chenille hat and gloves with multicolor accentsNew"
-            },
-            {
-                "id": "7364393544",
-                "name": "Wells Lamont Leather Work Gloves 3 pk 40% off",
-                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wells-lamont-leather-work/7364393544.html",
-                "datetime": "2021-08-11 15:29",
-                "price": "$30",
-                "where": "san jose west",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_600x450.jpg",
-                    "https://images.craigslist.org/00p0p_aob7cZcFuVtz_0rU0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00v0v_eOaBQfRZNAlz_0q70t2_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "I have a 3 pack of Wells Lamont Leather work gloves for sale.  Never opened, in original sealed packageAmazon sells it for $50, I'm selling this one for $30 https://www.amazon.com/Wells-Lamont-Premium-Leather-X-Large/dp/B00Y3OVFMQ/ref=asc_df_B00Y3OVFMQ/?tag=hyprod-20&linkCode=df0&hvadid=310054314911&hvpos=&hvnetw=g&hvrand=6205822267755036434&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061320&hvtargid=pla-572577013656&psc=1Patented Precurved Design: Our Patented Construction makes our precurved gloves the most comfortable you can buy. The longer glove back pattern required make this more expensive leather construction. The shorter palm pattern lets the leather hug the palm eliminating bunching of excess material in the area. This allows more natural, treer hand movement and the meas less hand fatigue. 100% recyclable"
             }
         ],
         "wedding dress": [
@@ -829,23 +836,32 @@
                 "description": "Like new condition- still in the box and styrofoam!Huge amount of sound for the price! Good for gigging musician, home or studio.The new V50-112 two-channel combo loudly announces the new generation of Crates all-tube amplifiers. With dual 6L6 fixed biased output tubes, this bad refrigerator produces the sort of sparkling cleans and warm, thick overdrive that can only come from tubes pushed to their limit. It pumps 50 watts through a single 12 speaker, creating a muscular low end perfect for club gigs and recording sessions. Presence control, spring reverb and foot-switchable boost make sure you can dial in your custom tone from anywhere. Lesser amps will blow their fuses in fear when they see you plugging into a V50-112.Features & details50 Watts RMS1 x 12-inch speakerTwo channels2 x 6L6 output tubes, fixed biasFootswitchable Boost$349 or best offerKeyword Guit guitar guitar amplifiers amp fender Gibson Peavey Marshall Mesa boogie Ludwig Gretsch strat speaker"
             },
             {
-                "id": "7351799625",
-                "name": "vintage Peavey Studio Pro 60 made in USA w 12\" speaker",
-                "url": "https://sfbay.craigslist.org/eby/msg/d/dublin-vintage-peavey-studio-pro-60/7351799625.html",
-                "datetime": "2021-08-12 08:18",
-                "price": "$95",
-                "where": "dublin / pleasanton / livermore",
+                "id": "7361301099",
+                "name": "snare drum and tom drum",
+                "url": "https://sfbay.craigslist.org/sby/msg/d/snare-drum-and-tom-drum/7361301099.html",
+                "datetime": "2021-08-12 09:14",
+                "price": "$35",
+                "where": "morgan hill",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00808_iIhhcNePlO1z_0gw0co_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/01111_kyzCYZz8GF4z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00o0o_8uxX7juohG5z_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/01616_MGLyWh7Lbjz_0CI0t2_50x50c.jpg"
+                    "https://images.craigslist.org/00808_iIhhcNePlO1z_0gw0co_600x450.jpg",
+                    "https://images.craigslist.org/00808_iIhhcNePlO1z_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00P0P_av8sSNCuoP2z_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00505_2Zxpy6NMrEJz_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00D0D_4DxK3TyiNODz_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00f0f_7nAq4rVahaUz_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/01111_ajZI7KmDHt0z_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00b0b_3tf6wyGtmaGz_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00303_kzpdBLGSI6Cz_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/01515_6EyJqeKpwXXz_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_7i625CvWJLIz_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00J0J_c7dK5JdUaxyz_0gw0co_50x50c.jpg",
+                    "https://images.craigslist.org/00606_2mUJXrCV2Uvz_0gw0co_50x50c.jpg"
                 ],
                 "query": "loud",
                 "category": "msa",
-                "description": "olid state vintage 80s Peavey Studio Pro amplifier. Made in USA. Fully functional and loud, with a 12 speaker.PEAVEY STUDIO PRO 60 Amp made in U.S.A in Meridian, Miss. High quality American parts and Transformer, works great. the amp is portable, weighs about 25 lbs. Amp is 50 Watts and has a warm tube like tone these are known for (amp is solid state) . These are getting hard to find and have bullet proof reliability. Same quality as a usa Fender amp, sounds good with effects. They are selling for $175 on Reverb.Youtube demonstration of the Studio Pro 60https://www.youtube.com/watch?v=Wbk3SrPGRO"
+                "description": "Up for sale is this snare drum and tom drum with one set of drum sticks. Skins are good and they play loud, just like drums shouldPlease see photos for more details.Asking $20.00 each, or $35 for both, or best offer"
             }
         ],
         "famous": [

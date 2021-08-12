@@ -2,6 +2,22 @@
     "materials": {
         "gravel": [
             {
+                "id": "7357107055",
+                "name": "3/8\" Pea Gravel",
+                "url": "https://sfbay.craigslist.org/pen/mat/d/san-mateo-8-pea-gravel/7357107055.html",
+                "datetime": "2021-08-12 10:29",
+                "price": "$44",
+                "where": " peninsula ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00j0j_bw4nbbCOK8Nz_0t20CI_600x450.jpg"
+                ],
+                "query": "gravel",
+                "category": "maa",
+                "description": "Call to order our Pea Gravel today!Order as much as you want or as little as 1/2 yardDelivery available or pick up from our location behind the Oakland Coliseum.Monday-Friday 7am-3:30pm@745 Kevin Ct. Oakland, CA 94621Find this Material for less? We will meet anyone's price!$44/yard + taxWe deliver to you for a price!Check out all the other landscape materials we sell!!"
+            },
+            {
                 "id": "7357100925",
                 "name": "3/8\" Pea Gravel",
                 "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-8-pea-gravel/7357100925.html",
@@ -34,28 +50,28 @@
                 "query": "gravel",
                 "category": "maa",
                 "description": "6 boxes of extras we didn't use.  $20 per box (9 tiles)Porch pickup in Brentwood.Cash, Venmo or Paypal.Daltile Saddle Brook XT 6 in. x 36 in. Glazed Porcelain Floor TileGravel Road XTSaddle Brook XT\u2122 is designed to defeat exterior challenges! This tile is slip-resistant and is easy to maintain and is great for commercial applications as well as any outdoor space. - Achieve the look of authentic hardwood in exterior spaces without the maintenance- Contains Daltile\u2019s patent-pending StepWise\u2122 technology for superior slip-resistance    Size: 6 x 36 Field Tile* - (5 7/8 x 35 7/16) - (15.00 cm x 90.00 cm)     Pieces Per Carton: 9    SQFT Per Carton: 13.05Info:https://floorzz.com/products/daltile-saddle-brook-xt-6-in-x-36-in-glazed-porcelain-floor-tile-gravel-road-xt"
-            },
-            {
-                "id": "7363511481",
-                "name": "Free landscaping gravel/crushed rock",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/san-leandro-free-landscaping-gravel/7363511481.html",
-                "datetime": "2021-08-09 21:15",
-                "price": "$0",
-                "where": "san leandro",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00x0x_ix7mQI02oMwz_0CI0lM_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00x0x_ix7mQI02oMwz_0CI0lM_600x450.jpg",
-                    "https://images.craigslist.org/00x0x_ix7mQI02oMwz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_5UiOaYlwDdDz_0CI0lM_50x50c.jpg",
-                    "https://images.craigslist.org/00O0O_2jTQ3SkVuGYz_0CI0lM_50x50c.jpg"
-                ],
-                "query": "gravel",
-                "category": "maa",
-                "description": "Getting rid of landscaping gravel/crushed rock from the backyard. Rough measurements, about .8-.9 cubic yards - approx 4'x6'x1'..It's on a tarp in the backyard - if you back a truck right up to the gate, you will need to move it approx 20 feet on flat concrete.We have roughly the same amount of additional gravel in a side yard that is also available."
             }
         ],
         "wood": [
+            {
+                "id": "7357341821",
+                "name": "New Wood Molding 7' Long x 2 3/4\u201d Wide - 5 Pieces",
+                "url": "https://sfbay.craigslist.org/sby/mat/d/san-jose-new-wood-molding-long-wide/7357341821.html",
+                "datetime": "2021-08-12 10:45",
+                "price": "$30",
+                "where": "San Jose south bay area ",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/01010_3mXWAtOHpyHz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_9lf7NSERzT1z_1320MM_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_32qGLpIANW0z_0qA0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "5 Pieces of new moulding.  If interested please call or text  Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
+            },
             {
                 "id": "7364714619",
                 "name": "Reclaimed Wood - Redwood decking lumber - Denailed - 553.5 board feet",
@@ -94,94 +110,92 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "Include your number. I\u2019ll text or callONLY             $207 Knape & Vogt John Sterling Dual Trak Adjustable Wood Shelf Brackets / Warm"
-            },
-            {
-                "id": "7364675938",
-                "name": "Old Windows (Wood Framed)",
-                "url": "https://sfbay.craigslist.org/nby/mat/d/glen-ellen-old-windows-wood-framed/7364675938.html",
-                "datetime": "2021-08-12 09:22",
-                "price": "$0",
-                "where": "Santa Rosa north bay / marin ",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00V0V_miYJgE5iImz_0CI0t2_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00V0V_miYJgE5iImz_0CI0t2_600x450.jpg",
-                    "https://images.craigslist.org/00V0V_miYJgE5iImz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00z0z_27hBN4h8gwsz_0CI0t2_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_1rTUD84eYhEz_0CI0t2_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "Assorted sizes of vintage windows, 21\u201dx 30\u201d. Assorted. No broke glass.These items can be seen at (The Secret Nest) 13885 Sonoma Hwy 12, 15 minutes east of Santa Rosa, 1/4 mile past Arnold Dr, in the heart of wine country. Open Tuesday thru Sunday 11-5. Closed Monday and Holidays."
             }
         ]
     },
     "clothes": {
         "vintage": [
             {
-                "id": "7364713843",
-                "name": "Vintage Japanese Silk Hakama Pant - Size Small",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-vintage-japanese-silk-hakama/7364713843.html",
-                "datetime": "2021-08-12 10:22",
-                "price": "$175",
-                "where": "lafayette / orinda / moraga",
+                "id": "7364732803",
+                "name": "Vintage Avirex Leather variety  jacket Skull Wings Punisher 4XL",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/oakland-vintage-avirex-leather-variety/7364732803.html",
+                "datetime": "2021-08-12 10:54",
+                "price": "$250",
+                "where": "oakland lake merritt / grand",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00606_bMW6JTunLXE_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00o0o_526Zd2ZBW96_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00606_bMW6JTunLXE_600x450.jpg",
-                    "https://images.craigslist.org/00606_bMW6JTunLXE_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_1KuYqhD9zso_50x50c.jpg",
-                    "https://images.craigslist.org/00R0R_1DiKJKtOWCY_50x50c.jpg",
-                    "https://images.craigslist.org/01414_aI9YFA2pcSU_50x50c.jpg",
-                    "https://images.craigslist.org/00x0x_7Bb81aKBB7G_50x50c.jpg"
+                    "https://images.craigslist.org/00o0o_526Zd2ZBW96_600x450.jpg",
+                    "https://images.craigslist.org/00o0o_526Zd2ZBW96_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_5yGHtluMxAy_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_64rE1DYLYCg_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_eCkA7jDl3ND_50x50c.jpg",
+                    "https://images.craigslist.org/00505_hqjMNASWkRv_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_3lc7AwaY4EX_50x50c.jpg",
+                    "https://images.craigslist.org/00404_crDmzDXsATw_50x50c.jpg",
+                    "https://images.craigslist.org/00707_an0TzGp0TDb_50x50c.jpg",
+                    "https://images.craigslist.org/01111_1GOq9pyui9E_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage Japanese Silk Hakama PantsSize SmallGrey and blue stripesHakama are unisex pleated pants which can either be in a skirt style (gyoto hakama) or divided into two like baggy trousers (umanori horse-riding hakama) - traditionally worn over a full kimono. The waist is generally a free size since the front and back panels are joined by long ties that can be doubled around the waist on smaller frames.Men traditionally wear the hakama low on the hips; Japanese women wear theirs high at the waist. Hakama are good for martial arts or make a unique skirt for women."
+                "description": "Beautiful vintage jacket from late 80's early 90's. Excellent condition. Size 4XL"
             },
             {
-                "id": "7351328742",
-                "name": "Vintage 80s Satiny Lace Night Gown/Negligee & Robe - New with Tags!",
-                "url": "https://sfbay.craigslist.org/pen/clo/d/los-altos-vintage-80s-satiny-lace-night/7351328742.html",
-                "datetime": "2021-08-12 10:21",
+                "id": "7357527018",
+                "name": "Vintage Crocheted Newborn or Baby Doll Clothing.",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-vintage-crocheted-newborn-or/7357527018.html",
+                "datetime": "2021-08-12 10:47",
                 "price": "$60",
-                "where": "los altos",
+                "where": "san jose north",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/01010_bi1TdK66Y78_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/01010_bi1TdK66Y78_600x450.jpg",
-                    "https://images.craigslist.org/01010_bi1TdK66Y78_50x50c.jpg",
-                    "https://images.craigslist.org/00N0N_bOpQgjsI95Y_50x50c.jpg",
-                    "https://images.craigslist.org/01616_ke5YUgjMzpF_50x50c.jpg",
-                    "https://images.craigslist.org/00U0U_gQkdlMrOnEd_50x50c.jpg",
-                    "https://images.craigslist.org/00D0D_9bxloc8BTy3_50x50c.jpg"
+                    "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00P0P_163iImmCF6Jz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_7m7U0WSqHozz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/01414_9VdmTHxDMwWz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00i0i_amYbwr3AuPXz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00l0l_fY9De7WxKKMz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00o0o_asY8n8HZvAyz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00k0k_jYsQtQmJcdlz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00I0I_1Mroskx3UwBz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00r0r_7UUCLSHlQwDz_0t20CI_50x50c.jpg",
+                    "https://images.craigslist.org/00d0d_eclUwRRPtVHz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00G0G_enCil4FsIyKz_0t20t2_50x50c.jpg",
+                    "https://images.craigslist.org/00A0A_hvp0poa0jC7z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00w0w_7UhtP0Fza0dz_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_jts3XaJ4Ca0z_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00Q0Q_d1hVKAFu6jEz_0t20CI_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Vintage 1980s Terry Russo Intimate Concepts satiny negligee/night gown and robe with embellished lace. Both are marked size medium."
+                "description": "7 Piece Lot of Vintage Crocheted or Embordered Baby or Doll Clothes - Handmade.  Estate Sale Find.  Vintage in general over all great condition.  Photo 5 and 6 shows some yellowing which I have not tried to clean.  I have not tried to wash them any of them.  Photo's are of the actual items.  If interested please call or text Four,Zero,Eight, Four,ZeroSix, Seven,Three,Two,One to view, buy and pick up. This is located in North San Jose off North First Street and Nicholson Lane. Thanks for looking and please check out the rest of my ads, Margie"
             },
             {
-                "id": "7359865620",
-                "name": "Unique Vintage Purse - Made by Miki",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/lafayette-unique-vintage-purse-made-by/7359865620.html",
-                "datetime": "2021-08-12 10:10",
-                "price": "$55",
+                "id": "7356547829",
+                "name": "Vintage Leather Lace Up Boots - Endicott Johnson - Size 11",
+                "url": "https://sfbay.craigslist.org/eby/clo/d/walnut-creek-vintage-leather-lace-up/7356547829.html",
+                "datetime": "2021-08-12 10:40",
+                "price": "$250",
                 "where": "lafayette / orinda / moraga",
                 "deleted": false,
-                "main_image": "https://images.craigslist.org/00j0j_g15F5l6rpgQ_600x450.jpg",
+                "main_image": "https://images.craigslist.org/00V0V_lNdQVz48Ob8z_0CI0l0_600x450.jpg",
                 "all_images": [
-                    "https://images.craigslist.org/00j0j_g15F5l6rpgQ_600x450.jpg",
-                    "https://images.craigslist.org/00j0j_g15F5l6rpgQ_50x50c.jpg",
-                    "https://images.craigslist.org/00W0W_aL5eM5KmYNw_50x50c.jpg",
-                    "https://images.craigslist.org/00H0H_dzfwePkJ4al_50x50c.jpg",
-                    "https://images.craigslist.org/00d0d_4f6Q5cTE8qz_50x50c.jpg",
-                    "https://images.craigslist.org/00L0L_b0j2XswZmlh_50x50c.jpg",
-                    "https://images.craigslist.org/01111_5Z5cqELNp7_50x50c.jpg",
-                    "https://images.craigslist.org/00u0u_f4KdxMJjaSD_50x50c.jpg"
+                    "https://images.craigslist.org/00V0V_lNdQVz48Ob8z_0CI0l0_600x450.jpg",
+                    "https://images.craigslist.org/00V0V_lNdQVz48Ob8z_0CI0l0_50x50c.jpg",
+                    "https://images.craigslist.org/00H0H_brdKEh8Rhd9z_0xy0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00h0h_iiMugXGqg55z_0CI0lt_50x50c.jpg",
+                    "https://images.craigslist.org/01111_hM7HvyXeVaSz_0BJ0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00T0T_3oAvOwepY1Az_0lM0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00n0n_5oLvgnWt9yKz_0CI0oR_50x50c.jpg",
+                    "https://images.craigslist.org/00s0s_zEGYMcPbn4z_0CI0kr_50x50c.jpg",
+                    "https://images.craigslist.org/00v0v_66mGDwrPpjyz_0CI0nI_50x50c.jpg",
+                    "https://images.craigslist.org/00U0U_i4Y2ytXia2Pz_0rC0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00404_cnawRRr9TqRz_0lJ0t2_50x50c.jpg"
                 ],
                 "query": "vintage",
                 "category": "cla",
-                "description": "Unique Vintage Purse with Leather HandleMade and signed by MikiDimensions:Height 7.25Length 9 inchesWidth 4.5 inches"
+                "description": "Vintage Leather Lace Up BootsEndicott Johnson Size 11Soles appear to be in new, unused condition.Made in the USA"
             }
         ],
         "beaded": [

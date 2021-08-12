@@ -57,6 +57,25 @@
         ],
         "wood": [
             {
+                "id": "7364487050",
+                "name": "Reclaimed Old Growth White Oak Wood Beams for a Mantel or a Bench",
+                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-reclaimed-old-growth-white-oak/7364487050.html",
+                "datetime": "2021-08-11 20:04",
+                "price": "$950",
+                "where": "richmond / point / annex",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00Q0Q_SxY2uylvEc_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00Q0Q_SxY2uylvEc_0CI0t2_600x450.jpg",
+                    "https://images.craigslist.org/00Q0Q_SxY2uylvEc_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00707_cPmAWVgslhU_0CI0t2_50x50c.jpg",
+                    "https://images.craigslist.org/00j0j_7SGVTqzTOlb_0CI0t2_50x50c.jpg"
+                ],
+                "query": "wood",
+                "category": "maa",
+                "description": "Reclaimed from a 210 year old barn, these hand hewn beams would make a statement in your house, without a doubt.  The barn was built in 1810 and these were shaped and formed by hand...with an axe.  Very special indeed.  These measure roughly 12X12X96 (+/-).  $950 each- firm.  I also have a couple dozen hand hewn and circle sawn beams up to 19' in length."
+            },
+            {
                 "id": "7357059130",
                 "name": "Live Edge Wood Slabs And Rough Sawn Lumber Walnut Oak Sycamore Redwood",
                 "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-live-edge-wood-slabs-and-rough/7357059130.html",
@@ -113,25 +132,6 @@
                 "query": "wood",
                 "category": "maa",
                 "description": "We have some very nice sinker redwood and old growth redwood in stock with thousands of board feet yet to be milled to your specifications.  The sinker redwood was harvested out of the Klamath on the reservation and is absolutely stunning.  All of my wood is sustainably salvaged.  I will be happy to show you what's available if you care to browse.  No minimum purchase.  Reply with your contact info and we'll schedule a time that's best for you.  My warehouse is located just off of 580 in Richmond.Other species in stock:  Giant Sequoia, , Redwood, Black Walnut, Claro Walnut, Poplar, Red Gum Eucalyptus, Black Acacia, Black Locust, Honey Locust, Cherry, White Oak, Sycamore, Cedar, Juniper, Old Growth and Sinker Redwood, Cottonwood, Cypress, Maple, Bay Laurel, Douglas Fir, Grey Elm, American Elm and more"
-            },
-            {
-                "id": "7351680686",
-                "name": "Barnwood Reclaimed Wood Hardwood Beam Mantel Boards Siding Lumber",
-                "url": "https://sfbay.craigslist.org/eby/mat/d/richmond-barnwood-reclaimed-wood/7351680686.html",
-                "datetime": "2021-08-11 19:55",
-                "price": "$6",
-                "where": "richmond / point / annex",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00e0e_4b95z4CpzpT_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00e0e_4b95z4CpzpT_600x450.jpg",
-                    "https://images.craigslist.org/00e0e_4b95z4CpzpT_50x50c.jpg",
-                    "https://images.craigslist.org/00l0l_cGvbHjg13wR_50x50c.jpg",
-                    "https://images.craigslist.org/00C0C_bxcsjRlJ3Yt_50x50c.jpg"
-                ],
-                "query": "wood",
-                "category": "maa",
-                "description": "My warehouse is located just off of 580 in Richmond (previously located just off of Harbour Way near the ferry).   I have a large selection of 100+ year old hardwood from vintage houses and barns and a plethora of salvaged local wood."
             }
         ]
     },
@@ -269,6 +269,22 @@
         ],
         "gloves": [
             {
+                "id": "7357029871",
+                "name": "Chenille hat and gloves, New",
+                "url": "https://sfbay.craigslist.org/sby/clo/d/los-gatos-chenille-hat-and-gloves-new/7357029871.html",
+                "datetime": "2021-08-11 20:21",
+                "price": "$10",
+                "where": "los gatos",
+                "deleted": false,
+                "main_image": "https://images.craigslist.org/00101_4eV5L4zEvdL_0CI0t2_600x450.jpg",
+                "all_images": [
+                    "https://images.craigslist.org/00101_4eV5L4zEvdL_0CI0t2_600x450.jpg"
+                ],
+                "query": "gloves",
+                "category": "cla",
+                "description": "Black Chenille hat and gloves with multicolor accentsNew"
+            },
+            {
                 "id": "7364393544",
                 "name": "Wells Lamont Leather Work Gloves 3 pk 40% off",
                 "url": "https://sfbay.craigslist.org/sby/clo/d/san-jose-wells-lamont-leather-work/7364393544.html",
@@ -306,26 +322,6 @@
                 "query": "gloves",
                 "category": "cla",
                 "description": "Banana Republic scarf and pair of glovesSize: LargeIn excellent condition: Extra Fine Italian Merino WoolPerfect for SFBA chill."
-            },
-            {
-                "id": "7356460702",
-                "name": "Men's 3M Thinsulate Gloves",
-                "url": "https://sfbay.craigslist.org/eby/clo/d/martinez-mens-3m-thinsulate-gloves/7356460702.html",
-                "datetime": "2021-08-11 09:31",
-                "price": "$20",
-                "where": "concord / pleasant hill / martinez",
-                "deleted": false,
-                "main_image": "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
-                "all_images": [
-                    "https://images.craigslist.org/00U0U_PEBpnTzMUz_600x450.jpg",
-                    "https://images.craigslist.org/00U0U_PEBpnTzMUz_50x50c.jpg",
-                    "https://images.craigslist.org/01111_5iYmZRnosK4_50x50c.jpg",
-                    "https://images.craigslist.org/01010_gPSZiydve1y_50x50c.jpg",
-                    "https://images.craigslist.org/00j0j_6h1re8NpNAR_50x50c.jpg"
-                ],
-                "query": "gloves",
-                "category": "cla",
-                "description": "Men's 3M Thinsulate Gloves, brand new, never used $20.00 each or make offerFleece, with clips, have Black and Charcoal, 2 pairs of eachCan buy two pairs for $30.00 or make offerSerious offers only and please no offers for trades, thanks.To cut down on spam responses the posting is deleted as soon as the item is sold so there is no need to ask if it is available. Will respond to emails with a phone number, please no email only replies."
             }
         ],
         "wedding dress": [
